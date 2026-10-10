@@ -1,0 +1,231 @@
+analyte,cohort,data_type,n,median,iqr_l,iqr_u,paper,table,det_pct,pooled_med,median_was_nd,analyte_id
+EGF,ETU,growth factor,40,4.65,3.63,5.7,ruiz2017,Tables 3-5,100,5.175507746815348,FALSE,imm_egf_ng_l
+EGF,GBR,growth factor,40,3.97,3.51,5.24,ruiz2017,Tables 3-5,100,5.175507746815348,FALSE,imm_egf_ng_l
+EGF,GBU,growth factor,40,3.53,2.78,4.95,ruiz2017,Tables 3-5,100,5.175507746815348,FALSE,imm_egf_ng_l
+EGF,GN,growth factor,40,3.2,2.21,4.11,ruiz2017,Tables 3-5,100,5.175507746815348,FALSE,imm_egf_ng_l
+EGF,KE,growth factor,42,4.95,4.1,6.12,ruiz2017,Tables 3-5,100,5.175507746815348,FALSE,imm_egf_ng_l
+EGF,PE,growth factor,43,4.19,3.68,4.62,ruiz2017,Tables 3-5,100,5.175507746815348,FALSE,imm_egf_ng_l
+EGF,SP,growth factor,41,5.96,4.73,6.85,ruiz2017,Tables 3-5,100,5.175507746815348,FALSE,imm_egf_ng_l
+EGF,SW,growth factor,24,8.29,6.12,10.78,ruiz2017,Tables 3-5,100,5.175507746815348,FALSE,imm_egf_ng_l
+EGF,USC,growth factor,19,9.42,6.22,10.55,ruiz2017,Tables 3-5,100,5.175507746815348,FALSE,imm_egf_ng_l
+EGF,USW,growth factor,41,6.85,5.76,8.51,ruiz2017,Tables 3-5,100,5.175507746815348,FALSE,imm_egf_ng_l
+GCSF,ETU,growth factor,40,79.91,43.77,134.61,ruiz2017,Tables 3-5,93,16.38263274222586,FALSE,imm_gcsf_ng_l
+GCSF,GBR,growth factor,40,51.38,32.08,99.01,ruiz2017,Tables 3-5,73,16.38263274222586,FALSE,imm_gcsf_ng_l
+GCSF,GBU,growth factor,40,48.19,24.53,248,ruiz2017,Tables 3-5,25,16.38263274222586,FALSE,imm_gcsf_ng_l
+GCSF,GN,growth factor,40,47.1,33.76,63.58,ruiz2017,Tables 3-5,98,16.38263274222586,FALSE,imm_gcsf_ng_l
+GCSF,KE,growth factor,42,47.32,17.45,87.68,ruiz2017,Tables 3-5,90,16.38263274222586,FALSE,imm_gcsf_ng_l
+GCSF,PE,growth factor,43,50.2,13.72,125.33,ruiz2017,Tables 3-5,79,16.38263274222586,FALSE,imm_gcsf_ng_l
+GCSF,SP,growth factor,41,18.33,4.88,59.06,ruiz2017,Tables 3-5,71,16.38263274222586,FALSE,imm_gcsf_ng_l
+GCSF,SW,growth factor,24,1.29,0.88,2.97,ruiz2017,Tables 3-5,50,16.38263274222586,FALSE,imm_gcsf_ng_l
+GCSF,USC,growth factor,19,3.13,1.94,6.51,ruiz2017,Tables 3-5,63,16.38263274222586,FALSE,imm_gcsf_ng_l
+GCSF,USW,growth factor,41,0.85,0.18,1.36,ruiz2017,Tables 3-5,10,16.38263274222586,FALSE,imm_gcsf_ng_l
+GMCSF,ETU,growth factor,40,8.63,2.8,12.16,ruiz2017,Tables 3-5,10,12.31076054516122,FALSE,imm_gmcsf_ng_l
+GMCSF,GBR,growth factor,40,9.99,9.99,9.99,ruiz2017,Tables 3-5,3,12.31076054516122,FALSE,imm_gmcsf_ng_l
+GMCSF,GBU,growth factor,40,13.44,2.33,24.55,ruiz2017,Tables 3-5,5,12.31076054516122,FALSE,imm_gmcsf_ng_l
+GMCSF,GN,growth factor,40,23.36,8.18,42.91,ruiz2017,Tables 3-5,50,12.31076054516122,FALSE,imm_gmcsf_ng_l
+GMCSF,KE,growth factor,42,10.39,9.58,11.21,ruiz2017,Tables 3-5,5,12.31076054516122,FALSE,imm_gmcsf_ng_l
+GMCSF,PE,growth factor,43,11.84,1.79,21.89,ruiz2017,Tables 3-5,5,12.31076054516122,FALSE,imm_gmcsf_ng_l
+GMCSF,SP,growth factor,41,12.87,0.44,23.83,ruiz2017,Tables 3-5,7,12.31076054516122,FALSE,imm_gmcsf_ng_l
+GMCSF,SW,NA,NA,12.31076054516122,6.15538027258061,24.62152109032244,NA,NA,0,12.31076054516122,TRUE,imm_gmcsf_ng_l
+GMCSF,USC,NA,NA,12.31076054516122,6.15538027258061,24.62152109032244,NA,NA,0,12.31076054516122,TRUE,imm_gmcsf_ng_l
+GMCSF,USW,NA,NA,12.31076054516122,6.15538027258061,24.62152109032244,NA,NA,0,12.31076054516122,TRUE,imm_gmcsf_ng_l
+GROα,ETU,chemokine,40,5.63,3.14,11.75,ruiz2017,Tables 3-5,100,2.4855497734315923,FALSE,imm_groa_ng_l
+GROα,GBR,chemokine,40,4.19,1.72,8.05,ruiz2017,Tables 3-5,100,2.4855497734315923,FALSE,imm_groa_ng_l
+GROα,GBU,chemokine,40,1.36,0.71,3.98,ruiz2017,Tables 3-5,100,2.4855497734315923,FALSE,imm_groa_ng_l
+GROα,GN,chemokine,40,0.27,0.05,0.74,ruiz2017,Tables 3-5,80,2.4855497734315923,FALSE,imm_groa_ng_l
+GROα,KE,chemokine,42,8.96,3,13.75,ruiz2017,Tables 3-5,100,2.4855497734315923,FALSE,imm_groa_ng_l
+GROα,PE,chemokine,43,11.01,3.78,15.02,ruiz2017,Tables 3-5,100,2.4855497734315923,FALSE,imm_groa_ng_l
+GROα,SP,chemokine,41,6.19,3.61,10.15,ruiz2017,Tables 3-5,100,2.4855497734315923,FALSE,imm_groa_ng_l
+GROα,SW,chemokine,24,1.31,0.54,5.71,ruiz2017,Tables 3-5,100,2.4855497734315923,FALSE,imm_groa_ng_l
+GROα,USC,chemokine,19,3.82,0.95,7.19,ruiz2017,Tables 3-5,100,2.4855497734315923,FALSE,imm_groa_ng_l
+GROα,USW,chemokine,41,0.34,0.21,0.73,ruiz2017,Tables 3-5,88,2.4855497734315923,FALSE,imm_groa_ng_l
+IFNγ,ETU,innate immune factor,40,10.93,6.2,25.18,ruiz2017,Tables 3-5,25,15.10582665488572,FALSE,imm_ifng_ng_l
+IFNγ,GBR,innate immune factor,40,26.57,18.35,38.66,ruiz2017,Tables 3-5,40,15.10582665488572,FALSE,imm_ifng_ng_l
+IFNγ,GBU,innate immune factor,40,19.25,12.52,44.75,ruiz2017,Tables 3-5,18,15.10582665488572,FALSE,imm_ifng_ng_l
+IFNγ,GN,innate immune factor,40,15.52,1.14,116.47,ruiz2017,Tables 3-5,18,15.10582665488572,FALSE,imm_ifng_ng_l
+IFNγ,KE,innate immune factor,42,31.84,21.16,82.65,ruiz2017,Tables 3-5,26,15.10582665488572,FALSE,imm_ifng_ng_l
+IFNγ,PE,innate immune factor,43,18.33,9.94,53.78,ruiz2017,Tables 3-5,26,15.10582665488572,FALSE,imm_ifng_ng_l
+IFNγ,SP,innate immune factor,41,4.7,4.7,4.7,ruiz2017,Tables 3-5,2,15.10582665488572,FALSE,imm_ifng_ng_l
+IFNγ,SW,innate immune factor,24,8.06,1.28,14.85,ruiz2017,Tables 3-5,8,15.10582665488572,FALSE,imm_ifng_ng_l
+IFNγ,USC,NA,NA,15.10582665488572,7.55291332744286,30.21165330977144,NA,NA,10,15.10582665488572,TRUE,imm_ifng_ng_l
+IFNγ,USW,innate immune factor,41,21.35,2.16,40.55,ruiz2017,Tables 3-5,0,15.10582665488572,FALSE,imm_ifng_ng_l
+IgA,ETU,acquired immunity factor,40,323.22,223.37,469.52,ruiz2017,Tables 3-5,100,555.2464750567702,FALSE,imm_iga_ng_l
+IgA,GBR,acquired immunity factor,40,235.78,159.56,334.94,ruiz2017,Tables 3-5,100,555.2464750567702,FALSE,imm_iga_ng_l
+IgA,GBU,acquired immunity factor,40,312.22,215.57,510.98,ruiz2017,Tables 3-5,100,555.2464750567702,FALSE,imm_iga_ng_l
+IgA,GN,acquired immunity factor,40,584.75,377.08,994.91,ruiz2017,Tables 3-5,100,555.2464750567702,FALSE,imm_iga_ng_l
+IgA,KE,acquired immunity factor,42,316.81,218.24,463.82,ruiz2017,Tables 3-5,100,555.2464750567702,FALSE,imm_iga_ng_l
+IgA,PE,acquired immunity factor,43,499.57,418.76,642.7,ruiz2017,Tables 3-5,100,555.2464750567702,FALSE,imm_iga_ng_l
+IgA,SP,acquired immunity factor,41,418.83,256.78,539.24,ruiz2017,Tables 3-5,100,555.2464750567702,FALSE,imm_iga_ng_l
+IgA,SW,acquired immunity factor,24,1840.18,1065.84,2435.49,ruiz2017,Tables 3-5,100,555.2464750567702,FALSE,imm_iga_ng_l
+IgA,USC,acquired immunity factor,19,1210.59,642.9,2053.42,ruiz2017,Tables 3-5,100,555.2464750567702,FALSE,imm_iga_ng_l
+IgA,USW,acquired immunity factor,41,1355.6,849.41,2112.45,ruiz2017,Tables 3-5,100,555.2464750567702,FALSE,imm_iga_ng_l
+IgG,ETU,acquired immunity factor,40,96.09,72.22,127.69,ruiz2017,Tables 3-5,100,57.99425833317485,FALSE,imm_igg_ng_l
+IgG,GBR,acquired immunity factor,40,74.73,44.04,116.76,ruiz2017,Tables 3-5,100,57.99425833317485,FALSE,imm_igg_ng_l
+IgG,GBU,acquired immunity factor,40,93.47,67.53,150.23,ruiz2017,Tables 3-5,100,57.99425833317485,FALSE,imm_igg_ng_l
+IgG,GN,acquired immunity factor,40,142.37,81.16,214.73,ruiz2017,Tables 3-5,100,57.99425833317485,FALSE,imm_igg_ng_l
+IgG,KE,acquired immunity factor,42,106.19,76.94,174.81,ruiz2017,Tables 3-5,100,57.99425833317485,FALSE,imm_igg_ng_l
+IgG,PE,acquired immunity factor,43,73.44,57.54,100.41,ruiz2017,Tables 3-5,98,57.99425833317485,FALSE,imm_igg_ng_l
+IgG,SP,acquired immunity factor,41,59.95,48.73,90.51,ruiz2017,Tables 3-5,100,57.99425833317485,FALSE,imm_igg_ng_l
+IgG,SW,acquired immunity factor,24,15.31,13.88,19.45,ruiz2017,Tables 3-5,96,57.99425833317485,FALSE,imm_igg_ng_l
+IgG,USC,acquired immunity factor,19,19.26,13.89,36.37,ruiz2017,Tables 3-5,100,57.99425833317485,FALSE,imm_igg_ng_l
+IgG,USW,acquired immunity factor,41,32.67,19.35,44.6,ruiz2017,Tables 3-5,100,57.99425833317485,FALSE,imm_igg_ng_l
+IgM,ETU,acquired immunity factor,40,83.93,45.36,120.48,ruiz2017,Tables 3-5,100,36.950613035029654,FALSE,imm_igm_ng_l
+IgM,GBR,acquired immunity factor,40,37.06,22.82,82.37,ruiz2017,Tables 3-5,100,36.950613035029654,FALSE,imm_igm_ng_l
+IgM,GBU,acquired immunity factor,40,59.45,29.3,121.46,ruiz2017,Tables 3-5,100,36.950613035029654,FALSE,imm_igm_ng_l
+IgM,GN,acquired immunity factor,40,80.87,51.06,168.98,ruiz2017,Tables 3-5,100,36.950613035029654,FALSE,imm_igm_ng_l
+IgM,KE,acquired immunity factor,42,53.7,36.56,85.45,ruiz2017,Tables 3-5,100,36.950613035029654,FALSE,imm_igm_ng_l
+IgM,PE,acquired immunity factor,43,48.37,33.59,68.67,ruiz2017,Tables 3-5,98,36.950613035029654,FALSE,imm_igm_ng_l
+IgM,SP,acquired immunity factor,41,38.8,19.92,62.45,ruiz2017,Tables 3-5,100,36.950613035029654,FALSE,imm_igm_ng_l
+IgM,SW,acquired immunity factor,24,13.54,4.13,17.65,ruiz2017,Tables 3-5,96,36.950613035029654,FALSE,imm_igm_ng_l
+IgM,USC,acquired immunity factor,19,12.27,8.98,18.91,ruiz2017,Tables 3-5,100,36.950613035029654,FALSE,imm_igm_ng_l
+IgM,USW,acquired immunity factor,41,18.95,7.78,36.6,ruiz2017,Tables 3-5,100,36.950613035029654,FALSE,imm_igm_ng_l
+IL10,ETU,acquired immunity factor,40,4.44,2.55,6.67,ruiz2017,Tables 3-5,63,4.411796397657064,FALSE,imm_il10_ng_l
+IL10,GBR,acquired immunity factor,40,7.07,4.8,8.23,ruiz2017,Tables 3-5,98,4.411796397657064,FALSE,imm_il10_ng_l
+IL10,GBU,acquired immunity factor,40,2.5,1.53,3.78,ruiz2017,Tables 3-5,95,4.411796397657064,FALSE,imm_il10_ng_l
+IL10,GN,acquired immunity factor,40,6.68,4.44,8.1,ruiz2017,Tables 3-5,90,4.411796397657064,FALSE,imm_il10_ng_l
+IL10,KE,acquired immunity factor,42,8.16,7.01,9.33,ruiz2017,Tables 3-5,100,4.411796397657064,FALSE,imm_il10_ng_l
+IL10,PE,acquired immunity factor,43,2.34,0.19,4.82,ruiz2017,Tables 3-5,79,4.411796397657064,FALSE,imm_il10_ng_l
+IL10,SP,acquired immunity factor,41,3.25,1.68,4.35,ruiz2017,Tables 3-5,78,4.411796397657064,FALSE,imm_il10_ng_l
+IL10,SW,NA,NA,4.411796397657064,2.205898198828532,8.823592795314129,NA,NA,0,4.411796397657064,TRUE,imm_il10_ng_l
+IL10,USC,NA,NA,4.411796397657064,2.205898198828532,8.823592795314129,NA,NA,0,4.411796397657064,TRUE,imm_il10_ng_l
+IL10,USW,NA,NA,4.411796397657064,2.205898198828532,8.823592795314129,NA,NA,0,4.411796397657064,TRUE,imm_il10_ng_l
+IL12,ETU,innate immune factor,40,2.61,0.64,2207,ruiz2017,Tables 3-5,13,1.7439359901692446,FALSE,imm_il12_ng_l
+IL12,GBR,innate immune factor,40,4.16,2.82,8.11,ruiz2017,Tables 3-5,68,1.7439359901692446,FALSE,imm_il12_ng_l
+IL12,GBU,innate immune factor,40,1.71,1.23,4.23,ruiz2017,Tables 3-5,30,1.7439359901692446,FALSE,imm_il12_ng_l
+IL12,GN,innate immune factor,40,2.04,1.2,3.03,ruiz2017,Tables 3-5,75,1.7439359901692446,FALSE,imm_il12_ng_l
+IL12,KE,innate immune factor,42,4.46,1.85,5.79,ruiz2017,Tables 3-5,24,1.7439359901692446,FALSE,imm_il12_ng_l
+IL12,PE,innate immune factor,43,1.71,1.23,2.97,ruiz2017,Tables 3-5,74,1.7439359901692446,FALSE,imm_il12_ng_l
+IL12,SP,innate immune factor,41,0.86,0.12,0.96,ruiz2017,Tables 3-5,17,1.7439359901692446,FALSE,imm_il12_ng_l
+IL12,SW,innate immune factor,24,0.78,0.61,37.71,ruiz2017,Tables 3-5,13,1.7439359901692446,FALSE,imm_il12_ng_l
+IL12,USC,NA,NA,1.7439359901692446,0.8719679950846223,3.487871980338489,NA,NA,10,1.7439359901692446,TRUE,imm_il12_ng_l
+IL12,USW,innate immune factor,41,0.77,0.61,0.94,ruiz2017,Tables 3-5,0,1.7439359901692446,FALSE,imm_il12_ng_l
+IL13,ETU,acquired immunity factor,40,1.77,1.34,3.15,ruiz2017,Tables 3-5,100,1.8191366589528442,FALSE,imm_il13_ng_l
+IL13,GBR,acquired immunity factor,40,1.57,0.86,2.95,ruiz2017,Tables 3-5,68,1.8191366589528442,FALSE,imm_il13_ng_l
+IL13,GBU,acquired immunity factor,40,0.78,0.39,2.15,ruiz2017,Tables 3-5,45,1.8191366589528442,FALSE,imm_il13_ng_l
+IL13,GN,acquired immunity factor,40,0.45,0.28,0.61,ruiz2017,Tables 3-5,68,1.8191366589528442,FALSE,imm_il13_ng_l
+IL13,KE,acquired immunity factor,42,2.73,1.73,3.93,ruiz2017,Tables 3-5,67,1.8191366589528442,FALSE,imm_il13_ng_l
+IL13,PE,acquired immunity factor,43,2.67,1.71,5.82,ruiz2017,Tables 3-5,86,1.8191366589528442,FALSE,imm_il13_ng_l
+IL13,SP,acquired immunity factor,41,2.63,1.48,3.99,ruiz2017,Tables 3-5,83,1.8191366589528442,FALSE,imm_il13_ng_l
+IL13,SW,acquired immunity factor,24,2.06,1.23,3.68,ruiz2017,Tables 3-5,50,1.8191366589528442,FALSE,imm_il13_ng_l
+IL13,USC,acquired immunity factor,19,3.59,1.34,4.99,ruiz2017,Tables 3-5,53,1.8191366589528442,FALSE,imm_il13_ng_l
+IL13,USW,acquired immunity factor,41,2.87,1.67,6.6,ruiz2017,Tables 3-5,66,1.8191366589528442,FALSE,imm_il13_ng_l
+IL17,ETU,acquired immunity factor,40,25.55,8.42,46.17,ruiz2017,Tables 3-5,10,14.15459417185677,FALSE,imm_il17_ng_l
+IL17,GBR,acquired immunity factor,40,19.23,6.42,98.5,ruiz2017,Tables 3-5,15,14.15459417185677,FALSE,imm_il17_ng_l
+IL17,GBU,acquired immunity factor,40,50.28,5.54,1048.68,ruiz2017,Tables 3-5,8,14.15459417185677,FALSE,imm_il17_ng_l
+IL17,GN,acquired immunity factor,40,11.66,10.49,20.73,ruiz2017,Tables 3-5,18,14.15459417185677,FALSE,imm_il17_ng_l
+IL17,KE,acquired immunity factor,42,29.33,9.87,68.59,ruiz2017,Tables 3-5,21,14.15459417185677,FALSE,imm_il17_ng_l
+IL17,PE,acquired immunity factor,43,2.64,1.07,46.59,ruiz2017,Tables 3-5,9,14.15459417185677,FALSE,imm_il17_ng_l
+IL17,SP,acquired immunity factor,41,4.29,2.1,6.47,ruiz2017,Tables 3-5,5,14.15459417185677,FALSE,imm_il17_ng_l
+IL17,SW,NA,NA,14.15459417185677,7.077297085928385,28.30918834371354,NA,NA,0,14.15459417185677,TRUE,imm_il17_ng_l
+IL17,USC,acquired immunity factor,19,16.84,16.84,16.84,ruiz2017,Tables 3-5,5,14.15459417185677,FALSE,imm_il17_ng_l
+IL17,USW,NA,NA,14.15459417185677,7.077297085928385,28.30918834371354,NA,NA,0,14.15459417185677,TRUE,imm_il17_ng_l
+IL1β,ETU,innate immune factor,40,0.57,0.25,0.87,ruiz2017,Tables 3-5,73,0.4489608097819814,FALSE,imm_il1b_ng_l
+IL1β,GBR,innate immune factor,40,0.4,0.28,1.08,ruiz2017,Tables 3-5,83,0.4489608097819814,FALSE,imm_il1b_ng_l
+IL1β,GBU,innate immune factor,40,0.52,0.24,3.43,ruiz2017,Tables 3-5,70,0.4489608097819814,FALSE,imm_il1b_ng_l
+IL1β,GN,innate immune factor,40,0.74,0.39,1.95,ruiz2017,Tables 3-5,98,0.4489608097819814,FALSE,imm_il1b_ng_l
+IL1β,KE,innate immune factor,42,0.98,0.61,1.7,ruiz2017,Tables 3-5,98,0.4489608097819814,FALSE,imm_il1b_ng_l
+IL1β,PE,innate immune factor,43,0.52,0.24,1.15,ruiz2017,Tables 3-5,72,0.4489608097819814,FALSE,imm_il1b_ng_l
+IL1β,SP,innate immune factor,41,1.14,0.27,2.61,ruiz2017,Tables 3-5,56,0.4489608097819814,FALSE,imm_il1b_ng_l
+IL1β,SW,innate immune factor,24,0.32,0.26,1.21,ruiz2017,Tables 3-5,58,0.4489608097819814,FALSE,imm_il1b_ng_l
+IL1β,USC,innate immune factor,19,0.12,0.06,0.25,ruiz2017,Tables 3-5,84,0.4489608097819814,FALSE,imm_il1b_ng_l
+IL1β,USW,innate immune factor,41,0.17,0.11,0.58,ruiz2017,Tables 3-5,24,0.4489608097819814,FALSE,imm_il1b_ng_l
+IL2,ETU,NA,NA,5.62,2.81,11.24,NA,NA,0,5.62,TRUE,imm_il2_ng_l
+IL2,GBR,NA,NA,5.62,2.81,11.24,NA,NA,0,5.62,TRUE,imm_il2_ng_l
+IL2,GBU,NA,NA,5.62,2.81,11.24,NA,NA,0,5.62,TRUE,imm_il2_ng_l
+IL2,GN,acquired immunity factor,40,5.62,1.25,101.86,ruiz2017,Tables 3-5,18,5.62,FALSE,imm_il2_ng_l
+IL2,KE,NA,NA,5.62,2.81,11.24,NA,NA,0,5.62,TRUE,imm_il2_ng_l
+IL2,PE,NA,NA,5.62,2.81,11.24,NA,NA,0,5.62,TRUE,imm_il2_ng_l
+IL2,SP,NA,NA,5.62,2.81,11.24,NA,NA,0,5.62,TRUE,imm_il2_ng_l
+IL2,SW,NA,NA,5.62,2.81,11.24,NA,NA,0,5.62,TRUE,imm_il2_ng_l
+IL2,USC,NA,NA,5.62,2.81,11.24,NA,NA,0,5.62,TRUE,imm_il2_ng_l
+IL2,USW,NA,NA,5.62,2.81,11.24,NA,NA,0,5.62,TRUE,imm_il2_ng_l
+IL4,ETU,acquired immunity factor,40,0.41,0.11,0.84,ruiz2017,Tables 3-5,33,0.9964850573847355,FALSE,imm_il4_ng_l
+IL4,GBR,acquired immunity factor,40,0.83,0.54,2.26,ruiz2017,Tables 3-5,23,0.9964850573847355,FALSE,imm_il4_ng_l
+IL4,GBU,NA,NA,0.9964850573847355,0.49824252869236774,1.992970114769471,NA,NA,0,0.9964850573847355,TRUE,imm_il4_ng_l
+IL4,GN,acquired immunity factor,40,0.27,0.15,0.41,ruiz2017,Tables 3-5,33,0.9964850573847355,FALSE,imm_il4_ng_l
+IL4,KE,acquired immunity factor,42,3.43,0.96,5.38,ruiz2017,Tables 3-5,14,0.9964850573847355,FALSE,imm_il4_ng_l
+IL4,PE,acquired immunity factor,43,2.34,0.19,4.82,ruiz2017,Tables 3-5,7,0.9964850573847355,FALSE,imm_il4_ng_l
+IL4,SP,acquired immunity factor,41,0.7,0.7,0.7,ruiz2017,Tables 3-5,2,0.9964850573847355,FALSE,imm_il4_ng_l
+IL4,SW,NA,NA,0.9964850573847355,0.49824252869236774,1.992970114769471,NA,NA,0,0.9964850573847355,TRUE,imm_il4_ng_l
+IL4,USC,acquired immunity factor,19,1.89,1.89,1.89,ruiz2017,Tables 3-5,5,0.9964850573847355,FALSE,imm_il4_ng_l
+IL4,USW,NA,NA,0.9964850573847355,0.49824252869236774,1.992970114769471,NA,NA,0,0.9964850573847355,TRUE,imm_il4_ng_l
+IL5,ETU,acquired immunity factor,40,2.05,1.18,2.44,ruiz2017,Tables 3-5,43,2.5924072737582375,FALSE,imm_il5_ng_l
+IL5,GBR,acquired immunity factor,40,2.69,1.79,3.8,ruiz2017,Tables 3-5,65,2.5924072737582375,FALSE,imm_il5_ng_l
+IL5,GBU,NA,NA,2.5924072737582375,1.2962036368791188,5.184814547516475,NA,NA,0,2.5924072737582375,TRUE,imm_il5_ng_l
+IL5,GN,acquired immunity factor,40,1.77,0.26,3.18,ruiz2017,Tables 3-5,15,2.5924072737582375,FALSE,imm_il5_ng_l
+IL5,KE,acquired immunity factor,42,2.16,1.39,3.18,ruiz2017,Tables 3-5,60,2.5924072737582375,FALSE,imm_il5_ng_l
+IL5,PE,acquired immunity factor,43,4.7,0.43,8.97,ruiz2017,Tables 3-5,5,2.5924072737582375,FALSE,imm_il5_ng_l
+IL5,SP,acquired immunity factor,41,2.57,0.79,2.82,ruiz2017,Tables 3-5,7,2.5924072737582375,FALSE,imm_il5_ng_l
+IL5,SW,acquired immunity factor,24,3.09,2.45,3.73,ruiz2017,Tables 3-5,8,2.5924072737582375,FALSE,imm_il5_ng_l
+IL5,USC,NA,NA,2.5924072737582375,1.2962036368791188,5.184814547516475,NA,NA,0,2.5924072737582375,TRUE,imm_il5_ng_l
+IL5,USW,NA,NA,2.5924072737582375,1.2962036368791188,5.184814547516475,NA,NA,0,2.5924072737582375,TRUE,imm_il5_ng_l
+IL6,ETU,innate immune factor,40,15.37,1.33,62.86,ruiz2017,Tables 3-5,35,6.436196018655248,FALSE,imm_il6_ng_l
+IL6,GBR,innate immune factor,40,7.06,3.56,16.1,ruiz2017,Tables 3-5,75,6.436196018655248,FALSE,imm_il6_ng_l
+IL6,GBU,innate immune factor,40,12.51,4.14,31.86,ruiz2017,Tables 3-5,50,6.436196018655248,FALSE,imm_il6_ng_l
+IL6,GN,innate immune factor,40,4.03,1.1,16.23,ruiz2017,Tables 3-5,33,6.436196018655248,FALSE,imm_il6_ng_l
+IL6,KE,innate immune factor,42,12.85,5.8,43.19,ruiz2017,Tables 3-5,69,6.436196018655248,FALSE,imm_il6_ng_l
+IL6,PE,innate immune factor,43,5.11,1.83,19.52,ruiz2017,Tables 3-5,42,6.436196018655248,FALSE,imm_il6_ng_l
+IL6,SP,innate immune factor,41,12.69,6.13,19.21,ruiz2017,Tables 3-5,41,6.436196018655248,FALSE,imm_il6_ng_l
+IL6,SW,innate immune factor,24,3.48,2.81,5.39,ruiz2017,Tables 3-5,33,6.436196018655248,FALSE,imm_il6_ng_l
+IL6,USC,innate immune factor,19,2.13,0.18,4.94,ruiz2017,Tables 3-5,47,6.436196018655248,FALSE,imm_il6_ng_l
+IL6,USW,innate immune factor,41,3.61,1.07,10.33,ruiz2017,Tables 3-5,19,6.436196018655248,FALSE,imm_il6_ng_l
+IL7,ETU,acquired immunity factor,40,52.54,17.17,88.17,ruiz2017,Tables 3-5,100,21.288563520499896,FALSE,imm_il7_ng_l
+IL7,GBR,acquired immunity factor,40,32.14,16.87,55.08,ruiz2017,Tables 3-5,100,21.288563520499896,FALSE,imm_il7_ng_l
+IL7,GBU,acquired immunity factor,40,13.33,4.97,24.16,ruiz2017,Tables 3-5,93,21.288563520499896,FALSE,imm_il7_ng_l
+IL7,GN,acquired immunity factor,40,2.39,1.35,5.42,ruiz2017,Tables 3-5,73,21.288563520499896,FALSE,imm_il7_ng_l
+IL7,KE,acquired immunity factor,42,58.99,19.86,106.59,ruiz2017,Tables 3-5,100,21.288563520499896,FALSE,imm_il7_ng_l
+IL7,PE,acquired immunity factor,43,91.61,36.71,131.55,ruiz2017,Tables 3-5,100,21.288563520499896,FALSE,imm_il7_ng_l
+IL7,SP,acquired immunity factor,41,34.56,26.81,53.67,ruiz2017,Tables 3-5,93,21.288563520499896,FALSE,imm_il7_ng_l
+IL7,SW,acquired immunity factor,24,11.15,8.48,26.39,ruiz2017,Tables 3-5,100,21.288563520499896,FALSE,imm_il7_ng_l
+IL7,USC,acquired immunity factor,19,13.92,7.23,31.56,ruiz2017,Tables 3-5,100,21.288563520499896,FALSE,imm_il7_ng_l
+IL7,USW,acquired immunity factor,41,12.26,8.7,15.54,ruiz2017,Tables 3-5,100,21.288563520499896,FALSE,imm_il7_ng_l
+IL8,ETU,chemokine,40,54.01,27.55,152.11,ruiz2017,Tables 3-5,100,32.225849260759816,FALSE,imm_il8_ng_l
+IL8,GBR,chemokine,40,59.56,44.44,167.65,ruiz2017,Tables 3-5,100,32.225849260759816,FALSE,imm_il8_ng_l
+IL8,GBU,chemokine,40,98.52,36.06,278.61,ruiz2017,Tables 3-5,100,32.225849260759816,FALSE,imm_il8_ng_l
+IL8,GN,chemokine,40,6.74,2.29,17.36,ruiz2017,Tables 3-5,100,32.225849260759816,FALSE,imm_il8_ng_l
+IL8,KE,chemokine,42,85.62,59.15,228.34,ruiz2017,Tables 3-5,100,32.225849260759816,FALSE,imm_il8_ng_l
+IL8,PE,chemokine,43,67.9,30.3,143.28,ruiz2017,Tables 3-5,100,32.225849260759816,FALSE,imm_il8_ng_l
+IL8,SP,chemokine,41,72.08,27.73,183.59,ruiz2017,Tables 3-5,100,32.225849260759816,FALSE,imm_il8_ng_l
+IL8,SW,chemokine,24,11.66,4.12,23.24,ruiz2017,Tables 3-5,100,32.225849260759816,FALSE,imm_il8_ng_l
+IL8,USC,chemokine,19,22.3,10.94,27.2,ruiz2017,Tables 3-5,100,32.225849260759816,FALSE,imm_il8_ng_l
+IL8,USW,chemokine,41,5.19,2.57,12.19,ruiz2017,Tables 3-5,90,32.225849260759816,FALSE,imm_il8_ng_l
+MCP1,ETU,chemokine,40,132.62,49.71,338.41,ruiz2017,Tables 3-5,85,96.11049707812658,FALSE,imm_mcp1_ng_l
+MCP1,GBR,chemokine,40,175.5,70.43,612.74,ruiz2017,Tables 3-5,85,96.11049707812658,FALSE,imm_mcp1_ng_l
+MCP1,GBU,chemokine,40,147.31,69.24,465.11,ruiz2017,Tables 3-5,83,96.11049707812658,FALSE,imm_mcp1_ng_l
+MCP1,GN,chemokine,40,126,45.79,260.11,ruiz2017,Tables 3-5,95,96.11049707812658,FALSE,imm_mcp1_ng_l
+MCP1,KE,chemokine,42,252.51,109.92,807.72,ruiz2017,Tables 3-5,90,96.11049707812658,FALSE,imm_mcp1_ng_l
+MCP1,PE,chemokine,43,148.7,66.41,308.81,ruiz2017,Tables 3-5,65,96.11049707812658,FALSE,imm_mcp1_ng_l
+MCP1,SP,chemokine,41,156.57,59.1,307.49,ruiz2017,Tables 3-5,78,96.11049707812658,FALSE,imm_mcp1_ng_l
+MCP1,SW,chemokine,24,35.18,18.6,231.82,ruiz2017,Tables 3-5,46,96.11049707812658,FALSE,imm_mcp1_ng_l
+MCP1,USC,chemokine,19,52.6,24.19,142.64,ruiz2017,Tables 3-5,58,96.11049707812658,FALSE,imm_mcp1_ng_l
+MCP1,USW,chemokine,41,14.31,12.33,127.92,ruiz2017,Tables 3-5,17,96.11049707812658,FALSE,imm_mcp1_ng_l
+MIP1β,ETU,chemokine,40,24.75,14.53,57.33,ruiz2017,Tables 3-5,100,13.275953457908821,FALSE,imm_mip1b_ng_l
+MIP1β,GBR,chemokine,40,23.01,11.46,47.96,ruiz2017,Tables 3-5,100,13.275953457908821,FALSE,imm_mip1b_ng_l
+MIP1β,GBU,chemokine,40,9.48,5.5,16.84,ruiz2017,Tables 3-5,98,13.275953457908821,FALSE,imm_mip1b_ng_l
+MIP1β,GN,chemokine,40,4.24,2.71,9.15,ruiz2017,Tables 3-5,98,13.275953457908821,FALSE,imm_mip1b_ng_l
+MIP1β,KE,chemokine,42,33.11,19.38,75.79,ruiz2017,Tables 3-5,100,13.275953457908821,FALSE,imm_mip1b_ng_l
+MIP1β,PE,chemokine,43,14.24,6.74,28.35,ruiz2017,Tables 3-5,98,13.275953457908821,FALSE,imm_mip1b_ng_l
+MIP1β,SP,chemokine,41,30.7,15.17,74.08,ruiz2017,Tables 3-5,95,13.275953457908821,FALSE,imm_mip1b_ng_l
+MIP1β,SW,chemokine,24,9.42,3.01,24.23,ruiz2017,Tables 3-5,92,13.275953457908821,FALSE,imm_mip1b_ng_l
+MIP1β,USC,chemokine,19,19.12,3.41,31.09,ruiz2017,Tables 3-5,95,13.275953457908821,FALSE,imm_mip1b_ng_l
+MIP1β,USW,chemokine,41,2.85,1.37,7.68,ruiz2017,Tables 3-5,51,13.275953457908821,FALSE,imm_mip1b_ng_l
+TGFβ2,ETU,acquired immunity factor,40,1.38,0.43,3.29,ruiz2017,Tables 3-5,100,1.1478618692160312,FALSE,imm_tgfb2_ng_l
+TGFβ2,GBR,acquired immunity factor,40,0.71,0.28,1.65,ruiz2017,Tables 3-5,100,1.1478618692160312,FALSE,imm_tgfb2_ng_l
+TGFβ2,GBU,acquired immunity factor,40,0.99,0.26,2.4,ruiz2017,Tables 3-5,100,1.1478618692160312,FALSE,imm_tgfb2_ng_l
+TGFβ2,GN,acquired immunity factor,40,1.78,1.09,3.41,ruiz2017,Tables 3-5,100,1.1478618692160312,FALSE,imm_tgfb2_ng_l
+TGFβ2,KE,acquired immunity factor,42,0.82,0.46,3.21,ruiz2017,Tables 3-5,100,1.1478618692160312,FALSE,imm_tgfb2_ng_l
+TGFβ2,PE,acquired immunity factor,43,0.7,0.41,1.21,ruiz2017,Tables 3-5,100,1.1478618692160312,FALSE,imm_tgfb2_ng_l
+TGFβ2,SP,acquired immunity factor,41,1.99,1.07,3.57,ruiz2017,Tables 3-5,100,1.1478618692160312,FALSE,imm_tgfb2_ng_l
+TGFβ2,SW,acquired immunity factor,24,0.88,0.53,1.78,ruiz2017,Tables 3-5,96,1.1478618692160312,FALSE,imm_tgfb2_ng_l
+TGFβ2,USC,acquired immunity factor,19,1.6,1,2.4,ruiz2017,Tables 3-5,100,1.1478618692160312,FALSE,imm_tgfb2_ng_l
+TGFβ2,USW,acquired immunity factor,41,1.43,0.85,2.29,ruiz2017,Tables 3-5,100,1.1478618692160312,FALSE,imm_tgfb2_ng_l
+TNFα,ETU,innate immune factor,40,4.67,3.39,7,ruiz2017,Tables 3-5,100,4.154771256358141,FALSE,imm_tnfa_ng_l
+TNFα,GBR,innate immune factor,40,8.63,5.23,13.5,ruiz2017,Tables 3-5,83,4.154771256358141,FALSE,imm_tnfa_ng_l
+TNFα,GBU,innate immune factor,40,1.27,0.91,2.32,ruiz2017,Tables 3-5,30,4.154771256358141,FALSE,imm_tnfa_ng_l
+TNFα,GN,innate immune factor,40,4.67,3.68,7.46,ruiz2017,Tables 3-5,85,4.154771256358141,FALSE,imm_tnfa_ng_l
+TNFα,KE,innate immune factor,42,6.83,2.08,12.47,ruiz2017,Tables 3-5,62,4.154771256358141,FALSE,imm_tnfa_ng_l
+TNFα,PE,innate immune factor,43,3.65,1.26,12.68,ruiz2017,Tables 3-5,39,4.154771256358141,FALSE,imm_tnfa_ng_l
+TNFα,SP,innate immune factor,41,3.18,1.76,4.98,ruiz2017,Tables 3-5,44,4.154771256358141,FALSE,imm_tnfa_ng_l
+TNFα,SW,innate immune factor,24,3.65,1.5,5.54,ruiz2017,Tables 3-5,67,4.154771256358141,FALSE,imm_tnfa_ng_l
+TNFα,USC,innate immune factor,19,4.45,1.72,7.07,ruiz2017,Tables 3-5,79,4.154771256358141,FALSE,imm_tnfa_ng_l
+TNFα,USW,innate immune factor,41,4.98,2.83,7.07,ruiz2017,Tables 3-5,76,4.154771256358141,FALSE,imm_tnfa_ng_l

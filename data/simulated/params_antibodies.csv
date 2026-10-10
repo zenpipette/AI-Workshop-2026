@@ -1,0 +1,529 @@
+analyte,analyte_id,isotype,pathogen,metric,cohort,n,mean,sem,paper,table
+ETEC IgA Breadth score,ab_iga_etec_breadth_score,iga,ETEC,breadth_score,ETR,40,0.21,0.01,mcguire2021,Table 1
+ETEC IgA Breadth score,ab_iga_etec_breadth_score,iga,ETEC,breadth_score,ETU,40,0.21,0.01,mcguire2021,Table 1
+ETEC IgA Breadth score,ab_iga_etec_breadth_score,iga,ETEC,breadth_score,GBR,40,0.16,0.02,mcguire2021,Table 1
+ETEC IgA Breadth score,ab_iga_etec_breadth_score,iga,ETEC,breadth_score,GBU,40,0.17,0.01,mcguire2021,Table 1
+ETEC IgA Breadth score,ab_iga_etec_breadth_score,iga,ETEC,breadth_score,GN,40,0.19,0.01,mcguire2021,Table 1
+ETEC IgA Breadth score,ab_iga_etec_breadth_score,iga,ETEC,breadth_score,KE,42,0.15,0.02,mcguire2021,Table 1
+ETEC IgA Breadth score,ab_iga_etec_breadth_score,iga,ETEC,breadth_score,PE,43,0.24,0.01,mcguire2021,Table 1
+ETEC IgA Breadth score,ab_iga_etec_breadth_score,iga,ETEC,breadth_score,SP,41,0.2,0.02,mcguire2021,Table 1
+ETEC IgA Breadth score,ab_iga_etec_breadth_score,iga,ETEC,breadth_score,SW,24,0.21,0.02,mcguire2021,Table 1
+ETEC IgA Breadth score,ab_iga_etec_breadth_score,iga,ETEC,breadth_score,USC,19,0.27,0.02,mcguire2021,Table 1
+ETEC IgA Breadth score,ab_iga_etec_breadth_score,iga,ETEC,breadth_score,USW,41,0.2,0.01,mcguire2021,Table 1
+ETEC IgA Top 10 antigens,ab_iga_etec_react_top10,iga,ETEC,reactivity_top10,ETR,40,1.55,0.1,mcguire2021,Table 1
+ETEC IgA Top 10 antigens,ab_iga_etec_react_top10,iga,ETEC,reactivity_top10,ETU,40,1.41,0.08,mcguire2021,Table 1
+ETEC IgA Top 10 antigens,ab_iga_etec_react_top10,iga,ETEC,reactivity_top10,GBR,40,1.26,0.09,mcguire2021,Table 1
+ETEC IgA Top 10 antigens,ab_iga_etec_react_top10,iga,ETEC,reactivity_top10,GBU,40,1.32,0.09,mcguire2021,Table 1
+ETEC IgA Top 10 antigens,ab_iga_etec_react_top10,iga,ETEC,reactivity_top10,GN,40,1.47,0.1,mcguire2021,Table 1
+ETEC IgA Top 10 antigens,ab_iga_etec_react_top10,iga,ETEC,reactivity_top10,KE,42,1.18,0.09,mcguire2021,Table 1
+ETEC IgA Top 10 antigens,ab_iga_etec_react_top10,iga,ETEC,reactivity_top10,PE,43,1.79,0.07,mcguire2021,Table 1
+ETEC IgA Top 10 antigens,ab_iga_etec_react_top10,iga,ETEC,reactivity_top10,SP,41,1.53,0.1,mcguire2021,Table 1
+ETEC IgA Top 10 antigens,ab_iga_etec_react_top10,iga,ETEC,reactivity_top10,SW,24,1.48,0.1,mcguire2021,Table 1
+ETEC IgA Top 10 antigens,ab_iga_etec_react_top10,iga,ETEC,reactivity_top10,USC,19,1.82,0.15,mcguire2021,Table 1
+ETEC IgA Top 10 antigens,ab_iga_etec_react_top10,iga,ETEC,reactivity_top10,USW,41,1.48,0.08,mcguire2021,Table 1
+ETEC IgA All antigens,ab_iga_etec_react_all,iga,ETEC,reactivity_all,ETR,40,0.45,0.04,mcguire2021,Table 1
+ETEC IgA All antigens,ab_iga_etec_react_all,iga,ETEC,reactivity_all,ETU,40,0.48,0.04,mcguire2021,Table 1
+ETEC IgA All antigens,ab_iga_etec_react_all,iga,ETEC,reactivity_all,GBR,40,0.33,0.04,mcguire2021,Table 1
+ETEC IgA All antigens,ab_iga_etec_react_all,iga,ETEC,reactivity_all,GBU,40,0.38,0.04,mcguire2021,Table 1
+ETEC IgA All antigens,ab_iga_etec_react_all,iga,ETEC,reactivity_all,GN,40,0.39,0.04,mcguire2021,Table 1
+ETEC IgA All antigens,ab_iga_etec_react_all,iga,ETEC,reactivity_all,KE,42,0.31,0.04,mcguire2021,Table 1
+ETEC IgA All antigens,ab_iga_etec_react_all,iga,ETEC,reactivity_all,PE,43,0.53,0.04,mcguire2021,Table 1
+ETEC IgA All antigens,ab_iga_etec_react_all,iga,ETEC,reactivity_all,SP,41,0.43,0.05,mcguire2021,Table 1
+ETEC IgA All antigens,ab_iga_etec_react_all,iga,ETEC,reactivity_all,SW,24,0.46,0.04,mcguire2021,Table 1
+ETEC IgA All antigens,ab_iga_etec_react_all,iga,ETEC,reactivity_all,USC,19,0.59,0.06,mcguire2021,Table 1
+ETEC IgA All antigens,ab_iga_etec_react_all,iga,ETEC,reactivity_all,USW,41,0.41,0.04,mcguire2021,Table 1
+EPEC IgA Breadth score,ab_iga_epec_breadth_score,iga,EPEC,breadth_score,ETR,40,0.15,0.01,mcguire2021,Table 1
+EPEC IgA Breadth score,ab_iga_epec_breadth_score,iga,EPEC,breadth_score,ETU,40,0.17,0.01,mcguire2021,Table 1
+EPEC IgA Breadth score,ab_iga_epec_breadth_score,iga,EPEC,breadth_score,GBR,40,0.15,0.01,mcguire2021,Table 1
+EPEC IgA Breadth score,ab_iga_epec_breadth_score,iga,EPEC,breadth_score,GBU,40,0.16,0.01,mcguire2021,Table 1
+EPEC IgA Breadth score,ab_iga_epec_breadth_score,iga,EPEC,breadth_score,GN,40,0.17,0.01,mcguire2021,Table 1
+EPEC IgA Breadth score,ab_iga_epec_breadth_score,iga,EPEC,breadth_score,KE,42,0.14,0.01,mcguire2021,Table 1
+EPEC IgA Breadth score,ab_iga_epec_breadth_score,iga,EPEC,breadth_score,PE,43,0.21,0.01,mcguire2021,Table 1
+EPEC IgA Breadth score,ab_iga_epec_breadth_score,iga,EPEC,breadth_score,SP,41,0.13,0.01,mcguire2021,Table 1
+EPEC IgA Breadth score,ab_iga_epec_breadth_score,iga,EPEC,breadth_score,SW,24,0.13,0.01,mcguire2021,Table 1
+EPEC IgA Breadth score,ab_iga_epec_breadth_score,iga,EPEC,breadth_score,USC,19,0.17,0.02,mcguire2021,Table 1
+EPEC IgA Breadth score,ab_iga_epec_breadth_score,iga,EPEC,breadth_score,USW,41,0.14,0.01,mcguire2021,Table 1
+EPEC IgA Top 10 antigens,ab_iga_epec_react_top10,iga,EPEC,reactivity_top10,ETR,40,2.18,0.12,mcguire2021,Table 1
+EPEC IgA Top 10 antigens,ab_iga_epec_react_top10,iga,EPEC,reactivity_top10,ETU,40,2.24,0.11,mcguire2021,Table 1
+EPEC IgA Top 10 antigens,ab_iga_epec_react_top10,iga,EPEC,reactivity_top10,GBR,40,2.07,0.1,mcguire2021,Table 1
+EPEC IgA Top 10 antigens,ab_iga_epec_react_top10,iga,EPEC,reactivity_top10,GBU,40,2.28,0.1,mcguire2021,Table 1
+EPEC IgA Top 10 antigens,ab_iga_epec_react_top10,iga,EPEC,reactivity_top10,GN,40,2.41,0.12,mcguire2021,Table 1
+EPEC IgA Top 10 antigens,ab_iga_epec_react_top10,iga,EPEC,reactivity_top10,KE,42,1.89,0.11,mcguire2021,Table 1
+EPEC IgA Top 10 antigens,ab_iga_epec_react_top10,iga,EPEC,reactivity_top10,PE,43,2.62,0.09,mcguire2021,Table 1
+EPEC IgA Top 10 antigens,ab_iga_epec_react_top10,iga,EPEC,reactivity_top10,SP,41,1.89,0.09,mcguire2021,Table 1
+EPEC IgA Top 10 antigens,ab_iga_epec_react_top10,iga,EPEC,reactivity_top10,SW,24,1.97,0.17,mcguire2021,Table 1
+EPEC IgA Top 10 antigens,ab_iga_epec_react_top10,iga,EPEC,reactivity_top10,USC,19,2.34,0.17,mcguire2021,Table 1
+EPEC IgA Top 10 antigens,ab_iga_epec_react_top10,iga,EPEC,reactivity_top10,USW,41,1.96,0.12,mcguire2021,Table 1
+EPEC IgA All antigens,ab_iga_epec_react_all,iga,EPEC,reactivity_all,ETR,40,0.24,0.03,mcguire2021,Table 1
+EPEC IgA All antigens,ab_iga_epec_react_all,iga,EPEC,reactivity_all,ETU,40,0.37,0.04,mcguire2021,Table 1
+EPEC IgA All antigens,ab_iga_epec_react_all,iga,EPEC,reactivity_all,GBR,40,0.24,0.04,mcguire2021,Table 1
+EPEC IgA All antigens,ab_iga_epec_react_all,iga,EPEC,reactivity_all,GBU,40,0.3,0.04,mcguire2021,Table 1
+EPEC IgA All antigens,ab_iga_epec_react_all,iga,EPEC,reactivity_all,GN,40,0.32,0.04,mcguire2021,Table 1
+EPEC IgA All antigens,ab_iga_epec_react_all,iga,EPEC,reactivity_all,KE,42,0.23,0.04,mcguire2021,Table 1
+EPEC IgA All antigens,ab_iga_epec_react_all,iga,EPEC,reactivity_all,PE,43,0.43,0.04,mcguire2021,Table 1
+EPEC IgA All antigens,ab_iga_epec_react_all,iga,EPEC,reactivity_all,SP,41,0.16,0.04,mcguire2021,Table 1
+EPEC IgA All antigens,ab_iga_epec_react_all,iga,EPEC,reactivity_all,SW,24,0.21,0.05,mcguire2021,Table 1
+EPEC IgA All antigens,ab_iga_epec_react_all,iga,EPEC,reactivity_all,USC,19,0.31,0.06,mcguire2021,Table 1
+EPEC IgA All antigens,ab_iga_epec_react_all,iga,EPEC,reactivity_all,USW,41,0.17,0.05,mcguire2021,Table 1
+EAEC IgA Breadth score,ab_iga_eaec_breadth_score,iga,EAEC,breadth_score,ETR,40,0.1,0.01,mcguire2021,Table 1
+EAEC IgA Breadth score,ab_iga_eaec_breadth_score,iga,EAEC,breadth_score,ETU,40,0.1,0.01,mcguire2021,Table 1
+EAEC IgA Breadth score,ab_iga_eaec_breadth_score,iga,EAEC,breadth_score,GBR,40,0.07,0.01,mcguire2021,Table 1
+EAEC IgA Breadth score,ab_iga_eaec_breadth_score,iga,EAEC,breadth_score,GBU,40,0.06,0.01,mcguire2021,Table 1
+EAEC IgA Breadth score,ab_iga_eaec_breadth_score,iga,EAEC,breadth_score,GN,40,0.09,0.01,mcguire2021,Table 1
+EAEC IgA Breadth score,ab_iga_eaec_breadth_score,iga,EAEC,breadth_score,KE,42,0.06,0.01,mcguire2021,Table 1
+EAEC IgA Breadth score,ab_iga_eaec_breadth_score,iga,EAEC,breadth_score,PE,43,0.12,0.01,mcguire2021,Table 1
+EAEC IgA Breadth score,ab_iga_eaec_breadth_score,iga,EAEC,breadth_score,SP,41,0.08,0.01,mcguire2021,Table 1
+EAEC IgA Breadth score,ab_iga_eaec_breadth_score,iga,EAEC,breadth_score,SW,24,0.11,0.01,mcguire2021,Table 1
+EAEC IgA Breadth score,ab_iga_eaec_breadth_score,iga,EAEC,breadth_score,USC,19,0.12,0.02,mcguire2021,Table 1
+EAEC IgA Breadth score,ab_iga_eaec_breadth_score,iga,EAEC,breadth_score,USW,41,0.09,0.01,mcguire2021,Table 1
+EAEC IgA Top 10 antigens,ab_iga_eaec_react_top10,iga,EAEC,reactivity_top10,ETR,40,1.03,0.08,mcguire2021,Table 1
+EAEC IgA Top 10 antigens,ab_iga_eaec_react_top10,iga,EAEC,reactivity_top10,ETU,40,1.03,0.06,mcguire2021,Table 1
+EAEC IgA Top 10 antigens,ab_iga_eaec_react_top10,iga,EAEC,reactivity_top10,GBR,40,0.78,0.08,mcguire2021,Table 1
+EAEC IgA Top 10 antigens,ab_iga_eaec_react_top10,iga,EAEC,reactivity_top10,GBU,40,0.8,0.06,mcguire2021,Table 1
+EAEC IgA Top 10 antigens,ab_iga_eaec_react_top10,iga,EAEC,reactivity_top10,GN,40,0.9,0.07,mcguire2021,Table 1
+EAEC IgA Top 10 antigens,ab_iga_eaec_react_top10,iga,EAEC,reactivity_top10,KE,42,0.74,0.06,mcguire2021,Table 1
+EAEC IgA Top 10 antigens,ab_iga_eaec_react_top10,iga,EAEC,reactivity_top10,PE,43,1.17,0.05,mcguire2021,Table 1
+EAEC IgA Top 10 antigens,ab_iga_eaec_react_top10,iga,EAEC,reactivity_top10,SP,41,0.9,0.09,mcguire2021,Table 1
+EAEC IgA Top 10 antigens,ab_iga_eaec_react_top10,iga,EAEC,reactivity_top10,SW,24,0.97,0.09,mcguire2021,Table 1
+EAEC IgA Top 10 antigens,ab_iga_eaec_react_top10,iga,EAEC,reactivity_top10,USC,19,1.19,0.15,mcguire2021,Table 1
+EAEC IgA Top 10 antigens,ab_iga_eaec_react_top10,iga,EAEC,reactivity_top10,USW,41,0.86,0.07,mcguire2021,Table 1
+EAEC IgA All antigens,ab_iga_eaec_react_all,iga,EAEC,reactivity_all,ETR,40,0.14,0.04,mcguire2021,Table 1
+EAEC IgA All antigens,ab_iga_eaec_react_all,iga,EAEC,reactivity_all,ETU,40,0.19,0.03,mcguire2021,Table 1
+EAEC IgA All antigens,ab_iga_eaec_react_all,iga,EAEC,reactivity_all,GBR,40,0.03,0.04,mcguire2021,Table 1
+EAEC IgA All antigens,ab_iga_eaec_react_all,iga,EAEC,reactivity_all,GBU,40,0.04,0.04,mcguire2021,Table 1
+EAEC IgA All antigens,ab_iga_eaec_react_all,iga,EAEC,reactivity_all,GN,40,0.09,0.04,mcguire2021,Table 1
+EAEC IgA All antigens,ab_iga_eaec_react_all,iga,EAEC,reactivity_all,KE,42,0.06,0.04,mcguire2021,Table 1
+EAEC IgA All antigens,ab_iga_eaec_react_all,iga,EAEC,reactivity_all,PE,43,0.18,0.04,mcguire2021,Table 1
+EAEC IgA All antigens,ab_iga_eaec_react_all,iga,EAEC,reactivity_all,SP,41,0.07,0.05,mcguire2021,Table 1
+EAEC IgA All antigens,ab_iga_eaec_react_all,iga,EAEC,reactivity_all,SW,24,0.12,0.05,mcguire2021,Table 1
+EAEC IgA All antigens,ab_iga_eaec_react_all,iga,EAEC,reactivity_all,USC,19,0.22,0.07,mcguire2021,Table 1
+EAEC IgA All antigens,ab_iga_eaec_react_all,iga,EAEC,reactivity_all,USW,41,0.07,0.04,mcguire2021,Table 1
+Shigella IgA Breadth score,ab_iga_shigella_breadth_score,iga,Shigella,breadth_score,ETR,40,0.29,0.02,mcguire2021,Table 1
+Shigella IgA Breadth score,ab_iga_shigella_breadth_score,iga,Shigella,breadth_score,ETU,40,0.29,0.02,mcguire2021,Table 1
+Shigella IgA Breadth score,ab_iga_shigella_breadth_score,iga,Shigella,breadth_score,GBR,40,0.23,0.02,mcguire2021,Table 1
+Shigella IgA Breadth score,ab_iga_shigella_breadth_score,iga,Shigella,breadth_score,GBU,40,0.26,0.02,mcguire2021,Table 1
+Shigella IgA Breadth score,ab_iga_shigella_breadth_score,iga,Shigella,breadth_score,GN,40,0.27,0.02,mcguire2021,Table 1
+Shigella IgA Breadth score,ab_iga_shigella_breadth_score,iga,Shigella,breadth_score,KE,42,0.19,0.02,mcguire2021,Table 1
+Shigella IgA Breadth score,ab_iga_shigella_breadth_score,iga,Shigella,breadth_score,PE,43,0.3,0.02,mcguire2021,Table 1
+Shigella IgA Breadth score,ab_iga_shigella_breadth_score,iga,Shigella,breadth_score,SP,41,0.19,0.02,mcguire2021,Table 1
+Shigella IgA Breadth score,ab_iga_shigella_breadth_score,iga,Shigella,breadth_score,SW,24,0.21,0.02,mcguire2021,Table 1
+Shigella IgA Breadth score,ab_iga_shigella_breadth_score,iga,Shigella,breadth_score,USC,19,0.24,0.03,mcguire2021,Table 1
+Shigella IgA Breadth score,ab_iga_shigella_breadth_score,iga,Shigella,breadth_score,USW,41,0.19,0.01,mcguire2021,Table 1
+Shigella IgA Top 10 antigens,ab_iga_shigella_react_top10,iga,Shigella,reactivity_top10,ETR,40,1.89,0.1,mcguire2021,Table 1
+Shigella IgA Top 10 antigens,ab_iga_shigella_react_top10,iga,Shigella,reactivity_top10,ETU,40,1.72,0.09,mcguire2021,Table 1
+Shigella IgA Top 10 antigens,ab_iga_shigella_react_top10,iga,Shigella,reactivity_top10,GBR,40,1.45,0.09,mcguire2021,Table 1
+Shigella IgA Top 10 antigens,ab_iga_shigella_react_top10,iga,Shigella,reactivity_top10,GBU,40,1.62,0.08,mcguire2021,Table 1
+Shigella IgA Top 10 antigens,ab_iga_shigella_react_top10,iga,Shigella,reactivity_top10,GN,40,1.71,0.1,mcguire2021,Table 1
+Shigella IgA Top 10 antigens,ab_iga_shigella_react_top10,iga,Shigella,reactivity_top10,KE,42,1.26,0.09,mcguire2021,Table 1
+Shigella IgA Top 10 antigens,ab_iga_shigella_react_top10,iga,Shigella,reactivity_top10,PE,43,1.74,0.08,mcguire2021,Table 1
+Shigella IgA Top 10 antigens,ab_iga_shigella_react_top10,iga,Shigella,reactivity_top10,SP,41,1.23,0.07,mcguire2021,Table 1
+Shigella IgA Top 10 antigens,ab_iga_shigella_react_top10,iga,Shigella,reactivity_top10,SW,24,1.2,0.09,mcguire2021,Table 1
+Shigella IgA Top 10 antigens,ab_iga_shigella_react_top10,iga,Shigella,reactivity_top10,USC,19,1.35,0.1,mcguire2021,Table 1
+Shigella IgA Top 10 antigens,ab_iga_shigella_react_top10,iga,Shigella,reactivity_top10,USW,41,1.18,0.07,mcguire2021,Table 1
+Shigella IgA All antigens,ab_iga_shigella_react_all,iga,Shigella,reactivity_all,ETR,40,0.71,0.05,mcguire2021,Table 1
+Shigella IgA All antigens,ab_iga_shigella_react_all,iga,Shigella,reactivity_all,ETU,40,0.7,0.05,mcguire2021,Table 1
+Shigella IgA All antigens,ab_iga_shigella_react_all,iga,Shigella,reactivity_all,GBR,40,0.55,0.05,mcguire2021,Table 1
+Shigella IgA All antigens,ab_iga_shigella_react_all,iga,Shigella,reactivity_all,GBU,40,0.63,0.04,mcguire2021,Table 1
+Shigella IgA All antigens,ab_iga_shigella_react_all,iga,Shigella,reactivity_all,GN,40,0.65,0.05,mcguire2021,Table 1
+Shigella IgA All antigens,ab_iga_shigella_react_all,iga,Shigella,reactivity_all,KE,42,0.46,0.05,mcguire2021,Table 1
+Shigella IgA All antigens,ab_iga_shigella_react_all,iga,Shigella,reactivity_all,PE,43,0.7,0.04,mcguire2021,Table 1
+Shigella IgA All antigens,ab_iga_shigella_react_all,iga,Shigella,reactivity_all,SP,41,0.46,0.04,mcguire2021,Table 1
+Shigella IgA All antigens,ab_iga_shigella_react_all,iga,Shigella,reactivity_all,SW,24,0.49,0.05,mcguire2021,Table 1
+Shigella IgA All antigens,ab_iga_shigella_react_all,iga,Shigella,reactivity_all,USC,19,0.6,0.06,mcguire2021,Table 1
+Shigella IgA All antigens,ab_iga_shigella_react_all,iga,Shigella,reactivity_all,USW,41,0.46,0.04,mcguire2021,Table 1
+S. enterica Typhi IgA Breadth score,ab_iga_s_enterica_typhi_breadth_score,iga,S. enterica Typhi,breadth_score,ETR,40,0.16,0.01,mcguire2021,Table 1
+S. enterica Typhi IgA Breadth score,ab_iga_s_enterica_typhi_breadth_score,iga,S. enterica Typhi,breadth_score,ETU,40,0.16,0.01,mcguire2021,Table 1
+S. enterica Typhi IgA Breadth score,ab_iga_s_enterica_typhi_breadth_score,iga,S. enterica Typhi,breadth_score,GBR,40,0.14,0.01,mcguire2021,Table 1
+S. enterica Typhi IgA Breadth score,ab_iga_s_enterica_typhi_breadth_score,iga,S. enterica Typhi,breadth_score,GBU,40,0.14,0.01,mcguire2021,Table 1
+S. enterica Typhi IgA Breadth score,ab_iga_s_enterica_typhi_breadth_score,iga,S. enterica Typhi,breadth_score,GN,40,0.16,0.01,mcguire2021,Table 1
+S. enterica Typhi IgA Breadth score,ab_iga_s_enterica_typhi_breadth_score,iga,S. enterica Typhi,breadth_score,KE,42,0.12,0.01,mcguire2021,Table 1
+S. enterica Typhi IgA Breadth score,ab_iga_s_enterica_typhi_breadth_score,iga,S. enterica Typhi,breadth_score,PE,43,0.17,0.01,mcguire2021,Table 1
+S. enterica Typhi IgA Breadth score,ab_iga_s_enterica_typhi_breadth_score,iga,S. enterica Typhi,breadth_score,SP,41,0.17,0.01,mcguire2021,Table 1
+S. enterica Typhi IgA Breadth score,ab_iga_s_enterica_typhi_breadth_score,iga,S. enterica Typhi,breadth_score,SW,24,0.18,0.02,mcguire2021,Table 1
+S. enterica Typhi IgA Breadth score,ab_iga_s_enterica_typhi_breadth_score,iga,S. enterica Typhi,breadth_score,USC,19,0.21,0.02,mcguire2021,Table 1
+S. enterica Typhi IgA Breadth score,ab_iga_s_enterica_typhi_breadth_score,iga,S. enterica Typhi,breadth_score,USW,41,0.17,0.01,mcguire2021,Table 1
+S. enterica Typhi IgA Top 10 antigens,ab_iga_s_enterica_typhi_react_top10,iga,S. enterica Typhi,reactivity_top10,ETR,40,1.57,0.09,mcguire2021,Table 1
+S. enterica Typhi IgA Top 10 antigens,ab_iga_s_enterica_typhi_react_top10,iga,S. enterica Typhi,reactivity_top10,ETU,40,1.52,0.08,mcguire2021,Table 1
+S. enterica Typhi IgA Top 10 antigens,ab_iga_s_enterica_typhi_react_top10,iga,S. enterica Typhi,reactivity_top10,GBR,40,1.22,0.08,mcguire2021,Table 1
+S. enterica Typhi IgA Top 10 antigens,ab_iga_s_enterica_typhi_react_top10,iga,S. enterica Typhi,reactivity_top10,GBU,40,1.3,0.08,mcguire2021,Table 1
+S. enterica Typhi IgA Top 10 antigens,ab_iga_s_enterica_typhi_react_top10,iga,S. enterica Typhi,reactivity_top10,GN,40,1.42,0.09,mcguire2021,Table 1
+S. enterica Typhi IgA Top 10 antigens,ab_iga_s_enterica_typhi_react_top10,iga,S. enterica Typhi,reactivity_top10,KE,42,1.12,0.08,mcguire2021,Table 1
+S. enterica Typhi IgA Top 10 antigens,ab_iga_s_enterica_typhi_react_top10,iga,S. enterica Typhi,reactivity_top10,PE,43,1.58,0.07,mcguire2021,Table 1
+S. enterica Typhi IgA Top 10 antigens,ab_iga_s_enterica_typhi_react_top10,iga,S. enterica Typhi,reactivity_top10,SP,41,1.54,0.08,mcguire2021,Table 1
+S. enterica Typhi IgA Top 10 antigens,ab_iga_s_enterica_typhi_react_top10,iga,S. enterica Typhi,reactivity_top10,SW,24,1.55,0.1,mcguire2021,Table 1
+S. enterica Typhi IgA Top 10 antigens,ab_iga_s_enterica_typhi_react_top10,iga,S. enterica Typhi,reactivity_top10,USC,19,1.72,0.13,mcguire2021,Table 1
+S. enterica Typhi IgA Top 10 antigens,ab_iga_s_enterica_typhi_react_top10,iga,S. enterica Typhi,reactivity_top10,USW,41,1.56,0.07,mcguire2021,Table 1
+S. enterica Typhi IgA All antigens,ab_iga_s_enterica_typhi_react_all,iga,S. enterica Typhi,reactivity_all,ETR,40,0.4,0.03,mcguire2021,Table 1
+S. enterica Typhi IgA All antigens,ab_iga_s_enterica_typhi_react_all,iga,S. enterica Typhi,reactivity_all,ETU,40,0.42,0.03,mcguire2021,Table 1
+S. enterica Typhi IgA All antigens,ab_iga_s_enterica_typhi_react_all,iga,S. enterica Typhi,reactivity_all,GBR,40,0.34,0.04,mcguire2021,Table 1
+S. enterica Typhi IgA All antigens,ab_iga_s_enterica_typhi_react_all,iga,S. enterica Typhi,reactivity_all,GBU,40,0.39,0.03,mcguire2021,Table 1
+S. enterica Typhi IgA All antigens,ab_iga_s_enterica_typhi_react_all,iga,S. enterica Typhi,reactivity_all,GN,40,0.4,0.03,mcguire2021,Table 1
+S. enterica Typhi IgA All antigens,ab_iga_s_enterica_typhi_react_all,iga,S. enterica Typhi,reactivity_all,KE,42,0.29,0.03,mcguire2021,Table 1
+S. enterica Typhi IgA All antigens,ab_iga_s_enterica_typhi_react_all,iga,S. enterica Typhi,reactivity_all,PE,43,0.46,0.03,mcguire2021,Table 1
+S. enterica Typhi IgA All antigens,ab_iga_s_enterica_typhi_react_all,iga,S. enterica Typhi,reactivity_all,SP,41,0.42,0.03,mcguire2021,Table 1
+S. enterica Typhi IgA All antigens,ab_iga_s_enterica_typhi_react_all,iga,S. enterica Typhi,reactivity_all,SW,24,0.46,0.04,mcguire2021,Table 1
+S. enterica Typhi IgA All antigens,ab_iga_s_enterica_typhi_react_all,iga,S. enterica Typhi,reactivity_all,USC,19,0.54,0.05,mcguire2021,Table 1
+S. enterica Typhi IgA All antigens,ab_iga_s_enterica_typhi_react_all,iga,S. enterica Typhi,reactivity_all,USW,41,0.42,0.03,mcguire2021,Table 1
+S. aureus IgA Breadth score,ab_iga_s_aureus_breadth_score,iga,S. aureus,breadth_score,ETR,40,0.2,0.02,mcguire2021,Table 1
+S. aureus IgA Breadth score,ab_iga_s_aureus_breadth_score,iga,S. aureus,breadth_score,ETU,40,0.16,0.01,mcguire2021,Table 1
+S. aureus IgA Breadth score,ab_iga_s_aureus_breadth_score,iga,S. aureus,breadth_score,GBR,40,0.12,0.02,mcguire2021,Table 1
+S. aureus IgA Breadth score,ab_iga_s_aureus_breadth_score,iga,S. aureus,breadth_score,GBU,40,0.13,0.01,mcguire2021,Table 1
+S. aureus IgA Breadth score,ab_iga_s_aureus_breadth_score,iga,S. aureus,breadth_score,GN,40,0.15,0.02,mcguire2021,Table 1
+S. aureus IgA Breadth score,ab_iga_s_aureus_breadth_score,iga,S. aureus,breadth_score,KE,42,0.12,0.02,mcguire2021,Table 1
+S. aureus IgA Breadth score,ab_iga_s_aureus_breadth_score,iga,S. aureus,breadth_score,PE,43,0.18,0.01,mcguire2021,Table 1
+S. aureus IgA Breadth score,ab_iga_s_aureus_breadth_score,iga,S. aureus,breadth_score,SP,41,0.25,0.02,mcguire2021,Table 1
+S. aureus IgA Breadth score,ab_iga_s_aureus_breadth_score,iga,S. aureus,breadth_score,SW,24,0.22,0.02,mcguire2021,Table 1
+S. aureus IgA Breadth score,ab_iga_s_aureus_breadth_score,iga,S. aureus,breadth_score,USC,19,0.21,0.03,mcguire2021,Table 1
+S. aureus IgA Breadth score,ab_iga_s_aureus_breadth_score,iga,S. aureus,breadth_score,USW,41,0.23,0.02,mcguire2021,Table 1
+S. aureus IgA Top 10 antigens,ab_iga_s_aureus_react_top10,iga,S. aureus,reactivity_top10,ETR,40,1.65,0.09,mcguire2021,Table 1
+S. aureus IgA Top 10 antigens,ab_iga_s_aureus_react_top10,iga,S. aureus,reactivity_top10,ETU,40,1.41,0.08,mcguire2021,Table 1
+S. aureus IgA Top 10 antigens,ab_iga_s_aureus_react_top10,iga,S. aureus,reactivity_top10,GBR,40,1.13,0.1,mcguire2021,Table 1
+S. aureus IgA Top 10 antigens,ab_iga_s_aureus_react_top10,iga,S. aureus,reactivity_top10,GBU,40,1.29,0.07,mcguire2021,Table 1
+S. aureus IgA Top 10 antigens,ab_iga_s_aureus_react_top10,iga,S. aureus,reactivity_top10,GN,40,1.36,0.1,mcguire2021,Table 1
+S. aureus IgA Top 10 antigens,ab_iga_s_aureus_react_top10,iga,S. aureus,reactivity_top10,KE,42,1.19,0.08,mcguire2021,Table 1
+S. aureus IgA Top 10 antigens,ab_iga_s_aureus_react_top10,iga,S. aureus,reactivity_top10,PE,43,1.54,0.08,mcguire2021,Table 1
+S. aureus IgA Top 10 antigens,ab_iga_s_aureus_react_top10,iga,S. aureus,reactivity_top10,SP,41,1.96,0.1,mcguire2021,Table 1
+S. aureus IgA Top 10 antigens,ab_iga_s_aureus_react_top10,iga,S. aureus,reactivity_top10,SW,24,1.76,0.11,mcguire2021,Table 1
+S. aureus IgA Top 10 antigens,ab_iga_s_aureus_react_top10,iga,S. aureus,reactivity_top10,USC,19,1.71,0.12,mcguire2021,Table 1
+S. aureus IgA Top 10 antigens,ab_iga_s_aureus_react_top10,iga,S. aureus,reactivity_top10,USW,41,1.97,0.09,mcguire2021,Table 1
+S. aureus IgA All antigens,ab_iga_s_aureus_react_all,iga,S. aureus,reactivity_all,ETR,40,0.46,0.04,mcguire2021,Table 1
+S. aureus IgA All antigens,ab_iga_s_aureus_react_all,iga,S. aureus,reactivity_all,ETU,40,0.39,0.04,mcguire2021,Table 1
+S. aureus IgA All antigens,ab_iga_s_aureus_react_all,iga,S. aureus,reactivity_all,GBR,40,0.26,0.05,mcguire2021,Table 1
+S. aureus IgA All antigens,ab_iga_s_aureus_react_all,iga,S. aureus,reactivity_all,GBU,40,0.31,0.04,mcguire2021,Table 1
+S. aureus IgA All antigens,ab_iga_s_aureus_react_all,iga,S. aureus,reactivity_all,GN,40,0.31,0.05,mcguire2021,Table 1
+S. aureus IgA All antigens,ab_iga_s_aureus_react_all,iga,S. aureus,reactivity_all,KE,42,0.23,0.04,mcguire2021,Table 1
+S. aureus IgA All antigens,ab_iga_s_aureus_react_all,iga,S. aureus,reactivity_all,PE,43,0.39,0.04,mcguire2021,Table 1
+S. aureus IgA All antigens,ab_iga_s_aureus_react_all,iga,S. aureus,reactivity_all,SP,41,0.55,0.07,mcguire2021,Table 1
+S. aureus IgA All antigens,ab_iga_s_aureus_react_all,iga,S. aureus,reactivity_all,SW,24,0.49,0.07,mcguire2021,Table 1
+S. aureus IgA All antigens,ab_iga_s_aureus_react_all,iga,S. aureus,reactivity_all,USC,19,0.47,0.06,mcguire2021,Table 1
+S. aureus IgA All antigens,ab_iga_s_aureus_react_all,iga,S. aureus,reactivity_all,USW,41,0.52,0.05,mcguire2021,Table 1
+S. pneumoniae IgA Breadth score,ab_iga_s_pneumoniae_breadth_score,iga,S. pneumoniae,breadth_score,ETR,40,0.25,0.01,mcguire2021,Table 1
+S. pneumoniae IgA Breadth score,ab_iga_s_pneumoniae_breadth_score,iga,S. pneumoniae,breadth_score,ETU,40,0.27,0.01,mcguire2021,Table 1
+S. pneumoniae IgA Breadth score,ab_iga_s_pneumoniae_breadth_score,iga,S. pneumoniae,breadth_score,GBR,40,0.2,0.02,mcguire2021,Table 1
+S. pneumoniae IgA Breadth score,ab_iga_s_pneumoniae_breadth_score,iga,S. pneumoniae,breadth_score,GBU,40,0.21,0.01,mcguire2021,Table 1
+S. pneumoniae IgA Breadth score,ab_iga_s_pneumoniae_breadth_score,iga,S. pneumoniae,breadth_score,GN,40,0.26,0.02,mcguire2021,Table 1
+S. pneumoniae IgA Breadth score,ab_iga_s_pneumoniae_breadth_score,iga,S. pneumoniae,breadth_score,KE,42,0.22,0.02,mcguire2021,Table 1
+S. pneumoniae IgA Breadth score,ab_iga_s_pneumoniae_breadth_score,iga,S. pneumoniae,breadth_score,PE,43,0.31,0.02,mcguire2021,Table 1
+S. pneumoniae IgA Breadth score,ab_iga_s_pneumoniae_breadth_score,iga,S. pneumoniae,breadth_score,SP,41,0.29,0.02,mcguire2021,Table 1
+S. pneumoniae IgA Breadth score,ab_iga_s_pneumoniae_breadth_score,iga,S. pneumoniae,breadth_score,SW,24,0.28,0.02,mcguire2021,Table 1
+S. pneumoniae IgA Breadth score,ab_iga_s_pneumoniae_breadth_score,iga,S. pneumoniae,breadth_score,USC,19,0.28,0.03,mcguire2021,Table 1
+S. pneumoniae IgA Breadth score,ab_iga_s_pneumoniae_breadth_score,iga,S. pneumoniae,breadth_score,USW,41,0.29,0.02,mcguire2021,Table 1
+S. pneumoniae IgA Top 10 antigens,ab_iga_s_pneumoniae_react_top10,iga,S. pneumoniae,reactivity_top10,ETR,40,2.42,0.1,mcguire2021,Table 1
+S. pneumoniae IgA Top 10 antigens,ab_iga_s_pneumoniae_react_top10,iga,S. pneumoniae,reactivity_top10,ETU,40,2.24,0.1,mcguire2021,Table 1
+S. pneumoniae IgA Top 10 antigens,ab_iga_s_pneumoniae_react_top10,iga,S. pneumoniae,reactivity_top10,GBR,40,1.84,0.1,mcguire2021,Table 1
+S. pneumoniae IgA Top 10 antigens,ab_iga_s_pneumoniae_react_top10,iga,S. pneumoniae,reactivity_top10,GBU,40,1.89,0.09,mcguire2021,Table 1
+S. pneumoniae IgA Top 10 antigens,ab_iga_s_pneumoniae_react_top10,iga,S. pneumoniae,reactivity_top10,GN,40,2.16,0.12,mcguire2021,Table 1
+S. pneumoniae IgA Top 10 antigens,ab_iga_s_pneumoniae_react_top10,iga,S. pneumoniae,reactivity_top10,KE,42,1.75,0.1,mcguire2021,Table 1
+S. pneumoniae IgA Top 10 antigens,ab_iga_s_pneumoniae_react_top10,iga,S. pneumoniae,reactivity_top10,PE,43,2.3,0.09,mcguire2021,Table 1
+S. pneumoniae IgA Top 10 antigens,ab_iga_s_pneumoniae_react_top10,iga,S. pneumoniae,reactivity_top10,SP,41,2.33,0.11,mcguire2021,Table 1
+S. pneumoniae IgA Top 10 antigens,ab_iga_s_pneumoniae_react_top10,iga,S. pneumoniae,reactivity_top10,SW,24,2.24,0.13,mcguire2021,Table 1
+S. pneumoniae IgA Top 10 antigens,ab_iga_s_pneumoniae_react_top10,iga,S. pneumoniae,reactivity_top10,USC,19,2.23,0.16,mcguire2021,Table 1
+S. pneumoniae IgA Top 10 antigens,ab_iga_s_pneumoniae_react_top10,iga,S. pneumoniae,reactivity_top10,USW,41,2.42,0.1,mcguire2021,Table 1
+S. pneumoniae IgA All antigens,ab_iga_s_pneumoniae_react_all,iga,S. pneumoniae,reactivity_all,ETR,40,0.57,0.05,mcguire2021,Table 1
+S. pneumoniae IgA All antigens,ab_iga_s_pneumoniae_react_all,iga,S. pneumoniae,reactivity_all,ETU,40,0.66,0.04,mcguire2021,Table 1
+S. pneumoniae IgA All antigens,ab_iga_s_pneumoniae_react_all,iga,S. pneumoniae,reactivity_all,GBR,40,0.41,0.05,mcguire2021,Table 1
+S. pneumoniae IgA All antigens,ab_iga_s_pneumoniae_react_all,iga,S. pneumoniae,reactivity_all,GBU,40,0.46,0.05,mcguire2021,Table 1
+S. pneumoniae IgA All antigens,ab_iga_s_pneumoniae_react_all,iga,S. pneumoniae,reactivity_all,GN,40,0.6,0.06,mcguire2021,Table 1
+S. pneumoniae IgA All antigens,ab_iga_s_pneumoniae_react_all,iga,S. pneumoniae,reactivity_all,KE,42,0.47,0.05,mcguire2021,Table 1
+S. pneumoniae IgA All antigens,ab_iga_s_pneumoniae_react_all,iga,S. pneumoniae,reactivity_all,PE,43,0.72,0.05,mcguire2021,Table 1
+S. pneumoniae IgA All antigens,ab_iga_s_pneumoniae_react_all,iga,S. pneumoniae,reactivity_all,SP,41,0.61,0.06,mcguire2021,Table 1
+S. pneumoniae IgA All antigens,ab_iga_s_pneumoniae_react_all,iga,S. pneumoniae,reactivity_all,SW,24,0.58,0.07,mcguire2021,Table 1
+S. pneumoniae IgA All antigens,ab_iga_s_pneumoniae_react_all,iga,S. pneumoniae,reactivity_all,USC,19,0.66,0.08,mcguire2021,Table 1
+S. pneumoniae IgA All antigens,ab_iga_s_pneumoniae_react_all,iga,S. pneumoniae,reactivity_all,USW,41,0.64,0.05,mcguire2021,Table 1
+M. tuberculosis IgA Breadth score,ab_iga_m_tuberculosis_breadth_score,iga,M. tuberculosis,breadth_score,ETR,40,0.24,0.02,mcguire2021,Table 1
+M. tuberculosis IgA Breadth score,ab_iga_m_tuberculosis_breadth_score,iga,M. tuberculosis,breadth_score,ETU,40,0.24,0.02,mcguire2021,Table 1
+M. tuberculosis IgA Breadth score,ab_iga_m_tuberculosis_breadth_score,iga,M. tuberculosis,breadth_score,GBR,40,0.17,0.02,mcguire2021,Table 1
+M. tuberculosis IgA Breadth score,ab_iga_m_tuberculosis_breadth_score,iga,M. tuberculosis,breadth_score,GBU,40,0.18,0.02,mcguire2021,Table 1
+M. tuberculosis IgA Breadth score,ab_iga_m_tuberculosis_breadth_score,iga,M. tuberculosis,breadth_score,GN,40,0.2,0.02,mcguire2021,Table 1
+M. tuberculosis IgA Breadth score,ab_iga_m_tuberculosis_breadth_score,iga,M. tuberculosis,breadth_score,KE,42,0.15,0.02,mcguire2021,Table 1
+M. tuberculosis IgA Breadth score,ab_iga_m_tuberculosis_breadth_score,iga,M. tuberculosis,breadth_score,PE,43,0.23,0.02,mcguire2021,Table 1
+M. tuberculosis IgA Breadth score,ab_iga_m_tuberculosis_breadth_score,iga,M. tuberculosis,breadth_score,SP,41,0.2,0.02,mcguire2021,Table 1
+M. tuberculosis IgA Breadth score,ab_iga_m_tuberculosis_breadth_score,iga,M. tuberculosis,breadth_score,SW,24,0.23,0.02,mcguire2021,Table 1
+M. tuberculosis IgA Breadth score,ab_iga_m_tuberculosis_breadth_score,iga,M. tuberculosis,breadth_score,USC,19,0.23,0.03,mcguire2021,Table 1
+M. tuberculosis IgA Breadth score,ab_iga_m_tuberculosis_breadth_score,iga,M. tuberculosis,breadth_score,USW,41,0.21,0.02,mcguire2021,Table 1
+M. tuberculosis IgA Top 10 antigens,ab_iga_m_tuberculosis_react_top10,iga,M. tuberculosis,reactivity_top10,ETR,40,1.73,0.1,mcguire2021,Table 1
+M. tuberculosis IgA Top 10 antigens,ab_iga_m_tuberculosis_react_top10,iga,M. tuberculosis,reactivity_top10,ETU,40,1.53,0.08,mcguire2021,Table 1
+M. tuberculosis IgA Top 10 antigens,ab_iga_m_tuberculosis_react_top10,iga,M. tuberculosis,reactivity_top10,GBR,40,1.18,0.08,mcguire2021,Table 1
+M. tuberculosis IgA Top 10 antigens,ab_iga_m_tuberculosis_react_top10,iga,M. tuberculosis,reactivity_top10,GBU,40,1.27,0.08,mcguire2021,Table 1
+M. tuberculosis IgA Top 10 antigens,ab_iga_m_tuberculosis_react_top10,iga,M. tuberculosis,reactivity_top10,GN,40,1.34,0.08,mcguire2021,Table 1
+M. tuberculosis IgA Top 10 antigens,ab_iga_m_tuberculosis_react_top10,iga,M. tuberculosis,reactivity_top10,KE,42,1.12,0.08,mcguire2021,Table 1
+M. tuberculosis IgA Top 10 antigens,ab_iga_m_tuberculosis_react_top10,iga,M. tuberculosis,reactivity_top10,PE,43,1.45,0.07,mcguire2021,Table 1
+M. tuberculosis IgA Top 10 antigens,ab_iga_m_tuberculosis_react_top10,iga,M. tuberculosis,reactivity_top10,SP,41,1.41,0.08,mcguire2021,Table 1
+M. tuberculosis IgA Top 10 antigens,ab_iga_m_tuberculosis_react_top10,iga,M. tuberculosis,reactivity_top10,SW,24,1.53,0.1,mcguire2021,Table 1
+M. tuberculosis IgA Top 10 antigens,ab_iga_m_tuberculosis_react_top10,iga,M. tuberculosis,reactivity_top10,USC,19,1.53,0.11,mcguire2021,Table 1
+M. tuberculosis IgA Top 10 antigens,ab_iga_m_tuberculosis_react_top10,iga,M. tuberculosis,reactivity_top10,USW,41,1.45,0.09,mcguire2021,Table 1
+M. tuberculosis IgA All antigens,ab_iga_m_tuberculosis_react_all,iga,M. tuberculosis,reactivity_all,ETR,40,0.56,0.05,mcguire2021,Table 1
+M. tuberculosis IgA All antigens,ab_iga_m_tuberculosis_react_all,iga,M. tuberculosis,reactivity_all,ETU,40,0.57,0.04,mcguire2021,Table 1
+M. tuberculosis IgA All antigens,ab_iga_m_tuberculosis_react_all,iga,M. tuberculosis,reactivity_all,GBR,40,0.35,0.05,mcguire2021,Table 1
+M. tuberculosis IgA All antigens,ab_iga_m_tuberculosis_react_all,iga,M. tuberculosis,reactivity_all,GBU,40,0.41,0.04,mcguire2021,Table 1
+M. tuberculosis IgA All antigens,ab_iga_m_tuberculosis_react_all,iga,M. tuberculosis,reactivity_all,GN,40,0.41,0.04,mcguire2021,Table 1
+M. tuberculosis IgA All antigens,ab_iga_m_tuberculosis_react_all,iga,M. tuberculosis,reactivity_all,KE,42,0.33,0.05,mcguire2021,Table 1
+M. tuberculosis IgA All antigens,ab_iga_m_tuberculosis_react_all,iga,M. tuberculosis,reactivity_all,PE,43,0.52,0.04,mcguire2021,Table 1
+M. tuberculosis IgA All antigens,ab_iga_m_tuberculosis_react_all,iga,M. tuberculosis,reactivity_all,SP,41,0.46,0.05,mcguire2021,Table 1
+M. tuberculosis IgA All antigens,ab_iga_m_tuberculosis_react_all,iga,M. tuberculosis,reactivity_all,SW,24,0.52,0.05,mcguire2021,Table 1
+M. tuberculosis IgA All antigens,ab_iga_m_tuberculosis_react_all,iga,M. tuberculosis,reactivity_all,USC,19,0.58,0.07,mcguire2021,Table 1
+M. tuberculosis IgA All antigens,ab_iga_m_tuberculosis_react_all,iga,M. tuberculosis,reactivity_all,USW,41,0.47,0.05,mcguire2021,Table 1
+ETEC IgG Breadth score,ab_igg_etec_breadth_score,igg,ETEC,breadth_score,ETR,40,0.01,0,mcguire2021,Table 2
+ETEC IgG Breadth score,ab_igg_etec_breadth_score,igg,ETEC,breadth_score,ETU,40,0.02,0,mcguire2021,Table 2
+ETEC IgG Breadth score,ab_igg_etec_breadth_score,igg,ETEC,breadth_score,GBR,40,0.03,0,mcguire2021,Table 2
+ETEC IgG Breadth score,ab_igg_etec_breadth_score,igg,ETEC,breadth_score,GBU,40,0.03,0,mcguire2021,Table 2
+ETEC IgG Breadth score,ab_igg_etec_breadth_score,igg,ETEC,breadth_score,GN,40,0.03,0,mcguire2021,Table 2
+ETEC IgG Breadth score,ab_igg_etec_breadth_score,igg,ETEC,breadth_score,KE,42,0.03,0.01,mcguire2021,Table 2
+ETEC IgG Breadth score,ab_igg_etec_breadth_score,igg,ETEC,breadth_score,PE,43,0.03,0,mcguire2021,Table 2
+ETEC IgG Breadth score,ab_igg_etec_breadth_score,igg,ETEC,breadth_score,SP,41,0,0,mcguire2021,Table 2
+ETEC IgG Breadth score,ab_igg_etec_breadth_score,igg,ETEC,breadth_score,SW,24,0.01,0,mcguire2021,Table 2
+ETEC IgG Breadth score,ab_igg_etec_breadth_score,igg,ETEC,breadth_score,USC,19,0.01,0,mcguire2021,Table 2
+ETEC IgG Breadth score,ab_igg_etec_breadth_score,igg,ETEC,breadth_score,USW,41,0.01,0,mcguire2021,Table 2
+ETEC IgG Top 10 antigens,ab_igg_etec_react_top10,igg,ETEC,reactivity_top10,ETR,40,0.41,0.03,mcguire2021,Table 2
+ETEC IgG Top 10 antigens,ab_igg_etec_react_top10,igg,ETEC,reactivity_top10,ETU,40,0.68,0.04,mcguire2021,Table 2
+ETEC IgG Top 10 antigens,ab_igg_etec_react_top10,igg,ETEC,reactivity_top10,GBR,40,0.72,0.05,mcguire2021,Table 2
+ETEC IgG Top 10 antigens,ab_igg_etec_react_top10,igg,ETEC,reactivity_top10,GBU,40,0.71,0.04,mcguire2021,Table 2
+ETEC IgG Top 10 antigens,ab_igg_etec_react_top10,igg,ETEC,reactivity_top10,GN,40,0.79,0.04,mcguire2021,Table 2
+ETEC IgG Top 10 antigens,ab_igg_etec_react_top10,igg,ETEC,reactivity_top10,KE,42,0.75,0.04,mcguire2021,Table 2
+ETEC IgG Top 10 antigens,ab_igg_etec_react_top10,igg,ETEC,reactivity_top10,PE,43,0.81,0.04,mcguire2021,Table 2
+ETEC IgG Top 10 antigens,ab_igg_etec_react_top10,igg,ETEC,reactivity_top10,SP,41,0.23,0.01,mcguire2021,Table 2
+ETEC IgG Top 10 antigens,ab_igg_etec_react_top10,igg,ETEC,reactivity_top10,SW,24,0.25,0.02,mcguire2021,Table 2
+ETEC IgG Top 10 antigens,ab_igg_etec_react_top10,igg,ETEC,reactivity_top10,USC,19,0.24,0.02,mcguire2021,Table 2
+ETEC IgG Top 10 antigens,ab_igg_etec_react_top10,igg,ETEC,reactivity_top10,USW,41,0.23,0.02,mcguire2021,Table 2
+ETEC IgG All antigens,ab_igg_etec_react_all,igg,ETEC,reactivity_all,ETR,40,0.05,0.01,mcguire2021,Table 2
+ETEC IgG All antigens,ab_igg_etec_react_all,igg,ETEC,reactivity_all,ETU,40,0.12,0.01,mcguire2021,Table 2
+ETEC IgG All antigens,ab_igg_etec_react_all,igg,ETEC,reactivity_all,GBR,40,0.13,0.01,mcguire2021,Table 2
+ETEC IgG All antigens,ab_igg_etec_react_all,igg,ETEC,reactivity_all,GBU,40,0.14,0.01,mcguire2021,Table 2
+ETEC IgG All antigens,ab_igg_etec_react_all,igg,ETEC,reactivity_all,GN,40,0.14,0.01,mcguire2021,Table 2
+ETEC IgG All antigens,ab_igg_etec_react_all,igg,ETEC,reactivity_all,KE,42,0.15,0.02,mcguire2021,Table 2
+ETEC IgG All antigens,ab_igg_etec_react_all,igg,ETEC,reactivity_all,PE,43,0.18,0.01,mcguire2021,Table 2
+ETEC IgG All antigens,ab_igg_etec_react_all,igg,ETEC,reactivity_all,SP,41,0.06,0.01,mcguire2021,Table 2
+ETEC IgG All antigens,ab_igg_etec_react_all,igg,ETEC,reactivity_all,SW,24,0.07,0.01,mcguire2021,Table 2
+ETEC IgG All antigens,ab_igg_etec_react_all,igg,ETEC,reactivity_all,USC,19,0.07,0.02,mcguire2021,Table 2
+ETEC IgG All antigens,ab_igg_etec_react_all,igg,ETEC,reactivity_all,USW,41,0.06,0.01,mcguire2021,Table 2
+EPEC IgG Breadth score,ab_igg_epec_breadth_score,igg,EPEC,breadth_score,ETR,40,0.05,0.01,mcguire2021,Table 2
+EPEC IgG Breadth score,ab_igg_epec_breadth_score,igg,EPEC,breadth_score,ETU,40,0.08,0.01,mcguire2021,Table 2
+EPEC IgG Breadth score,ab_igg_epec_breadth_score,igg,EPEC,breadth_score,GBR,40,0.07,0.01,mcguire2021,Table 2
+EPEC IgG Breadth score,ab_igg_epec_breadth_score,igg,EPEC,breadth_score,GBU,40,0.08,0.01,mcguire2021,Table 2
+EPEC IgG Breadth score,ab_igg_epec_breadth_score,igg,EPEC,breadth_score,GN,40,0.1,0.01,mcguire2021,Table 2
+EPEC IgG Breadth score,ab_igg_epec_breadth_score,igg,EPEC,breadth_score,KE,42,0.1,0.01,mcguire2021,Table 2
+EPEC IgG Breadth score,ab_igg_epec_breadth_score,igg,EPEC,breadth_score,PE,43,0.13,0,mcguire2021,Table 2
+EPEC IgG Breadth score,ab_igg_epec_breadth_score,igg,EPEC,breadth_score,SP,41,0.04,0.01,mcguire2021,Table 2
+EPEC IgG Breadth score,ab_igg_epec_breadth_score,igg,EPEC,breadth_score,SW,24,0.05,0.01,mcguire2021,Table 2
+EPEC IgG Breadth score,ab_igg_epec_breadth_score,igg,EPEC,breadth_score,USC,19,0.07,0.01,mcguire2021,Table 2
+EPEC IgG Breadth score,ab_igg_epec_breadth_score,igg,EPEC,breadth_score,USW,41,0.05,0.01,mcguire2021,Table 2
+EPEC IgG Top 10 antigens,ab_igg_epec_react_top10,igg,EPEC,reactivity_top10,ETR,40,0.98,0.08,mcguire2021,Table 2
+EPEC IgG Top 10 antigens,ab_igg_epec_react_top10,igg,EPEC,reactivity_top10,ETU,40,1.53,0.13,mcguire2021,Table 2
+EPEC IgG Top 10 antigens,ab_igg_epec_react_top10,igg,EPEC,reactivity_top10,GBR,40,1.26,0.09,mcguire2021,Table 2
+EPEC IgG Top 10 antigens,ab_igg_epec_react_top10,igg,EPEC,reactivity_top10,GBU,40,1.4,0.1,mcguire2021,Table 2
+EPEC IgG Top 10 antigens,ab_igg_epec_react_top10,igg,EPEC,reactivity_top10,GN,40,1.67,0.12,mcguire2021,Table 2
+EPEC IgG Top 10 antigens,ab_igg_epec_react_top10,igg,EPEC,reactivity_top10,KE,42,1.69,0.12,mcguire2021,Table 2
+EPEC IgG Top 10 antigens,ab_igg_epec_react_top10,igg,EPEC,reactivity_top10,PE,43,2.37,0.12,mcguire2021,Table 2
+EPEC IgG Top 10 antigens,ab_igg_epec_react_top10,igg,EPEC,reactivity_top10,SP,41,0.81,0.07,mcguire2021,Table 2
+EPEC IgG Top 10 antigens,ab_igg_epec_react_top10,igg,EPEC,reactivity_top10,SW,24,0.9,0.09,mcguire2021,Table 2
+EPEC IgG Top 10 antigens,ab_igg_epec_react_top10,igg,EPEC,reactivity_top10,USC,19,1.34,0.17,mcguire2021,Table 2
+EPEC IgG Top 10 antigens,ab_igg_epec_react_top10,igg,EPEC,reactivity_top10,USW,41,0.96,0.11,mcguire2021,Table 2
+EPEC IgG All antigens,ab_igg_epec_react_all,igg,EPEC,reactivity_all,ETR,40,0.08,0.02,mcguire2021,Table 2
+EPEC IgG All antigens,ab_igg_epec_react_all,igg,EPEC,reactivity_all,ETU,40,0.19,0.02,mcguire2021,Table 2
+EPEC IgG All antigens,ab_igg_epec_react_all,igg,EPEC,reactivity_all,GBR,40,0.15,0.02,mcguire2021,Table 2
+EPEC IgG All antigens,ab_igg_epec_react_all,igg,EPEC,reactivity_all,GBU,40,0.18,0.02,mcguire2021,Table 2
+EPEC IgG All antigens,ab_igg_epec_react_all,igg,EPEC,reactivity_all,GN,40,0.2,0.02,mcguire2021,Table 2
+EPEC IgG All antigens,ab_igg_epec_react_all,igg,EPEC,reactivity_all,KE,42,0.2,0.02,mcguire2021,Table 2
+EPEC IgG All antigens,ab_igg_epec_react_all,igg,EPEC,reactivity_all,PE,43,0.34,0.02,mcguire2021,Table 2
+EPEC IgG All antigens,ab_igg_epec_react_all,igg,EPEC,reactivity_all,SP,41,0.11,0.01,mcguire2021,Table 2
+EPEC IgG All antigens,ab_igg_epec_react_all,igg,EPEC,reactivity_all,SW,24,0.12,0.02,mcguire2021,Table 2
+EPEC IgG All antigens,ab_igg_epec_react_all,igg,EPEC,reactivity_all,USC,19,0.18,0.04,mcguire2021,Table 2
+EPEC IgG All antigens,ab_igg_epec_react_all,igg,EPEC,reactivity_all,USW,41,0.15,0.02,mcguire2021,Table 2
+EAEC IgG Breadth score,ab_igg_eaec_breadth_score,igg,EAEC,breadth_score,ETR,40,0.01,0,mcguire2021,Table 2
+EAEC IgG Breadth score,ab_igg_eaec_breadth_score,igg,EAEC,breadth_score,ETU,40,0.01,0,mcguire2021,Table 2
+EAEC IgG Breadth score,ab_igg_eaec_breadth_score,igg,EAEC,breadth_score,GBR,40,0.01,0,mcguire2021,Table 2
+EAEC IgG Breadth score,ab_igg_eaec_breadth_score,igg,EAEC,breadth_score,GBU,40,0.01,0,mcguire2021,Table 2
+EAEC IgG Breadth score,ab_igg_eaec_breadth_score,igg,EAEC,breadth_score,GN,40,0.01,0,mcguire2021,Table 2
+EAEC IgG Breadth score,ab_igg_eaec_breadth_score,igg,EAEC,breadth_score,KE,42,0.02,0,mcguire2021,Table 2
+EAEC IgG Breadth score,ab_igg_eaec_breadth_score,igg,EAEC,breadth_score,PE,43,0.03,0,mcguire2021,Table 2
+EAEC IgG Breadth score,ab_igg_eaec_breadth_score,igg,EAEC,breadth_score,SP,41,0,0,mcguire2021,Table 2
+EAEC IgG Breadth score,ab_igg_eaec_breadth_score,igg,EAEC,breadth_score,SW,24,0,0,mcguire2021,Table 2
+EAEC IgG Breadth score,ab_igg_eaec_breadth_score,igg,EAEC,breadth_score,USC,19,0.01,0,mcguire2021,Table 2
+EAEC IgG Breadth score,ab_igg_eaec_breadth_score,igg,EAEC,breadth_score,USW,41,0,0,mcguire2021,Table 2
+EAEC IgG Top 10 antigens,ab_igg_eaec_react_top10,igg,EAEC,reactivity_top10,ETR,40,0.25,0.02,mcguire2021,Table 2
+EAEC IgG Top 10 antigens,ab_igg_eaec_react_top10,igg,EAEC,reactivity_top10,ETU,40,0.33,0.02,mcguire2021,Table 2
+EAEC IgG Top 10 antigens,ab_igg_eaec_react_top10,igg,EAEC,reactivity_top10,GBR,40,0.32,0.02,mcguire2021,Table 2
+EAEC IgG Top 10 antigens,ab_igg_eaec_react_top10,igg,EAEC,reactivity_top10,GBU,40,0.33,0.02,mcguire2021,Table 2
+EAEC IgG Top 10 antigens,ab_igg_eaec_react_top10,igg,EAEC,reactivity_top10,GN,40,0.39,0.02,mcguire2021,Table 2
+EAEC IgG Top 10 antigens,ab_igg_eaec_react_top10,igg,EAEC,reactivity_top10,KE,42,0.41,0.03,mcguire2021,Table 2
+EAEC IgG Top 10 antigens,ab_igg_eaec_react_top10,igg,EAEC,reactivity_top10,PE,43,0.58,0.04,mcguire2021,Table 2
+EAEC IgG Top 10 antigens,ab_igg_eaec_react_top10,igg,EAEC,reactivity_top10,SP,41,0.25,0.02,mcguire2021,Table 2
+EAEC IgG Top 10 antigens,ab_igg_eaec_react_top10,igg,EAEC,reactivity_top10,SW,24,0.19,0.02,mcguire2021,Table 2
+EAEC IgG Top 10 antigens,ab_igg_eaec_react_top10,igg,EAEC,reactivity_top10,USC,19,0.36,0.05,mcguire2021,Table 2
+EAEC IgG Top 10 antigens,ab_igg_eaec_react_top10,igg,EAEC,reactivity_top10,USW,41,0.17,0.01,mcguire2021,Table 2
+EAEC IgG All antigens,ab_igg_eaec_react_all,igg,EAEC,reactivity_all,ETR,40,0.03,0.01,mcguire2021,Table 2
+EAEC IgG All antigens,ab_igg_eaec_react_all,igg,EAEC,reactivity_all,ETU,40,0.06,0.01,mcguire2021,Table 2
+EAEC IgG All antigens,ab_igg_eaec_react_all,igg,EAEC,reactivity_all,GBR,40,0.05,0.01,mcguire2021,Table 2
+EAEC IgG All antigens,ab_igg_eaec_react_all,igg,EAEC,reactivity_all,GBU,40,0.06,0.01,mcguire2021,Table 2
+EAEC IgG All antigens,ab_igg_eaec_react_all,igg,EAEC,reactivity_all,GN,40,0.05,0.01,mcguire2021,Table 2
+EAEC IgG All antigens,ab_igg_eaec_react_all,igg,EAEC,reactivity_all,KE,42,0.06,0.01,mcguire2021,Table 2
+EAEC IgG All antigens,ab_igg_eaec_react_all,igg,EAEC,reactivity_all,PE,43,0.11,0.01,mcguire2021,Table 2
+EAEC IgG All antigens,ab_igg_eaec_react_all,igg,EAEC,reactivity_all,SP,41,0.07,0.01,mcguire2021,Table 2
+EAEC IgG All antigens,ab_igg_eaec_react_all,igg,EAEC,reactivity_all,SW,24,0.07,0.01,mcguire2021,Table 2
+EAEC IgG All antigens,ab_igg_eaec_react_all,igg,EAEC,reactivity_all,USC,19,0.08,0.02,mcguire2021,Table 2
+EAEC IgG All antigens,ab_igg_eaec_react_all,igg,EAEC,reactivity_all,USW,41,0.06,0.01,mcguire2021,Table 2
+Shigella IgG Breadth score,ab_igg_shigella_breadth_score,igg,Shigella,breadth_score,ETR,40,0.21,0.01,mcguire2021,Table 2
+Shigella IgG Breadth score,ab_igg_shigella_breadth_score,igg,Shigella,breadth_score,ETU,40,0.26,0.01,mcguire2021,Table 2
+Shigella IgG Breadth score,ab_igg_shigella_breadth_score,igg,Shigella,breadth_score,GBR,40,0.27,0.01,mcguire2021,Table 2
+Shigella IgG Breadth score,ab_igg_shigella_breadth_score,igg,Shigella,breadth_score,GBU,40,0.26,0.01,mcguire2021,Table 2
+Shigella IgG Breadth score,ab_igg_shigella_breadth_score,igg,Shigella,breadth_score,GN,40,0.27,0.01,mcguire2021,Table 2
+Shigella IgG Breadth score,ab_igg_shigella_breadth_score,igg,Shigella,breadth_score,KE,42,0.25,0.01,mcguire2021,Table 2
+Shigella IgG Breadth score,ab_igg_shigella_breadth_score,igg,Shigella,breadth_score,PE,43,0.3,0.01,mcguire2021,Table 2
+Shigella IgG Breadth score,ab_igg_shigella_breadth_score,igg,Shigella,breadth_score,SP,41,0.01,0,mcguire2021,Table 2
+Shigella IgG Breadth score,ab_igg_shigella_breadth_score,igg,Shigella,breadth_score,SW,24,0,0,mcguire2021,Table 2
+Shigella IgG Breadth score,ab_igg_shigella_breadth_score,igg,Shigella,breadth_score,USC,19,0.03,0.01,mcguire2021,Table 2
+Shigella IgG Breadth score,ab_igg_shigella_breadth_score,igg,Shigella,breadth_score,USW,41,0.01,0.01,mcguire2021,Table 2
+Shigella IgG Top 10 antigens,ab_igg_shigella_react_top10,igg,Shigella,reactivity_top10,ETR,40,3.24,0.21,mcguire2021,Table 2
+Shigella IgG Top 10 antigens,ab_igg_shigella_react_top10,igg,Shigella,reactivity_top10,ETU,40,4.17,0.2,mcguire2021,Table 2
+Shigella IgG Top 10 antigens,ab_igg_shigella_react_top10,igg,Shigella,reactivity_top10,GBR,40,4.16,0.16,mcguire2021,Table 2
+Shigella IgG Top 10 antigens,ab_igg_shigella_react_top10,igg,Shigella,reactivity_top10,GBU,40,4.11,0.2,mcguire2021,Table 2
+Shigella IgG Top 10 antigens,ab_igg_shigella_react_top10,igg,Shigella,reactivity_top10,GN,40,4.51,0.17,mcguire2021,Table 2
+Shigella IgG Top 10 antigens,ab_igg_shigella_react_top10,igg,Shigella,reactivity_top10,KE,42,4.24,0.23,mcguire2021,Table 2
+Shigella IgG Top 10 antigens,ab_igg_shigella_react_top10,igg,Shigella,reactivity_top10,PE,43,4.73,0.13,mcguire2021,Table 2
+Shigella IgG Top 10 antigens,ab_igg_shigella_react_top10,igg,Shigella,reactivity_top10,SP,41,0.16,0.06,mcguire2021,Table 2
+Shigella IgG Top 10 antigens,ab_igg_shigella_react_top10,igg,Shigella,reactivity_top10,SW,24,-0.02,0.01,mcguire2021,Table 2
+Shigella IgG Top 10 antigens,ab_igg_shigella_react_top10,igg,Shigella,reactivity_top10,USC,19,0.53,0.15,mcguire2021,Table 2
+Shigella IgG Top 10 antigens,ab_igg_shigella_react_top10,igg,Shigella,reactivity_top10,USW,41,0.18,0.12,mcguire2021,Table 2
+Shigella IgG All antigens,ab_igg_shigella_react_all,igg,Shigella,reactivity_all,ETR,40,0.64,0.05,mcguire2021,Table 2
+Shigella IgG All antigens,ab_igg_shigella_react_all,igg,Shigella,reactivity_all,ETU,40,0.95,0.05,mcguire2021,Table 2
+Shigella IgG All antigens,ab_igg_shigella_react_all,igg,Shigella,reactivity_all,GBR,40,0.95,0.05,mcguire2021,Table 2
+Shigella IgG All antigens,ab_igg_shigella_react_all,igg,Shigella,reactivity_all,GBU,40,0.95,0.06,mcguire2021,Table 2
+Shigella IgG All antigens,ab_igg_shigella_react_all,igg,Shigella,reactivity_all,GN,40,1.04,0.05,mcguire2021,Table 2
+Shigella IgG All antigens,ab_igg_shigella_react_all,igg,Shigella,reactivity_all,KE,42,0.98,0.07,mcguire2021,Table 2
+Shigella IgG All antigens,ab_igg_shigella_react_all,igg,Shigella,reactivity_all,PE,43,1.16,0.04,mcguire2021,Table 2
+Shigella IgG All antigens,ab_igg_shigella_react_all,igg,Shigella,reactivity_all,SP,41,0.02,0.02,mcguire2021,Table 2
+Shigella IgG All antigens,ab_igg_shigella_react_all,igg,Shigella,reactivity_all,SW,24,0,0.01,mcguire2021,Table 2
+Shigella IgG All antigens,ab_igg_shigella_react_all,igg,Shigella,reactivity_all,USC,19,0.08,0.03,mcguire2021,Table 2
+Shigella IgG All antigens,ab_igg_shigella_react_all,igg,Shigella,reactivity_all,USW,41,0.04,0.03,mcguire2021,Table 2
+S. enterica Typhi IgG Breadth score,ab_igg_s_enterica_typhi_breadth_score,igg,S. enterica Typhi,breadth_score,ETR,40,0.01,0,mcguire2021,Table 2
+S. enterica Typhi IgG Breadth score,ab_igg_s_enterica_typhi_breadth_score,igg,S. enterica Typhi,breadth_score,ETU,40,0.01,0,mcguire2021,Table 2
+S. enterica Typhi IgG Breadth score,ab_igg_s_enterica_typhi_breadth_score,igg,S. enterica Typhi,breadth_score,GBR,40,0.01,0,mcguire2021,Table 2
+S. enterica Typhi IgG Breadth score,ab_igg_s_enterica_typhi_breadth_score,igg,S. enterica Typhi,breadth_score,GBU,40,0.01,0,mcguire2021,Table 2
+S. enterica Typhi IgG Breadth score,ab_igg_s_enterica_typhi_breadth_score,igg,S. enterica Typhi,breadth_score,GN,40,0.02,0,mcguire2021,Table 2
+S. enterica Typhi IgG Breadth score,ab_igg_s_enterica_typhi_breadth_score,igg,S. enterica Typhi,breadth_score,KE,42,0.02,0,mcguire2021,Table 2
+S. enterica Typhi IgG Breadth score,ab_igg_s_enterica_typhi_breadth_score,igg,S. enterica Typhi,breadth_score,PE,43,0.01,0,mcguire2021,Table 2
+S. enterica Typhi IgG Breadth score,ab_igg_s_enterica_typhi_breadth_score,igg,S. enterica Typhi,breadth_score,SP,41,0,0,mcguire2021,Table 2
+S. enterica Typhi IgG Breadth score,ab_igg_s_enterica_typhi_breadth_score,igg,S. enterica Typhi,breadth_score,SW,24,0,0,mcguire2021,Table 2
+S. enterica Typhi IgG Breadth score,ab_igg_s_enterica_typhi_breadth_score,igg,S. enterica Typhi,breadth_score,USC,19,0,0,mcguire2021,Table 2
+S. enterica Typhi IgG Breadth score,ab_igg_s_enterica_typhi_breadth_score,igg,S. enterica Typhi,breadth_score,USW,41,0,0,mcguire2021,Table 2
+S. enterica Typhi IgG Top 10 antigens,ab_igg_s_enterica_typhi_react_top10,igg,S. enterica Typhi,reactivity_top10,ETR,40,0.18,0.02,mcguire2021,Table 2
+S. enterica Typhi IgG Top 10 antigens,ab_igg_s_enterica_typhi_react_top10,igg,S. enterica Typhi,reactivity_top10,ETU,40,0.31,0.02,mcguire2021,Table 2
+S. enterica Typhi IgG Top 10 antigens,ab_igg_s_enterica_typhi_react_top10,igg,S. enterica Typhi,reactivity_top10,GBR,40,0.41,0.04,mcguire2021,Table 2
+S. enterica Typhi IgG Top 10 antigens,ab_igg_s_enterica_typhi_react_top10,igg,S. enterica Typhi,reactivity_top10,GBU,40,0.4,0.04,mcguire2021,Table 2
+S. enterica Typhi IgG Top 10 antigens,ab_igg_s_enterica_typhi_react_top10,igg,S. enterica Typhi,reactivity_top10,GN,40,0.48,0.04,mcguire2021,Table 2
+S. enterica Typhi IgG Top 10 antigens,ab_igg_s_enterica_typhi_react_top10,igg,S. enterica Typhi,reactivity_top10,KE,42,0.38,0.04,mcguire2021,Table 2
+S. enterica Typhi IgG Top 10 antigens,ab_igg_s_enterica_typhi_react_top10,igg,S. enterica Typhi,reactivity_top10,PE,43,0.42,0.03,mcguire2021,Table 2
+S. enterica Typhi IgG Top 10 antigens,ab_igg_s_enterica_typhi_react_top10,igg,S. enterica Typhi,reactivity_top10,SP,41,0.16,0.01,mcguire2021,Table 2
+S. enterica Typhi IgG Top 10 antigens,ab_igg_s_enterica_typhi_react_top10,igg,S. enterica Typhi,reactivity_top10,SW,24,0.15,0.02,mcguire2021,Table 2
+S. enterica Typhi IgG Top 10 antigens,ab_igg_s_enterica_typhi_react_top10,igg,S. enterica Typhi,reactivity_top10,USC,19,0.19,0.04,mcguire2021,Table 2
+S. enterica Typhi IgG Top 10 antigens,ab_igg_s_enterica_typhi_react_top10,igg,S. enterica Typhi,reactivity_top10,USW,41,0.13,0.01,mcguire2021,Table 2
+S. enterica Typhi IgG All antigens,ab_igg_s_enterica_typhi_react_all,igg,S. enterica Typhi,reactivity_all,ETR,40,-0.05,0.01,mcguire2021,Table 2
+S. enterica Typhi IgG All antigens,ab_igg_s_enterica_typhi_react_all,igg,S. enterica Typhi,reactivity_all,ETU,40,0.01,0.01,mcguire2021,Table 2
+S. enterica Typhi IgG All antigens,ab_igg_s_enterica_typhi_react_all,igg,S. enterica Typhi,reactivity_all,GBR,40,0.02,0.01,mcguire2021,Table 2
+S. enterica Typhi IgG All antigens,ab_igg_s_enterica_typhi_react_all,igg,S. enterica Typhi,reactivity_all,GBU,40,0.03,0.01,mcguire2021,Table 2
+S. enterica Typhi IgG All antigens,ab_igg_s_enterica_typhi_react_all,igg,S. enterica Typhi,reactivity_all,GN,40,0.04,0.01,mcguire2021,Table 2
+S. enterica Typhi IgG All antigens,ab_igg_s_enterica_typhi_react_all,igg,S. enterica Typhi,reactivity_all,KE,42,0.03,0.01,mcguire2021,Table 2
+S. enterica Typhi IgG All antigens,ab_igg_s_enterica_typhi_react_all,igg,S. enterica Typhi,reactivity_all,PE,43,0.05,0.01,mcguire2021,Table 2
+S. enterica Typhi IgG All antigens,ab_igg_s_enterica_typhi_react_all,igg,S. enterica Typhi,reactivity_all,SP,41,-0.03,0.01,mcguire2021,Table 2
+S. enterica Typhi IgG All antigens,ab_igg_s_enterica_typhi_react_all,igg,S. enterica Typhi,reactivity_all,SW,24,-0.03,0.01,mcguire2021,Table 2
+S. enterica Typhi IgG All antigens,ab_igg_s_enterica_typhi_react_all,igg,S. enterica Typhi,reactivity_all,USC,19,-0.02,0.02,mcguire2021,Table 2
+S. enterica Typhi IgG All antigens,ab_igg_s_enterica_typhi_react_all,igg,S. enterica Typhi,reactivity_all,USW,41,-0.03,0.01,mcguire2021,Table 2
+S. aureus IgG Breadth score,ab_igg_s_aureus_breadth_score,igg,S. aureus,breadth_score,ETR,40,0.34,0.02,mcguire2021,Table 2
+S. aureus IgG Breadth score,ab_igg_s_aureus_breadth_score,igg,S. aureus,breadth_score,ETU,40,0.32,0.02,mcguire2021,Table 2
+S. aureus IgG Breadth score,ab_igg_s_aureus_breadth_score,igg,S. aureus,breadth_score,GBR,40,0.43,0.02,mcguire2021,Table 2
+S. aureus IgG Breadth score,ab_igg_s_aureus_breadth_score,igg,S. aureus,breadth_score,GBU,40,0.42,0.02,mcguire2021,Table 2
+S. aureus IgG Breadth score,ab_igg_s_aureus_breadth_score,igg,S. aureus,breadth_score,GN,40,0.42,0.01,mcguire2021,Table 2
+S. aureus IgG Breadth score,ab_igg_s_aureus_breadth_score,igg,S. aureus,breadth_score,KE,42,0.44,0.02,mcguire2021,Table 2
+S. aureus IgG Breadth score,ab_igg_s_aureus_breadth_score,igg,S. aureus,breadth_score,PE,43,0.38,0.02,mcguire2021,Table 2
+S. aureus IgG Breadth score,ab_igg_s_aureus_breadth_score,igg,S. aureus,breadth_score,SP,41,0.38,0.02,mcguire2021,Table 2
+S. aureus IgG Breadth score,ab_igg_s_aureus_breadth_score,igg,S. aureus,breadth_score,SW,24,0.42,0.02,mcguire2021,Table 2
+S. aureus IgG Breadth score,ab_igg_s_aureus_breadth_score,igg,S. aureus,breadth_score,USC,19,0.32,0.04,mcguire2021,Table 2
+S. aureus IgG Breadth score,ab_igg_s_aureus_breadth_score,igg,S. aureus,breadth_score,USW,41,0.37,0.02,mcguire2021,Table 2
+S. aureus IgG Top 10 antigens,ab_igg_s_aureus_react_top10,igg,S. aureus,reactivity_top10,ETR,40,3.16,0.13,mcguire2021,Table 2
+S. aureus IgG Top 10 antigens,ab_igg_s_aureus_react_top10,igg,S. aureus,reactivity_top10,ETU,40,2.8,0.11,mcguire2021,Table 2
+S. aureus IgG Top 10 antigens,ab_igg_s_aureus_react_top10,igg,S. aureus,reactivity_top10,GBR,40,3.58,0.11,mcguire2021,Table 2
+S. aureus IgG Top 10 antigens,ab_igg_s_aureus_react_top10,igg,S. aureus,reactivity_top10,GBU,40,3.42,0.12,mcguire2021,Table 2
+S. aureus IgG Top 10 antigens,ab_igg_s_aureus_react_top10,igg,S. aureus,reactivity_top10,GN,40,3.53,0.12,mcguire2021,Table 2
+S. aureus IgG Top 10 antigens,ab_igg_s_aureus_react_top10,igg,S. aureus,reactivity_top10,KE,42,3.55,0.14,mcguire2021,Table 2
+S. aureus IgG Top 10 antigens,ab_igg_s_aureus_react_top10,igg,S. aureus,reactivity_top10,PE,43,3,0.11,mcguire2021,Table 2
+S. aureus IgG Top 10 antigens,ab_igg_s_aureus_react_top10,igg,S. aureus,reactivity_top10,SP,41,2.75,0.11,mcguire2021,Table 2
+S. aureus IgG Top 10 antigens,ab_igg_s_aureus_react_top10,igg,S. aureus,reactivity_top10,SW,24,2.83,0.13,mcguire2021,Table 2
+S. aureus IgG Top 10 antigens,ab_igg_s_aureus_react_top10,igg,S. aureus,reactivity_top10,USC,19,2.45,0.2,mcguire2021,Table 2
+S. aureus IgG Top 10 antigens,ab_igg_s_aureus_react_top10,igg,S. aureus,reactivity_top10,USW,41,2.72,0.12,mcguire2021,Table 2
+S. aureus IgG All antigens,ab_igg_s_aureus_react_all,igg,S. aureus,reactivity_all,ETR,40,1,0.05,mcguire2021,Table 2
+S. aureus IgG All antigens,ab_igg_s_aureus_react_all,igg,S. aureus,reactivity_all,ETU,40,0.89,0.05,mcguire2021,Table 2
+S. aureus IgG All antigens,ab_igg_s_aureus_react_all,igg,S. aureus,reactivity_all,GBR,40,1.3,0.06,mcguire2021,Table 2
+S. aureus IgG All antigens,ab_igg_s_aureus_react_all,igg,S. aureus,reactivity_all,GBU,40,1.27,0.07,mcguire2021,Table 2
+S. aureus IgG All antigens,ab_igg_s_aureus_react_all,igg,S. aureus,reactivity_all,GN,40,1.25,0.05,mcguire2021,Table 2
+S. aureus IgG All antigens,ab_igg_s_aureus_react_all,igg,S. aureus,reactivity_all,KE,42,1.29,0.07,mcguire2021,Table 2
+S. aureus IgG All antigens,ab_igg_s_aureus_react_all,igg,S. aureus,reactivity_all,PE,43,1.09,0.05,mcguire2021,Table 2
+S. aureus IgG All antigens,ab_igg_s_aureus_react_all,igg,S. aureus,reactivity_all,SP,41,1.06,0.05,mcguire2021,Table 2
+S. aureus IgG All antigens,ab_igg_s_aureus_react_all,igg,S. aureus,reactivity_all,SW,24,1.14,0.07,mcguire2021,Table 2
+S. aureus IgG All antigens,ab_igg_s_aureus_react_all,igg,S. aureus,reactivity_all,USC,19,0.9,0.1,mcguire2021,Table 2
+S. aureus IgG All antigens,ab_igg_s_aureus_react_all,igg,S. aureus,reactivity_all,USW,41,1.03,0.06,mcguire2021,Table 2
+S. pneumoniae IgG Breadth score,ab_igg_s_pneumoniae_breadth_score,igg,S. pneumoniae,breadth_score,ETR,40,0.21,0.01,mcguire2021,Table 2
+S. pneumoniae IgG Breadth score,ab_igg_s_pneumoniae_breadth_score,igg,S. pneumoniae,breadth_score,ETU,40,0.23,0.01,mcguire2021,Table 2
+S. pneumoniae IgG Breadth score,ab_igg_s_pneumoniae_breadth_score,igg,S. pneumoniae,breadth_score,GBR,40,0.22,0.01,mcguire2021,Table 2
+S. pneumoniae IgG Breadth score,ab_igg_s_pneumoniae_breadth_score,igg,S. pneumoniae,breadth_score,GBU,40,0.2,0.01,mcguire2021,Table 2
+S. pneumoniae IgG Breadth score,ab_igg_s_pneumoniae_breadth_score,igg,S. pneumoniae,breadth_score,GN,40,0.18,0.01,mcguire2021,Table 2
+S. pneumoniae IgG Breadth score,ab_igg_s_pneumoniae_breadth_score,igg,S. pneumoniae,breadth_score,KE,42,0.23,0.01,mcguire2021,Table 2
+S. pneumoniae IgG Breadth score,ab_igg_s_pneumoniae_breadth_score,igg,S. pneumoniae,breadth_score,PE,43,0.24,0.01,mcguire2021,Table 2
+S. pneumoniae IgG Breadth score,ab_igg_s_pneumoniae_breadth_score,igg,S. pneumoniae,breadth_score,SP,41,0.16,0.01,mcguire2021,Table 2
+S. pneumoniae IgG Breadth score,ab_igg_s_pneumoniae_breadth_score,igg,S. pneumoniae,breadth_score,SW,24,0.16,0.01,mcguire2021,Table 2
+S. pneumoniae IgG Breadth score,ab_igg_s_pneumoniae_breadth_score,igg,S. pneumoniae,breadth_score,USC,19,0.17,0.02,mcguire2021,Table 2
+S. pneumoniae IgG Breadth score,ab_igg_s_pneumoniae_breadth_score,igg,S. pneumoniae,breadth_score,USW,41,0.14,0.01,mcguire2021,Table 2
+S. pneumoniae IgG Top 10 antigens,ab_igg_s_pneumoniae_react_top10,igg,S. pneumoniae,reactivity_top10,ETR,40,2.35,0.11,mcguire2021,Table 2
+S. pneumoniae IgG Top 10 antigens,ab_igg_s_pneumoniae_react_top10,igg,S. pneumoniae,reactivity_top10,ETU,40,2.38,0.07,mcguire2021,Table 2
+S. pneumoniae IgG Top 10 antigens,ab_igg_s_pneumoniae_react_top10,igg,S. pneumoniae,reactivity_top10,GBR,40,2.59,0.15,mcguire2021,Table 2
+S. pneumoniae IgG Top 10 antigens,ab_igg_s_pneumoniae_react_top10,igg,S. pneumoniae,reactivity_top10,GBU,40,2.38,0.13,mcguire2021,Table 2
+S. pneumoniae IgG Top 10 antigens,ab_igg_s_pneumoniae_react_top10,igg,S. pneumoniae,reactivity_top10,GN,40,2.17,0.11,mcguire2021,Table 2
+S. pneumoniae IgG Top 10 antigens,ab_igg_s_pneumoniae_react_top10,igg,S. pneumoniae,reactivity_top10,KE,42,2.6,0.11,mcguire2021,Table 2
+S. pneumoniae IgG Top 10 antigens,ab_igg_s_pneumoniae_react_top10,igg,S. pneumoniae,reactivity_top10,PE,43,2.35,0.09,mcguire2021,Table 2
+S. pneumoniae IgG Top 10 antigens,ab_igg_s_pneumoniae_react_top10,igg,S. pneumoniae,reactivity_top10,SP,41,1.99,0.09,mcguire2021,Table 2
+S. pneumoniae IgG Top 10 antigens,ab_igg_s_pneumoniae_react_top10,igg,S. pneumoniae,reactivity_top10,SW,24,1.94,0.12,mcguire2021,Table 2
+S. pneumoniae IgG Top 10 antigens,ab_igg_s_pneumoniae_react_top10,igg,S. pneumoniae,reactivity_top10,USC,19,1.98,0.18,mcguire2021,Table 2
+S. pneumoniae IgG Top 10 antigens,ab_igg_s_pneumoniae_react_top10,igg,S. pneumoniae,reactivity_top10,USW,41,1.81,0.1,mcguire2021,Table 2
+S. pneumoniae IgG All antigens,ab_igg_s_pneumoniae_react_all,igg,S. pneumoniae,reactivity_all,ETR,40,0.55,0.04,mcguire2021,Table 2
+S. pneumoniae IgG All antigens,ab_igg_s_pneumoniae_react_all,igg,S. pneumoniae,reactivity_all,ETU,40,0.61,0.02,mcguire2021,Table 2
+S. pneumoniae IgG All antigens,ab_igg_s_pneumoniae_react_all,igg,S. pneumoniae,reactivity_all,GBR,40,0.63,0.05,mcguire2021,Table 2
+S. pneumoniae IgG All antigens,ab_igg_s_pneumoniae_react_all,igg,S. pneumoniae,reactivity_all,GBU,40,0.57,0.04,mcguire2021,Table 2
+S. pneumoniae IgG All antigens,ab_igg_s_pneumoniae_react_all,igg,S. pneumoniae,reactivity_all,GN,40,0.5,0.03,mcguire2021,Table 2
+S. pneumoniae IgG All antigens,ab_igg_s_pneumoniae_react_all,igg,S. pneumoniae,reactivity_all,KE,42,0.66,0.04,mcguire2021,Table 2
+S. pneumoniae IgG All antigens,ab_igg_s_pneumoniae_react_all,igg,S. pneumoniae,reactivity_all,PE,43,0.65,0.03,mcguire2021,Table 2
+S. pneumoniae IgG All antigens,ab_igg_s_pneumoniae_react_all,igg,S. pneumoniae,reactivity_all,SP,41,0.48,0.02,mcguire2021,Table 2
+S. pneumoniae IgG All antigens,ab_igg_s_pneumoniae_react_all,igg,S. pneumoniae,reactivity_all,SW,24,0.48,0.04,mcguire2021,Table 2
+S. pneumoniae IgG All antigens,ab_igg_s_pneumoniae_react_all,igg,S. pneumoniae,reactivity_all,USC,19,0.5,0.06,mcguire2021,Table 2
+S. pneumoniae IgG All antigens,ab_igg_s_pneumoniae_react_all,igg,S. pneumoniae,reactivity_all,USW,41,0.45,0.03,mcguire2021,Table 2
+M. tuberculosis IgG Breadth score,ab_igg_m_tuberculosis_breadth_score,igg,M. tuberculosis,breadth_score,ETR,40,0,0,mcguire2021,Table 2
+M. tuberculosis IgG Breadth score,ab_igg_m_tuberculosis_breadth_score,igg,M. tuberculosis,breadth_score,ETU,40,0,0,mcguire2021,Table 2
+M. tuberculosis IgG Breadth score,ab_igg_m_tuberculosis_breadth_score,igg,M. tuberculosis,breadth_score,GBR,40,0.01,0,mcguire2021,Table 2
+M. tuberculosis IgG Breadth score,ab_igg_m_tuberculosis_breadth_score,igg,M. tuberculosis,breadth_score,GBU,40,0.01,0,mcguire2021,Table 2
+M. tuberculosis IgG Breadth score,ab_igg_m_tuberculosis_breadth_score,igg,M. tuberculosis,breadth_score,GN,40,0.01,0,mcguire2021,Table 2
+M. tuberculosis IgG Breadth score,ab_igg_m_tuberculosis_breadth_score,igg,M. tuberculosis,breadth_score,KE,42,0.02,0.01,mcguire2021,Table 2
+M. tuberculosis IgG Breadth score,ab_igg_m_tuberculosis_breadth_score,igg,M. tuberculosis,breadth_score,PE,43,0.01,0,mcguire2021,Table 2
+M. tuberculosis IgG Breadth score,ab_igg_m_tuberculosis_breadth_score,igg,M. tuberculosis,breadth_score,SP,41,0.01,0,mcguire2021,Table 2
+M. tuberculosis IgG Breadth score,ab_igg_m_tuberculosis_breadth_score,igg,M. tuberculosis,breadth_score,SW,24,0.01,0,mcguire2021,Table 2
+M. tuberculosis IgG Breadth score,ab_igg_m_tuberculosis_breadth_score,igg,M. tuberculosis,breadth_score,USC,19,0.01,0,mcguire2021,Table 2
+M. tuberculosis IgG Breadth score,ab_igg_m_tuberculosis_breadth_score,igg,M. tuberculosis,breadth_score,USW,41,0.01,0,mcguire2021,Table 2
+M. tuberculosis IgG Top 10 antigens,ab_igg_m_tuberculosis_react_top10,igg,M. tuberculosis,reactivity_top10,ETR,40,0.26,0.02,mcguire2021,Table 2
+M. tuberculosis IgG Top 10 antigens,ab_igg_m_tuberculosis_react_top10,igg,M. tuberculosis,reactivity_top10,ETU,40,0.28,0.02,mcguire2021,Table 2
+M. tuberculosis IgG Top 10 antigens,ab_igg_m_tuberculosis_react_top10,igg,M. tuberculosis,reactivity_top10,GBR,40,0.38,0.03,mcguire2021,Table 2
+M. tuberculosis IgG Top 10 antigens,ab_igg_m_tuberculosis_react_top10,igg,M. tuberculosis,reactivity_top10,GBU,40,0.38,0.03,mcguire2021,Table 2
+M. tuberculosis IgG Top 10 antigens,ab_igg_m_tuberculosis_react_top10,igg,M. tuberculosis,reactivity_top10,GN,40,0.42,0.03,mcguire2021,Table 2
+M. tuberculosis IgG Top 10 antigens,ab_igg_m_tuberculosis_react_top10,igg,M. tuberculosis,reactivity_top10,KE,42,0.43,0.04,mcguire2021,Table 2
+M. tuberculosis IgG Top 10 antigens,ab_igg_m_tuberculosis_react_top10,igg,M. tuberculosis,reactivity_top10,PE,43,0.37,0.03,mcguire2021,Table 2
+M. tuberculosis IgG Top 10 antigens,ab_igg_m_tuberculosis_react_top10,igg,M. tuberculosis,reactivity_top10,SP,41,0.32,0.02,mcguire2021,Table 2
+M. tuberculosis IgG Top 10 antigens,ab_igg_m_tuberculosis_react_top10,igg,M. tuberculosis,reactivity_top10,SW,24,0.36,0.04,mcguire2021,Table 2
+M. tuberculosis IgG Top 10 antigens,ab_igg_m_tuberculosis_react_top10,igg,M. tuberculosis,reactivity_top10,USC,19,0.35,0.04,mcguire2021,Table 2
+M. tuberculosis IgG Top 10 antigens,ab_igg_m_tuberculosis_react_top10,igg,M. tuberculosis,reactivity_top10,USW,41,0.34,0.03,mcguire2021,Table 2
+M. tuberculosis IgG All antigens,ab_igg_m_tuberculosis_react_all,igg,M. tuberculosis,reactivity_all,ETR,40,0.05,0.01,mcguire2021,Table 2
+M. tuberculosis IgG All antigens,ab_igg_m_tuberculosis_react_all,igg,M. tuberculosis,reactivity_all,ETU,40,0.08,0.01,mcguire2021,Table 2
+M. tuberculosis IgG All antigens,ab_igg_m_tuberculosis_react_all,igg,M. tuberculosis,reactivity_all,GBR,40,0.11,0.01,mcguire2021,Table 2
+M. tuberculosis IgG All antigens,ab_igg_m_tuberculosis_react_all,igg,M. tuberculosis,reactivity_all,GBU,40,0.13,0.02,mcguire2021,Table 2
+M. tuberculosis IgG All antigens,ab_igg_m_tuberculosis_react_all,igg,M. tuberculosis,reactivity_all,GN,40,0.13,0.02,mcguire2021,Table 2
+M. tuberculosis IgG All antigens,ab_igg_m_tuberculosis_react_all,igg,M. tuberculosis,reactivity_all,KE,42,0.13,0.02,mcguire2021,Table 2
+M. tuberculosis IgG All antigens,ab_igg_m_tuberculosis_react_all,igg,M. tuberculosis,reactivity_all,PE,43,0.13,0.01,mcguire2021,Table 2
+M. tuberculosis IgG All antigens,ab_igg_m_tuberculosis_react_all,igg,M. tuberculosis,reactivity_all,SP,41,0.12,0.01,mcguire2021,Table 2
+M. tuberculosis IgG All antigens,ab_igg_m_tuberculosis_react_all,igg,M. tuberculosis,reactivity_all,SW,24,0.14,0.01,mcguire2021,Table 2
+M. tuberculosis IgG All antigens,ab_igg_m_tuberculosis_react_all,igg,M. tuberculosis,reactivity_all,USC,19,0.1,0.02,mcguire2021,Table 2
+M. tuberculosis IgG All antigens,ab_igg_m_tuberculosis_react_all,igg,M. tuberculosis,reactivity_all,USW,41,0.13,0.01,mcguire2021,Table 2

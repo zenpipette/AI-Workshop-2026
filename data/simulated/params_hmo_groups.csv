@@ -1,0 +1,89 @@
+analyte,analyte_id,cohort,n,mean,sem,paper,table
+HMO-bound sialic acid,hmo_grp_hmo_bound_sialic_acid_nmol_ml,ETR,40,2010,163,mcguire2017,Table 3
+HMO-bound sialic acid,hmo_grp_hmo_bound_sialic_acid_nmol_ml,ETU,40,3179,158,mcguire2017,Table 3
+HMO-bound sialic acid,hmo_grp_hmo_bound_sialic_acid_nmol_ml,GBR,40,3570,181,mcguire2017,Table 3
+HMO-bound sialic acid,hmo_grp_hmo_bound_sialic_acid_nmol_ml,GBU,40,2941,212,mcguire2017,Table 3
+HMO-bound sialic acid,hmo_grp_hmo_bound_sialic_acid_nmol_ml,GN,40,3605,235,mcguire2017,Table 3
+HMO-bound sialic acid,hmo_grp_hmo_bound_sialic_acid_nmol_ml,KE,42,2704,157,mcguire2017,Table 3
+HMO-bound sialic acid,hmo_grp_hmo_bound_sialic_acid_nmol_ml,PE,43,2640,180,mcguire2017,Table 3
+HMO-bound sialic acid,hmo_grp_hmo_bound_sialic_acid_nmol_ml,SP,41,2835,150,mcguire2017,Table 3
+HMO-bound sialic acid,hmo_grp_hmo_bound_sialic_acid_nmol_ml,SW,24,1606,96,mcguire2017,Table 3
+HMO-bound sialic acid,hmo_grp_hmo_bound_sialic_acid_nmol_ml,USW,41,2968,153,mcguire2017,Table 3
+HMO-bound sialic acid,hmo_grp_hmo_bound_sialic_acid_nmol_ml,USC,19,1705,106,mcguire2017,Table 3
+HMO-bound fucose,hmo_grp_hmo_bound_fucose_nmol_ml,ETR,40,7226,608,mcguire2017,Table 3
+HMO-bound fucose,hmo_grp_hmo_bound_fucose_nmol_ml,ETU,40,9198,621,mcguire2017,Table 3
+HMO-bound fucose,hmo_grp_hmo_bound_fucose_nmol_ml,GBR,40,9074,665,mcguire2017,Table 3
+HMO-bound fucose,hmo_grp_hmo_bound_fucose_nmol_ml,GBU,40,10558,614,mcguire2017,Table 3
+HMO-bound fucose,hmo_grp_hmo_bound_fucose_nmol_ml,GN,40,7474,679,mcguire2017,Table 3
+HMO-bound fucose,hmo_grp_hmo_bound_fucose_nmol_ml,KE,42,9415,659,mcguire2017,Table 3
+HMO-bound fucose,hmo_grp_hmo_bound_fucose_nmol_ml,PE,43,12797,1090,mcguire2017,Table 3
+HMO-bound fucose,hmo_grp_hmo_bound_fucose_nmol_ml,SP,41,11254,640,mcguire2017,Table 3
+HMO-bound fucose,hmo_grp_hmo_bound_fucose_nmol_ml,SW,24,13679,866,mcguire2017,Table 3
+HMO-bound fucose,hmo_grp_hmo_bound_fucose_nmol_ml,USW,41,10953,603,mcguire2017,Table 3
+HMO-bound fucose,hmo_grp_hmo_bound_fucose_nmol_ml,USC,19,13963,872,mcguire2017,Table 3
+Small HMOs,hmo_grp_small_hmos_nmol_ml,ETR,40,3240,357,mcguire2017,Table 3
+Small HMOs,hmo_grp_small_hmos_nmol_ml,ETU,40,4108,383,mcguire2017,Table 3
+Small HMOs,hmo_grp_small_hmos_nmol_ml,GBR,40,3980,466,mcguire2017,Table 3
+Small HMOs,hmo_grp_small_hmos_nmol_ml,GBU,40,5471,520,mcguire2017,Table 3
+Small HMOs,hmo_grp_small_hmos_nmol_ml,GN,40,3138,266,mcguire2017,Table 3
+Small HMOs,hmo_grp_small_hmos_nmol_ml,KE,42,4538,440,mcguire2017,Table 3
+Small HMOs,hmo_grp_small_hmos_nmol_ml,PE,43,7900,441,mcguire2017,Table 3
+Small HMOs,hmo_grp_small_hmos_nmol_ml,SP,41,5223,481,mcguire2017,Table 3
+Small HMOs,hmo_grp_small_hmos_nmol_ml,SW,24,6800,813,mcguire2017,Table 3
+Small HMOs,hmo_grp_small_hmos_nmol_ml,USW,41,5245,552,mcguire2017,Table 3
+Small HMOs,hmo_grp_small_hmos_nmol_ml,USC,19,8199,947,mcguire2017,Table 3
+Type 1,hmo_grp_type_1_nmol_ml,ETR,40,4222,281,mcguire2017,Table 3
+Type 1,hmo_grp_type_1_nmol_ml,ETU,40,5029,242,mcguire2017,Table 3
+Type 1,hmo_grp_type_1_nmol_ml,GBR,40,6344,345,mcguire2017,Table 3
+Type 1,hmo_grp_type_1_nmol_ml,GBU,40,5043,317,mcguire2017,Table 3
+Type 1,hmo_grp_type_1_nmol_ml,GN,40,4984,346,mcguire2017,Table 3
+Type 1,hmo_grp_type_1_nmol_ml,KE,42,4751,297,mcguire2017,Table 3
+Type 1,hmo_grp_type_1_nmol_ml,PE,43,3499,249,mcguire2017,Table 3
+Type 1,hmo_grp_type_1_nmol_ml,SP,41,5089,337,mcguire2017,Table 3
+Type 1,hmo_grp_type_1_nmol_ml,SW,24,5776,380,mcguire2017,Table 3
+Type 1,hmo_grp_type_1_nmol_ml,USW,41,4634,268,mcguire2017,Table 3
+Type 1,hmo_grp_type_1_nmol_ml,USC,19,4400,297,mcguire2017,Table 3
+Type 2,hmo_grp_type_2_nmol_ml,ETR,40,983,73,mcguire2017,Table 3
+Type 2,hmo_grp_type_2_nmol_ml,ETU,40,1120,64,mcguire2017,Table 3
+Type 2,hmo_grp_type_2_nmol_ml,GBR,40,1622,124,mcguire2017,Table 3
+Type 2,hmo_grp_type_2_nmol_ml,GBU,40,957,69,mcguire2017,Table 3
+Type 2,hmo_grp_type_2_nmol_ml,GN,40,1159,81,mcguire2017,Table 3
+Type 2,hmo_grp_type_2_nmol_ml,KE,42,1277,109,mcguire2017,Table 3
+Type 2,hmo_grp_type_2_nmol_ml,PE,43,824,65,mcguire2017,Table 3
+Type 2,hmo_grp_type_2_nmol_ml,SP,41,652,48,mcguire2017,Table 3
+Type 2,hmo_grp_type_2_nmol_ml,SW,24,1215,93,mcguire2017,Table 3
+Type 2,hmo_grp_type_2_nmol_ml,USW,41,913,48,mcguire2017,Table 3
+Type 2,hmo_grp_type_2_nmol_ml,USC,19,972,90,mcguire2017,Table 3
+"a-1,2",hmo_grp_a_1_2_nmol_ml,ETR,40,3169,520,mcguire2017,Table 3
+"a-1,2",hmo_grp_a_1_2_nmol_ml,ETU,40,4129,515,mcguire2017,Table 3
+"a-1,2",hmo_grp_a_1_2_nmol_ml,GBR,40,4103,609,mcguire2017,Table 3
+"a-1,2",hmo_grp_a_1_2_nmol_ml,GBU,40,5562,690,mcguire2017,Table 3
+"a-1,2",hmo_grp_a_1_2_nmol_ml,GN,40,2731,386,mcguire2017,Table 3
+"a-1,2",hmo_grp_a_1_2_nmol_ml,KE,42,4302,546,mcguire2017,Table 3
+"a-1,2",hmo_grp_a_1_2_nmol_ml,PE,43,7644,505,mcguire2017,Table 3
+"a-1,2",hmo_grp_a_1_2_nmol_ml,SP,41,4962,605,mcguire2017,Table 3
+"a-1,2",hmo_grp_a_1_2_nmol_ml,SW,24,7056,855,mcguire2017,Table 3
+"a-1,2",hmo_grp_a_1_2_nmol_ml,USW,41,5009,634,mcguire2017,Table 3
+"a-1,2",hmo_grp_a_1_2_nmol_ml,USC,19,8412,904,mcguire2017,Table 3
+"a-1,3",hmo_grp_a_1_3_nmol_ml,ETR,40,232,26,mcguire2017,Table 3
+"a-1,3",hmo_grp_a_1_3_nmol_ml,ETU,40,208,41,mcguire2017,Table 3
+"a-1,3",hmo_grp_a_1_3_nmol_ml,GBR,40,143,16,mcguire2017,Table 3
+"a-1,3",hmo_grp_a_1_3_nmol_ml,GBU,40,192,20,mcguire2017,Table 3
+"a-1,3",hmo_grp_a_1_3_nmol_ml,GN,40,239,33,mcguire2017,Table 3
+"a-1,3",hmo_grp_a_1_3_nmol_ml,KE,42,241.2,26.5,mcguire2017,Table 3
+"a-1,3",hmo_grp_a_1_3_nmol_ml,PE,43,262,32,mcguire2017,Table 3
+"a-1,3",hmo_grp_a_1_3_nmol_ml,SP,41,238,24,mcguire2017,Table 3
+"a-1,3",hmo_grp_a_1_3_nmol_ml,SW,24,742,47,mcguire2017,Table 3
+"a-1,3",hmo_grp_a_1_3_nmol_ml,USW,41,147,13,mcguire2017,Table 3
+"a-1,3",hmo_grp_a_1_3_nmol_ml,USC,19,464,44,mcguire2017,Table 3
+"a-2,6",hmo_grp_a_2_6_nmol_ml,ETR,40,2,9,mcguire2017,Table 3
+"a-2,6",hmo_grp_a_2_6_nmol_ml,ETU,40,561,80,mcguire2017,Table 3
+"a-2,6",hmo_grp_a_2_6_nmol_ml,GBR,40,793,58,mcguire2017,Table 3
+"a-2,6",hmo_grp_a_2_6_nmol_ml,GBU,40,753,46,mcguire2017,Table 3
+"a-2,6",hmo_grp_a_2_6_nmol_ml,GN,40,828,84,mcguire2017,Table 3
+"a-2,6",hmo_grp_a_2_6_nmol_ml,KE,42,1251,110,mcguire2017,Table 3
+"a-2,6",hmo_grp_a_2_6_nmol_ml,PE,43,680,49,mcguire2017,Table 3
+"a-2,6",hmo_grp_a_2_6_nmol_ml,SP,41,859,75,mcguire2017,Table 3
+"a-2,6",hmo_grp_a_2_6_nmol_ml,SW,24,681,53,mcguire2017,Table 3
+"a-2,6",hmo_grp_a_2_6_nmol_ml,USW,41,431,32,mcguire2017,Table 3
+"a-2,6",hmo_grp_a_2_6_nmol_ml,USC,19,595,44,mcguire2017,Table 3

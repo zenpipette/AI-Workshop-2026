@@ -1,0 +1,89 @@
+analyte,analyte_id,layer,cohort,n,mean,sem,paper,table
+Richness,fecal_div_richness,fecal_microbiome,ETR,40,36,1,lackey2019,Table 4
+Richness,fecal_div_richness,fecal_microbiome,ETU,32,31,1,lackey2019,Table 4
+Richness,fecal_div_richness,fecal_microbiome,GBR,38,37,1,lackey2019,Table 4
+Richness,fecal_div_richness,fecal_microbiome,GBU,38,38,1,lackey2019,Table 4
+Richness,fecal_div_richness,fecal_microbiome,GN,32,32,1,lackey2019,Table 4
+Richness,fecal_div_richness,fecal_microbiome,KE,42,42,1,lackey2019,Table 4
+Richness,fecal_div_richness,fecal_microbiome,PE,42,32,1,lackey2019,Table 4
+Richness,fecal_div_richness,fecal_microbiome,SP,37,30,1,lackey2019,Table 4
+Richness,fecal_div_richness,fecal_microbiome,SW,23,35,1,lackey2019,Table 4
+Richness,fecal_div_richness,fecal_microbiome,USC,12,20,1,lackey2019,Table 4
+Richness,fecal_div_richness,fecal_microbiome,USW,41,34,1,lackey2019,Table 4
+Shannon diversity,fecal_div_shannon_diversity,fecal_microbiome,ETR,40,2.51,1.04,lackey2019,Table 4
+Shannon diversity,fecal_div_shannon_diversity,fecal_microbiome,ETU,32,2.55,1.04,lackey2019,Table 4
+Shannon diversity,fecal_div_shannon_diversity,fecal_microbiome,GBR,38,2.62,1.04,lackey2019,Table 4
+Shannon diversity,fecal_div_shannon_diversity,fecal_microbiome,GBU,38,2.6,1.04,lackey2019,Table 4
+Shannon diversity,fecal_div_shannon_diversity,fecal_microbiome,GN,32,2.08,1.04,lackey2019,Table 4
+Shannon diversity,fecal_div_shannon_diversity,fecal_microbiome,KE,42,2.76,1.04,lackey2019,Table 4
+Shannon diversity,fecal_div_shannon_diversity,fecal_microbiome,PE,42,2.48,1.04,lackey2019,Table 4
+Shannon diversity,fecal_div_shannon_diversity,fecal_microbiome,SP,37,2.36,1.04,lackey2019,Table 4
+Shannon diversity,fecal_div_shannon_diversity,fecal_microbiome,SW,23,2.51,1.05,lackey2019,Table 4
+Shannon diversity,fecal_div_shannon_diversity,fecal_microbiome,USC,12,1.95,1.07,lackey2019,Table 4
+Shannon diversity,fecal_div_shannon_diversity,fecal_microbiome,USW,41,2.37,1.04,lackey2019,Table 4
+Inverse Simpson diversity,fecal_div_inverse_simpson_diversity,fecal_microbiome,ETR,40,7.94,1.09,lackey2019,Table 4
+Inverse Simpson diversity,fecal_div_inverse_simpson_diversity,fecal_microbiome,ETU,32,8.64,1.1,lackey2019,Table 4
+Inverse Simpson diversity,fecal_div_inverse_simpson_diversity,fecal_microbiome,GBR,38,8.88,1.09,lackey2019,Table 4
+Inverse Simpson diversity,fecal_div_inverse_simpson_diversity,fecal_microbiome,GBU,38,8.38,1.09,lackey2019,Table 4
+Inverse Simpson diversity,fecal_div_inverse_simpson_diversity,fecal_microbiome,GN,32,5.04,1.1,lackey2019,Table 4
+Inverse Simpson diversity,fecal_div_inverse_simpson_diversity,fecal_microbiome,KE,42,10.14,1.09,lackey2019,Table 4
+Inverse Simpson diversity,fecal_div_inverse_simpson_diversity,fecal_microbiome,PE,42,7.82,1.09,lackey2019,Table 4
+Inverse Simpson diversity,fecal_div_inverse_simpson_diversity,fecal_microbiome,SP,37,7.18,1.09,lackey2019,Table 4
+Inverse Simpson diversity,fecal_div_inverse_simpson_diversity,fecal_microbiome,SW,23,8.22,1.12,lackey2019,Table 4
+Inverse Simpson diversity,fecal_div_inverse_simpson_diversity,fecal_microbiome,USC,12,5.67,1.17,lackey2019,Table 4
+Inverse Simpson diversity,fecal_div_inverse_simpson_diversity,fecal_microbiome,USW,41,7.25,1.09,lackey2019,Table 4
+Fisher diversity,fecal_div_fisher_diversity,fecal_microbiome,ETR,40,7.42,1.06,lackey2019,Table 4
+Fisher diversity,fecal_div_fisher_diversity,fecal_microbiome,ETU,32,6.2,1.07,lackey2019,Table 4
+Fisher diversity,fecal_div_fisher_diversity,fecal_microbiome,GBR,38,7.52,1.06,lackey2019,Table 4
+Fisher diversity,fecal_div_fisher_diversity,fecal_microbiome,GBU,38,7.97,1.06,lackey2019,Table 4
+Fisher diversity,fecal_div_fisher_diversity,fecal_microbiome,GN,32,6.42,1.07,lackey2019,Table 4
+Fisher diversity,fecal_div_fisher_diversity,fecal_microbiome,KE,42,8.96,1.06,lackey2019,Table 4
+Fisher diversity,fecal_div_fisher_diversity,fecal_microbiome,PE,42,6.35,1.06,lackey2019,Table 4
+Fisher diversity,fecal_div_fisher_diversity,fecal_microbiome,SP,37,5.78,1.06,lackey2019,Table 4
+Fisher diversity,fecal_div_fisher_diversity,fecal_microbiome,SW,23,7.02,1.08,lackey2019,Table 4
+Fisher diversity,fecal_div_fisher_diversity,fecal_microbiome,USC,12,3.65,1.12,lackey2019,Table 4
+Fisher diversity,fecal_div_fisher_diversity,fecal_microbiome,USW,41,6.83,1.06,lackey2019,Table 4
+Richness,milk_div_richness,milk_microbiome,ETR,40,85,1,lackey2019,Table 4
+Richness,milk_div_richness,milk_microbiome,ETU,34,52,1,lackey2019,Table 4
+Richness,milk_div_richness,milk_microbiome,GBR,39,57,1,lackey2019,Table 4
+Richness,milk_div_richness,milk_microbiome,GBU,38,56,1,lackey2019,Table 4
+Richness,milk_div_richness,milk_microbiome,GN,37,21,1,lackey2019,Table 4
+Richness,milk_div_richness,milk_microbiome,KE,42,59,1,lackey2019,Table 4
+Richness,milk_div_richness,milk_microbiome,PE,43,42,1,lackey2019,Table 4
+Richness,milk_div_richness,milk_microbiome,SP,40,39,1,lackey2019,Table 4
+Richness,milk_div_richness,milk_microbiome,SW,23,36,1,lackey2019,Table 4
+Richness,milk_div_richness,milk_microbiome,USC,19,28,1,lackey2019,Table 4
+Richness,milk_div_richness,milk_microbiome,USW,39,44,1,lackey2019,Table 4
+Shannon diversity,milk_div_shannon_diversity,milk_microbiome,ETR,40,3.16,0.13,lackey2019,Table 4
+Shannon diversity,milk_div_shannon_diversity,milk_microbiome,ETU,34,2.9,0.14,lackey2019,Table 4
+Shannon diversity,milk_div_shannon_diversity,milk_microbiome,GBR,39,3.09,0.13,lackey2019,Table 4
+Shannon diversity,milk_div_shannon_diversity,milk_microbiome,GBU,38,3.11,0.13,lackey2019,Table 4
+Shannon diversity,milk_div_shannon_diversity,milk_microbiome,GN,37,2.05,0.13,lackey2019,Table 4
+Shannon diversity,milk_div_shannon_diversity,milk_microbiome,KE,42,2.96,0.12,lackey2019,Table 4
+Shannon diversity,milk_div_shannon_diversity,milk_microbiome,PE,43,2.5,0.12,lackey2019,Table 4
+Shannon diversity,milk_div_shannon_diversity,milk_microbiome,SP,40,2.52,0.13,lackey2019,Table 4
+Shannon diversity,milk_div_shannon_diversity,milk_microbiome,SW,23,2.34,0.16,lackey2019,Table 4
+Shannon diversity,milk_div_shannon_diversity,milk_microbiome,USC,19,2.33,0.18,lackey2019,Table 4
+Shannon diversity,milk_div_shannon_diversity,milk_microbiome,USW,39,2.67,0.13,lackey2019,Table 4
+Inverse Simpson diversity,milk_div_inverse_simpson_diversity,milk_microbiome,ETR,40,10.32,1.13,lackey2019,Table 4
+Inverse Simpson diversity,milk_div_inverse_simpson_diversity,milk_microbiome,ETU,34,9.7,1.14,lackey2019,Table 4
+Inverse Simpson diversity,milk_div_inverse_simpson_diversity,milk_microbiome,GBR,39,11.44,1.13,lackey2019,Table 4
+Inverse Simpson diversity,milk_div_inverse_simpson_diversity,milk_microbiome,GBU,38,12.08,1.13,lackey2019,Table 4
+Inverse Simpson diversity,milk_div_inverse_simpson_diversity,milk_microbiome,GN,37,5.44,1.13,lackey2019,Table 4
+Inverse Simpson diversity,milk_div_inverse_simpson_diversity,milk_microbiome,KE,42,9.36,1.12,lackey2019,Table 4
+Inverse Simpson diversity,milk_div_inverse_simpson_diversity,milk_microbiome,PE,43,6.49,1.12,lackey2019,Table 4
+Inverse Simpson diversity,milk_div_inverse_simpson_diversity,milk_microbiome,SP,40,7.08,1.13,lackey2019,Table 4
+Inverse Simpson diversity,milk_div_inverse_simpson_diversity,milk_microbiome,SW,23,5.46,1.17,lackey2019,Table 4
+Inverse Simpson diversity,milk_div_inverse_simpson_diversity,milk_microbiome,USC,19,6.22,1.19,lackey2019,Table 4
+Inverse Simpson diversity,milk_div_inverse_simpson_diversity,milk_microbiome,USW,39,7.95,1.13,lackey2019,Table 4
+Fisher diversity,milk_div_fisher_diversity,milk_microbiome,ETR,40,22.71,1.12,lackey2019,Table 4
+Fisher diversity,milk_div_fisher_diversity,milk_microbiome,ETU,34,11.84,1.14,lackey2019,Table 4
+Fisher diversity,milk_div_fisher_diversity,milk_microbiome,GBR,39,13.47,1.13,lackey2019,Table 4
+Fisher diversity,milk_div_fisher_diversity,milk_microbiome,GBU,38,12.98,1.13,lackey2019,Table 4
+Fisher diversity,milk_div_fisher_diversity,milk_microbiome,GN,37,3.93,1.13,lackey2019,Table 4
+Fisher diversity,milk_div_fisher_diversity,milk_microbiome,KE,42,14,1.12,lackey2019,Table 4
+Fisher diversity,milk_div_fisher_diversity,milk_microbiome,PE,43,8.87,1.12,lackey2019,Table 4
+Fisher diversity,milk_div_fisher_diversity,milk_microbiome,SP,40,8.07,1.12,lackey2019,Table 4
+Fisher diversity,milk_div_fisher_diversity,milk_microbiome,SW,23,7.4,1.16,lackey2019,Table 4
+Fisher diversity,milk_div_fisher_diversity,milk_microbiome,USC,19,5.3,1.19,lackey2019,Table 4
+Fisher diversity,milk_div_fisher_diversity,milk_microbiome,USW,39,9.47,1.13,lackey2019,Table 4

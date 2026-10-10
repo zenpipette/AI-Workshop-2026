@@ -1,0 +1,309 @@
+analyte,analyte_id,cohort,n,mean,sem,paper,table,prev_pct
+Streptococcus,fecal_g_streptococcus_pct,ETR,40,18.2,2.4,lackey2019,Table 2,100
+Streptococcus,fecal_g_streptococcus_pct,ETU,32,16,2.4,lackey2019,Table 2,96.9
+Streptococcus,fecal_g_streptococcus_pct,GBR,38,27.7,3.1,lackey2019,Table 2,100
+Streptococcus,fecal_g_streptococcus_pct,GBU,38,33.6,3.4,lackey2019,Table 2,100
+Streptococcus,fecal_g_streptococcus_pct,GN,32,12.3,2,lackey2019,Table 2,100
+Streptococcus,fecal_g_streptococcus_pct,KE,42,16.5,2.2,lackey2019,Table 2,100
+Streptococcus,fecal_g_streptococcus_pct,PE,42,15.7,2.1,lackey2019,Table 2,100
+Streptococcus,fecal_g_streptococcus_pct,SP,37,12.5,1.9,lackey2019,Table 2,97.3
+Streptococcus,fecal_g_streptococcus_pct,SW,23,9,1.8,lackey2019,Table 2,95.7
+Streptococcus,fecal_g_streptococcus_pct,USC,12,7.1,2,lackey2019,Table 2,83.3
+Streptococcus,fecal_g_streptococcus_pct,USW,41,12.1,1.8,lackey2019,Table 2,97.6
+Escherichia/Shigella,fecal_g_escherichia_shigella_pct,ETR,40,19,2.7,lackey2019,Table 2,100
+Escherichia/Shigella,fecal_g_escherichia_shigella_pct,ETU,32,22,3.3,lackey2019,Table 2,96.9
+Escherichia/Shigella,fecal_g_escherichia_shigella_pct,GBR,38,13.5,2.1,lackey2019,Table 2,89.5
+Escherichia/Shigella,fecal_g_escherichia_shigella_pct,GBU,38,13.6,2.1,lackey2019,Table 2,86.8
+Escherichia/Shigella,fecal_g_escherichia_shigella_pct,GN,32,17.5,2.8,lackey2019,Table 2,96.9
+Escherichia/Shigella,fecal_g_escherichia_shigella_pct,KE,42,19,2.7,lackey2019,Table 2,95.2
+Escherichia/Shigella,fecal_g_escherichia_shigella_pct,PE,42,19.9,2.7,lackey2019,Table 2,97.6
+Escherichia/Shigella,fecal_g_escherichia_shigella_pct,SP,37,16.7,2.6,lackey2019,Table 2,86.5
+Escherichia/Shigella,fecal_g_escherichia_shigella_pct,SW,23,12,2.4,lackey2019,Table 2,91.3
+Escherichia/Shigella,fecal_g_escherichia_shigella_pct,USC,12,9.2,2.6,lackey2019,Table 2,75
+Escherichia/Shigella,fecal_g_escherichia_shigella_pct,USW,41,10,1.6,lackey2019,Table 2,80.5
+Veillonella,fecal_g_veillonella_pct,ETR,40,13.7,2,lackey2019,Table 2,95
+Veillonella,fecal_g_veillonella_pct,ETU,32,9.8,1.7,lackey2019,Table 2,84.4
+Veillonella,fecal_g_veillonella_pct,GBR,38,13.2,2.1,lackey2019,Table 2,94.7
+Veillonella,fecal_g_veillonella_pct,GBU,38,11.9,1.9,lackey2019,Table 2,94.7
+Veillonella,fecal_g_veillonella_pct,GN,32,5.6,1,lackey2019,Table 2,75
+Veillonella,fecal_g_veillonella_pct,KE,42,14.3,2,lackey2019,Table 2,90.5
+Veillonella,fecal_g_veillonella_pct,PE,42,14.3,2.1,lackey2019,Table 2,92.9
+Veillonella,fecal_g_veillonella_pct,SP,37,13.6,2.1,lackey2019,Table 2,94.6
+Veillonella,fecal_g_veillonella_pct,SW,23,10.9,2.2,lackey2019,Table 2,87
+Veillonella,fecal_g_veillonella_pct,USC,12,12.4,3.3,lackey2019,Table 2,91.7
+Veillonella,fecal_g_veillonella_pct,USW,41,9.6,1.5,lackey2019,Table 2,87.8
+Bifidobacterium,fecal_g_bifidobacterium_pct,ETR,40,8.7,1.4,lackey2019,Table 2,80
+Bifidobacterium,fecal_g_bifidobacterium_pct,ETU,32,10.5,1.9,lackey2019,Table 2,81.3
+Bifidobacterium,fecal_g_bifidobacterium_pct,GBR,38,15.1,2.4,lackey2019,Table 2,92.1
+Bifidobacterium,fecal_g_bifidobacterium_pct,GBU,38,16,2.5,lackey2019,Table 2,97.4
+Bifidobacterium,fecal_g_bifidobacterium_pct,GN,32,19.9,3.1,lackey2019,Table 2,100
+Bifidobacterium,fecal_g_bifidobacterium_pct,KE,42,9.9,1.6,lackey2019,Table 2,85.7
+Bifidobacterium,fecal_g_bifidobacterium_pct,PE,42,9.3,1.5,lackey2019,Table 2,85.7
+Bifidobacterium,fecal_g_bifidobacterium_pct,SP,37,11.7,2,lackey2019,Table 2,89.2
+Bifidobacterium,fecal_g_bifidobacterium_pct,SW,23,9.5,2,lackey2019,Table 2,82.6
+Bifidobacterium,fecal_g_bifidobacterium_pct,USC,12,5.6,1.7,lackey2019,Table 2,50
+Bifidobacterium,fecal_g_bifidobacterium_pct,USW,41,10.2,1.6,lackey2019,Table 2,87.8
+Bacteroides,fecal_g_bacteroides_pct,ETR,40,9.6,1.7,lackey2019,Table 2,70
+Bacteroides,fecal_g_bacteroides_pct,ETU,32,9.4,1.8,lackey2019,Table 2,53.1
+Bacteroides,fecal_g_bacteroides_pct,GBR,38,7.7,1.4,lackey2019,Table 2,47.4
+Bacteroides,fecal_g_bacteroides_pct,GBU,38,7.3,1.3,lackey2019,Table 2,42.1
+Bacteroides,fecal_g_bacteroides_pct,GN,32,9.6,1.8,lackey2019,Table 2,75
+Bacteroides,fecal_g_bacteroides_pct,KE,42,8.8,1.5,lackey2019,Table 2,54.8
+Bacteroides,fecal_g_bacteroides_pct,PE,42,10.8,1.8,lackey2019,Table 2,69
+Bacteroides,fecal_g_bacteroides_pct,SP,37,12,2.1,lackey2019,Table 2,70.3
+Bacteroides,fecal_g_bacteroides_pct,SW,23,15.2,3.2,lackey2019,Table 2,87
+Bacteroides,fecal_g_bacteroides_pct,USC,12,13.4,3.8,lackey2019,Table 2,75
+Bacteroides,fecal_g_bacteroides_pct,USW,41,18.1,2.8,lackey2019,Table 2,95.1
+Lactobacillus,fecal_g_lactobacillus_pct,ETR,40,15.2,2.3,lackey2019,Table 2,92.5
+Lactobacillus,fecal_g_lactobacillus_pct,ETU,32,10.6,1.9,lackey2019,Table 2,87.5
+Lactobacillus,fecal_g_lactobacillus_pct,GBR,38,14.7,2.3,lackey2019,Table 2,97.4
+Lactobacillus,fecal_g_lactobacillus_pct,GBU,38,9.3,1.6,lackey2019,Table 2,86.8
+Lactobacillus,fecal_g_lactobacillus_pct,GN,32,12.8,2.2,lackey2019,Table 2,90.6
+Lactobacillus,fecal_g_lactobacillus_pct,KE,42,12.5,1.9,lackey2019,Table 2,92.9
+Lactobacillus,fecal_g_lactobacillus_pct,PE,42,5.8,1,lackey2019,Table 2,64.3
+Lactobacillus,fecal_g_lactobacillus_pct,SP,37,5.1,0.9,lackey2019,Table 2,48.6
+Lactobacillus,fecal_g_lactobacillus_pct,SW,23,4.6,1,lackey2019,Table 2,47.8
+Lactobacillus,fecal_g_lactobacillus_pct,USC,12,4.5,1.3,lackey2019,Table 2,41.7
+Lactobacillus,fecal_g_lactobacillus_pct,USW,41,5.6,1,lackey2019,Table 2,61
+Clostridium sensu stricto 1,fecal_g_clostridium_sensu_stricto_1_pct,ETR,40,3.2,0.6,lackey2019,Table 2,NA
+Clostridium sensu stricto 1,fecal_g_clostridium_sensu_stricto_1_pct,ETU,32,3,0.6,lackey2019,Table 2,NA
+Clostridium sensu stricto 1,fecal_g_clostridium_sensu_stricto_1_pct,GBR,38,2.8,0.6,lackey2019,Table 2,NA
+Clostridium sensu stricto 1,fecal_g_clostridium_sensu_stricto_1_pct,GBU,38,2.5,0.5,lackey2019,Table 2,NA
+Clostridium sensu stricto 1,fecal_g_clostridium_sensu_stricto_1_pct,GN,32,3,0.6,lackey2019,Table 2,NA
+Clostridium sensu stricto 1,fecal_g_clostridium_sensu_stricto_1_pct,KE,42,2.8,0.5,lackey2019,Table 2,NA
+Clostridium sensu stricto 1,fecal_g_clostridium_sensu_stricto_1_pct,PE,42,3,0.6,lackey2019,Table 2,NA
+Clostridium sensu stricto 1,fecal_g_clostridium_sensu_stricto_1_pct,SP,37,3.7,0.7,lackey2019,Table 2,NA
+Clostridium sensu stricto 1,fecal_g_clostridium_sensu_stricto_1_pct,SW,23,6.1,1.4,lackey2019,Table 2,NA
+Clostridium sensu stricto 1,fecal_g_clostridium_sensu_stricto_1_pct,USC,12,5.9,1.8,lackey2019,Table 2,NA
+Clostridium sensu stricto 1,fecal_g_clostridium_sensu_stricto_1_pct,USW,41,4.1,0.8,lackey2019,Table 2,NA
+Lachnoclostridium,fecal_g_lachnoclostridium_pct,ETR,40,2.4,0.5,lackey2019,Table 2,NA
+Lachnoclostridium,fecal_g_lachnoclostridium_pct,ETU,32,2.7,0.6,lackey2019,Table 2,NA
+Lachnoclostridium,fecal_g_lachnoclostridium_pct,GBR,38,2.2,0.4,lackey2019,Table 2,NA
+Lachnoclostridium,fecal_g_lachnoclostridium_pct,GBU,38,2.4,0.5,lackey2019,Table 2,NA
+Lachnoclostridium,fecal_g_lachnoclostridium_pct,GN,32,2.3,0.5,lackey2019,Table 2,NA
+Lachnoclostridium,fecal_g_lachnoclostridium_pct,KE,42,2.9,0.6,lackey2019,Table 2,NA
+Lachnoclostridium,fecal_g_lachnoclostridium_pct,PE,42,3.3,0.6,lackey2019,Table 2,NA
+Lachnoclostridium,fecal_g_lachnoclostridium_pct,SP,37,2.7,0.6,lackey2019,Table 2,NA
+Lachnoclostridium,fecal_g_lachnoclostridium_pct,SW,23,2.8,0.7,lackey2019,Table 2,NA
+Lachnoclostridium,fecal_g_lachnoclostridium_pct,USC,12,2.1,0.7,lackey2019,Table 2,NA
+Lachnoclostridium,fecal_g_lachnoclostridium_pct,USW,41,3.8,0.7,lackey2019,Table 2,NA
+Klebsiella,fecal_g_klebsiella_pct,ETR,40,1.8,0.4,lackey2019,Table 2,NA
+Klebsiella,fecal_g_klebsiella_pct,ETU,32,2.6,0.5,lackey2019,Table 2,NA
+Klebsiella,fecal_g_klebsiella_pct,GBR,38,2.3,0.5,lackey2019,Table 2,NA
+Klebsiella,fecal_g_klebsiella_pct,GBU,38,3.4,0.7,lackey2019,Table 2,NA
+Klebsiella,fecal_g_klebsiella_pct,GN,32,2.7,0.6,lackey2019,Table 2,NA
+Klebsiella,fecal_g_klebsiella_pct,KE,42,2.5,0.5,lackey2019,Table 2,NA
+Klebsiella,fecal_g_klebsiella_pct,PE,42,3.3,0.6,lackey2019,Table 2,NA
+Klebsiella,fecal_g_klebsiella_pct,SP,37,2.2,0.4,lackey2019,Table 2,NA
+Klebsiella,fecal_g_klebsiella_pct,SW,23,2.7,0.6,lackey2019,Table 2,NA
+Klebsiella,fecal_g_klebsiella_pct,USC,12,2.8,0.9,lackey2019,Table 2,NA
+Klebsiella,fecal_g_klebsiella_pct,USW,41,1.9,0.4,lackey2019,Table 2,NA
+Parabacteroides,fecal_g_parabacteroides_pct,ETR,40,2.1,0.4,lackey2019,Table 2,NA
+Parabacteroides,fecal_g_parabacteroides_pct,ETU,32,2.3,0.5,lackey2019,Table 2,NA
+Parabacteroides,fecal_g_parabacteroides_pct,GBR,38,2.1,0.4,lackey2019,Table 2,NA
+Parabacteroides,fecal_g_parabacteroides_pct,GBU,38,2.1,0.4,lackey2019,Table 2,NA
+Parabacteroides,fecal_g_parabacteroides_pct,GN,32,2.1,0.5,lackey2019,Table 2,NA
+Parabacteroides,fecal_g_parabacteroides_pct,KE,42,2,0.4,lackey2019,Table 2,NA
+Parabacteroides,fecal_g_parabacteroides_pct,PE,42,2,0.4,lackey2019,Table 2,NA
+Parabacteroides,fecal_g_parabacteroides_pct,SP,37,2.4,0.5,lackey2019,Table 2,NA
+Parabacteroides,fecal_g_parabacteroides_pct,SW,23,3.6,0.9,lackey2019,Table 2,NA
+Parabacteroides,fecal_g_parabacteroides_pct,USC,12,2.4,0.7,lackey2019,Table 2,NA
+Parabacteroides,fecal_g_parabacteroides_pct,USW,41,2.1,0.4,lackey2019,Table 2,NA
+Enterococcus,fecal_g_enterococcus_pct,ETR,40,1.4,0.3,lackey2019,Table 2,NA
+Enterococcus,fecal_g_enterococcus_pct,ETU,32,1.2,0.3,lackey2019,Table 2,NA
+Enterococcus,fecal_g_enterococcus_pct,GBR,38,1.2,0.2,lackey2019,Table 2,NA
+Enterococcus,fecal_g_enterococcus_pct,GBU,38,1.5,0.3,lackey2019,Table 2,NA
+Enterococcus,fecal_g_enterococcus_pct,GN,32,3.1,0.6,lackey2019,Table 2,NA
+Enterococcus,fecal_g_enterococcus_pct,KE,42,1.1,0.2,lackey2019,Table 2,NA
+Enterococcus,fecal_g_enterococcus_pct,PE,42,1.3,0.2,lackey2019,Table 2,NA
+Enterococcus,fecal_g_enterococcus_pct,SP,37,1.5,0.3,lackey2019,Table 2,NA
+Enterococcus,fecal_g_enterococcus_pct,SW,23,1.3,0.3,lackey2019,Table 2,NA
+Enterococcus,fecal_g_enterococcus_pct,USC,12,1,0.3,lackey2019,Table 2,NA
+Enterococcus,fecal_g_enterococcus_pct,USW,41,1.4,0.3,lackey2019,Table 2,NA
+Enterobacter,fecal_g_enterobacter_pct,ETR,40,1.1,0.2,lackey2019,Table 2,NA
+Enterobacter,fecal_g_enterobacter_pct,ETU,32,1.1,0.2,lackey2019,Table 2,NA
+Enterobacter,fecal_g_enterobacter_pct,GBR,38,1.1,0.2,lackey2019,Table 2,NA
+Enterobacter,fecal_g_enterobacter_pct,GBU,38,1.1,0.2,lackey2019,Table 2,NA
+Enterobacter,fecal_g_enterobacter_pct,GN,32,1.1,0.2,lackey2019,Table 2,NA
+Enterobacter,fecal_g_enterobacter_pct,KE,42,1.2,0.2,lackey2019,Table 2,NA
+Enterobacter,fecal_g_enterobacter_pct,PE,42,1.3,0.3,lackey2019,Table 2,NA
+Enterobacter,fecal_g_enterobacter_pct,SP,37,1.7,0.4,lackey2019,Table 2,NA
+Enterobacter,fecal_g_enterobacter_pct,SW,23,1.6,0.4,lackey2019,Table 2,NA
+Enterobacter,fecal_g_enterobacter_pct,USC,12,1.8,0.5,lackey2019,Table 2,NA
+Enterobacter,fecal_g_enterobacter_pct,USW,41,1.8,0.4,lackey2019,Table 2,NA
+Megasphaera,fecal_g_megasphaera_pct,ETR,40,1,0.2,lackey2019,Table 2,NA
+Megasphaera,fecal_g_megasphaera_pct,ETU,32,1,0.2,lackey2019,Table 2,NA
+Megasphaera,fecal_g_megasphaera_pct,GBR,38,1,0.2,lackey2019,Table 2,NA
+Megasphaera,fecal_g_megasphaera_pct,GBU,38,1.3,0.3,lackey2019,Table 2,NA
+Megasphaera,fecal_g_megasphaera_pct,GN,32,0.9,0.2,lackey2019,Table 2,NA
+Megasphaera,fecal_g_megasphaera_pct,KE,42,1.5,0.3,lackey2019,Table 2,NA
+Megasphaera,fecal_g_megasphaera_pct,PE,42,1.1,0.2,lackey2019,Table 2,NA
+Megasphaera,fecal_g_megasphaera_pct,SP,37,0.9,0.2,lackey2019,Table 2,NA
+Megasphaera,fecal_g_megasphaera_pct,SW,23,1,0.3,lackey2019,Table 2,NA
+Megasphaera,fecal_g_megasphaera_pct,USC,12,0.9,0.3,lackey2019,Table 2,NA
+Megasphaera,fecal_g_megasphaera_pct,USW,41,1,0.2,lackey2019,Table 2,NA
+Staphylococcus,fecal_g_staphylococcus_pct,ETR,40,0.7,0.1,lackey2019,Table 2,NA
+Staphylococcus,fecal_g_staphylococcus_pct,ETU,32,0.7,0.1,lackey2019,Table 2,NA
+Staphylococcus,fecal_g_staphylococcus_pct,GBR,38,0.9,0.2,lackey2019,Table 2,NA
+Staphylococcus,fecal_g_staphylococcus_pct,GBU,38,1.1,0.2,lackey2019,Table 2,NA
+Staphylococcus,fecal_g_staphylococcus_pct,GN,32,0.7,0.1,lackey2019,Table 2,NA
+Staphylococcus,fecal_g_staphylococcus_pct,KE,42,0.6,0.1,lackey2019,Table 2,NA
+Staphylococcus,fecal_g_staphylococcus_pct,PE,42,0.8,0.2,lackey2019,Table 2,NA
+Staphylococcus,fecal_g_staphylococcus_pct,SP,37,0.7,0.1,lackey2019,Table 2,NA
+Staphylococcus,fecal_g_staphylococcus_pct,SW,23,0.9,0.2,lackey2019,Table 2,NA
+Staphylococcus,fecal_g_staphylococcus_pct,USC,12,0.8,0.2,lackey2019,Table 2,NA
+Staphylococcus,fecal_g_staphylococcus_pct,USW,41,0.8,0.1,lackey2019,Table 2,NA
+Prevotella 9,fecal_g_prevotella_9_pct,ETR,40,0.8,0.2,lackey2019,Table 2,NA
+Prevotella 9,fecal_g_prevotella_9_pct,ETU,32,0.9,0.2,lackey2019,Table 2,NA
+Prevotella 9,fecal_g_prevotella_9_pct,GBR,38,0.9,0.2,lackey2019,Table 2,NA
+Prevotella 9,fecal_g_prevotella_9_pct,GBU,38,0.9,0.2,lackey2019,Table 2,NA
+Prevotella 9,fecal_g_prevotella_9_pct,GN,32,0.8,0.2,lackey2019,Table 2,NA
+Prevotella 9,fecal_g_prevotella_9_pct,KE,42,1.1,0.2,lackey2019,Table 2,NA
+Prevotella 9,fecal_g_prevotella_9_pct,PE,42,0.9,0.2,lackey2019,Table 2,NA
+Prevotella 9,fecal_g_prevotella_9_pct,SP,37,0.8,0.2,lackey2019,Table 2,NA
+Prevotella 9,fecal_g_prevotella_9_pct,SW,23,0.8,0.2,lackey2019,Table 2,NA
+Prevotella 9,fecal_g_prevotella_9_pct,USC,12,0.8,0.3,lackey2019,Table 2,NA
+Prevotella 9,fecal_g_prevotella_9_pct,USW,41,0.8,0.2,lackey2019,Table 2,NA
+Erysipelatoclostridium,fecal_g_erysipelatoclostridium_pct,ETR,40,0.6,0.1,lackey2019,Table 2,NA
+Erysipelatoclostridium,fecal_g_erysipelatoclostridium_pct,ETU,32,0.7,0.2,lackey2019,Table 2,NA
+Erysipelatoclostridium,fecal_g_erysipelatoclostridium_pct,GBR,38,0.6,0.1,lackey2019,Table 2,NA
+Erysipelatoclostridium,fecal_g_erysipelatoclostridium_pct,GBU,38,0.6,0.1,lackey2019,Table 2,NA
+Erysipelatoclostridium,fecal_g_erysipelatoclostridium_pct,GN,32,0.7,0.1,lackey2019,Table 2,NA
+Erysipelatoclostridium,fecal_g_erysipelatoclostridium_pct,KE,42,0.6,0.1,lackey2019,Table 2,NA
+Erysipelatoclostridium,fecal_g_erysipelatoclostridium_pct,PE,42,0.8,0.2,lackey2019,Table 2,NA
+Erysipelatoclostridium,fecal_g_erysipelatoclostridium_pct,SP,37,0.6,0.1,lackey2019,Table 2,NA
+Erysipelatoclostridium,fecal_g_erysipelatoclostridium_pct,SW,23,0.7,0.2,lackey2019,Table 2,NA
+Erysipelatoclostridium,fecal_g_erysipelatoclostridium_pct,USC,12,0.6,0.2,lackey2019,Table 2,NA
+Erysipelatoclostridium,fecal_g_erysipelatoclostridium_pct,USW,41,0.8,0.2,lackey2019,Table 2,NA
+Rothia,fecal_g_rothia_pct,ETR,40,0.4,0.1,lackey2019,Table 2,NA
+Rothia,fecal_g_rothia_pct,ETU,32,0.5,0.1,lackey2019,Table 2,NA
+Rothia,fecal_g_rothia_pct,GBR,38,0.8,0.2,lackey2019,Table 2,NA
+Rothia,fecal_g_rothia_pct,GBU,38,0.8,0.2,lackey2019,Table 2,NA
+Rothia,fecal_g_rothia_pct,GN,32,0.4,0.1,lackey2019,Table 2,NA
+Rothia,fecal_g_rothia_pct,KE,42,0.6,0.1,lackey2019,Table 2,NA
+Rothia,fecal_g_rothia_pct,PE,42,0.5,0.1,lackey2019,Table 2,NA
+Rothia,fecal_g_rothia_pct,SP,37,0.6,0.1,lackey2019,Table 2,NA
+Rothia,fecal_g_rothia_pct,SW,23,0.4,0.1,lackey2019,Table 2,NA
+Rothia,fecal_g_rothia_pct,USC,12,0.4,0.1,lackey2019,Table 2,NA
+Rothia,fecal_g_rothia_pct,USW,41,0.4,0.1,lackey2019,Table 2,NA
+Citrobacter,fecal_g_citrobacter_pct,ETR,40,0.5,0.1,lackey2019,Table 2,NA
+Citrobacter,fecal_g_citrobacter_pct,ETU,32,0.5,0.1,lackey2019,Table 2,NA
+Citrobacter,fecal_g_citrobacter_pct,GBR,38,0.5,0.1,lackey2019,Table 2,NA
+Citrobacter,fecal_g_citrobacter_pct,GBU,38,0.5,0.1,lackey2019,Table 2,NA
+Citrobacter,fecal_g_citrobacter_pct,GN,32,0.5,0.1,lackey2019,Table 2,NA
+Citrobacter,fecal_g_citrobacter_pct,KE,42,0.5,0.1,lackey2019,Table 2,NA
+Citrobacter,fecal_g_citrobacter_pct,PE,42,0.5,0.1,lackey2019,Table 2,NA
+Citrobacter,fecal_g_citrobacter_pct,SP,37,0.5,0.1,lackey2019,Table 2,NA
+Citrobacter,fecal_g_citrobacter_pct,SW,23,0.5,0.1,lackey2019,Table 2,NA
+Citrobacter,fecal_g_citrobacter_pct,USC,12,0.5,0.1,lackey2019,Table 2,NA
+Citrobacter,fecal_g_citrobacter_pct,USW,41,0.6,0.1,lackey2019,Table 2,NA
+Akkermansia,fecal_g_akkermansia_pct,ETR,40,0.5,0.1,lackey2019,Table 2,NA
+Akkermansia,fecal_g_akkermansia_pct,ETU,32,0.6,0.1,lackey2019,Table 2,NA
+Akkermansia,fecal_g_akkermansia_pct,GBR,38,0.5,0.1,lackey2019,Table 2,NA
+Akkermansia,fecal_g_akkermansia_pct,GBU,38,0.5,0.1,lackey2019,Table 2,NA
+Akkermansia,fecal_g_akkermansia_pct,GN,32,0.5,0.1,lackey2019,Table 2,NA
+Akkermansia,fecal_g_akkermansia_pct,KE,42,0.5,0.1,lackey2019,Table 2,NA
+Akkermansia,fecal_g_akkermansia_pct,PE,42,0.5,0.1,lackey2019,Table 2,NA
+Akkermansia,fecal_g_akkermansia_pct,SP,37,0.6,0.1,lackey2019,Table 2,NA
+Akkermansia,fecal_g_akkermansia_pct,SW,23,0.5,0.1,lackey2019,Table 2,NA
+Akkermansia,fecal_g_akkermansia_pct,USC,12,0.5,0.1,lackey2019,Table 2,NA
+Akkermansia,fecal_g_akkermansia_pct,USW,41,0.5,0.1,lackey2019,Table 2,NA
+Campylobacter,fecal_g_campylobacter_pct,ETR,40,0.8,0.2,lackey2019,Table 2,NA
+Campylobacter,fecal_g_campylobacter_pct,ETU,32,0.8,0.2,lackey2019,Table 2,NA
+Campylobacter,fecal_g_campylobacter_pct,GBR,38,0.8,0.2,lackey2019,Table 2,NA
+Campylobacter,fecal_g_campylobacter_pct,GBU,38,0.8,0.2,lackey2019,Table 2,NA
+Campylobacter,fecal_g_campylobacter_pct,GN,32,0.8,0.2,lackey2019,Table 2,NA
+Campylobacter,fecal_g_campylobacter_pct,KE,42,0.8,0.2,lackey2019,Table 2,NA
+Campylobacter,fecal_g_campylobacter_pct,PE,42,0.7,0.2,lackey2019,Table 2,NA
+Campylobacter,fecal_g_campylobacter_pct,SP,37,0.7,0.2,lackey2019,Table 2,NA
+Campylobacter,fecal_g_campylobacter_pct,SW,23,0.7,0.2,lackey2019,Table 2,NA
+Campylobacter,fecal_g_campylobacter_pct,USC,12,0.7,0.2,lackey2019,Table 2,NA
+Campylobacter,fecal_g_campylobacter_pct,USW,41,0.9,0.2,lackey2019,Table 2,NA
+Lactococcus,fecal_g_lactococcus_pct,ETR,40,0.5,0.1,lackey2019,Table 2,NA
+Lactococcus,fecal_g_lactococcus_pct,ETU,32,0.4,0.1,lackey2019,Table 2,NA
+Lactococcus,fecal_g_lactococcus_pct,GBR,38,0.4,0.1,lackey2019,Table 2,NA
+Lactococcus,fecal_g_lactococcus_pct,GBU,38,0.4,0.1,lackey2019,Table 2,NA
+Lactococcus,fecal_g_lactococcus_pct,GN,32,0.4,0.1,lackey2019,Table 2,NA
+Lactococcus,fecal_g_lactococcus_pct,KE,42,0.4,0.1,lackey2019,Table 2,NA
+Lactococcus,fecal_g_lactococcus_pct,PE,42,0.4,0.1,lackey2019,Table 2,NA
+Lactococcus,fecal_g_lactococcus_pct,SP,37,0.4,0.1,lackey2019,Table 2,NA
+Lactococcus,fecal_g_lactococcus_pct,SW,23,0.4,0.1,lackey2019,Table 2,NA
+Lactococcus,fecal_g_lactococcus_pct,USC,12,0.4,0.1,lackey2019,Table 2,NA
+Lactococcus,fecal_g_lactococcus_pct,USW,41,0.4,0.1,lackey2019,Table 2,NA
+Gemella,fecal_g_gemella_pct,ETR,40,0.3,0.1,lackey2019,Table 2,NA
+Gemella,fecal_g_gemella_pct,ETU,32,0.3,0.1,lackey2019,Table 2,NA
+Gemella,fecal_g_gemella_pct,GBR,38,0.5,0.1,lackey2019,Table 2,NA
+Gemella,fecal_g_gemella_pct,GBU,38,0.5,0.1,lackey2019,Table 2,NA
+Gemella,fecal_g_gemella_pct,GN,32,0.2,0,lackey2019,Table 2,NA
+Gemella,fecal_g_gemella_pct,KE,42,0.3,0.1,lackey2019,Table 2,NA
+Gemella,fecal_g_gemella_pct,PE,42,0.3,0.1,lackey2019,Table 2,NA
+Gemella,fecal_g_gemella_pct,SP,37,0.3,0.1,lackey2019,Table 2,NA
+Gemella,fecal_g_gemella_pct,SW,23,0.3,0.1,lackey2019,Table 2,NA
+Gemella,fecal_g_gemella_pct,USC,12,0.3,0.1,lackey2019,Table 2,NA
+Gemella,fecal_g_gemella_pct,USW,41,0.3,0.1,lackey2019,Table 2,NA
+Tyzzerella 4,fecal_g_tyzzerella_4_pct,ETR,40,0.4,0.1,lackey2019,Table 2,NA
+Tyzzerella 4,fecal_g_tyzzerella_4_pct,ETU,32,0.4,0.1,lackey2019,Table 2,NA
+Tyzzerella 4,fecal_g_tyzzerella_4_pct,GBR,38,0.4,0.1,lackey2019,Table 2,NA
+Tyzzerella 4,fecal_g_tyzzerella_4_pct,GBU,38,0.4,0.1,lackey2019,Table 2,NA
+Tyzzerella 4,fecal_g_tyzzerella_4_pct,GN,32,0.4,0.1,lackey2019,Table 2,NA
+Tyzzerella 4,fecal_g_tyzzerella_4_pct,KE,42,0.4,0.1,lackey2019,Table 2,NA
+Tyzzerella 4,fecal_g_tyzzerella_4_pct,PE,42,0.4,0.1,lackey2019,Table 2,NA
+Tyzzerella 4,fecal_g_tyzzerella_4_pct,SP,37,0.4,0.1,lackey2019,Table 2,NA
+Tyzzerella 4,fecal_g_tyzzerella_4_pct,SW,23,0.4,0.1,lackey2019,Table 2,NA
+Tyzzerella 4,fecal_g_tyzzerella_4_pct,USC,12,0.4,0.1,lackey2019,Table 2,NA
+Tyzzerella 4,fecal_g_tyzzerella_4_pct,USW,41,0.4,0.1,lackey2019,Table 2,NA
+Blautia,fecal_g_blautia_pct,ETR,40,0.3,0.1,lackey2019,Table 2,NA
+Blautia,fecal_g_blautia_pct,ETU,32,0.4,0.1,lackey2019,Table 2,NA
+Blautia,fecal_g_blautia_pct,GBR,38,0.3,0.1,lackey2019,Table 2,NA
+Blautia,fecal_g_blautia_pct,GBU,38,0.3,0.1,lackey2019,Table 2,NA
+Blautia,fecal_g_blautia_pct,GN,32,0.3,0.1,lackey2019,Table 2,NA
+Blautia,fecal_g_blautia_pct,KE,42,0.3,0.1,lackey2019,Table 2,NA
+Blautia,fecal_g_blautia_pct,PE,42,0.4,0.1,lackey2019,Table 2,NA
+Blautia,fecal_g_blautia_pct,SP,37,0.3,0.1,lackey2019,Table 2,NA
+Blautia,fecal_g_blautia_pct,SW,23,0.4,0.1,lackey2019,Table 2,NA
+Blautia,fecal_g_blautia_pct,USC,12,0.3,0.1,lackey2019,Table 2,NA
+Blautia,fecal_g_blautia_pct,USW,41,0.4,0.1,lackey2019,Table 2,NA
+Paucisalibacillus,fecal_g_paucisalibacillus_pct,ETR,40,0.5,0.1,lackey2019,Table 2,NA
+Paucisalibacillus,fecal_g_paucisalibacillus_pct,ETU,32,0.5,0.1,lackey2019,Table 2,NA
+Paucisalibacillus,fecal_g_paucisalibacillus_pct,GBR,38,0.5,0.1,lackey2019,Table 2,NA
+Paucisalibacillus,fecal_g_paucisalibacillus_pct,GBU,38,0.5,0.1,lackey2019,Table 2,NA
+Paucisalibacillus,fecal_g_paucisalibacillus_pct,GN,32,0.5,0.1,lackey2019,Table 2,NA
+Paucisalibacillus,fecal_g_paucisalibacillus_pct,KE,42,0.5,0.1,lackey2019,Table 2,NA
+Paucisalibacillus,fecal_g_paucisalibacillus_pct,PE,42,0.5,0.1,lackey2019,Table 2,NA
+Paucisalibacillus,fecal_g_paucisalibacillus_pct,SP,37,0.5,0.1,lackey2019,Table 2,NA
+Paucisalibacillus,fecal_g_paucisalibacillus_pct,SW,23,0.5,0.1,lackey2019,Table 2,NA
+Paucisalibacillus,fecal_g_paucisalibacillus_pct,USC,12,0.5,0.2,lackey2019,Table 2,NA
+Paucisalibacillus,fecal_g_paucisalibacillus_pct,USW,41,0.5,0.1,lackey2019,Table 2,NA
+Leuconostoc,fecal_g_leuconostoc_pct,ETR,40,0.2,0,lackey2019,Table 2,NA
+Leuconostoc,fecal_g_leuconostoc_pct,ETU,32,0.2,0,lackey2019,Table 2,NA
+Leuconostoc,fecal_g_leuconostoc_pct,GBR,38,0.2,0,lackey2019,Table 2,NA
+Leuconostoc,fecal_g_leuconostoc_pct,GBU,38,0.2,0,lackey2019,Table 2,NA
+Leuconostoc,fecal_g_leuconostoc_pct,GN,32,0.2,0,lackey2019,Table 2,NA
+Leuconostoc,fecal_g_leuconostoc_pct,KE,42,0.2,0,lackey2019,Table 2,NA
+Leuconostoc,fecal_g_leuconostoc_pct,PE,42,0.2,0,lackey2019,Table 2,NA
+Leuconostoc,fecal_g_leuconostoc_pct,SP,37,0.2,0,lackey2019,Table 2,NA
+Leuconostoc,fecal_g_leuconostoc_pct,SW,23,0.2,0,lackey2019,Table 2,NA
+Leuconostoc,fecal_g_leuconostoc_pct,USC,12,0.2,0.1,lackey2019,Table 2,NA
+Leuconostoc,fecal_g_leuconostoc_pct,USW,41,0.2,0,lackey2019,Table 2,NA
+Acinetobacter,fecal_g_acinetobacter_pct,ETR,40,0.2,0,lackey2019,Table 2,NA
+Acinetobacter,fecal_g_acinetobacter_pct,ETU,32,0.2,0,lackey2019,Table 2,NA
+Acinetobacter,fecal_g_acinetobacter_pct,GBR,38,0.2,0,lackey2019,Table 2,NA
+Acinetobacter,fecal_g_acinetobacter_pct,GBU,38,0.2,0,lackey2019,Table 2,NA
+Acinetobacter,fecal_g_acinetobacter_pct,GN,32,0.2,0,lackey2019,Table 2,NA
+Acinetobacter,fecal_g_acinetobacter_pct,KE,42,0.2,0,lackey2019,Table 2,NA
+Acinetobacter,fecal_g_acinetobacter_pct,PE,42,0.2,0,lackey2019,Table 2,NA
+Acinetobacter,fecal_g_acinetobacter_pct,SP,37,0.2,0,lackey2019,Table 2,NA
+Acinetobacter,fecal_g_acinetobacter_pct,SW,23,0.2,0,lackey2019,Table 2,NA
+Acinetobacter,fecal_g_acinetobacter_pct,USC,12,0.2,0,lackey2019,Table 2,NA
+Acinetobacter,fecal_g_acinetobacter_pct,USW,41,0.2,0,lackey2019,Table 2,NA
+Acetobacter,fecal_g_acetobacter_pct,ETR,40,0.1,0,lackey2019,Table 2,NA
+Acetobacter,fecal_g_acetobacter_pct,ETU,32,0.1,0,lackey2019,Table 2,NA
+Acetobacter,fecal_g_acetobacter_pct,GBR,38,0.1,0,lackey2019,Table 2,NA
+Acetobacter,fecal_g_acetobacter_pct,GBU,38,0.1,0,lackey2019,Table 2,NA
+Acetobacter,fecal_g_acetobacter_pct,GN,32,0.1,0,lackey2019,Table 2,NA
+Acetobacter,fecal_g_acetobacter_pct,KE,42,0.1,0,lackey2019,Table 2,NA
+Acetobacter,fecal_g_acetobacter_pct,PE,42,0.1,0,lackey2019,Table 2,NA
+Acetobacter,fecal_g_acetobacter_pct,SP,37,0.1,0,lackey2019,Table 2,NA
+Acetobacter,fecal_g_acetobacter_pct,SW,23,0.1,0,lackey2019,Table 2,NA
+Acetobacter,fecal_g_acetobacter_pct,USC,12,0.1,0,lackey2019,Table 2,NA
+Acetobacter,fecal_g_acetobacter_pct,USW,41,0.1,0,lackey2019,Table 2,NA

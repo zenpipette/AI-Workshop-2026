@@ -1,0 +1,3 @@
+analyte_id,analyte,mean,sd,range_lo,range_hi,unit,distribution,flag,source_paper,source_table
+macro_lactose_g_l,lactose,79.2,11,26.7,118.3,g/L,truncated normal (overall; not cohort-specific),overall distribution only - per-cohort values not printed (figure-only),pace2021,text (sec 3.3)
+macro_protein_g_l,protein,15,2.8,9.4,32.6,g/L,truncated normal (overall; not cohort-specific),overall distribution only - per-cohort values not printed (figure-only),pace2021,text (sec 3.3)

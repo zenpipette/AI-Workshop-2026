@@ -1,0 +1,12 @@
+cohort,country,region_income,setting,n_dyads,cohort_name
+ETR,Ethiopia rural,LMIC,rural,40,Ethiopia rural (ETR)
+ETU,Ethiopia urban,LMIC,urban,40,Ethiopia urban (ETU)
+GBR,Gambia rural,LMIC,rural,40,Gambia rural (GBR)
+GBU,Gambia urban,LMIC,urban,40,Gambia urban (GBU)
+GN,Ghana,LMIC,urban,40,Ghana (GN)
+KE,Kenya,LMIC,urban,42,Kenya (KE)
+PE,Peru,LMIC,urban,43,Peru (PE)
+SP,Spain,HIC,urban,41,Spain (SP)
+SW,Sweden,HIC,urban,24,Sweden (SW)
+USW,United States Washington,HIC,urban,41,United States Washington (USW)
+USC,United States California,HIC,urban,19,United States California (USC)

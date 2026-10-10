@@ -1,0 +1,12 @@
+cohort,ebf_pct,flag,source_paper,source_table
+ETR,97,NA,lane2019,Table 1
+ETU,88,NA,lane2019,Table 1
+GBR,97,NA,lane2019,Table 1
+GBU,53,NA,lane2019,Table 1
+GN,34,NA,lane2019,Table 1
+KE,38,NA,lane2019,Table 1
+PE,31,NA,lane2019,Table 1
+SP,62,NA,lane2019,Table 1
+SW,48,NA,lane2019,Table 1
+USW,56.00000000000001,NA,lane2019,Table 1
+USC,60,cohort % not in Lane 2019; assumed Pace 2021 overall 60%,pace2021 (assumed),text (sec 3.1)

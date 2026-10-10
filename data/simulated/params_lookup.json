@@ -1,0 +1,99 @@
+{
+  "cohorts": [
+    {
+      "cohort": "ETR",
+      "country": "Ethiopia rural",
+      "region_income": "LMIC",
+      "setting": "rural",
+      "n_dyads": 40,
+      "cohort_name": "Ethiopia rural (ETR)"
+    },
+    {
+      "cohort": "ETU",
+      "country": "Ethiopia urban",
+      "region_income": "LMIC",
+      "setting": "urban",
+      "n_dyads": 40,
+      "cohort_name": "Ethiopia urban (ETU)"
+    },
+    {
+      "cohort": "GBR",
+      "country": "Gambia rural",
+      "region_income": "LMIC",
+      "setting": "rural",
+      "n_dyads": 40,
+      "cohort_name": "Gambia rural (GBR)"
+    },
+    {
+      "cohort": "GBU",
+      "country": "Gambia urban",
+      "region_income": "LMIC",
+      "setting": "urban",
+      "n_dyads": 40,
+      "cohort_name": "Gambia urban (GBU)"
+    },
+    {
+      "cohort": "GN",
+      "country": "Ghana",
+      "region_income": "LMIC",
+      "setting": "urban",
+      "n_dyads": 40,
+      "cohort_name": "Ghana (GN)"
+    },
+    {
+      "cohort": "KE",
+      "country": "Kenya",
+      "region_income": "LMIC",
+      "setting": "urban",
+      "n_dyads": 42,
+      "cohort_name": "Kenya (KE)"
+    },
+    {
+      "cohort": "PE",
+      "country": "Peru",
+      "region_income": "LMIC",
+      "setting": "urban",
+      "n_dyads": 43,
+      "cohort_name": "Peru (PE)"
+    },
+    {
+      "cohort": "SP",
+      "country": "Spain",
+      "region_income": "HIC",
+      "setting": "urban",
+      "n_dyads": 41,
+      "cohort_name": "Spain (SP)"
+    },
+    {
+      "cohort": "SW",
+      "country": "Sweden",
+      "region_income": "HIC",
+      "setting": "urban",
+      "n_dyads": 24,
+      "cohort_name": "Sweden (SW)"
+    },
+    {
+      "cohort": "USW",
+      "country": "United States Washington",
+      "region_income": "HIC",
+      "setting": "urban",
+      "n_dyads": 41,
+      "cohort_name": "United States Washington (USW)"
+    },
+    {
+      "cohort": "USC",
+      "country": "United States California",
+      "region_income": "HIC",
+      "setting": "urban",
+      "n_dyads": 19,
+      "cohort_name": "United States California (USC)"
+    }
+  ],
+  "small_hmo_members": ["2'FL", "3FL", "DFLac"],
+  "hmo_ids": ["hmo_2fl_nmol_ml", "hmo_3fl_nmol_ml", "hmo_lnnt_nmol_ml", "hmo_3sl_nmol_ml", "hmo_dflac_nmol_ml", "hmo_6sl_nmol_ml", "hmo_lnt_nmol_ml", "hmo_lnfp_i_nmol_ml", "hmo_lnfp_ii_nmol_ml", "hmo_lnfp_iii_nmol_ml", "hmo_lstb_nmol_ml", "hmo_lstc_nmol_ml", "hmo_dflnt_nmol_ml", "hmo_lnh_nmol_ml", "hmo_dslnt_nmol_ml", "hmo_flnh_nmol_ml", "hmo_dflnh_nmol_ml", "hmo_fdslnh_nmol_ml", "hmo_dslnh_nmol_ml", "hmo_total_nmol_ml"],
+  "hmo_analyte": ["hmo_2fl_nmol_ml", "hmo_3fl_nmol_ml", "hmo_lnnt_nmol_ml", "hmo_3sl_nmol_ml", "hmo_dflac_nmol_ml", "hmo_6sl_nmol_ml", "hmo_lnt_nmol_ml", "hmo_lnfp_i_nmol_ml", "hmo_lnfp_ii_nmol_ml", "hmo_lnfp_iii_nmol_ml", "hmo_lstb_nmol_ml", "hmo_lstc_nmol_ml", "hmo_dflnt_nmol_ml", "hmo_lnh_nmol_ml", "hmo_dslnt_nmol_ml", "hmo_flnh_nmol_ml", "hmo_dflnh_nmol_ml", "hmo_fdslnh_nmol_ml", "hmo_dslnh_nmol_ml", "hmo_total_nmol_ml"],
+  "immune_ids": ["imm_egf_ng_l", "imm_gcsf_ng_l", "imm_gmcsf_ng_l", "imm_groa_ng_l", "imm_ifng_ng_l", "imm_iga_ng_l", "imm_igg_ng_l", "imm_igm_ng_l", "imm_il10_ng_l", "imm_il12_ng_l", "imm_il13_ng_l", "imm_il17_ng_l", "imm_il1b_ng_l", "imm_il2_ng_l", "imm_il4_ng_l", "imm_il5_ng_l", "imm_il6_ng_l", "imm_il7_ng_l", "imm_il8_ng_l", "imm_mcp1_ng_l", "imm_mip1b_ng_l", "imm_tgfb2_ng_l", "imm_tnfa_ng_l"],
+  "milk_ids": ["milk_g_streptococcus_pct", "milk_g_staphylococcus_pct", "milk_g_corynebacterium_1_pct", "milk_g_propionibacterium_pct", "milk_g_rhizobium_pct", "milk_g_lactobacillus_pct", "milk_g_dyella_pct", "milk_g_rothia_pct", "milk_g_kocuria_pct", "milk_g_veillonella_pct", "milk_g_bifidobacterium_pct", "milk_g_acinetobacter_pct", "milk_g_klebsiella_pct", "milk_g_gemella_pct", "milk_g_achromobacter_pct", "milk_g_escherichia_shigella_pct", "milk_g_bacillus_pct", "milk_g_stenotrophomonas_pct", "milk_g_enterococcus_pct", "milk_g_janthinobacterium_pct", "milk_g_anaerococcus_pct", "milk_g_acidocella_pct", "milk_g_enterobacter_pct", "milk_g_bacteroides_pct", "milk_g_pseudomonas_pct", "milk_g_chryseobacterium_pct", "milk_g_tatumella_pct", "milk_g_psychrobacter_pct", "milk_g_clostridium_sensu_stricto_18_pct"],
+  "fecal_ids": ["fecal_g_streptococcus_pct", "fecal_g_escherichia_shigella_pct", "fecal_g_veillonella_pct", "fecal_g_bifidobacterium_pct", "fecal_g_bacteroides_pct", "fecal_g_lactobacillus_pct", "fecal_g_clostridium_sensu_stricto_1_pct", "fecal_g_lachnoclostridium_pct", "fecal_g_klebsiella_pct", "fecal_g_parabacteroides_pct", "fecal_g_enterococcus_pct", "fecal_g_enterobacter_pct", "fecal_g_megasphaera_pct", "fecal_g_staphylococcus_pct", "fecal_g_prevotella_9_pct", "fecal_g_erysipelatoclostridium_pct", "fecal_g_rothia_pct", "fecal_g_citrobacter_pct", "fecal_g_akkermansia_pct", "fecal_g_campylobacter_pct", "fecal_g_lactococcus_pct", "fecal_g_gemella_pct", "fecal_g_tyzzerella_4_pct", "fecal_g_blautia_pct", "fecal_g_paucisalibacillus_pct", "fecal_g_leuconostoc_pct", "fecal_g_acinetobacter_pct", "fecal_g_acetobacter_pct"],
+  "ab_ids": ["ab_iga_etec_breadth_score", "ab_iga_etec_react_top10", "ab_iga_etec_react_all", "ab_iga_epec_breadth_score", "ab_iga_epec_react_top10", "ab_iga_epec_react_all", "ab_iga_eaec_breadth_score", "ab_iga_eaec_react_top10", "ab_iga_eaec_react_all", "ab_iga_shigella_breadth_score", "ab_iga_shigella_react_top10", "ab_iga_shigella_react_all", "ab_iga_s_enterica_typhi_breadth_score", "ab_iga_s_enterica_typhi_react_top10", "ab_iga_s_enterica_typhi_react_all", "ab_iga_s_aureus_breadth_score", "ab_iga_s_aureus_react_top10", "ab_iga_s_aureus_react_all", "ab_iga_s_pneumoniae_breadth_score", "ab_iga_s_pneumoniae_react_top10", "ab_iga_s_pneumoniae_react_all", "ab_iga_m_tuberculosis_breadth_score", "ab_iga_m_tuberculosis_react_top10", "ab_iga_m_tuberculosis_react_all", "ab_igg_etec_breadth_score", "ab_igg_etec_react_top10", "ab_igg_etec_react_all", "ab_igg_epec_breadth_score", "ab_igg_epec_react_top10", "ab_igg_epec_react_all", "ab_igg_eaec_breadth_score", "ab_igg_eaec_react_top10", "ab_igg_eaec_react_all", "ab_igg_shigella_breadth_score", "ab_igg_shigella_react_top10", "ab_igg_shigella_react_all", "ab_igg_s_enterica_typhi_breadth_score", "ab_igg_s_enterica_typhi_react_top10", "ab_igg_s_enterica_typhi_react_all", "ab_igg_s_aureus_breadth_score", "ab_igg_s_aureus_react_top10", "ab_igg_s_aureus_react_all", "ab_igg_s_pneumoniae_breadth_score", "ab_igg_s_pneumoniae_react_top10", "ab_igg_s_pneumoniae_react_all", "ab_igg_m_tuberculosis_breadth_score", "ab_igg_m_tuberculosis_react_top10", "ab_igg_m_tuberculosis_react_all"]
+}

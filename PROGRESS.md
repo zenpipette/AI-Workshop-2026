@@ -1,6 +1,6 @@
 # Project progress and resume notes
 
-Last updated: 2026-10-10 (evening). Keep this file current; it is the hand-off between sessions.
+Last updated: 2026-10-10 02:46 (brief 05 interrupted mid-run; see step 5 and resume instructions). Keep this file current; it is the hand-off between sessions.
 
 ## Working model
 
@@ -24,7 +24,7 @@ this must be stated prominently everywhere it is used** (see `CLAUDE.md`).
 | 2 | Re-survey for pre-processed milk tables (brief 02) | `data/milk_components_preprocessed_report.md` | done; no full match. MILK cohort tables saved in `data/raw_downloads/MILK_zenodo/` |
 | 3 | Retry with download workarounds (brief 03) | partial; stopped by supervisor when the INSPIRE decision was made | Mongolian dyad tables saved in `data/raw_downloads/Davaanyam_figshare/` |
 | 4 | Catalogue INSPIRE PDF summary statistics (brief 04) | `data/inspire/catalog.md`, `data/inspire/summary_stats/` (5,662 rows), `data/inspire/extraction_log.md` | done; supervisor spot-checked 3 tables against PDFs, all exact |
-| 5 | Simulate dyad dataset in R (brief 05) | `R/01..03_*.R`, `data/simulated/` | **in progress** (launched 2026-10-10 late evening) |
+| 5 | Simulate dyad dataset in R (brief 05) | `R/01..03_*.R`, `data/simulated/` | **in progress, interrupted by laptop shutdown 2026-10-10 02:46**. Done: `R/01_load_summary_stats.R`, `R/02_simulate_dyads.R`, all `params_*.csv`, all `simulated_*.csv`, `provenance.csv`, `data_dictionary.csv`. NOT done: `R/03_validate_simulation.R`, `validation_report.md`, full `README.md` (placeholder only). Goose session `brief05_simulate` was at 69 tool calls, debugging in `scratch/brief05/dbg*.R`. |
 | 6 | Shiny dashboard (brief 06) | `app/` | not started; needs the user's list of desired visualizations |
 
 ## How to resume after a shutdown

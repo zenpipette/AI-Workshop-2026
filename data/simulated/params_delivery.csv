@@ -1,0 +1,12 @@
+cohort,csection_pct,vaginal_pct,flag,source_paper,source_table
+ETR,NA,86,ETR not in Ruiz 2017; vaginal % assumed = Pace 2021 overall 86%,pace2021 (assumed),text (sec 3.1)
+ETU,0,100,NA,ruiz2017,Table 1
+GBR,0,100,NA,ruiz2017,Table 1
+GBU,3,97,NA,ruiz2017,Table 1
+GN,15,85,NA,ruiz2017,Table 1
+KE,22,78,NA,ruiz2017,Table 1
+PE,49,51,NA,ruiz2017,Table 1
+SP,10,90,NA,ruiz2017,Table 1
+SW,21,79,NA,ruiz2017,Table 1
+USW,19,81,NA,ruiz2017,Table 1
+USC,37,63,NA,ruiz2017,Table 1

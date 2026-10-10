@@ -1,0 +1,181 @@
+column_name,layer,unit,description
+dyad_id,identifier/metadata,,"unique dyad identifier (SIMULATED, e.g. INS-ETR-001)"
+cohort,identifier/metadata,,11-level cohort factor (code)
+cohort_name,identifier/metadata,,cohort full name (code)
+country,identifier/metadata,,country/population name as in McGuire 2017 Table 1
+region_income,identifier/metadata,,LMIC vs HIC grouping as used in McGuire 2021
+setting,identifier/metadata,,rural/urban where defined in the parent study
+maternal_age_y,maternal_characteristics,years,maternal age
+parity_n,maternal_characteristics,count,parity (number of births)
+maternal_weight_kg,maternal_characteristics,kg,maternal weight
+maternal_height_cm,maternal_characteristics,cm,maternal height
+maternal_bmi_kg_m2,maternal_characteristics,kg/m2,maternal body mass index
+postpartum_d,maternal_characteristics,days,days postpartum at milk sampling
+delivery_mode,maternal_characteristics,,vaginal / cesarean
+infant_sex,maternal_characteristics,,female / male
+exclusive_breastfed,maternal_characteristics,,exclusively breastfed at sampling (TRUE/FALSE)
+maternal_dds,maternal_characteristics,,maternal dietary diversity score (Caffé 2023)
+household_size_n,household_composition,count,"household size (individuals, Lane 2019)"
+siblings_n,household_composition,count,number of siblings in household
+sibling_present,household_composition,,any sibling present in household (TRUE/FALSE)
+extended_family_n,household_composition,count,number of extended-family members
+extended_family_present,household_composition,,extended family present (TRUE/FALSE)
+father_present,household_composition,,father present in household (TRUE/FALSE)
+secretor_status,secretor_status,,"maternal secretor status (TRUE = secretor, McGuire 2017 Fig 3)"
+immune_measured,immune_factors,,"FALSE for ETR (chemically preserved milk, Ruiz 2017); immune analytes NA"
+hmo_2fl_nmol_ml,hmo,nmol/mL,HMO 2fl
+hmo_3fl_nmol_ml,hmo,nmol/mL,HMO 3fl
+hmo_lnnt_nmol_ml,hmo,nmol/mL,HMO lnnt
+hmo_3sl_nmol_ml,hmo,nmol/mL,HMO 3sl
+hmo_dflac_nmol_ml,hmo,nmol/mL,HMO dflac
+hmo_6sl_nmol_ml,hmo,nmol/mL,HMO 6sl
+hmo_lnt_nmol_ml,hmo,nmol/mL,HMO lnt
+hmo_lnfp_i_nmol_ml,hmo,nmol/mL,HMO lnfp i
+hmo_lnfp_ii_nmol_ml,hmo,nmol/mL,HMO lnfp ii
+hmo_lnfp_iii_nmol_ml,hmo,nmol/mL,HMO lnfp iii
+hmo_lstb_nmol_ml,hmo,nmol/mL,HMO lstb
+hmo_lstc_nmol_ml,hmo,nmol/mL,HMO lstc
+hmo_dflnt_nmol_ml,hmo,nmol/mL,HMO dflnt
+hmo_lnh_nmol_ml,hmo,nmol/mL,HMO lnh
+hmo_dslnt_nmol_ml,hmo,nmol/mL,HMO dslnt
+hmo_flnh_nmol_ml,hmo,nmol/mL,HMO flnh
+hmo_dflnh_nmol_ml,hmo,nmol/mL,HMO dflnh
+hmo_fdslnh_nmol_ml,hmo,nmol/mL,HMO fdslnh
+hmo_dslnh_nmol_ml,hmo,nmol/mL,HMO dslnh
+hmo_total_nmol_ml,hmo,nmol/mL,HMO total
+imm_egf_ng_l,immune_factors,ng/L,immune factor egf (ng/L)
+imm_gcsf_ng_l,immune_factors,ng/L,immune factor gcsf (ng/L)
+imm_gmcsf_ng_l,immune_factors,ng/L,immune factor gmcsf (ng/L)
+imm_groa_ng_l,immune_factors,ng/L,immune factor groa (ng/L)
+imm_ifng_ng_l,immune_factors,ng/L,immune factor ifng (ng/L)
+imm_iga_ng_l,immune_factors,ng/L,immune factor iga (ng/L)
+imm_igg_ng_l,immune_factors,ng/L,immune factor igg (ng/L)
+imm_igm_ng_l,immune_factors,ng/L,immune factor igm (ng/L)
+imm_il10_ng_l,immune_factors,ng/L,immune factor il10 (ng/L)
+imm_il12_ng_l,immune_factors,ng/L,immune factor il12 (ng/L)
+imm_il13_ng_l,immune_factors,ng/L,immune factor il13 (ng/L)
+imm_il17_ng_l,immune_factors,ng/L,immune factor il17 (ng/L)
+imm_il1b_ng_l,immune_factors,ng/L,immune factor il1b (ng/L)
+imm_il2_ng_l,immune_factors,ng/L,immune factor il2 (ng/L)
+imm_il4_ng_l,immune_factors,ng/L,immune factor il4 (ng/L)
+imm_il5_ng_l,immune_factors,ng/L,immune factor il5 (ng/L)
+imm_il6_ng_l,immune_factors,ng/L,immune factor il6 (ng/L)
+imm_il7_ng_l,immune_factors,ng/L,immune factor il7 (ng/L)
+imm_il8_ng_l,immune_factors,ng/L,immune factor il8 (ng/L)
+imm_mcp1_ng_l,immune_factors,ng/L,immune factor mcp1 (ng/L)
+imm_mip1b_ng_l,immune_factors,ng/L,immune factor mip1b (ng/L)
+imm_tgfb2_ng_l,immune_factors,ng/L,immune factor tgfb2 (ng/L)
+imm_tnfa_ng_l,immune_factors,ng/L,immune factor tnfa (ng/L)
+milk_g_streptococcus_pct,milk_microbiome,%,milk genus relative abundance streptococcus (%)
+milk_g_staphylococcus_pct,milk_microbiome,%,milk genus relative abundance staphylococcus (%)
+milk_g_corynebacterium_1_pct,milk_microbiome,%,milk genus relative abundance corynebacterium_1 (%)
+milk_g_propionibacterium_pct,milk_microbiome,%,milk genus relative abundance propionibacterium (%)
+milk_g_rhizobium_pct,milk_microbiome,%,milk genus relative abundance rhizobium (%)
+milk_g_lactobacillus_pct,milk_microbiome,%,milk genus relative abundance lactobacillus (%)
+milk_g_dyella_pct,milk_microbiome,%,milk genus relative abundance dyella (%)
+milk_g_rothia_pct,milk_microbiome,%,milk genus relative abundance rothia (%)
+milk_g_kocuria_pct,milk_microbiome,%,milk genus relative abundance kocuria (%)
+milk_g_veillonella_pct,milk_microbiome,%,milk genus relative abundance veillonella (%)
+milk_g_bifidobacterium_pct,milk_microbiome,%,milk genus relative abundance bifidobacterium (%)
+milk_g_acinetobacter_pct,milk_microbiome,%,milk genus relative abundance acinetobacter (%)
+milk_g_klebsiella_pct,milk_microbiome,%,milk genus relative abundance klebsiella (%)
+milk_g_gemella_pct,milk_microbiome,%,milk genus relative abundance gemella (%)
+milk_g_achromobacter_pct,milk_microbiome,%,milk genus relative abundance achromobacter (%)
+milk_g_escherichia_shigella_pct,milk_microbiome,%,milk genus relative abundance escherichia_shigella (%)
+milk_g_bacillus_pct,milk_microbiome,%,milk genus relative abundance bacillus (%)
+milk_g_stenotrophomonas_pct,milk_microbiome,%,milk genus relative abundance stenotrophomonas (%)
+milk_g_enterococcus_pct,milk_microbiome,%,milk genus relative abundance enterococcus (%)
+milk_g_janthinobacterium_pct,milk_microbiome,%,milk genus relative abundance janthinobacterium (%)
+milk_g_anaerococcus_pct,milk_microbiome,%,milk genus relative abundance anaerococcus (%)
+milk_g_acidocella_pct,milk_microbiome,%,milk genus relative abundance acidocella (%)
+milk_g_enterobacter_pct,milk_microbiome,%,milk genus relative abundance enterobacter (%)
+milk_g_bacteroides_pct,milk_microbiome,%,milk genus relative abundance bacteroides (%)
+milk_g_pseudomonas_pct,milk_microbiome,%,milk genus relative abundance pseudomonas (%)
+milk_g_chryseobacterium_pct,milk_microbiome,%,milk genus relative abundance chryseobacterium (%)
+milk_g_tatumella_pct,milk_microbiome,%,milk genus relative abundance tatumella (%)
+milk_g_psychrobacter_pct,milk_microbiome,%,milk genus relative abundance psychrobacter (%)
+milk_g_clostridium_sensu_stricto_18_pct,milk_microbiome,%,milk genus relative abundance clostridium_sensu_stricto_18 (%)
+milk_div_richness,milk_microbiome,,milk microbiome diversity index richness
+milk_div_shannon_diversity,milk_microbiome,,milk microbiome diversity index shannon_diversity
+milk_div_inverse_simpson_diversity,milk_microbiome,,milk microbiome diversity index inverse_simpson_diversity
+fecal_g_streptococcus_pct,fecal_microbiome,%,infant fecal genus relative abundance streptococcus (%)
+fecal_g_escherichia_shigella_pct,fecal_microbiome,%,infant fecal genus relative abundance escherichia_shigella (%)
+fecal_g_veillonella_pct,fecal_microbiome,%,infant fecal genus relative abundance veillonella (%)
+fecal_g_bifidobacterium_pct,fecal_microbiome,%,infant fecal genus relative abundance bifidobacterium (%)
+fecal_g_bacteroides_pct,fecal_microbiome,%,infant fecal genus relative abundance bacteroides (%)
+fecal_g_lactobacillus_pct,fecal_microbiome,%,infant fecal genus relative abundance lactobacillus (%)
+fecal_g_clostridium_sensu_stricto_1_pct,fecal_microbiome,%,infant fecal genus relative abundance clostridium_sensu_stricto_1 (%)
+fecal_g_lachnoclostridium_pct,fecal_microbiome,%,infant fecal genus relative abundance lachnoclostridium (%)
+fecal_g_klebsiella_pct,fecal_microbiome,%,infant fecal genus relative abundance klebsiella (%)
+fecal_g_parabacteroides_pct,fecal_microbiome,%,infant fecal genus relative abundance parabacteroides (%)
+fecal_g_enterococcus_pct,fecal_microbiome,%,infant fecal genus relative abundance enterococcus (%)
+fecal_g_enterobacter_pct,fecal_microbiome,%,infant fecal genus relative abundance enterobacter (%)
+fecal_g_megasphaera_pct,fecal_microbiome,%,infant fecal genus relative abundance megasphaera (%)
+fecal_g_staphylococcus_pct,fecal_microbiome,%,infant fecal genus relative abundance staphylococcus (%)
+fecal_g_prevotella_9_pct,fecal_microbiome,%,infant fecal genus relative abundance prevotella_9 (%)
+fecal_g_erysipelatoclostridium_pct,fecal_microbiome,%,infant fecal genus relative abundance erysipelatoclostridium (%)
+fecal_g_rothia_pct,fecal_microbiome,%,infant fecal genus relative abundance rothia (%)
+fecal_g_citrobacter_pct,fecal_microbiome,%,infant fecal genus relative abundance citrobacter (%)
+fecal_g_akkermansia_pct,fecal_microbiome,%,infant fecal genus relative abundance akkermansia (%)
+fecal_g_campylobacter_pct,fecal_microbiome,%,infant fecal genus relative abundance campylobacter (%)
+fecal_g_lactococcus_pct,fecal_microbiome,%,infant fecal genus relative abundance lactococcus (%)
+fecal_g_gemella_pct,fecal_microbiome,%,infant fecal genus relative abundance gemella (%)
+fecal_g_tyzzerella_4_pct,fecal_microbiome,%,infant fecal genus relative abundance tyzzerella_4 (%)
+fecal_g_blautia_pct,fecal_microbiome,%,infant fecal genus relative abundance blautia (%)
+fecal_g_paucisalibacillus_pct,fecal_microbiome,%,infant fecal genus relative abundance paucisalibacillus (%)
+fecal_g_leuconostoc_pct,fecal_microbiome,%,infant fecal genus relative abundance leuconostoc (%)
+fecal_g_acinetobacter_pct,fecal_microbiome,%,infant fecal genus relative abundance acinetobacter (%)
+fecal_g_acetobacter_pct,fecal_microbiome,%,infant fecal genus relative abundance acetobacter (%)
+fecal_div_richness,fecal_microbiome,,infant fecal microbiome diversity index richness
+fecal_div_shannon_diversity,fecal_microbiome,,infant fecal microbiome diversity index shannon_diversity
+fecal_div_inverse_simpson_diversity,fecal_microbiome,,infant fecal microbiome diversity index inverse_simpson_diversity
+ab_iga_etec_breadth_score,antibodies,breadth score (proportion reactive),antibody breadth score iga_etec
+ab_iga_etec_react_top10,antibodies,mean normalized intensity score,antibody reactivity iga_etec_react_top10
+ab_iga_etec_react_all,antibodies,mean normalized intensity score,antibody reactivity iga_etec_react_all
+ab_iga_epec_breadth_score,antibodies,breadth score (proportion reactive),antibody breadth score iga_epec
+ab_iga_epec_react_top10,antibodies,mean normalized intensity score,antibody reactivity iga_epec_react_top10
+ab_iga_epec_react_all,antibodies,mean normalized intensity score,antibody reactivity iga_epec_react_all
+ab_iga_eaec_breadth_score,antibodies,breadth score (proportion reactive),antibody breadth score iga_eaec
+ab_iga_eaec_react_top10,antibodies,mean normalized intensity score,antibody reactivity iga_eaec_react_top10
+ab_iga_eaec_react_all,antibodies,mean normalized intensity score,antibody reactivity iga_eaec_react_all
+ab_iga_shigella_breadth_score,antibodies,breadth score (proportion reactive),antibody breadth score iga_shigella
+ab_iga_shigella_react_top10,antibodies,mean normalized intensity score,antibody reactivity iga_shigella_react_top10
+ab_iga_shigella_react_all,antibodies,mean normalized intensity score,antibody reactivity iga_shigella_react_all
+ab_iga_s_enterica_typhi_breadth_score,antibodies,breadth score (proportion reactive),antibody breadth score iga_s_enterica_typhi
+ab_iga_s_enterica_typhi_react_top10,antibodies,mean normalized intensity score,antibody reactivity iga_s_enterica_typhi_react_top10
+ab_iga_s_enterica_typhi_react_all,antibodies,mean normalized intensity score,antibody reactivity iga_s_enterica_typhi_react_all
+ab_iga_s_aureus_breadth_score,antibodies,breadth score (proportion reactive),antibody breadth score iga_s_aureus
+ab_iga_s_aureus_react_top10,antibodies,mean normalized intensity score,antibody reactivity iga_s_aureus_react_top10
+ab_iga_s_aureus_react_all,antibodies,mean normalized intensity score,antibody reactivity iga_s_aureus_react_all
+ab_iga_s_pneumoniae_breadth_score,antibodies,breadth score (proportion reactive),antibody breadth score iga_s_pneumoniae
+ab_iga_s_pneumoniae_react_top10,antibodies,mean normalized intensity score,antibody reactivity iga_s_pneumoniae_react_top10
+ab_iga_s_pneumoniae_react_all,antibodies,mean normalized intensity score,antibody reactivity iga_s_pneumoniae_react_all
+ab_iga_m_tuberculosis_breadth_score,antibodies,breadth score (proportion reactive),antibody breadth score iga_m_tuberculosis
+ab_iga_m_tuberculosis_react_top10,antibodies,mean normalized intensity score,antibody reactivity iga_m_tuberculosis_react_top10
+ab_iga_m_tuberculosis_react_all,antibodies,mean normalized intensity score,antibody reactivity iga_m_tuberculosis_react_all
+ab_igg_etec_breadth_score,antibodies,breadth score (proportion reactive),antibody breadth score igg_etec
+ab_igg_etec_react_top10,antibodies,mean normalized intensity score,antibody reactivity igg_etec_react_top10
+ab_igg_etec_react_all,antibodies,mean normalized intensity score,antibody reactivity igg_etec_react_all
+ab_igg_epec_breadth_score,antibodies,breadth score (proportion reactive),antibody breadth score igg_epec
+ab_igg_epec_react_top10,antibodies,mean normalized intensity score,antibody reactivity igg_epec_react_top10
+ab_igg_epec_react_all,antibodies,mean normalized intensity score,antibody reactivity igg_epec_react_all
+ab_igg_eaec_breadth_score,antibodies,breadth score (proportion reactive),antibody breadth score igg_eaec
+ab_igg_eaec_react_top10,antibodies,mean normalized intensity score,antibody reactivity igg_eaec_react_top10
+ab_igg_eaec_react_all,antibodies,mean normalized intensity score,antibody reactivity igg_eaec_react_all
+ab_igg_shigella_breadth_score,antibodies,breadth score (proportion reactive),antibody breadth score igg_shigella
+ab_igg_shigella_react_top10,antibodies,mean normalized intensity score,antibody reactivity igg_shigella_react_top10
+ab_igg_shigella_react_all,antibodies,mean normalized intensity score,antibody reactivity igg_shigella_react_all
+ab_igg_s_enterica_typhi_breadth_score,antibodies,breadth score (proportion reactive),antibody breadth score igg_s_enterica_typhi
+ab_igg_s_enterica_typhi_react_top10,antibodies,mean normalized intensity score,antibody reactivity igg_s_enterica_typhi_react_top10
+ab_igg_s_enterica_typhi_react_all,antibodies,mean normalized intensity score,antibody reactivity igg_s_enterica_typhi_react_all
+ab_igg_s_aureus_breadth_score,antibodies,breadth score (proportion reactive),antibody breadth score igg_s_aureus
+ab_igg_s_aureus_react_top10,antibodies,mean normalized intensity score,antibody reactivity igg_s_aureus_react_top10
+ab_igg_s_aureus_react_all,antibodies,mean normalized intensity score,antibody reactivity igg_s_aureus_react_all
+ab_igg_s_pneumoniae_breadth_score,antibodies,breadth score (proportion reactive),antibody breadth score igg_s_pneumoniae
+ab_igg_s_pneumoniae_react_top10,antibodies,mean normalized intensity score,antibody reactivity igg_s_pneumoniae_react_top10
+ab_igg_s_pneumoniae_react_all,antibodies,mean normalized intensity score,antibody reactivity igg_s_pneumoniae_react_all
+ab_igg_m_tuberculosis_breadth_score,antibodies,breadth score (proportion reactive),antibody breadth score igg_m_tuberculosis
+ab_igg_m_tuberculosis_react_top10,antibodies,mean normalized intensity score,antibody reactivity igg_m_tuberculosis_react_top10
+ab_igg_m_tuberculosis_react_all,antibodies,mean normalized intensity score,antibody reactivity igg_m_tuberculosis_react_all
+macro_lactose_g_l,macronutrients,g/L,macronutrient lactose
+macro_protein_g_l,macronutrients,g/L,macronutrient protein

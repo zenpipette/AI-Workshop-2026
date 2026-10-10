@@ -1,0 +1,221 @@
+analyte,analyte_id,cohort,n,mean,sem,paper,table
+2'FL,hmo_2fl_nmol_ml,ETR,40,2264,370,mcguire2017,Table 2
+2'FL,hmo_2fl_nmol_ml,ETU,40,2853,369,mcguire2017,Table 2
+2'FL,hmo_2fl_nmol_ml,GBR,40,2950,455,mcguire2017,Table 2
+2'FL,hmo_2fl_nmol_ml,GBU,40,4220,530,mcguire2017,Table 2
+2'FL,hmo_2fl_nmol_ml,GN,40,1438,207,mcguire2017,Table 2
+2'FL,hmo_2fl_nmol_ml,KE,42,3380,422,mcguire2017,Table 2
+2'FL,hmo_2fl_nmol_ml,PE,43,6528,435,mcguire2017,Table 2
+2'FL,hmo_2fl_nmol_ml,SP,41,3906,464,mcguire2017,Table 2
+2'FL,hmo_2fl_nmol_ml,SW,24,5661,728,mcguire2017,Table 2
+2'FL,hmo_2fl_nmol_ml,USW,41,4159,531,mcguire2017,Table 2
+2'FL,hmo_2fl_nmol_ml,USC,19,7043,858,mcguire2017,Table 2
+3FL,hmo_3fl_nmol_ml,ETR,40,189,22,mcguire2017,Table 2
+3FL,hmo_3fl_nmol_ml,ETU,40,184,42,mcguire2017,Table 2
+3FL,hmo_3fl_nmol_ml,GBR,40,103,16,mcguire2017,Table 2
+3FL,hmo_3fl_nmol_ml,GBU,40,162,21,mcguire2017,Table 2
+3FL,hmo_3fl_nmol_ml,GN,40,192,33,mcguire2017,Table 2
+3FL,hmo_3fl_nmol_ml,KE,42,195,28,mcguire2017,Table 2
+3FL,hmo_3fl_nmol_ml,PE,43,209,32,mcguire2017,Table 2
+3FL,hmo_3fl_nmol_ml,SP,41,206,25,mcguire2017,Table 2
+3FL,hmo_3fl_nmol_ml,SW,24,473,55,mcguire2017,Table 2
+3FL,hmo_3fl_nmol_ml,USW,41,122,14,mcguire2017,Table 2
+3FL,hmo_3fl_nmol_ml,USC,19,388,47,mcguire2017,Table 2
+LNnT,hmo_lnnt_nmol_ml,ETR,40,838,60,mcguire2017,Table 2
+LNnT,hmo_lnnt_nmol_ml,ETU,40,927,67,mcguire2017,Table 2
+LNnT,hmo_lnnt_nmol_ml,GBR,40,1423,117,mcguire2017,Table 2
+LNnT,hmo_lnnt_nmol_ml,GBU,40,781,61,mcguire2017,Table 2
+LNnT,hmo_lnnt_nmol_ml,GN,40,866,70,mcguire2017,Table 2
+LNnT,hmo_lnnt_nmol_ml,KE,42,1073,103,mcguire2017,Table 2
+LNnT,hmo_lnnt_nmol_ml,PE,43,588,56,mcguire2017,Table 2
+LNnT,hmo_lnnt_nmol_ml,SP,41,548,45,mcguire2017,Table 2
+LNnT,hmo_lnnt_nmol_ml,SW,24,854,74,mcguire2017,Table 2
+LNnT,hmo_lnnt_nmol_ml,USW,41,776,42,mcguire2017,Table 2
+LNnT,hmo_lnnt_nmol_ml,USC,19,793,82,mcguire2017,Table 2
+3'SL,hmo_3sl_nmol_ml,ETR,40,413,33,mcguire2017,Table 2
+3'SL,hmo_3sl_nmol_ml,ETU,40,526,43,mcguire2017,Table 2
+3'SL,hmo_3sl_nmol_ml,GBR,40,465,36,mcguire2017,Table 2
+3'SL,hmo_3sl_nmol_ml,GBU,40,505,45,mcguire2017,Table 2
+3'SL,hmo_3sl_nmol_ml,GN,40,618,56,mcguire2017,Table 2
+3'SL,hmo_3sl_nmol_ml,KE,42,528,44,mcguire2017,Table 2
+3'SL,hmo_3sl_nmol_ml,PE,43,528,51,mcguire2017,Table 2
+3'SL,hmo_3sl_nmol_ml,SP,41,607,42,mcguire2017,Table 2
+3'SL,hmo_3sl_nmol_ml,SW,24,467,65,mcguire2017,Table 2
+3'SL,hmo_3sl_nmol_ml,USW,41,562,40,mcguire2017,Table 2
+3'SL,hmo_3sl_nmol_ml,USC,19,473,55,mcguire2017,Table 2
+DFLac,hmo_dflac_nmol_ml,ETR,40,179,27,mcguire2017,Table 2
+DFLac,hmo_dflac_nmol_ml,ETU,40,290,33,mcguire2017,Table 2
+DFLac,hmo_dflac_nmol_ml,GBR,40,338,59,mcguire2017,Table 2
+DFLac,hmo_dflac_nmol_ml,GBU,40,355,42,mcguire2017,Table 2
+DFLac,hmo_dflac_nmol_ml,GN,40,393,65,mcguire2017,Table 2
+DFLac,hmo_dflac_nmol_ml,KE,42,338,38,mcguire2017,Table 2
+DFLac,hmo_dflac_nmol_ml,PE,43,470,49,mcguire2017,Table 2
+DFLac,hmo_dflac_nmol_ml,SP,41,307,40,mcguire2017,Table 2
+DFLac,hmo_dflac_nmol_ml,SW,24,275,40,mcguire2017,Table 2
+DFLac,hmo_dflac_nmol_ml,USW,41,270,38,mcguire2017,Table 2
+DFLac,hmo_dflac_nmol_ml,USC,19,374,57,mcguire2017,Table 2
+6'SL,hmo_6sl_nmol_ml,ETR,40,374,63,mcguire2017,Table 2
+6'SL,hmo_6sl_nmol_ml,ETU,40,545,45,mcguire2017,Table 2
+6'SL,hmo_6sl_nmol_ml,GBR,40,462,35,mcguire2017,Table 2
+6'SL,hmo_6sl_nmol_ml,GBU,40,585,61,mcguire2017,Table 2
+6'SL,hmo_6sl_nmol_ml,GN,40,890,88,mcguire2017,Table 2
+6'SL,hmo_6sl_nmol_ml,KE,42,435,34,mcguire2017,Table 2
+6'SL,hmo_6sl_nmol_ml,PE,43,636,63,mcguire2017,Table 2
+6'SL,hmo_6sl_nmol_ml,SP,41,504,40,mcguire2017,Table 2
+6'SL,hmo_6sl_nmol_ml,SW,24,200,24,mcguire2017,Table 2
+6'SL,hmo_6sl_nmol_ml,USW,41,402,34,mcguire2017,Table 2
+6'SL,hmo_6sl_nmol_ml,USC,19,294,49,mcguire2017,Table 2
+LNT,hmo_lnt_nmol_ml,ETR,40,1304,131,mcguire2017,Table 2
+LNT,hmo_lnt_nmol_ml,ETU,40,1408,113,mcguire2017,Table 2
+LNT,hmo_lnt_nmol_ml,GBR,40,2265,222,mcguire2017,Table 2
+LNT,hmo_lnt_nmol_ml,GBU,40,1576,143,mcguire2017,Table 2
+LNT,hmo_lnt_nmol_ml,GN,40,1882,209,mcguire2017,Table 2
+LNT,hmo_lnt_nmol_ml,KE,42,1632,158,mcguire2017,Table 2
+LNT,hmo_lnt_nmol_ml,PE,43,953,139,mcguire2017,Table 2
+LNT,hmo_lnt_nmol_ml,SP,41,1570,119,mcguire2017,Table 2
+LNT,hmo_lnt_nmol_ml,SW,24,2132,210,mcguire2017,Table 2
+LNT,hmo_lnt_nmol_ml,USW,41,1135,91,mcguire2017,Table 2
+LNT,hmo_lnt_nmol_ml,USC,19,1438,198,mcguire2017,Table 2
+LNFP I,hmo_lnfp_i_nmol_ml,ETR,40,904,167,mcguire2017,Table 2
+LNFP I,hmo_lnfp_i_nmol_ml,ETU,40,1276,205,mcguire2017,Table 2
+LNFP I,hmo_lnfp_i_nmol_ml,GBR,40,1153,208,mcguire2017,Table 2
+LNFP I,hmo_lnfp_i_nmol_ml,GBU,40,1343,193,mcguire2017,Table 2
+LNFP I,hmo_lnfp_i_nmol_ml,GN,40,1292,224,mcguire2017,Table 2
+LNFP I,hmo_lnfp_i_nmol_ml,KE,42,921,158,mcguire2017,Table 2
+LNFP I,hmo_lnfp_i_nmol_ml,PE,43,1116,112,mcguire2017,Table 2
+LNFP I,hmo_lnfp_i_nmol_ml,SP,41,1056,167,mcguire2017,Table 2
+LNFP I,hmo_lnfp_i_nmol_ml,SW,24,1395,220,mcguire2017,Table 2
+LNFP I,hmo_lnfp_i_nmol_ml,USW,41,850,144,mcguire2017,Table 2
+LNFP I,hmo_lnfp_i_nmol_ml,USC,19,1368,143,mcguire2017,Table 2
+LNFP II,hmo_lnfp_ii_nmol_ml,ETR,40,1618,165,mcguire2017,Table 2
+LNFP II,hmo_lnfp_ii_nmol_ml,ETU,40,1713,151,mcguire2017,Table 2
+LNFP II,hmo_lnfp_ii_nmol_ml,GBR,40,1925,201,mcguire2017,Table 2
+LNFP II,hmo_lnfp_ii_nmol_ml,GBU,40,1551,190,mcguire2017,Table 2
+LNFP II,hmo_lnfp_ii_nmol_ml,GN,40,1133,89,mcguire2017,Table 2
+LNFP II,hmo_lnfp_ii_nmol_ml,KE,42,1667,167,mcguire2017,Table 2
+LNFP II,hmo_lnfp_ii_nmol_ml,PE,43,1115,105,mcguire2017,Table 2
+LNFP II,hmo_lnfp_ii_nmol_ml,SP,41,2001,227,mcguire2017,Table 2
+LNFP II,hmo_lnfp_ii_nmol_ml,SW,24,1893,205,mcguire2017,Table 2
+LNFP II,hmo_lnfp_ii_nmol_ml,USW,41,2125,216,mcguire2017,Table 2
+LNFP II,hmo_lnfp_ii_nmol_ml,USC,19,1240,154,mcguire2017,Table 2
+LNFP III,hmo_lnfp_iii_nmol_ml,ETR,40,44,8,mcguire2017,Table 2
+LNFP III,hmo_lnfp_iii_nmol_ml,ETU,40,24,3,mcguire2017,Table 2
+LNFP III,hmo_lnfp_iii_nmol_ml,GBR,40,40,7,mcguire2017,Table 2
+LNFP III,hmo_lnfp_iii_nmol_ml,GBU,40,30,4,mcguire2017,Table 2
+LNFP III,hmo_lnfp_iii_nmol_ml,GN,40,47,7,mcguire2017,Table 2
+LNFP III,hmo_lnfp_iii_nmol_ml,KE,42,46,10,mcguire2017,Table 2
+LNFP III,hmo_lnfp_iii_nmol_ml,PE,43,53,8,mcguire2017,Table 2
+LNFP III,hmo_lnfp_iii_nmol_ml,SP,41,32,4,mcguire2017,Table 2
+LNFP III,hmo_lnfp_iii_nmol_ml,SW,24,269,22,mcguire2017,Table 2
+LNFP III,hmo_lnfp_iii_nmol_ml,USW,41,25,5,mcguire2017,Table 2
+LNFP III,hmo_lnfp_iii_nmol_ml,USC,19,76,10,mcguire2017,Table 2
+LSTb,hmo_lstb_nmol_ml,ETR,40,86,7,mcguire2017,Table 2
+LSTb,hmo_lstb_nmol_ml,ETU,40,79,7,mcguire2017,Table 2
+LSTb,hmo_lstb_nmol_ml,GBR,40,132,10,mcguire2017,Table 2
+LSTb,hmo_lstb_nmol_ml,GBU,40,96,12,mcguire2017,Table 2
+LSTb,hmo_lstb_nmol_ml,GN,40,115,10,mcguire2017,Table 2
+LSTb,hmo_lstb_nmol_ml,KE,42,86,1,mcguire2017,Table 2
+LSTb,hmo_lstb_nmol_ml,PE,43,41,5,mcguire2017,Table 2
+LSTb,hmo_lstb_nmol_ml,SP,41,105,15,mcguire2017,Table 2
+LSTb,hmo_lstb_nmol_ml,SW,24,140,15,mcguire2017,Table 2
+LSTb,hmo_lstb_nmol_ml,USW,41,82,7,mcguire2017,Table 2
+LSTb,hmo_lstb_nmol_ml,USC,19,79,14,mcguire2017,Table 2
+LSTc,hmo_lstc_nmol_ml,ETR,40,101,19,mcguire2017,Table 2
+LSTc,hmo_lstc_nmol_ml,ETU,40,169,15,mcguire2017,Table 2
+LSTc,hmo_lstc_nmol_ml,GBR,40,159,13,mcguire2017,Table 2
+LSTc,hmo_lstc_nmol_ml,GBU,40,146,20,mcguire2017,Table 2
+LSTc,hmo_lstc_nmol_ml,GN,40,246,25,mcguire2017,Table 2
+LSTc,hmo_lstc_nmol_ml,KE,42,158,22,mcguire2017,Table 2
+LSTc,hmo_lstc_nmol_ml,PE,43,182,17,mcguire2017,Table 2
+LSTc,hmo_lstc_nmol_ml,SP,41,72,7,mcguire2017,Table 2
+LSTc,hmo_lstc_nmol_ml,SW,24,92,16,mcguire2017,Table 2
+LSTc,hmo_lstc_nmol_ml,USW,41,112,12,mcguire2017,Table 2
+LSTc,hmo_lstc_nmol_ml,USC,19,103,12,mcguire2017,Table 2
+DFLNT,hmo_dflnt_nmol_ml,ETR,40,758,127,mcguire2017,Table 2
+DFLNT,hmo_dflnt_nmol_ml,ETU,40,1057,147,mcguire2017,Table 2
+DFLNT,hmo_dflnt_nmol_ml,GBR,40,913,135,mcguire2017,Table 2
+DFLNT,hmo_dflnt_nmol_ml,GBU,40,1032,139,mcguire2017,Table 2
+DFLNT,hmo_dflnt_nmol_ml,GN,40,1105,188,mcguire2017,Table 2
+DFLNT,hmo_dflnt_nmol_ml,KE,42,1082,134,mcguire2017,Table 2
+DFLNT,hmo_dflnt_nmol_ml,PE,43,1076,95,mcguire2017,Table 2
+DFLNT,hmo_dflnt_nmol_ml,SP,41,1406,120,mcguire2017,Table 2
+DFLNT,hmo_dflnt_nmol_ml,SW,24,1388,147,mcguire2017,Table 2
+DFLNT,hmo_dflnt_nmol_ml,USW,41,1246,105,mcguire2017,Table 2
+DFLNT,hmo_dflnt_nmol_ml,USC,19,1418,197,mcguire2017,Table 2
+LNH,hmo_lnh_nmol_ml,ETR,40,68,8,mcguire2017,Table 2
+LNH,hmo_lnh_nmol_ml,ETU,40,86,9,mcguire2017,Table 2
+LNH,hmo_lnh_nmol_ml,GBR,40,112,17,mcguire2017,Table 2
+LNH,hmo_lnh_nmol_ml,GBU,40,92,15,mcguire2017,Table 2
+LNH,hmo_lnh_nmol_ml,GN,40,109,13,mcguire2017,Table 2
+LNH,hmo_lnh_nmol_ml,KE,42,92,10,mcguire2017,Table 2
+LNH,hmo_lnh_nmol_ml,PE,43,107,10,mcguire2017,Table 2
+LNH,hmo_lnh_nmol_ml,SP,41,58,4,mcguire2017,Table 2
+LNH,hmo_lnh_nmol_ml,SW,24,113,12,mcguire2017,Table 2
+LNH,hmo_lnh_nmol_ml,USW,41,93,7,mcguire2017,Table 2
+LNH,hmo_lnh_nmol_ml,USC,19,39,5,mcguire2017,Table 2
+DSLNT,hmo_dslnt_nmol_ml,ETR,40,310,30,mcguire2017,Table 2
+DSLNT,hmo_dslnt_nmol_ml,ETU,40,553,42,mcguire2017,Table 2
+DSLNT,hmo_dslnt_nmol_ml,GBR,40,870,68,mcguire2017,Table 2
+DSLNT,hmo_dslnt_nmol_ml,GBU,40,477,45,mcguire2017,Table 2
+DSLNT,hmo_dslnt_nmol_ml,GN,40,561,57,mcguire2017,Table 2
+DSLNT,hmo_dslnt_nmol_ml,KE,42,444,47,mcguire2017,Table 2
+DSLNT,hmo_dslnt_nmol_ml,PE,43,274,33,mcguire2017,Table 2
+DSLNT,hmo_dslnt_nmol_ml,SP,41,357,31,mcguire2017,Table 2
+DSLNT,hmo_dslnt_nmol_ml,SW,24,216,14,mcguire2017,Table 2
+DSLNT,hmo_dslnt_nmol_ml,USW,41,443,28,mcguire2017,Table 2
+DSLNT,hmo_dslnt_nmol_ml,USC,19,275,14,mcguire2017,Table 2
+FLNH,hmo_flnh_nmol_ml,ETR,40,5,1,mcguire2017,Table 2
+FLNH,hmo_flnh_nmol_ml,ETU,40,27,5,mcguire2017,Table 2
+FLNH,hmo_flnh_nmol_ml,GBR,40,30,5,mcguire2017,Table 2
+FLNH,hmo_flnh_nmol_ml,GBU,40,35,5,mcguire2017,Table 2
+FLNH,hmo_flnh_nmol_ml,GN,40,32,7,mcguire2017,Table 2
+FLNH,hmo_flnh_nmol_ml,KE,42,33,6,mcguire2017,Table 2
+FLNH,hmo_flnh_nmol_ml,PE,43,50,7,mcguire2017,Table 2
+FLNH,hmo_flnh_nmol_ml,SP,41,83,9,mcguire2017,Table 2
+FLNH,hmo_flnh_nmol_ml,SW,24,10,3,mcguire2017,Table 2
+FLNH,hmo_flnh_nmol_ml,USW,41,73,7,mcguire2017,Table 2
+FLNH,hmo_flnh_nmol_ml,USC,19,7,1,mcguire2017,Table 2
+DFLNH,hmo_dflnh_nmol_ml,ETR,40,84,15,mcguire2017,Table 2
+DFLNH,hmo_dflnh_nmol_ml,ETU,40,94,16,mcguire2017,Table 2
+DFLNH,hmo_dflnh_nmol_ml,GBR,40,87,13,mcguire2017,Table 2
+DFLNH,hmo_dflnh_nmol_ml,GBU,40,123,18,mcguire2017,Table 2
+DFLNH,hmo_dflnh_nmol_ml,GN,40,81,11,mcguire2017,Table 2
+DFLNH,hmo_dflnh_nmol_ml,KE,42,64,10,mcguire2017,Table 2
+DFLNH,hmo_dflnh_nmol_ml,PE,43,195,21,mcguire2017,Table 2
+DFLNH,hmo_dflnh_nmol_ml,SP,41,115,17,mcguire2017,Table 2
+DFLNH,hmo_dflnh_nmol_ml,SW,24,285,32,mcguire2017,Table 2
+DFLNH,hmo_dflnh_nmol_ml,USW,41,98,12,mcguire2017,Table 2
+DFLNH,hmo_dflnh_nmol_ml,USC,19,93,11,mcguire2017,Table 2
+FDSLNH,hmo_fdslnh_nmol_ml,ETR,40,158,30,mcguire2017,Table 2
+FDSLNH,hmo_fdslnh_nmol_ml,ETU,40,240,26,mcguire2017,Table 2
+FDSLNH,hmo_fdslnh_nmol_ml,GBR,40,197,24,mcguire2017,Table 2
+FDSLNH,hmo_fdslnh_nmol_ml,GBU,40,199,33,mcguire2017,Table 2
+FDSLNH,hmo_fdslnh_nmol_ml,GN,40,182,25,mcguire2017,Table 2
+FDSLNH,hmo_fdslnh_nmol_ml,KE,42,204,25,mcguire2017,Table 2
+FDSLNH,hmo_fdslnh_nmol_ml,PE,43,245,33,mcguire2017,Table 2
+FDSLNH,hmo_fdslnh_nmol_ml,SP,41,314,38,mcguire2017,Table 2
+FDSLNH,hmo_fdslnh_nmol_ml,SW,24,83,15,mcguire2017,Table 2
+FDSLNH,hmo_fdslnh_nmol_ml,USW,41,370,48,mcguire2017,Table 2
+FDSLNH,hmo_fdslnh_nmol_ml,USC,19,70,9,mcguire2017,Table 2
+DSLNH,hmo_dslnh_nmol_ml,ETR,40,50,7,mcguire2017,Table 2
+DSLNH,hmo_dslnh_nmol_ml,ETU,40,136,12,mcguire2017,Table 2
+DSLNH,hmo_dslnh_nmol_ml,GBR,40,109,12,mcguire2017,Table 2
+DSLNH,hmo_dslnh_nmol_ml,GBU,40,129,20,mcguire2017,Table 2
+DSLNH,hmo_dslnh_nmol_ml,GN,40,126,18,mcguire2017,Table 2
+DSLNH,hmo_dslnh_nmol_ml,KE,42,101,11,mcguire2017,Table 2
+DSLNH,hmo_dslnh_nmol_ml,PE,43,108,16,mcguire2017,Table 2
+DSLNH,hmo_dslnh_nmol_ml,SP,41,103,11,mcguire2017,Table 2
+DSLNH,hmo_dslnh_nmol_ml,SW,24,55,11,mcguire2017,Table 2
+DSLNH,hmo_dslnh_nmol_ml,USW,41,93,12,mcguire2017,Table 2
+DSLNH,hmo_dslnh_nmol_ml,USC,19,33,6,mcguire2017,Table 2
+Total,hmo_total_nmol_ml,ETR,40,9748,626,mcguire2017,Table 2
+Total,hmo_total_nmol_ml,ETU,40,12187,519,mcguire2017,Table 2
+Total,hmo_total_nmol_ml,GBR,40,13732,497,mcguire2017,Table 2
+Total,hmo_total_nmol_ml,GBU,40,13435,613,mcguire2017,Table 2
+Total,hmo_total_nmol_ml,GN,40,11307,631,mcguire2017,Table 2
+Total,hmo_total_nmol_ml,KE,42,12480,628,mcguire2017,Table 2
+Total,hmo_total_nmol_ml,PE,43,14474,539,mcguire2017,Table 2
+Total,hmo_total_nmol_ml,SP,41,13349,645,mcguire2017,Table 2
+Total,hmo_total_nmol_ml,SW,24,15998,768,mcguire2017,Table 2
+Total,hmo_total_nmol_ml,USW,41,13035,502,mcguire2017,Table 2
+Total,hmo_total_nmol_ml,USC,19,15606,727,mcguire2017,Table 2
