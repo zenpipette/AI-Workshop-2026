@@ -21,6 +21,7 @@ sibling_present,household_composition,,any sibling present in household (TRUE/FA
 extended_family_n,household_composition,count,number of extended-family members
 extended_family_present,household_composition,,extended family present (TRUE/FALSE)
 father_present,household_composition,,father present in household (TRUE/FALSE)
+infant_age_weeks,household_composition,,"infant age at sampling (weeks, Lane 2019)"
 secretor_status,secretor_status,,"maternal secretor status (TRUE = secretor, McGuire 2017 Fig 3)"
 immune_measured,immune_factors,,"FALSE for ETR (chemically preserved milk, Ruiz 2017); immune analytes NA"
 hmo_2fl_nmol_ml,hmo,nmol/mL,HMO 2fl
@@ -95,6 +96,7 @@ milk_g_chryseobacterium_pct,milk_microbiome,%,milk genus relative abundance chry
 milk_g_tatumella_pct,milk_microbiome,%,milk genus relative abundance tatumella (%)
 milk_g_psychrobacter_pct,milk_microbiome,%,milk genus relative abundance psychrobacter (%)
 milk_g_clostridium_sensu_stricto_18_pct,milk_microbiome,%,milk genus relative abundance clostridium_sensu_stricto_18 (%)
+milk_g_other_unclassified_pct,milk_microbiome,%,milk genus relative abundance other_unclassified (%)
 milk_div_richness,milk_microbiome,,milk microbiome diversity index richness
 milk_div_shannon_diversity,milk_microbiome,,milk microbiome diversity index shannon_diversity
 milk_div_inverse_simpson_diversity,milk_microbiome,,milk microbiome diversity index inverse_simpson_diversity
@@ -126,6 +128,7 @@ fecal_g_paucisalibacillus_pct,fecal_microbiome,%,infant fecal genus relative abu
 fecal_g_leuconostoc_pct,fecal_microbiome,%,infant fecal genus relative abundance leuconostoc (%)
 fecal_g_acinetobacter_pct,fecal_microbiome,%,infant fecal genus relative abundance acinetobacter (%)
 fecal_g_acetobacter_pct,fecal_microbiome,%,infant fecal genus relative abundance acetobacter (%)
+fecal_g_other_unclassified_pct,fecal_microbiome,%,infant fecal genus relative abundance other_unclassified (%)
 fecal_div_richness,fecal_microbiome,,infant fecal microbiome diversity index richness
 fecal_div_shannon_diversity,fecal_microbiome,,infant fecal microbiome diversity index shannon_diversity
 fecal_div_inverse_simpson_diversity,fecal_microbiome,,infant fecal microbiome diversity index inverse_simpson_diversity

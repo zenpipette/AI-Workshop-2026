@@ -1,4 +1,10 @@
 variable,layer,source_paper,source_table,statistic_used,distribution,notes
+dyad_id,identifier/metadata,mcguire2017 Table 1 (cohort definitions) / McGuire 2021 (LMIC vs HIC),Table 1,"n per cohort: ETR 40, ETU 40, GBR 40, GBU 40, GN 40, KE 42, PE 43, SP 41, SW 24, USW 41, USC 19",assigned (not simulated),SIMULATED identifiers; dyads are synthetic
+cohort,identifier/metadata,mcguire2017 Table 1 (cohort definitions) / McGuire 2021 (LMIC vs HIC),Table 1,"n per cohort: ETR 40, ETU 40, GBR 40, GBU 40, GN 40, KE 42, PE 43, SP 41, SW 24, USW 41, USC 19",assigned (not simulated),SIMULATED identifiers; dyads are synthetic
+cohort_name,identifier/metadata,mcguire2017 Table 1 (cohort definitions) / McGuire 2021 (LMIC vs HIC),Table 1,"n per cohort: ETR 40, ETU 40, GBR 40, GBU 40, GN 40, KE 42, PE 43, SP 41, SW 24, USW 41, USC 19",assigned (not simulated),SIMULATED identifiers; dyads are synthetic
+country,identifier/metadata,mcguire2017 Table 1 (cohort definitions) / McGuire 2021 (LMIC vs HIC),Table 1,"n per cohort: ETR 40, ETU 40, GBR 40, GBU 40, GN 40, KE 42, PE 43, SP 41, SW 24, USW 41, USC 19",assigned (not simulated),SIMULATED identifiers; dyads are synthetic
+region_income,identifier/metadata,mcguire2017 Table 1 (cohort definitions) / McGuire 2021 (LMIC vs HIC),Table 1,"n per cohort: ETR 40, ETU 40, GBR 40, GBU 40, GN 40, KE 42, PE 43, SP 41, SW 24, USW 41, USC 19",assigned (not simulated),SIMULATED identifiers; dyads are synthetic
+setting,identifier/metadata,mcguire2017 Table 1 (cohort definitions) / McGuire 2021 (LMIC vs HIC),Table 1,"n per cohort: ETR 40, ETU 40, GBR 40, GBU 40, GN 40, KE 42, PE 43, SP 41, SW 24, USW 41, USC 19",assigned (not simulated),SIMULATED identifiers; dyads are synthetic
 maternal_age_y,maternal_characteristics,mcguire2017,Table 1,"mean, SEM per cohort (SD = SEM*sqrt(n))",truncated normal (cohort-specific),
 parity_n,maternal_characteristics,mcguire2017,Table 1,"mean, SEM per cohort (SD = SEM*sqrt(n))",truncated normal (cohort-specific),
 postpartum_d,maternal_characteristics,mcguire2017,Table 1,"mean, SEM per cohort (SD = SEM*sqrt(n))",truncated normal (cohort-specific),
@@ -14,6 +20,7 @@ sibling_present,household_composition,lane2019,Table 1,mean +/- SD per populatio
 extended_family_n,household_composition,lane2019,Table 1,mean +/- SD per population (proportions where applicable),truncated normal (>=0) / Bernoulli,USC excluded from Lane 2019 - pooled-population values used and flagged
 extended_family_present,household_composition,lane2019,Table 1,mean +/- SD per population (proportions where applicable),truncated normal (>=0) / Bernoulli,USC excluded from Lane 2019 - pooled-population values used and flagged
 father_present,household_composition,lane2019,Table 1,mean +/- SD per population (proportions where applicable),truncated normal (>=0) / Bernoulli,USC excluded from Lane 2019 - pooled-population values used and flagged
+infant_age_weeks,household_composition,lane2019,Table 1,mean infant age (weeks) +/- SD per population,truncated normal (4-16 weeks),USC excluded from Lane 2019 - pooled-population mean used; consistent with postpartum_d in weeks*7
 secretor_status,secretor_status,mcguire2017,Figure 3 (text),"% secretors per cohort where printed (PE 98, USC 95, GN 68, USW 68, GBR/ETR ~65)",Bernoulli(p),cohorts without a printed value assumed 80% (flag); GBR/ETR exact split unverified
 hmo_2fl_nmol_ml,hmo,mcguire2017,Table 2,"mean, SEM per cohort (nmol/mL); SD=SEM*sqrt(n)","log-normal, method of moments on raw mean/SEM; Gaussian copula across HMOs",non-secretors forced near-zero (<=2% of secretor mean)
 hmo_3fl_nmol_ml,hmo,mcguire2017,Table 2,"mean, SEM per cohort (nmol/mL); SD=SEM*sqrt(n)","log-normal, method of moments on raw mean/SEM; Gaussian copula across HMOs",
@@ -62,6 +69,7 @@ immune_measured,immune_factors,ruiz2017,Table 1/Methods,ETR excluded (chemically
 maternal_dds,maternal_characteristics,caffe2023,Table 1,"maternal diet diversity score, overall mean +/- SD",truncated normal (range 1-10),not cohort-specific; pooled value (Caffé 2023 excludes ETR)
 imm_igg_ng_l | Caffé tilt,immune_factors,caffe2023,"Table 3 (LME beta, infant sex x maternal DDS)",Published LME beta coefficient on log-scale,deterministic log-scale shift for female x DDS-centred; beta=0.099,
 imm_igm_ng_l | Caffé tilt,immune_factors,caffe2023,"Table 3 (LME beta, infant sex x maternal DDS)",Published LME beta coefficient on log-scale,deterministic log-scale shift for female x DDS-centred; beta=0.137,
+imm_il10_ng_l | Caffé tilt,immune_factors,caffe2023,"Table 3 (LME beta, infant sex x maternal DDS)",Published LME beta coefficient on log-scale,deterministic log-scale shift for female x DDS-centred; beta=-0.249,
 milk_g_streptococcus_pct,milk_microbiome,lackey2019,Table 5 (mean/SEM) + Table 3 (prevalence),"mean, SEM (relative abundance %) + % prevalence where published","logit-normal centred on cohort mean, SEM-based dispersion; presence = Bernoulli(prev)",rows renormalised to 100% after presence masking
 milk_g_staphylococcus_pct,milk_microbiome,lackey2019,Table 5 (mean/SEM) + Table 3 (prevalence),"mean, SEM (relative abundance %) + % prevalence where published","logit-normal centred on cohort mean, SEM-based dispersion; presence = Bernoulli(prev)",rows renormalised to 100% after presence masking
 milk_g_corynebacterium_1_pct,milk_microbiome,lackey2019,Table 5 (mean/SEM) + Table 3 (prevalence),"mean, SEM (relative abundance %) + % prevalence where published","logit-normal centred on cohort mean, SEM-based dispersion; presence = Bernoulli(prev)",rows renormalised to 100% after presence masking
@@ -119,6 +127,8 @@ fecal_g_paucisalibacillus_pct,fecal_microbiome,lackey2019,Table 2 (mean/SEM) + T
 fecal_g_leuconostoc_pct,fecal_microbiome,lackey2019,Table 2 (mean/SEM) + Table 3 (prevalence),"mean, SEM (relative abundance %) + % prevalence where published","logit-normal centred on cohort mean, SEM-based dispersion; presence = Bernoulli(prev)",rows renormalised to 100% after presence masking
 fecal_g_acinetobacter_pct,fecal_microbiome,lackey2019,Table 2 (mean/SEM) + Table 3 (prevalence),"mean, SEM (relative abundance %) + % prevalence where published","logit-normal centred on cohort mean, SEM-based dispersion; presence = Bernoulli(prev)",rows renormalised to 100% after presence masking
 fecal_g_acetobacter_pct,fecal_microbiome,lackey2019,Table 2 (mean/SEM) + Table 3 (prevalence),"mean, SEM (relative abundance %) + % prevalence where published","logit-normal centred on cohort mean, SEM-based dispersion; presence = Bernoulli(prev)",rows renormalised to 100% after presence masking
+milk_g_other_unclassified_pct,milk_microbiome,lackey2019,Tables 3/5,derived: 100% - sum of printed genus means (where < 100%),modelling remainder bucket (Dirichlet share); NOT a measured genus,included so each row sums to 100%; printed genus means stay on-target
+fecal_g_other_unclassified_pct,fecal_microbiome,lackey2019,Tables 2/3,derived: 100% - sum of printed genus means (where < 100%),modelling remainder bucket (Dirichlet share); NOT a measured genus,included so each row sums to 100%; printed genus means stay on-target
 milk_div_richness,milk_microbiome,lackey2019,Table 4,computed from simulated relative abundances; validated vs published T4 mean/SEM,derived (Shannon / richness / inverse Simpson),
 milk_div_shannon_diversity,milk_microbiome,lackey2019,Table 4,computed from simulated relative abundances; validated vs published T4 mean/SEM,derived (Shannon / richness / inverse Simpson),
 milk_div_inverse_simpson_diversity,milk_microbiome,lackey2019,Table 4,computed from simulated relative abundances; validated vs published T4 mean/SEM,derived (Shannon / richness / inverse Simpson),
@@ -126,52 +136,52 @@ fecal_div_richness,fecal_microbiome,lackey2019,Table 4,computed from simulated r
 fecal_div_shannon_diversity,fecal_microbiome,lackey2019,Table 4,computed from simulated relative abundances; validated vs published T4 mean/SEM,derived (Shannon / richness / inverse Simpson),
 fecal_div_inverse_simpson_diversity,fecal_microbiome,lackey2019,Table 4,computed from simulated relative abundances; validated vs published T4 mean/SEM,derived (Shannon / richness / inverse Simpson),
 ab_iga_etec_breadth_score,antibodies,mcguire2021,Table 1,"mean, SEM per cohort (mean [SEM])","truncated normal in (0.01, 0.99)",
-ab_iga_etec_react_top10,antibodies,mcguire2021,Table 1,"mean, SEM per cohort (mean [SEM])","truncated normal in (0, mean+4SD)",
-ab_iga_etec_react_all,antibodies,mcguire2021,Table 1,"mean, SEM per cohort (mean [SEM])","truncated normal in (0, mean+4SD)",
+ab_iga_etec_react_top10,antibodies,mcguire2021,Table 1,"mean, SEM per cohort (mean [SEM])","truncated normal in (min(0, mean-4SD), mean+4SD); allows the small negative intensities printed in McGuire 2021",
+ab_iga_etec_react_all,antibodies,mcguire2021,Table 1,"mean, SEM per cohort (mean [SEM])","truncated normal in (min(0, mean-4SD), mean+4SD); allows the small negative intensities printed in McGuire 2021",
 ab_iga_epec_breadth_score,antibodies,mcguire2021,Table 1,"mean, SEM per cohort (mean [SEM])","truncated normal in (0.01, 0.99)",
-ab_iga_epec_react_top10,antibodies,mcguire2021,Table 1,"mean, SEM per cohort (mean [SEM])","truncated normal in (0, mean+4SD)",
-ab_iga_epec_react_all,antibodies,mcguire2021,Table 1,"mean, SEM per cohort (mean [SEM])","truncated normal in (0, mean+4SD)",
+ab_iga_epec_react_top10,antibodies,mcguire2021,Table 1,"mean, SEM per cohort (mean [SEM])","truncated normal in (min(0, mean-4SD), mean+4SD); allows the small negative intensities printed in McGuire 2021",
+ab_iga_epec_react_all,antibodies,mcguire2021,Table 1,"mean, SEM per cohort (mean [SEM])","truncated normal in (min(0, mean-4SD), mean+4SD); allows the small negative intensities printed in McGuire 2021",
 ab_iga_eaec_breadth_score,antibodies,mcguire2021,Table 1,"mean, SEM per cohort (mean [SEM])","truncated normal in (0.01, 0.99)",
-ab_iga_eaec_react_top10,antibodies,mcguire2021,Table 1,"mean, SEM per cohort (mean [SEM])","truncated normal in (0, mean+4SD)",
-ab_iga_eaec_react_all,antibodies,mcguire2021,Table 1,"mean, SEM per cohort (mean [SEM])","truncated normal in (0, mean+4SD)",
+ab_iga_eaec_react_top10,antibodies,mcguire2021,Table 1,"mean, SEM per cohort (mean [SEM])","truncated normal in (min(0, mean-4SD), mean+4SD); allows the small negative intensities printed in McGuire 2021",
+ab_iga_eaec_react_all,antibodies,mcguire2021,Table 1,"mean, SEM per cohort (mean [SEM])","truncated normal in (min(0, mean-4SD), mean+4SD); allows the small negative intensities printed in McGuire 2021",
 ab_iga_shigella_breadth_score,antibodies,mcguire2021,Table 1,"mean, SEM per cohort (mean [SEM])","truncated normal in (0.01, 0.99)",
-ab_iga_shigella_react_top10,antibodies,mcguire2021,Table 1,"mean, SEM per cohort (mean [SEM])","truncated normal in (0, mean+4SD)",
-ab_iga_shigella_react_all,antibodies,mcguire2021,Table 1,"mean, SEM per cohort (mean [SEM])","truncated normal in (0, mean+4SD)",
+ab_iga_shigella_react_top10,antibodies,mcguire2021,Table 1,"mean, SEM per cohort (mean [SEM])","truncated normal in (min(0, mean-4SD), mean+4SD); allows the small negative intensities printed in McGuire 2021",
+ab_iga_shigella_react_all,antibodies,mcguire2021,Table 1,"mean, SEM per cohort (mean [SEM])","truncated normal in (min(0, mean-4SD), mean+4SD); allows the small negative intensities printed in McGuire 2021",
 ab_iga_s_enterica_typhi_breadth_score,antibodies,mcguire2021,Table 1,"mean, SEM per cohort (mean [SEM])","truncated normal in (0.01, 0.99)",
-ab_iga_s_enterica_typhi_react_top10,antibodies,mcguire2021,Table 1,"mean, SEM per cohort (mean [SEM])","truncated normal in (0, mean+4SD)",
-ab_iga_s_enterica_typhi_react_all,antibodies,mcguire2021,Table 1,"mean, SEM per cohort (mean [SEM])","truncated normal in (0, mean+4SD)",
+ab_iga_s_enterica_typhi_react_top10,antibodies,mcguire2021,Table 1,"mean, SEM per cohort (mean [SEM])","truncated normal in (min(0, mean-4SD), mean+4SD); allows the small negative intensities printed in McGuire 2021",
+ab_iga_s_enterica_typhi_react_all,antibodies,mcguire2021,Table 1,"mean, SEM per cohort (mean [SEM])","truncated normal in (min(0, mean-4SD), mean+4SD); allows the small negative intensities printed in McGuire 2021",
 ab_iga_s_aureus_breadth_score,antibodies,mcguire2021,Table 1,"mean, SEM per cohort (mean [SEM])","truncated normal in (0.01, 0.99)",
-ab_iga_s_aureus_react_top10,antibodies,mcguire2021,Table 1,"mean, SEM per cohort (mean [SEM])","truncated normal in (0, mean+4SD)",
-ab_iga_s_aureus_react_all,antibodies,mcguire2021,Table 1,"mean, SEM per cohort (mean [SEM])","truncated normal in (0, mean+4SD)",
+ab_iga_s_aureus_react_top10,antibodies,mcguire2021,Table 1,"mean, SEM per cohort (mean [SEM])","truncated normal in (min(0, mean-4SD), mean+4SD); allows the small negative intensities printed in McGuire 2021",
+ab_iga_s_aureus_react_all,antibodies,mcguire2021,Table 1,"mean, SEM per cohort (mean [SEM])","truncated normal in (min(0, mean-4SD), mean+4SD); allows the small negative intensities printed in McGuire 2021",
 ab_iga_s_pneumoniae_breadth_score,antibodies,mcguire2021,Table 1,"mean, SEM per cohort (mean [SEM])","truncated normal in (0.01, 0.99)",
-ab_iga_s_pneumoniae_react_top10,antibodies,mcguire2021,Table 1,"mean, SEM per cohort (mean [SEM])","truncated normal in (0, mean+4SD)",
-ab_iga_s_pneumoniae_react_all,antibodies,mcguire2021,Table 1,"mean, SEM per cohort (mean [SEM])","truncated normal in (0, mean+4SD)",
+ab_iga_s_pneumoniae_react_top10,antibodies,mcguire2021,Table 1,"mean, SEM per cohort (mean [SEM])","truncated normal in (min(0, mean-4SD), mean+4SD); allows the small negative intensities printed in McGuire 2021",
+ab_iga_s_pneumoniae_react_all,antibodies,mcguire2021,Table 1,"mean, SEM per cohort (mean [SEM])","truncated normal in (min(0, mean-4SD), mean+4SD); allows the small negative intensities printed in McGuire 2021",
 ab_iga_m_tuberculosis_breadth_score,antibodies,mcguire2021,Table 1,"mean, SEM per cohort (mean [SEM])","truncated normal in (0.01, 0.99)",
-ab_iga_m_tuberculosis_react_top10,antibodies,mcguire2021,Table 1,"mean, SEM per cohort (mean [SEM])","truncated normal in (0, mean+4SD)",
-ab_iga_m_tuberculosis_react_all,antibodies,mcguire2021,Table 1,"mean, SEM per cohort (mean [SEM])","truncated normal in (0, mean+4SD)",
+ab_iga_m_tuberculosis_react_top10,antibodies,mcguire2021,Table 1,"mean, SEM per cohort (mean [SEM])","truncated normal in (min(0, mean-4SD), mean+4SD); allows the small negative intensities printed in McGuire 2021",
+ab_iga_m_tuberculosis_react_all,antibodies,mcguire2021,Table 1,"mean, SEM per cohort (mean [SEM])","truncated normal in (min(0, mean-4SD), mean+4SD); allows the small negative intensities printed in McGuire 2021",
 ab_igg_etec_breadth_score,antibodies,mcguire2021,Table 2,"mean, SEM per cohort (mean [SEM])","truncated normal in (0.01, 0.99)",
-ab_igg_etec_react_top10,antibodies,mcguire2021,Table 2,"mean, SEM per cohort (mean [SEM])","truncated normal in (0, mean+4SD)",
-ab_igg_etec_react_all,antibodies,mcguire2021,Table 2,"mean, SEM per cohort (mean [SEM])","truncated normal in (0, mean+4SD)",
+ab_igg_etec_react_top10,antibodies,mcguire2021,Table 2,"mean, SEM per cohort (mean [SEM])","truncated normal in (min(0, mean-4SD), mean+4SD); allows the small negative intensities printed in McGuire 2021",
+ab_igg_etec_react_all,antibodies,mcguire2021,Table 2,"mean, SEM per cohort (mean [SEM])","truncated normal in (min(0, mean-4SD), mean+4SD); allows the small negative intensities printed in McGuire 2021",
 ab_igg_epec_breadth_score,antibodies,mcguire2021,Table 2,"mean, SEM per cohort (mean [SEM])","truncated normal in (0.01, 0.99)",
-ab_igg_epec_react_top10,antibodies,mcguire2021,Table 2,"mean, SEM per cohort (mean [SEM])","truncated normal in (0, mean+4SD)",
-ab_igg_epec_react_all,antibodies,mcguire2021,Table 2,"mean, SEM per cohort (mean [SEM])","truncated normal in (0, mean+4SD)",
+ab_igg_epec_react_top10,antibodies,mcguire2021,Table 2,"mean, SEM per cohort (mean [SEM])","truncated normal in (min(0, mean-4SD), mean+4SD); allows the small negative intensities printed in McGuire 2021",
+ab_igg_epec_react_all,antibodies,mcguire2021,Table 2,"mean, SEM per cohort (mean [SEM])","truncated normal in (min(0, mean-4SD), mean+4SD); allows the small negative intensities printed in McGuire 2021",
 ab_igg_eaec_breadth_score,antibodies,mcguire2021,Table 2,"mean, SEM per cohort (mean [SEM])","truncated normal in (0.01, 0.99)",
-ab_igg_eaec_react_top10,antibodies,mcguire2021,Table 2,"mean, SEM per cohort (mean [SEM])","truncated normal in (0, mean+4SD)",
-ab_igg_eaec_react_all,antibodies,mcguire2021,Table 2,"mean, SEM per cohort (mean [SEM])","truncated normal in (0, mean+4SD)",
+ab_igg_eaec_react_top10,antibodies,mcguire2021,Table 2,"mean, SEM per cohort (mean [SEM])","truncated normal in (min(0, mean-4SD), mean+4SD); allows the small negative intensities printed in McGuire 2021",
+ab_igg_eaec_react_all,antibodies,mcguire2021,Table 2,"mean, SEM per cohort (mean [SEM])","truncated normal in (min(0, mean-4SD), mean+4SD); allows the small negative intensities printed in McGuire 2021",
 ab_igg_shigella_breadth_score,antibodies,mcguire2021,Table 2,"mean, SEM per cohort (mean [SEM])","truncated normal in (0.01, 0.99)",
-ab_igg_shigella_react_top10,antibodies,mcguire2021,Table 2,"mean, SEM per cohort (mean [SEM])","truncated normal in (0, mean+4SD)",
-ab_igg_shigella_react_all,antibodies,mcguire2021,Table 2,"mean, SEM per cohort (mean [SEM])","truncated normal in (0, mean+4SD)",
+ab_igg_shigella_react_top10,antibodies,mcguire2021,Table 2,"mean, SEM per cohort (mean [SEM])","truncated normal in (min(0, mean-4SD), mean+4SD); allows the small negative intensities printed in McGuire 2021",
+ab_igg_shigella_react_all,antibodies,mcguire2021,Table 2,"mean, SEM per cohort (mean [SEM])","truncated normal in (min(0, mean-4SD), mean+4SD); allows the small negative intensities printed in McGuire 2021",
 ab_igg_s_enterica_typhi_breadth_score,antibodies,mcguire2021,Table 2,"mean, SEM per cohort (mean [SEM])","truncated normal in (0.01, 0.99)",
-ab_igg_s_enterica_typhi_react_top10,antibodies,mcguire2021,Table 2,"mean, SEM per cohort (mean [SEM])","truncated normal in (0, mean+4SD)",
-ab_igg_s_enterica_typhi_react_all,antibodies,mcguire2021,Table 2,"mean, SEM per cohort (mean [SEM])","truncated normal in (0, mean+4SD)",
+ab_igg_s_enterica_typhi_react_top10,antibodies,mcguire2021,Table 2,"mean, SEM per cohort (mean [SEM])","truncated normal in (min(0, mean-4SD), mean+4SD); allows the small negative intensities printed in McGuire 2021",
+ab_igg_s_enterica_typhi_react_all,antibodies,mcguire2021,Table 2,"mean, SEM per cohort (mean [SEM])","truncated normal in (min(0, mean-4SD), mean+4SD); allows the small negative intensities printed in McGuire 2021",
 ab_igg_s_aureus_breadth_score,antibodies,mcguire2021,Table 2,"mean, SEM per cohort (mean [SEM])","truncated normal in (0.01, 0.99)",
-ab_igg_s_aureus_react_top10,antibodies,mcguire2021,Table 2,"mean, SEM per cohort (mean [SEM])","truncated normal in (0, mean+4SD)",
-ab_igg_s_aureus_react_all,antibodies,mcguire2021,Table 2,"mean, SEM per cohort (mean [SEM])","truncated normal in (0, mean+4SD)",
+ab_igg_s_aureus_react_top10,antibodies,mcguire2021,Table 2,"mean, SEM per cohort (mean [SEM])","truncated normal in (min(0, mean-4SD), mean+4SD); allows the small negative intensities printed in McGuire 2021",
+ab_igg_s_aureus_react_all,antibodies,mcguire2021,Table 2,"mean, SEM per cohort (mean [SEM])","truncated normal in (min(0, mean-4SD), mean+4SD); allows the small negative intensities printed in McGuire 2021",
 ab_igg_s_pneumoniae_breadth_score,antibodies,mcguire2021,Table 2,"mean, SEM per cohort (mean [SEM])","truncated normal in (0.01, 0.99)",
-ab_igg_s_pneumoniae_react_top10,antibodies,mcguire2021,Table 2,"mean, SEM per cohort (mean [SEM])","truncated normal in (0, mean+4SD)",
-ab_igg_s_pneumoniae_react_all,antibodies,mcguire2021,Table 2,"mean, SEM per cohort (mean [SEM])","truncated normal in (0, mean+4SD)",
+ab_igg_s_pneumoniae_react_top10,antibodies,mcguire2021,Table 2,"mean, SEM per cohort (mean [SEM])","truncated normal in (min(0, mean-4SD), mean+4SD); allows the small negative intensities printed in McGuire 2021",
+ab_igg_s_pneumoniae_react_all,antibodies,mcguire2021,Table 2,"mean, SEM per cohort (mean [SEM])","truncated normal in (min(0, mean-4SD), mean+4SD); allows the small negative intensities printed in McGuire 2021",
 ab_igg_m_tuberculosis_breadth_score,antibodies,mcguire2021,Table 2,"mean, SEM per cohort (mean [SEM])","truncated normal in (0.01, 0.99)",
-ab_igg_m_tuberculosis_react_top10,antibodies,mcguire2021,Table 2,"mean, SEM per cohort (mean [SEM])","truncated normal in (0, mean+4SD)",
-ab_igg_m_tuberculosis_react_all,antibodies,mcguire2021,Table 2,"mean, SEM per cohort (mean [SEM])","truncated normal in (0, mean+4SD)",
+ab_igg_m_tuberculosis_react_top10,antibodies,mcguire2021,Table 2,"mean, SEM per cohort (mean [SEM])","truncated normal in (min(0, mean-4SD), mean+4SD); allows the small negative intensities printed in McGuire 2021",
+ab_igg_m_tuberculosis_react_all,antibodies,mcguire2021,Table 2,"mean, SEM per cohort (mean [SEM])","truncated normal in (min(0, mean-4SD), mean+4SD); allows the small negative intensities printed in McGuire 2021",
 macro_lactose_g_l,macronutrients,pace2021,text (sec 3.3),overall mean +/- SD + range (g/L),truncated normal (overall; not cohort-specific),overall distribution only - per-cohort values not printed (figure-only)
 macro_protein_g_l,macronutrients,pace2021,text (sec 3.3),overall mean +/- SD + range (g/L),truncated normal (overall; not cohort-specific),overall distribution only - per-cohort values not printed (figure-only)

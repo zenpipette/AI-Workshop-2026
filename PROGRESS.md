@@ -1,6 +1,6 @@
 # Project progress and resume notes
 
-Last updated: 2026-10-10 02:46 (brief 05 interrupted mid-run; see step 5 and resume instructions). Keep this file current; it is the hand-off between sessions.
+Last updated: 2026-10-10 04:10 (session 2, shutdown imminent). Brief 05 complete; review pending. Keep this file current; it is the hand-off between sessions.
 
 ## Working model
 
@@ -24,7 +24,7 @@ this must be stated prominently everywhere it is used** (see `CLAUDE.md`).
 | 2 | Re-survey for pre-processed milk tables (brief 02) | `data/milk_components_preprocessed_report.md` | done; no full match. MILK cohort tables saved in `data/raw_downloads/MILK_zenodo/` |
 | 3 | Retry with download workarounds (brief 03) | partial; stopped by supervisor when the INSPIRE decision was made | Mongolian dyad tables saved in `data/raw_downloads/Davaanyam_figshare/` |
 | 4 | Catalogue INSPIRE PDF summary statistics (brief 04) | `data/inspire/catalog.md`, `data/inspire/summary_stats/` (5,662 rows), `data/inspire/extraction_log.md` | done; supervisor spot-checked 3 tables against PDFs, all exact |
-| 5 | Simulate dyad dataset in R (brief 05) | `R/01..03_*.R`, `data/simulated/` | **in progress, interrupted by laptop shutdown 2026-10-10 02:46**. Done: `R/01_load_summary_stats.R`, `R/02_simulate_dyads.R`, all `params_*.csv`, all `simulated_*.csv`, `provenance.csv`, `data_dictionary.csv`. NOT done: `R/03_validate_simulation.R`, `validation_report.md`, full `README.md` (placeholder only). Goose session `brief05_simulate` was at 69 tool calls, debugging in `scratch/brief05/dbg*.R`. |
+| 5 | Simulate dyad dataset in R (brief 05) | `R/01..03_*.R`, `data/simulated/` (wide 410x183, 5 long tables, provenance, data dictionary, validation_report.md, README.md) | **done 2026-10-10 04:10**. Goose completed all deliverables; supervisor regenerated outputs by running the 3 scripts (clean, exit 0) and recovered the README from Goose's session DB after an interrupted clean-state rerun. **Supervisor review of validation_report.md still pending.** |
 | 6 | Shiny dashboard (brief 06) | `app/` | not started; needs the user's list of desired visualizations |
 
 ## How to resume after a shutdown
@@ -37,7 +37,7 @@ this must be stated prominently everywhere it is used** (see `CLAUDE.md`).
    .\tools\run_goose_brief.ps1 -Brief briefs\05_simulate_inspire_dyads_R.md -Session brief05_simulate -Deliverable data\simulated\validation_report.md
    ```
    Logs: `scratch/goose_logs/`.
-3. Supervisor review of brief 05: run `Rscript R/03_validate_simulation.R`, read the validation
+3. **NEXT STEP** — Supervisor review of brief 05: run `Rscript R/03_validate_simulation.R`, read the validation
    report, check that the simulated-data notice is in README, scripts, and report, and spot-check a
    few cohort means against `data/inspire/summary_stats/`.
 4. Ask the user for the specific visualizations they want, then write brief 06 (Shiny app in `app/`,

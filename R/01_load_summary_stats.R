@@ -403,7 +403,7 @@ caffe_betas <- read_stats("caffe2023_Table3.csv") %>%
   filter(grepl("Infant Sex:Maternal DDS", analyte, fixed = TRUE)) %>%
   mutate(analyte_name = sub(" \\~ .*$", "", analyte),
          analyte_name = gsub("log ", "", analyte_name, fixed = TRUE),
-         analyte_id = paste0("imm_", snake(sub(" \\(.*\\)$", "", analyte_name)), "_ng_l")) %>%
+         analyte_id = paste0("imm_", snake(gsub("-", "", sub(" \\(.*\\)$", "", analyte_name))), "_ng_l")) %>%
   select(analyte_id, beta_value = value_num) %>%
   filter(!is.na(beta_value))
 

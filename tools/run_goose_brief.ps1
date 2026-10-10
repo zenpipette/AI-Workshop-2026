@@ -8,14 +8,15 @@ nudge. It also forces Goose to use PowerShell instead of cmd.exe on Windows.
 
 Usage (from the project root):
   .\tools\run_goose_brief.ps1 -Brief briefs\03_x.md -Session brief03 -Deliverable data\report_03.md
-Optional: -MaxResumes 4 -MaxTurns 250
+Optional: -MaxResumes 4 -MaxTurns 250 -Resume (continue an interrupted session instead of starting fresh)
 #>
 param(
     [Parameter(Mandatory = $true)] [string] $Brief,
     [Parameter(Mandatory = $true)] [string] $Session,
     [Parameter(Mandatory = $true)] [string] $Deliverable,
     [int] $MaxResumes = 4,
-    [int] $MaxTurns = 250
+    [int] $MaxTurns = 250,
+    [switch] $Resume   # skip the fresh run; resume the existing session straight away
 )
 
 $ErrorActionPreference = "Continue"
@@ -37,8 +38,12 @@ function Invoke-GooseRun([string] $label, [string[]] $gooseArgs) {
     Write-Host ("[{0}] {1} finished (exit {2}); log: {3}" -f (Get-Date -Format "HH:mm:ss"), $label, $LASTEXITCODE, $log)
 }
 
-# Initial run from the brief file.
-Invoke-GooseRun "run0" @("run", "-i", $Brief, "-n", $Session, "--max-turns", "$MaxTurns", "--stats")
+# Initial run from the brief file (skipped with -Resume, e.g. after an interrupted run).
+if (-not $Resume) {
+    Invoke-GooseRun "run0" @("run", "-i", $Brief, "-n", $Session, "--max-turns", "$MaxTurns", "--stats")
+} else {
+    Write-Host "Resume mode: skipping fresh run, resuming session '$Session'."
+}
 
 $resumes = 0
 while (-not (Test-Path $Deliverable) -and $resumes -lt $MaxResumes) {

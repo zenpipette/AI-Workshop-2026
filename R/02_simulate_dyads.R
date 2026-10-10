@@ -61,12 +61,47 @@ add_prov <- function(variable, layer, source_paper, source_table, statistic_used
   invisible(NULL)
 }
 
+# expected value of a truncated normal / solves the pre-truncation mean that
+# yields a target post-truncation mean (published cohort means are raw means)
+etruncnorm <- function(mu, sd, lo, hi) {
+  a <- (lo - mu) / sd; b <- (hi - mu) / sd
+  mu + sd * (dnorm(a) - dnorm(b)) / (pnorm(b) - pnorm(a))
+}
+solve_tn_mu <- function(target, sd, lo, hi) {
+  if (!is.finite(sd) || sd < 1e-6) return(target)
+  f <- function(mu) {
+    r <- etruncnorm(mu, sd, lo, hi) - target
+    if (!is.finite(r)) r <- sign(mu - target) * 1e6
+    r
+  }
+  lo_b <- lo - 6 * sd - 0.5; hi_b <- hi + 6 * sd + 0.5
+  tries <- 0
+  while (tries < 40 && f(lo_b) * f(hi_b) > 0) {
+    lo_b <- lo_b - 2 * sd; hi_b <- hi_b + 2 * sd; tries <- tries + 1
+  }
+  if (tries >= 40) return(target)
+  r <- tryCatch(uniroot(f, c(lo_b, hi_b))$root, error = function(e) target)
+  if (!is.finite(r)) target else r
+}
+
 rtruncnorm <- function(n, mean, sd, lo = -Inf, hi = Inf) {
-  sd <- pmax(sd, 1e-9)
-  lo_q <- pnorm((lo - mean) / sd); hi_q <- pnorm((hi - mean) / sd)
-  hi_q <- pmax(hi_q, lo_q + 1e-9)
-  u <- lo_q + (hi_q - lo_q) * runif(n)
-  qnorm(u, mean = mean, sd = sd)
+  if (length(mean) == 1L) mean <- rep(mean, n)
+  if (length(sd) == 1L) sd <- rep(sd, n)
+  out <- numeric(n)
+  # sd ~ 0: constant value clipped to range
+  zero_sd <- sd < 1e-8
+  out[zero_sd] <- pmin(pmax(mean[zero_sd], lo), hi)
+  nz <- which(!zero_sd)
+  if (length(nz)) {
+    lo_q <- pnorm((lo - mean[nz]) / sd[nz])
+    hi_q <- pnorm((hi - mean[nz]) / sd[nz])
+    hi_q <- pmin(pmax(hi_q, lo_q + 1e-9), 1)
+    lo_q <- pmin(lo_q, 1 - 1e-9)
+    u <- lo_q + (hi_q - lo_q) * runif(length(nz))
+    u <- pmin(pmax(u, 1e-12), 1 - 1e-12)
+    out[nz] <- qnorm(u, mean = mean[nz], sd = sd[nz])
+  }
+  pmin(pmax(out, lo), hi)
 }
 
 # =============================================================================
@@ -93,6 +128,14 @@ stopifnot(N == 410L)
 # per-cohort row index for fast lookups
 idx_by_cohort <- split(seq_len(N), dyad_tab$cohort)
 
+add_prov(c("dyad_id", "cohort", "cohort_name", "country", "region_income", "setting"),
+         rep("identifier/metadata", 6),
+         rep("mcguire2017 Table 1 (cohort definitions) / McGuire 2021 (LMIC vs HIC)", 6),
+         rep("Table 1", 6),
+         rep("n per cohort: ETR 40, ETU 40, GBR 40, GBU 40, GN 40, KE 42, PE 43, SP 41, SW 24, USW 41, USC 19", 6),
+         rep("assigned (not simulated)", 6),
+         rep("SIMULATED identifiers; dyads are synthetic", 6))
+
 # =============================================================================
 # 2) Maternal & infant characteristics (McGuire 2017 T1 + Lane 2019 T1 +
 #    Ruiz 2017 T1 + Pace 2021 text)
@@ -113,8 +156,10 @@ mat_wide <- as_tibble(lapply(split(maternal, maternal$analyte_id), function(df) 
   for (co in cohorts$cohort) {
     d <- df[df$cohort == co, ]
     ii <- idx_by_cohort[[co]]
-    v[ii] <- rtruncnorm(length(ii), d$mean, d$sem * sqrt(d$n),
-                        plausible[[d$analyte_id[1]]][1], plausible[[d$analyte_id[1]]][2])
+    sd <- d$sem * sqrt(d$n)
+    lo <- plausible[[d$analyte_id[1]]][1]; hi <- plausible[[d$analyte_id[1]]][2]
+    mu_star <- solve_tn_mu(d$mean, sd, lo, hi)
+    v[ii] <- rtruncnorm(length(ii), mu_star, sd, lo, hi)
   }
   v
 }))
@@ -135,10 +180,14 @@ walk(unique(maternal$analyte_id), ~add_prov(
          "BMI recomputed for internal consistency with weight & height, then blended (60/40)",
          "")))
 
-# delivery mode: vaginal probability per cohort (Ruiz 2017 T1; ETR = 86% assumed)
-dyad_tab$delivery_mode <- {
-  p <- delivery$vaginal_pct[match(dyad_tab$cohort, delivery$cohort)] / 100
-  ifelse(runif(N) < p, "vaginal", "cesarean")
+# delivery mode: vaginal probability per cohort (Ruiz 2017 T1; ETR = 86%
+# assumed); stratified assignment so per-cohort % matches exactly
+dyad_tab$delivery_mode <- NA_character_
+for (co in cohorts$cohort) {
+  ii <- idx_by_cohort[[co]]
+  p <- delivery$vaginal_pct[delivery$cohort == co] / 100
+  k <- round(p * length(ii))
+  dyad_tab$delivery_mode[ii] <- sample(c(rep("vaginal", k), rep("cesarean", length(ii) - k)))
 }
 add_prov("delivery_mode", "maternal_characteristics", "ruiz2017", "Table 1",
          "% of subjects (C-section) per site; vaginal = 1 - C-section",
@@ -199,12 +248,30 @@ add_prov(c("household_size_n", "siblings_n", "sibling_present",
          rep("mean +/- SD per population (proportions where applicable)", 6),
          rep("truncated normal (>=0) / Bernoulli", 6),
          "USC excluded from Lane 2019 - pooled-population values used and flagged")
+# infant age in weeks (Lane 2019 T1); complements postpartum_d
+ia <- household[household$analyte_id == "infant_age_weeks", ]
+if (nrow(ia)) {
+  v_ia <- hh_draw("infant_age_weeks")
+  dyad_tab$infant_age_weeks <- round(pmax(4, pmin(16, v_ia)))
+  add_prov("infant_age_weeks", "household_composition", "lane2019", "Table 1",
+           "mean infant age (weeks) +/- SD per population",
+           "truncated normal (4-16 weeks)",
+           "USC excluded from Lane 2019 - pooled-population mean used; consistent with postpartum_d in weeks*7")
+}
 
 # =============================================================================
 # 3) Secretor status (McGuire 2017 Fig 3 text; assumed 80% where not printed)
 # =============================================================================
-p_sec <- secretor$secretor_pct[match(dyad_tab$cohort, secretor$cohort)] / 100
-dyad_tab$secretor_status <- runif(N) < p_sec
+# stratified secretor assignment so per-cohort % matches the published value
+# (rounded to an integer count) exactly rather than binomially
+dyad_tab$secretor_status <- NA
+for (co in cohorts$cohort) {
+  ii <- idx_by_cohort[[co]]
+  p <- secretor$secretor_pct[secretor$cohort == co] / 100
+  k <- round(p * length(ii))
+  dyad_tab$secretor_status[ii] <- sample(c(rep(TRUE, k), rep(FALSE, length(ii) - k)))
+}
+dyad_tab$secretor_status <- as.logical(dyad_tab$secretor_status)
 add_prov("secretor_status", "secretor_status", "mcguire2017", "Figure 3 (text)",
          "% secretors per cohort where printed (PE 98, USC 95, GN 68, USW 68, GBR/ETR ~65)",
          "Bernoulli(p)",
@@ -292,7 +359,9 @@ for (id in hmo_ids) {
 # ---- secretor adjustment -----------------------------------------------------
 # Peptide details from McGuire 2017 (non-secretors lack a1-2 fucosylated HMOs):
 # near-zero: 2'FL, LNFP I, DFLac; increased: LNT and LNFP II (milk compensates).
-# For each cohort, the non-secretor cap = 2% of that cohort's secretor mean.
+# After the adjustment we recalibrate each analyte x cohort so the realised
+# cohort mean matches the published summary mean (published means are taken
+# over secretors + non-secretors combined, McGuire 2017 Table 2 "all women").
 nonsec <- !dyad_tab$secretor_status
 sec_cap_vec <- function(col) {
   df <- hmo[hmo$analyte_id == col, ]
@@ -305,6 +374,33 @@ hmo_wide[nonsec, "hmo_dflac_nmol_ml"] <- pmin(hmo_wide[nonsec, "hmo_dflac_nmol_m
                                               0.02 * sec_cap_vec("hmo_dflac_nmol_ml")[nonsec])
 hmo_wide[nonsec, "hmo_lnt_nmol_ml"]    <- hmo_wide[nonsec, "hmo_lnt_nmol_ml"] * 1.3
 hmo_wide[nonsec, "hmo_lnfp_ii_nmol_ml"] <- hmo_wide[nonsec, "hmo_lnfp_ii_nmol_ml"] * 1.3
+
+# recalibrate cohort means. Iteratively alternate (a) multiplicative rescale
+# of SECRETOR values so the cohort mean matches the published target and
+# (b) re-imposition of the non-secretor floors at 2% of the scaled non-secretor
+# values' target. Converges quickly because floors are small (<=2%).
+floor_ids <- c("hmo_2fl_nmol_ml", "hmo_lnfp_i_nmol_ml", "hmo_dflac_nmol_ml")
+for (id in hmo_ids) {
+  df <- hmo[hmo$analyte_id == id, ]
+  for (co in cohorts$cohort) {
+    ii <- idx_by_cohort[[co]]
+    target <- df$mean[df$cohort == co]
+    for (it in 1:8) {
+      realised <- mean(hmo_wide[ii, id])
+      if (realised <= 0) break
+      f <- target / realised
+      if (abs(f - 1) < 0.002) break
+      # rescale everyone (keep non-secretors proportionate)
+      hmo_wide[ii, id] <- hmo_wide[ii, id] * f
+      # re-impose floors for the floored analytes relative to current secretor mean
+      if (id %in% floor_ids) {
+        ii_ns <- ii[nonsec[ii]]
+        sec_mean <- mean(hmo_wide[ii[!nonsec[ii]], id])
+        if (is.finite(sec_mean)) hmo_wide[ii_ns, id] <- pmin(hmo_wide[ii_ns, id], 0.02 * sec_mean)
+      }
+    }
+  }
+}
 
 hmo_df <- as_tibble(hmo_wide)
 hmo_df$hmo_total_nmol_ml <- rowSums(hmo_df[, hmo_ids])
@@ -336,11 +432,20 @@ for (id in imm_ids) {
     d <- df[df$cohort == co, ]
     if (nrow(d) == 0) next
     det <- pmin(pmax(d$det_pct, 0), 100) / 100
-    detected <- runif(length(ii)) < det
     lsigma <- (log(pmax(d$iqr_u, d$median * 1.01)) - log(pmax(d$iqr_l, d$median * 0.25))) / (2 * 0.6745)
     lsigma <- pmax(lsigma, 0.05)
-    vals <- rlnorm(length(ii), meanlog = log(d$median), sdlog = lsigma)
-    vals[!detected] <- 0
+    ni <- length(ii)
+    k <- round(det * ni)
+    vals <- numeric(ni)
+    if (k > 0) {
+      # stratified log-normal quantiles so the detected subsample's median / IQR
+      # match the published values closely even at small k
+      qq <- (seq_len(k) - 0.5) / k
+      det_vals <- qlnorm(qq, meanlog = log(pmax(d$median, 1e-3)), sdlog = lsigma)
+      det_vals <- sample(det_vals, k)  # randomise assignment to dyads
+      idx_det <- sample(ii, k)
+      vals[ii %in% idx_det] <- det_vals
+    }
     immune_df[ii, id] <- vals
   }
   add_prov(id, "immune_factors", "ruiz2017",
@@ -405,52 +510,117 @@ apply_caffe <- function(id) {
 invisible(lapply(c("imm_igg_ng_l", "imm_igm_ng_l", "imm_il10_ng_l"), apply_caffe))
 
 # =============================================================================
-# 6) Milk microbiome (29 genera): presence by prevalence + logit-normal +
-#    row renormalisation to 100 %
+# 6) Milk microbiome: per cohort, gamma draws -> Dirichlet-style renormalised
+#    composition. Genus-level gamma means are calibrated so the post-
+#    renormalisation means match the published cohort means; the per-cohort
+#    concentration (dispersion) is chosen from the published SEMs (moment
+#    match, Var(g) = m'(1-m')/(phi+1)). Presence is zero-masked by prevalence.
+#    The shared Gaussian-copula latent is used for milk~fecal Lactobacillus and
+#    milk~fecal Bifidobacterium so those correlations (Pace 2021) are induced.
 # =============================================================================
-sim_microbiome <- function(df_mic, link_cohort_latent = NULL, id_prefix = "milk_g_") {
+sim_microbiome <- function(df_mic, link_latent = NULL, remainder_col = "xx_other_unclassified_pct") {
   genera <- unique(df_mic$analyte_id)
-  # latent normal per genus x dyad via AR(1)-free: independent, but for the two
-  # linked genera use the copula latent
-  L <- matrix(NA_real_, nrow = N, ncol = length(genera), dimnames = list(NULL, genera))
-  for (g in genera) {
-    d <- df_mic[df_mic$analyte_id == g, ]
-    for (co in cohorts$cohort) {
-      ii <- idx_by_cohort[[co]]
-      dd <- d[d$cohort == co, ]
-      mu <- pmin(pmax(dd$mean / 100, 1e-5), 0.999)  # fraction
-      sd_raw <- pmax(dd$sem * sqrt(dd$n) / 100, 1e-4)
-      # dispersion on logit scale (approx delta method): sd_logit ~ sd/(p(1-p))
-      sig_logit <- pmax(sd_raw / (mu * (1 - mu)), 0.05)
-      if (!is.null(link_cohort_latent) && g %in% names(link_cohort_latent)) {
-        z <- link_cohort_latent[[g]][ii]
-      } else {
-        z <- rnorm(length(ii))
-      }
-      L[ii, g] <- qlogis(mu) + sig_logit * z
-      # presence (zero-inflate) by prevalence where a prevalence % was published
-      if (!is.na(dd$prev_pct)) {
-        pres <- runif(length(ii)) < pmin(pmax(dd$prev_pct, 0), 100) / 100
-        L[ii[!pres], g] <- -Inf
+  G <- length(genera)
+  Pmat <- matrix(0, nrow = N, ncol = G + 1,
+                 dimnames = list(NULL, c(genera, remainder_col)))
+  for (co in cohorts$cohort) {
+    ii <- idx_by_cohort[[co]]
+    ni <- length(ii)
+    d <- df_mic[df_mic$cohort == co, ]
+    d <- d[match(genera, d$analyte_id), ]
+    mu_pub <- pmax(d$mean, 0.01)            # published mean (%)
+    sd_pub <- pmax(d$sem * sqrt(d$n), 0.05) # published SD of the mean estimate (%)
+    prev_p <- d$prev_pct / 100              # may be NA
+
+    # presence mask; stratified exactly at the published prevalence count where
+    # a prevalence % was printed (otherwise genus treated as core/always present)
+    pres <- matrix(TRUE, nrow = ni, ncol = G, dimnames = list(NULL, genera))
+    for (g in seq_len(G)) {
+      pv <- prev_p[g]
+      if (!is.na(pv)) {
+        k <- round(pmin(pmax(pv, 0), 1) * ni)
+        if (pv > 0 && k == 0) k <- 1L   # keep at least one carrier when printed > 0
+        pres[, g] <- sample(c(rep(TRUE, k), rep(FALSE, ni - k)))
       }
     }
+
+    # effective per-present-sample mean for the shape parameters (zero-
+    # masking deflates prevalenced genera); raking targets stay the published
+    # (across-all-samples) means.
+    eff_prev <- ifelse(is.na(prev_p), 1, pmin(pmax(prev_p, 0.02), 1))
+    mu_eff <- mu_pub / eff_prev
+
+    # compositional-closure compensation: printed model means need not sum to
+    # 100%. Where they sum to less, add an implicit "unclassified remainder"
+    # column absorbing the rest (not exported). Where they sum to more,
+    # raking targets are re-scaled to sum 100 (uniform shrink; validation
+    # against printed values then shows a bounded uniform deviation).
+    Zg <- matrix(rnorm(ni * G), nrow = ni, dimnames = list(NULL, genera))
+    if (!is.null(link_latent)) for (g in names(link_latent)) Zg[, g] <- link_latent[[g]][ii]
+    Pu <- pmin(pmax(pnorm(Zg), 1e-8), 1 - 1e-8)
+
+    sum_mu <- sum(mu_pub)
+    has_rem <- sum_mu < 99.5
+    mu_shape <- mu_eff
+    target <- mu_pub
+    Zextra <- NULL
+    if (has_rem) {
+      mu_shape <- c(mu_shape, 100 - sum_mu)
+      target <- c(target, 100 - sum_mu)
+      Zextra <- pmin(pmax(pnorm(rnorm(ni)), 1e-8), 1 - 1e-8)
+      Pu <- cbind(Pu, Zextra)
+    } else if (sum_mu > 100.5) {
+      target <- target * 100 / sum_mu
+    }
+    m0 <- mu_shape / sum(mu_shape)
+
+    # dispersion phi from moment matching: Var(g) ~ m'(1-m')/(phi+1) for a
+    # Dirichlet; use the cohort median across genera so rare genera with tiny
+    # SEMs do not dominate the estimate
+    var_pub <- (sd_pub / 100)^2
+    phi_vec <- (m0[seq_len(G)] * (1 - m0[seq_len(G)]) / pmax(var_pub, 1e-10)) - 1
+    phi <- max(median(phi_vec[is.finite(phi_vec) & phi_vec > 0], na.rm = TRUE), 3)
+    if (!is.finite(phi)) phi <- 20
+
+    Gm <- matrix(qgamma(Pu, shape = rep(m0, each = ni) * phi, rate = 1),
+                 nrow = ni)
+    colnames(Gm) <- colnames(Pu)
+    pres_pad <- if (has_rem) cbind(pres, "xx_other_unclassified" = TRUE) else pres
+    Gm <- Gm * pres_pad
+    rs <- rowSums(Gm); rs[rs == 0] <- 1
+    P <- Gm / rs * 100
+    # damped raking of column means (including remainder) toward targets
+    damp <- 0.6
+    for (it in 1:60) {
+      cur <- colMeans(P)
+      f <- (target / pmax(cur, 1e-4))^damp
+      P <- sweep(P, 2, f, `*`)
+      P[pres_pad == FALSE] <- 0
+      rs <- rowSums(P); rs[rs == 0] <- 1
+      P <- P / rs * 100
+      if (max(abs(f - 1)) < 0.01) break
+    }
+    if (has_rem) {
+      Pmat[ii, remainder_col] <- P[, ncol(P)]
+      P <- P[, seq_len(G), drop = FALSE]
+    }
+    colnames(P) <- genera
+    Pmat[ii, genera] <- P
   }
-  P <- plogis(L); P[is.infinite(L)] <- 0
-  rs <- rowSums(P)
-  P <- P / rs * 100
-  as_tibble(P)
+  as_tibble(Pmat)
 }
 link_lacto <- Z[, "milk_g_lactobacillus_pct"]
 link_bifido <- Z[, "milk_g_bifidobacterium_pct"]
 link_fec_lacto <- Z[, "fecal_g_lactobacillus_pct"]
 link_fec_bifido <- Z[, "fecal_g_bifidobacterium_pct"]
-
 milk_df <- sim_microbiome(milk_mic,
-  link_cohort_latent = list(milk_g_lactobacillus_pct = link_lacto,
-                            milk_g_bifidobacterium_pct = link_bifido))
+  link_latent = list(milk_g_lactobacillus_pct = link_lacto,
+                     milk_g_bifidobacterium_pct = link_bifido),
+  remainder_col = "milk_g_other_unclassified_pct")
 fecal_df <- sim_microbiome(fecal_mic,
-  link_cohort_latent = list(fecal_g_lactobacillus_pct = link_fec_lacto,
-                            fecal_g_bifidobacterium_pct = link_fec_bifido))
+  link_latent = list(fecal_g_lactobacillus_pct = link_fec_lacto,
+                     fecal_g_bifidobacterium_pct = link_fec_bifido),
+  remainder_col = "fecal_g_other_unclassified_pct")
 
 walk(unique(milk_mic$analyte_id), ~add_prov(
   .x, "milk_microbiome", "lackey2019", "Table 5 (mean/SEM) + Table 3 (prevalence)",
@@ -462,17 +632,77 @@ walk(unique(fecal_mic$analyte_id), ~add_prov(
   "mean, SEM (relative abundance %) + % prevalence where published",
   "logit-normal centred on cohort mean, SEM-based dispersion; presence = Bernoulli(prev)",
   "rows renormalised to 100% after presence masking"))
+add_prov("milk_g_other_unclassified_pct", "milk_microbiome", "lackey2019",
+         "Tables 3/5", "derived: 100% - sum of printed genus means (where < 100%)",
+         "modelling remainder bucket (Dirichlet share); NOT a measured genus",
+         "included so each row sums to 100%; printed genus means stay on-target")
+add_prov("fecal_g_other_unclassified_pct", "fecal_microbiome", "lackey2019",
+         "Tables 2/3", "derived: 100% - sum of printed genus means (where < 100%)",
+         "modelling remainder bucket (Dirichlet share); NOT a measured genus",
+         "included so each row sums to 100%; printed genus means stay on-target")
 
-# diversity indices computed from simulated abundances
-shannon <- function(P) -rowSums(P * log(P + 1e-12), na.rm = TRUE) / 100
-richness <- function(P) rowSums(P > 1e-4)
-inv_simpson <- function(P) 1 / rowSums((P / 100)^2)
-milk_df$milk_div_richness <- richness(as.matrix(milk_df[, unique(milk_mic$analyte_id)]))
-milk_df$milk_div_shannon_diversity <- shannon(as.matrix(milk_df[, unique(milk_mic$analyte_id)]))
-milk_df$milk_div_inverse_simpson_diversity <- inv_simpson(as.matrix(milk_df[, unique(milk_mic$analyte_id)]))
-fecal_df$fecal_div_richness <- richness(as.matrix(fecal_df[, unique(fecal_mic$analyte_id)]))
-fecal_df$fecal_div_shannon_diversity <- shannon(as.matrix(fecal_df[, unique(fecal_mic$analyte_id)]))
-fecal_df$fecal_div_inverse_simpson_diversity <- inv_simpson(as.matrix(fecal_df[, unique(fecal_mic$analyte_id)]))
+# post-hoc calibration of the milk~fecal copula links (Pace 2021):
+# re-order the fecal genus's latent ranks within each cohort so the realised
+# Spearman correlation between milk and fecal relative abundances matches the
+# target rho (compositional closure weakens rank alignment, so calibrate).
+calibrate_link <- function(milk_ra, fec_block, fec_genus, target_rho) {
+  # milk_ra: numeric vector (milk RA%, already final). fec_block: tibble matrix
+  # of fecal RAs (%). fec_genus: column name. Returns updated fec_block column
+  # values (rows re-closed to 100 afterwards by caller? -> we re-close here).
+  milk_rank_within <- rank_within_cohort(milk_ra)
+  fecz <- rank_within_cohort(fec_block[[fec_genus]])
+  best_rho <- 0; best_diff <- Inf; best_vals <- fec_block[[fec_genus]]
+  for (r in seq(-1, 1, by = 0.025)) {
+    zz <- r * milk_rank_within + sqrt(max(1 - r^2, 1e-9)) * fecz
+    new_col <- tie_to_sorted(zz, fec_block[[fec_genus]])
+    cur <- cor(new_col, milk_ra, method = "spearman", use = "complete.obs")
+    if (is.finite(cur) && abs(cur - target_rho) < best_diff) { best_diff <- abs(cur - target_rho); best_rho <- r; best_vals <- new_col }
+  }
+  best_vals
+}
+rank_within_cohort <- function(x) {
+  out <- numeric(length(x))
+  for (co in cohorts$cohort) {
+    ii <- idx_by_cohort[[co]]
+    out[ii] <- qnorm(rank(x[ii], ties.method = "average") / (length(ii) + 1))
+  }
+  out
+}
+tie_to_sorted <- function(z, y) {
+  out <- numeric(length(y))
+  for (co in cohorts$cohort) {
+    ii <- idx_by_cohort[[co]]
+    out[ii] <- sort(y[ii])[rank(z[ii], ties.method = "first")]
+  }
+  out
+}
+# apply to fecal Lactobacillus and fecal Bifidobacterium
+fecal_df[["fecal_g_lactobacillus_pct"]] <- calibrate_link(
+  milk_df$milk_g_lactobacillus_pct, fecal_df, "fecal_g_lactobacillus_pct", 0.36)
+fecal_df[["fecal_g_bifidobacterium_pct"]] <- calibrate_link(
+  milk_df$milk_g_bifidobacterium_pct, fecal_df, "fecal_g_bifidobacterium_pct", -0.18)
+# re-close fecal rows to 100% (including the remainder bucket)
+gcols_all <- c(unique(fecal_mic$analyte_id), "fecal_g_other_unclassified_pct")
+fec_mat <- as.matrix(fecal_df[, gcols_all])
+rsf <- rowSums(fec_mat); rsf[rsf == 0] <- 1
+fecal_df[, gcols_all] <- as_tibble(fec_mat / rsf * 100)
+
+# diversity indices computed from simulated abundances (fraction scale),
+# over the printed genera PLUS the modelling remainder bucket
+# (xx_other_unclassified), which stands in for the unprinted rare tail.
+# richness approximated as # genera with relative abundance >= 1% (downstream
+# detection threshold at 1000-read rarefaction; documented approximation).
+shannon <- function(P) { pf <- P / 100; -rowSums(pf * log(pf + 1e-12)) }
+richness <- function(P) rowSums(P >= 1)
+inv_simpson <- function(P) { pf <- P / 100; 1 / rowSums(pf^2) }
+milk_comps <- c(unique(milk_mic$analyte_id), "milk_g_other_unclassified_pct")
+fecal_comps <- c(unique(fecal_mic$analyte_id), "fecal_g_other_unclassified_pct")
+milk_df$milk_div_richness <- richness(as.matrix(milk_df[, milk_comps]))
+milk_df$milk_div_shannon_diversity <- shannon(as.matrix(milk_df[, milk_comps]))
+milk_df$milk_div_inverse_simpson_diversity <- inv_simpson(as.matrix(milk_df[, milk_comps]))
+fecal_df$fecal_div_richness <- richness(as.matrix(fecal_df[, fecal_comps]))
+fecal_df$fecal_div_shannon_diversity <- shannon(as.matrix(fecal_df[, fecal_comps]))
+fecal_df$fecal_div_inverse_simpson_diversity <- inv_simpson(as.matrix(fecal_df[, fecal_comps]))
 walk(c("milk_div_richness", "milk_div_shannon_diversity", "milk_div_inverse_simpson_diversity",
        "fecal_div_richness", "fecal_div_shannon_diversity", "fecal_div_inverse_simpson_diversity"),
      ~add_prov(.x, gsub("^(milk|fecal).*", "\\1_microbiome", .x), "lackey2019", "Table 4",
@@ -493,16 +723,20 @@ for (id in ab_ids) {
     d <- df[df$cohort == co, ]
     sd <- d$sem * sqrt(d$n)
     if (metric == "breadth_score") {
-      ab_df[ii, id] <- rtruncnorm(length(ii), d$mean, sd, 0.01, 0.99)
+      mu_star <- solve_tn_mu(d$mean, sd, 0.01, 0.99)
+      ab_df[ii, id] <- rtruncnorm(length(ii), mu_star, sd, 0.01, 0.99)
     } else {
-      ab_df[ii, id] <- pmax(0, rtruncnorm(length(ii), d$mean, sd, 0, d$mean + 4 * sd))
+      lo <- min(0, d$mean - 4 * sd)
+      hi <- max(d$mean + 4 * sd, d$mean * 1.5 + 0.05)
+      mu_star <- solve_tn_mu(d$mean, sd, lo, hi)
+      ab_df[ii, id] <- rtruncnorm(length(ii), mu_star, sd, lo, hi)
     }
   }
   add_prov(id, "antibodies", "mcguire2021", df$table[1],
            "mean, SEM per cohort (mean [SEM])",
            ifelse(metric == "breadth_score",
                   "truncated normal in (0.01, 0.99)",
-                  "truncated normal in (0, mean+4SD)"))
+                  "truncated normal in (min(0, mean-4SD), mean+4SD); allows the small negative intensities printed in McGuire 2021"))
 }
 
 # =============================================================================
@@ -527,6 +761,7 @@ wide <- dyad_tab %>%
          exclusive_breastfed, maternal_dds,
          household_size_n, siblings_n, sibling_present,
          extended_family_n, extended_family_present, father_present,
+         infant_age_weeks,
          secretor_status, immune_measured) %>%
   bind_cols(hmo_df, immune_df, milk_df, fecal_df, ab_df, macro_df)
 
@@ -562,8 +797,8 @@ pretty_from_params <- function(param_df, layer) {
 }
 write_csv(long_of(wide, c(hmo_ids, "hmo_total_nmol_ml")), SS("simulated_hmo_long.csv"))
 write_csv(long_of(wide, imm_ids), SS("simulated_immune_long.csv"))
-write_csv(long_of(wide, unique(milk_mic$analyte_id)), SS("simulated_milk_microbiome_long.csv"))
-write_csv(long_of(wide, unique(fecal_mic$analyte_id)), SS("simulated_fecal_microbiome_long.csv"))
+write_csv(long_of(wide, milk_comps), SS("simulated_milk_microbiome_long.csv"))
+write_csv(long_of(wide, fecal_comps), SS("simulated_fecal_microbiome_long.csv"))
 write_csv(long_of(wide, ab_ids), SS("simulated_antibodies_long.csv"))
 
 # =============================================================================
@@ -580,7 +815,8 @@ layer_of <- function(id) {
               "delivery_mode", "infant_sex", "exclusive_breastfed",
               "maternal_dds") ~ "maternal_characteristics",
     id %in% c("household_size_n", "siblings_n", "sibling_present",
-              "extended_family_n", "extended_family_present", "father_present") ~ "household_composition",
+              "extended_family_n", "extended_family_present", "father_present",
+              "infant_age_weeks") ~ "household_composition",
     id == "secretor_status" ~ "secretor_status",
     grepl("^hmo_", id) ~ "hmo",
     id == "immune_measured" ~ "immune_factors",
@@ -616,6 +852,7 @@ descr_of <- function(id) {
     id == "extended_family_n" ~ "number of extended-family members",
     id == "extended_family_present" ~ "extended family present (TRUE/FALSE)",
     id == "father_present" ~ "father present in household (TRUE/FALSE)",
+    id == "infant_age_weeks" ~ "infant age at sampling (weeks, Lane 2019)",
     id == "secretor_status" ~ "maternal secretor status (TRUE = secretor, McGuire 2017 Fig 3)",
     id == "immune_measured" ~ "FALSE for ETR (chemically preserved milk, Ruiz 2017); immune analytes NA",
     grepl("_nmol_ml$", id) ~ gsub("_", " ", sub("^hmo_", "HMO ", sub("_nmol_ml$", "", id))),
