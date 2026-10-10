@@ -1,0 +1,291 @@
+paper,table,page,data_type,analyte,group,group_type,n,statistic,value,unit,notes
+ruiz2017,Table 4,8,acquired immunity factor,IL2,Ethiopia urban,population,40,median (IQR),nd,ng/L,below detection limit
+ruiz2017,Table 4,8,acquired immunity factor,IL4,Ethiopia urban,population,40,median,0.41,ng/L,IQR 0.11-0.84;group_letters=ab
+ruiz2017,Table 4,8,acquired immunity factor,IL4,Ethiopia urban,population,40,IQR lower,0.11,ng/L,median=0.41;group_letters=ab
+ruiz2017,Table 4,8,acquired immunity factor,IL4,Ethiopia urban,population,40,IQR upper,0.84,ng/L,median=0.41;group_letters=ab
+ruiz2017,Table 4,8,acquired immunity factor,IL10,Ethiopia urban,population,40,median,4.44,ng/L,IQR 2.55-6.67;group_letters=ab
+ruiz2017,Table 4,8,acquired immunity factor,IL10,Ethiopia urban,population,40,IQR lower,2.55,ng/L,median=4.44;group_letters=ab
+ruiz2017,Table 4,8,acquired immunity factor,IL10,Ethiopia urban,population,40,IQR upper,6.67,ng/L,median=4.44;group_letters=ab
+ruiz2017,Table 4,8,acquired immunity factor,IL13,Ethiopia urban,population,40,median,1.77,ng/L,IQR 1.34-3.15;group_letters=ac
+ruiz2017,Table 4,8,acquired immunity factor,IL13,Ethiopia urban,population,40,IQR lower,1.34,ng/L,median=1.77;group_letters=ac
+ruiz2017,Table 4,8,acquired immunity factor,IL13,Ethiopia urban,population,40,IQR upper,3.15,ng/L,median=1.77;group_letters=ac
+ruiz2017,Table 4,8,acquired immunity factor,IL17,Ethiopia urban,population,40,median,25.55,ng/L,IQR 8.42-46.17
+ruiz2017,Table 4,8,acquired immunity factor,IL17,Ethiopia urban,population,40,IQR lower,8.42,ng/L,median=25.55
+ruiz2017,Table 4,8,acquired immunity factor,IL17,Ethiopia urban,population,40,IQR upper,46.17,ng/L,median=25.55
+ruiz2017,Table 4,8,acquired immunity factor,IL5,Ethiopia urban,population,40,median,2.05,ng/L,IQR 1.18-2.44
+ruiz2017,Table 4,8,acquired immunity factor,IL5,Ethiopia urban,population,40,IQR lower,1.18,ng/L,median=2.05
+ruiz2017,Table 4,8,acquired immunity factor,IL5,Ethiopia urban,population,40,IQR upper,2.44,ng/L,median=2.05
+ruiz2017,Table 4,8,acquired immunity factor,IL7,Ethiopia urban,population,40,median,52.54,ng/L,IQR 17.17-88.17;group_letters=ad
+ruiz2017,Table 4,8,acquired immunity factor,IL7,Ethiopia urban,population,40,IQR lower,17.17,ng/L,median=52.54;group_letters=ad
+ruiz2017,Table 4,8,acquired immunity factor,IL7,Ethiopia urban,population,40,IQR upper,88.17,ng/L,median=52.54;group_letters=ad
+ruiz2017,Table 4,8,acquired immunity factor,IgA,Ethiopia urban,population,40,median,323.22,mg/L,IQR 223.37-469.52;group_letters=ad
+ruiz2017,Table 4,8,acquired immunity factor,IgA,Ethiopia urban,population,40,IQR lower,223.37,mg/L,median=323.22;group_letters=ad
+ruiz2017,Table 4,8,acquired immunity factor,IgA,Ethiopia urban,population,40,IQR upper,469.52,mg/L,median=323.22;group_letters=ad
+ruiz2017,Table 4,8,acquired immunity factor,IgM,Ethiopia urban,population,40,median,83.93,mg/L,IQR 45.36-120.48;group_letters=a
+ruiz2017,Table 4,8,acquired immunity factor,IgM,Ethiopia urban,population,40,IQR lower,45.36,mg/L,median=83.93;group_letters=a
+ruiz2017,Table 4,8,acquired immunity factor,IgM,Ethiopia urban,population,40,IQR upper,120.48,mg/L,median=83.93;group_letters=a
+ruiz2017,Table 4,8,acquired immunity factor,IgG,Ethiopia urban,population,40,median,96.09,mg/L,IQR 72.22-127.69;group_letters=abc
+ruiz2017,Table 4,8,acquired immunity factor,IgG,Ethiopia urban,population,40,IQR lower,72.22,mg/L,median=96.09;group_letters=abc
+ruiz2017,Table 4,8,acquired immunity factor,IgG,Ethiopia urban,population,40,IQR upper,127.69,mg/L,median=96.09;group_letters=abc
+ruiz2017,Table 4,8,acquired immunity factor,TGFβ2,Ethiopia urban,population,40,median,1.38,µg/L,IQR 0.43-3.29;group_letters=abc
+ruiz2017,Table 4,8,acquired immunity factor,TGFβ2,Ethiopia urban,population,40,IQR lower,0.43,µg/L,median=1.38;group_letters=abc
+ruiz2017,Table 4,8,acquired immunity factor,TGFβ2,Ethiopia urban,population,40,IQR upper,3.29,µg/L,median=1.38;group_letters=abc
+ruiz2017,Table 4,8,acquired immunity factor,IL2,Gambia rural,population,40,median (IQR),nd,ng/L,below detection limit
+ruiz2017,Table 4,8,acquired immunity factor,IL4,Gambia rural,population,40,median,0.83,ng/L,IQR 0.54-2.26;group_letters=ab
+ruiz2017,Table 4,8,acquired immunity factor,IL4,Gambia rural,population,40,IQR lower,0.54,ng/L,median=0.83;group_letters=ab
+ruiz2017,Table 4,8,acquired immunity factor,IL4,Gambia rural,population,40,IQR upper,2.26,ng/L,median=0.83;group_letters=ab
+ruiz2017,Table 4,8,acquired immunity factor,IL10,Gambia rural,population,40,median,7.07,ng/L,IQR 4.8-8.23;group_letters=ac
+ruiz2017,Table 4,8,acquired immunity factor,IL10,Gambia rural,population,40,IQR lower,4.8,ng/L,median=7.07;group_letters=ac
+ruiz2017,Table 4,8,acquired immunity factor,IL10,Gambia rural,population,40,IQR upper,8.23,ng/L,median=7.07;group_letters=ac
+ruiz2017,Table 4,8,acquired immunity factor,IL13,Gambia rural,population,40,median,1.57,ng/L,IQR 0.86-2.95;group_letters=ac
+ruiz2017,Table 4,8,acquired immunity factor,IL13,Gambia rural,population,40,IQR lower,0.86,ng/L,median=1.57;group_letters=ac
+ruiz2017,Table 4,8,acquired immunity factor,IL13,Gambia rural,population,40,IQR upper,2.95,ng/L,median=1.57;group_letters=ac
+ruiz2017,Table 4,8,acquired immunity factor,IL17,Gambia rural,population,40,median,19.23,ng/L,IQR 6.42-98.5
+ruiz2017,Table 4,8,acquired immunity factor,IL17,Gambia rural,population,40,IQR lower,6.42,ng/L,median=19.23
+ruiz2017,Table 4,8,acquired immunity factor,IL17,Gambia rural,population,40,IQR upper,98.5,ng/L,median=19.23
+ruiz2017,Table 4,8,acquired immunity factor,IL5,Gambia rural,population,40,median,2.69,ng/L,IQR 1.79-3.8
+ruiz2017,Table 4,8,acquired immunity factor,IL5,Gambia rural,population,40,IQR lower,1.79,ng/L,median=2.69
+ruiz2017,Table 4,8,acquired immunity factor,IL5,Gambia rural,population,40,IQR upper,3.8,ng/L,median=2.69
+ruiz2017,Table 4,8,acquired immunity factor,IL7,Gambia rural,population,40,median,32.14,ng/L,IQR 16.87-55.08;group_letters=ade
+ruiz2017,Table 4,8,acquired immunity factor,IL7,Gambia rural,population,40,IQR lower,16.87,ng/L,median=32.14;group_letters=ade
+ruiz2017,Table 4,8,acquired immunity factor,IL7,Gambia rural,population,40,IQR upper,55.08,ng/L,median=32.14;group_letters=ade
+ruiz2017,Table 4,8,acquired immunity factor,IgA,Gambia rural,population,40,median,235.78,mg/L,IQR 159.56-334.94;group_letters=a
+ruiz2017,Table 4,8,acquired immunity factor,IgA,Gambia rural,population,40,IQR lower,159.56,mg/L,median=235.78;group_letters=a
+ruiz2017,Table 4,8,acquired immunity factor,IgA,Gambia rural,population,40,IQR upper,334.94,mg/L,median=235.78;group_letters=a
+ruiz2017,Table 4,8,acquired immunity factor,IgM,Gambia rural,population,40,median,37.06,mg/L,IQR 22.82-82.37;group_letters=ab
+ruiz2017,Table 4,8,acquired immunity factor,IgM,Gambia rural,population,40,IQR lower,22.82,mg/L,median=37.06;group_letters=ab
+ruiz2017,Table 4,8,acquired immunity factor,IgM,Gambia rural,population,40,IQR upper,82.37,mg/L,median=37.06;group_letters=ab
+ruiz2017,Table 4,8,acquired immunity factor,IgG,Gambia rural,population,40,median,74.73,mg/L,IQR 44.04-116.76;group_letters=ac
+ruiz2017,Table 4,8,acquired immunity factor,IgG,Gambia rural,population,40,IQR lower,44.04,mg/L,median=74.73;group_letters=ac
+ruiz2017,Table 4,8,acquired immunity factor,IgG,Gambia rural,population,40,IQR upper,116.76,mg/L,median=74.73;group_letters=ac
+ruiz2017,Table 4,8,acquired immunity factor,TGFβ2,Gambia rural,population,40,median,0.71,µg/L,IQR 0.28-1.65;group_letters=a
+ruiz2017,Table 4,8,acquired immunity factor,TGFβ2,Gambia rural,population,40,IQR lower,0.28,µg/L,median=0.71;group_letters=a
+ruiz2017,Table 4,8,acquired immunity factor,TGFβ2,Gambia rural,population,40,IQR upper,1.65,µg/L,median=0.71;group_letters=a
+ruiz2017,Table 4,8,acquired immunity factor,IL2,Gambia urban,population,40,median (IQR),nd,ng/L,below detection limit
+ruiz2017,Table 4,8,acquired immunity factor,IL4,Gambia urban,population,40,median (IQR),nd,ng/L,below detection limit
+ruiz2017,Table 4,8,acquired immunity factor,IL10,Gambia urban,population,40,median,2.5,ng/L,IQR 1.53-3.78;group_letters=b
+ruiz2017,Table 4,8,acquired immunity factor,IL10,Gambia urban,population,40,IQR lower,1.53,ng/L,median=2.5;group_letters=b
+ruiz2017,Table 4,8,acquired immunity factor,IL10,Gambia urban,population,40,IQR upper,3.78,ng/L,median=2.5;group_letters=b
+ruiz2017,Table 4,8,acquired immunity factor,IL13,Gambia urban,population,40,median,0.78,ng/L,IQR 0.39-2.15;group_letters=ab
+ruiz2017,Table 4,8,acquired immunity factor,IL13,Gambia urban,population,40,IQR lower,0.39,ng/L,median=0.78;group_letters=ab
+ruiz2017,Table 4,8,acquired immunity factor,IL13,Gambia urban,population,40,IQR upper,2.15,ng/L,median=0.78;group_letters=ab
+ruiz2017,Table 4,8,acquired immunity factor,IL17,Gambia urban,population,40,median,50.28,ng/L,IQR 5.54-1048.68
+ruiz2017,Table 4,8,acquired immunity factor,IL17,Gambia urban,population,40,IQR lower,5.54,ng/L,median=50.28
+ruiz2017,Table 4,8,acquired immunity factor,IL17,Gambia urban,population,40,IQR upper,1048.68,ng/L,median=50.28
+ruiz2017,Table 4,8,acquired immunity factor,IL5,Gambia urban,population,40,median (IQR),nd,ng/L,below detection limit
+ruiz2017,Table 4,8,acquired immunity factor,IL7,Gambia urban,population,40,median,13.33,ng/L,IQR 4.97-24.16;group_letters=b
+ruiz2017,Table 4,8,acquired immunity factor,IL7,Gambia urban,population,40,IQR lower,4.97,ng/L,median=13.33;group_letters=b
+ruiz2017,Table 4,8,acquired immunity factor,IL7,Gambia urban,population,40,IQR upper,24.16,ng/L,median=13.33;group_letters=b
+ruiz2017,Table 4,8,acquired immunity factor,IgA,Gambia urban,population,40,median,312.22,mg/L,IQR 215.57-510.98;group_letters=acd
+ruiz2017,Table 4,8,acquired immunity factor,IgA,Gambia urban,population,40,IQR lower,215.57,mg/L,median=312.22;group_letters=acd
+ruiz2017,Table 4,8,acquired immunity factor,IgA,Gambia urban,population,40,IQR upper,510.98,mg/L,median=312.22;group_letters=acd
+ruiz2017,Table 4,8,acquired immunity factor,IgM,Gambia urban,population,40,median,59.45,mg/L,IQR 29.3-121.46;group_letters=ab
+ruiz2017,Table 4,8,acquired immunity factor,IgM,Gambia urban,population,40,IQR lower,29.3,mg/L,median=59.45;group_letters=ab
+ruiz2017,Table 4,8,acquired immunity factor,IgM,Gambia urban,population,40,IQR upper,121.46,mg/L,median=59.45;group_letters=ab
+ruiz2017,Table 4,8,acquired immunity factor,IgG,Gambia urban,population,40,median,93.47,mg/L,IQR 67.53-150.23;group_letters=abc
+ruiz2017,Table 4,8,acquired immunity factor,IgG,Gambia urban,population,40,IQR lower,67.53,mg/L,median=93.47;group_letters=abc
+ruiz2017,Table 4,8,acquired immunity factor,IgG,Gambia urban,population,40,IQR upper,150.23,mg/L,median=93.47;group_letters=abc
+ruiz2017,Table 4,8,acquired immunity factor,TGFβ2,Gambia urban,population,40,median,0.99,µg/L,IQR 0.26-2.4;group_letters=ab
+ruiz2017,Table 4,8,acquired immunity factor,TGFβ2,Gambia urban,population,40,IQR lower,0.26,µg/L,median=0.99;group_letters=ab
+ruiz2017,Table 4,8,acquired immunity factor,TGFβ2,Gambia urban,population,40,IQR upper,2.4,µg/L,median=0.99;group_letters=ab
+ruiz2017,Table 4,8,acquired immunity factor,IL2,Ghana,population,40,median,5.62,ng/L,IQR 1.25-101.86
+ruiz2017,Table 4,8,acquired immunity factor,IL2,Ghana,population,40,IQR lower,1.25,ng/L,median=5.62
+ruiz2017,Table 4,8,acquired immunity factor,IL2,Ghana,population,40,IQR upper,101.86,ng/L,median=5.62
+ruiz2017,Table 4,8,acquired immunity factor,IL4,Ghana,population,40,median,0.27,ng/L,IQR 0.15-0.41;group_letters=a
+ruiz2017,Table 4,8,acquired immunity factor,IL4,Ghana,population,40,IQR lower,0.15,ng/L,median=0.27;group_letters=a
+ruiz2017,Table 4,8,acquired immunity factor,IL4,Ghana,population,40,IQR upper,0.41,ng/L,median=0.27;group_letters=a
+ruiz2017,Table 4,8,acquired immunity factor,IL10,Ghana,population,40,median,6.68,ng/L,IQR 4.44-8.1;group_letters=ac
+ruiz2017,Table 4,8,acquired immunity factor,IL10,Ghana,population,40,IQR lower,4.44,ng/L,median=6.68;group_letters=ac
+ruiz2017,Table 4,8,acquired immunity factor,IL10,Ghana,population,40,IQR upper,8.1,ng/L,median=6.68;group_letters=ac
+ruiz2017,Table 4,8,acquired immunity factor,IL13,Ghana,population,40,median,0.45,ng/L,IQR 0.28-0.61;group_letters=b
+ruiz2017,Table 4,8,acquired immunity factor,IL13,Ghana,population,40,IQR lower,0.28,ng/L,median=0.45;group_letters=b
+ruiz2017,Table 4,8,acquired immunity factor,IL13,Ghana,population,40,IQR upper,0.61,ng/L,median=0.45;group_letters=b
+ruiz2017,Table 4,8,acquired immunity factor,IL17,Ghana,population,40,median,11.66,ng/L,IQR 10.49-20.73
+ruiz2017,Table 4,8,acquired immunity factor,IL17,Ghana,population,40,IQR lower,10.49,ng/L,median=11.66
+ruiz2017,Table 4,8,acquired immunity factor,IL17,Ghana,population,40,IQR upper,20.73,ng/L,median=11.66
+ruiz2017,Table 4,8,acquired immunity factor,IL5,Ghana,population,40,median,1.77,ng/L,IQR 0.26-3.18
+ruiz2017,Table 4,8,acquired immunity factor,IL5,Ghana,population,40,IQR lower,0.26,ng/L,median=1.77
+ruiz2017,Table 4,8,acquired immunity factor,IL5,Ghana,population,40,IQR upper,3.18,ng/L,median=1.77
+ruiz2017,Table 4,8,acquired immunity factor,IL7,Ghana,population,40,median,2.39,ng/L,IQR 1.35-5.42;group_letters=c
+ruiz2017,Table 4,8,acquired immunity factor,IL7,Ghana,population,40,IQR lower,1.35,ng/L,median=2.39;group_letters=c
+ruiz2017,Table 4,8,acquired immunity factor,IL7,Ghana,population,40,IQR upper,5.42,ng/L,median=2.39;group_letters=c
+ruiz2017,Table 4,8,acquired immunity factor,IgA,Ghana,population,40,median,584.75,mg/L,IQR 377.08-994.91;group_letters=be
+ruiz2017,Table 4,8,acquired immunity factor,IgA,Ghana,population,40,IQR lower,377.08,mg/L,median=584.75;group_letters=be
+ruiz2017,Table 4,8,acquired immunity factor,IgA,Ghana,population,40,IQR upper,994.91,mg/L,median=584.75;group_letters=be
+ruiz2017,Table 4,8,acquired immunity factor,IgM,Ghana,population,40,median,80.87,mg/L,IQR 51.06-168.98;group_letters=a
+ruiz2017,Table 4,8,acquired immunity factor,IgM,Ghana,population,40,IQR lower,51.06,mg/L,median=80.87;group_letters=a
+ruiz2017,Table 4,8,acquired immunity factor,IgM,Ghana,population,40,IQR upper,168.98,mg/L,median=80.87;group_letters=a
+ruiz2017,Table 4,8,acquired immunity factor,IgG,Ghana,population,40,median,142.37,mg/L,IQR 81.16-214.73;group_letters=b
+ruiz2017,Table 4,8,acquired immunity factor,IgG,Ghana,population,40,IQR lower,81.16,mg/L,median=142.37;group_letters=b
+ruiz2017,Table 4,8,acquired immunity factor,IgG,Ghana,population,40,IQR upper,214.73,mg/L,median=142.37;group_letters=b
+ruiz2017,Table 4,8,acquired immunity factor,TGFβ2,Ghana,population,40,median,1.78,µg/L,IQR 1.09-3.41;group_letters=bc
+ruiz2017,Table 4,8,acquired immunity factor,TGFβ2,Ghana,population,40,IQR lower,1.09,µg/L,median=1.78;group_letters=bc
+ruiz2017,Table 4,8,acquired immunity factor,TGFβ2,Ghana,population,40,IQR upper,3.41,µg/L,median=1.78;group_letters=bc
+ruiz2017,Table 4,8,acquired immunity factor,IL2,Kenya,population,42,median (IQR),nd,ng/L,below detection limit
+ruiz2017,Table 4,8,acquired immunity factor,IL4,Kenya,population,42,median,3.43,ng/L,IQR 0.96-5.38;group_letters=b
+ruiz2017,Table 4,8,acquired immunity factor,IL4,Kenya,population,42,IQR lower,0.96,ng/L,median=3.43;group_letters=b
+ruiz2017,Table 4,8,acquired immunity factor,IL4,Kenya,population,42,IQR upper,5.38,ng/L,median=3.43;group_letters=b
+ruiz2017,Table 4,8,acquired immunity factor,IL10,Kenya,population,42,median,8.16,ng/L,IQR 7.01-9.33;group_letters=c
+ruiz2017,Table 4,8,acquired immunity factor,IL10,Kenya,population,42,IQR lower,7.01,ng/L,median=8.16;group_letters=c
+ruiz2017,Table 4,8,acquired immunity factor,IL10,Kenya,population,42,IQR upper,9.33,ng/L,median=8.16;group_letters=c
+ruiz2017,Table 4,8,acquired immunity factor,IL13,Kenya,population,42,median,2.73,ng/L,IQR 1.73-3.93;group_letters=c
+ruiz2017,Table 4,8,acquired immunity factor,IL13,Kenya,population,42,IQR lower,1.73,ng/L,median=2.73;group_letters=c
+ruiz2017,Table 4,8,acquired immunity factor,IL13,Kenya,population,42,IQR upper,3.93,ng/L,median=2.73;group_letters=c
+ruiz2017,Table 4,8,acquired immunity factor,IL17,Kenya,population,42,median,29.33,ng/L,IQR 9.87-68.59
+ruiz2017,Table 4,8,acquired immunity factor,IL17,Kenya,population,42,IQR lower,9.87,ng/L,median=29.33
+ruiz2017,Table 4,8,acquired immunity factor,IL17,Kenya,population,42,IQR upper,68.59,ng/L,median=29.33
+ruiz2017,Table 4,8,acquired immunity factor,IL5,Kenya,population,42,median,2.16,ng/L,IQR 1.39-3.18
+ruiz2017,Table 4,8,acquired immunity factor,IL5,Kenya,population,42,IQR lower,1.39,ng/L,median=2.16
+ruiz2017,Table 4,8,acquired immunity factor,IL5,Kenya,population,42,IQR upper,3.18,ng/L,median=2.16
+ruiz2017,Table 4,8,acquired immunity factor,IL7,Kenya,population,42,median,58.99,ng/L,IQR 19.86-106.59;group_letters=ad
+ruiz2017,Table 4,8,acquired immunity factor,IL7,Kenya,population,42,IQR lower,19.86,ng/L,median=58.99;group_letters=ad
+ruiz2017,Table 4,8,acquired immunity factor,IL7,Kenya,population,42,IQR upper,106.59,ng/L,median=58.99;group_letters=ad
+ruiz2017,Table 4,8,acquired immunity factor,IgA,Kenya,population,42,median,316.81,mg/L,IQR 218.24-463.82;group_letters=ad
+ruiz2017,Table 4,8,acquired immunity factor,IgA,Kenya,population,42,IQR lower,218.24,mg/L,median=316.81;group_letters=ad
+ruiz2017,Table 4,8,acquired immunity factor,IgA,Kenya,population,42,IQR upper,463.82,mg/L,median=316.81;group_letters=ad
+ruiz2017,Table 4,8,acquired immunity factor,IgM,Kenya,population,42,median,53.7,mg/L,IQR 36.56-85.45;group_letters=ab
+ruiz2017,Table 4,8,acquired immunity factor,IgM,Kenya,population,42,IQR lower,36.56,mg/L,median=53.7;group_letters=ab
+ruiz2017,Table 4,8,acquired immunity factor,IgM,Kenya,population,42,IQR upper,85.45,mg/L,median=53.7;group_letters=ab
+ruiz2017,Table 4,8,acquired immunity factor,IgG,Kenya,population,42,median,106.19,mg/L,IQR 76.94-174.81;group_letters=ab
+ruiz2017,Table 4,8,acquired immunity factor,IgG,Kenya,population,42,IQR lower,76.94,mg/L,median=106.19;group_letters=ab
+ruiz2017,Table 4,8,acquired immunity factor,IgG,Kenya,population,42,IQR upper,174.81,mg/L,median=106.19;group_letters=ab
+ruiz2017,Table 4,8,acquired immunity factor,TGFβ2,Kenya,population,42,median,0.82,µg/L,IQR 0.46-3.21;group_letters=abc
+ruiz2017,Table 4,8,acquired immunity factor,TGFβ2,Kenya,population,42,IQR lower,0.46,µg/L,median=0.82;group_letters=abc
+ruiz2017,Table 4,8,acquired immunity factor,TGFβ2,Kenya,population,42,IQR upper,3.21,µg/L,median=0.82;group_letters=abc
+ruiz2017,Table 4,8,acquired immunity factor,IL2,Peru,population,43,median (IQR),nd,ng/L,below detection limit
+ruiz2017,Table 4,8,acquired immunity factor,IL4,Peru,population,43,median,2.34,ng/L,IQR 0.19-4.82;group_letters=ab
+ruiz2017,Table 4,8,acquired immunity factor,IL4,Peru,population,43,IQR lower,0.19,ng/L,median=2.34;group_letters=ab
+ruiz2017,Table 4,8,acquired immunity factor,IL4,Peru,population,43,IQR upper,4.82,ng/L,median=2.34;group_letters=ab
+ruiz2017,Table 4,8,acquired immunity factor,IL10,Peru,population,43,median,2.34,ng/L,IQR 0.19-4.82;group_letters=b
+ruiz2017,Table 4,8,acquired immunity factor,IL10,Peru,population,43,IQR lower,0.19,ng/L,median=2.34;group_letters=b
+ruiz2017,Table 4,8,acquired immunity factor,IL10,Peru,population,43,IQR upper,4.82,ng/L,median=2.34;group_letters=b
+ruiz2017,Table 4,8,acquired immunity factor,IL13,Peru,population,43,median,2.67,ng/L,IQR 1.71-5.82;group_letters=c
+ruiz2017,Table 4,8,acquired immunity factor,IL13,Peru,population,43,IQR lower,1.71,ng/L,median=2.67;group_letters=c
+ruiz2017,Table 4,8,acquired immunity factor,IL13,Peru,population,43,IQR upper,5.82,ng/L,median=2.67;group_letters=c
+ruiz2017,Table 4,8,acquired immunity factor,IL17,Peru,population,43,median,2.64,ng/L,IQR 1.07-46.59
+ruiz2017,Table 4,8,acquired immunity factor,IL17,Peru,population,43,IQR lower,1.07,ng/L,median=2.64
+ruiz2017,Table 4,8,acquired immunity factor,IL17,Peru,population,43,IQR upper,46.59,ng/L,median=2.64
+ruiz2017,Table 4,8,acquired immunity factor,IL5,Peru,population,43,median,4.7,ng/L,IQR 0.43-8.97
+ruiz2017,Table 4,8,acquired immunity factor,IL5,Peru,population,43,IQR lower,0.43,ng/L,median=4.7
+ruiz2017,Table 4,8,acquired immunity factor,IL5,Peru,population,43,IQR upper,8.97,ng/L,median=4.7
+ruiz2017,Table 4,8,acquired immunity factor,IL7,Peru,population,43,median,91.61,ng/L,IQR 36.71-131.55;group_letters=d
+ruiz2017,Table 4,8,acquired immunity factor,IL7,Peru,population,43,IQR lower,36.71,ng/L,median=91.61;group_letters=d
+ruiz2017,Table 4,8,acquired immunity factor,IL7,Peru,population,43,IQR upper,131.55,ng/L,median=91.61;group_letters=d
+ruiz2017,Table 4,8,acquired immunity factor,IgA,Peru,population,43,median,499.57,mg/L,IQR 418.76-642.7;group_letters=bcf
+ruiz2017,Table 4,8,acquired immunity factor,IgA,Peru,population,43,IQR lower,418.76,mg/L,median=499.57;group_letters=bcf
+ruiz2017,Table 4,8,acquired immunity factor,IgA,Peru,population,43,IQR upper,642.7,mg/L,median=499.57;group_letters=bcf
+ruiz2017,Table 4,8,acquired immunity factor,IgM,Peru,population,43,median,48.37,mg/L,IQR 33.59-68.67;group_letters=ab
+ruiz2017,Table 4,8,acquired immunity factor,IgM,Peru,population,43,IQR lower,33.59,mg/L,median=48.37;group_letters=ab
+ruiz2017,Table 4,8,acquired immunity factor,IgM,Peru,population,43,IQR upper,68.67,mg/L,median=48.37;group_letters=ab
+ruiz2017,Table 4,8,acquired immunity factor,IgG,Peru,population,43,median,73.44,mg/L,IQR 57.54-100.41;group_letters=abc
+ruiz2017,Table 4,8,acquired immunity factor,IgG,Peru,population,43,IQR lower,57.54,mg/L,median=73.44;group_letters=abc
+ruiz2017,Table 4,8,acquired immunity factor,IgG,Peru,population,43,IQR upper,100.41,mg/L,median=73.44;group_letters=abc
+ruiz2017,Table 4,8,acquired immunity factor,TGFβ2,Peru,population,43,median,0.7,µg/L,IQR 0.41-1.21;group_letters=a
+ruiz2017,Table 4,8,acquired immunity factor,TGFβ2,Peru,population,43,IQR lower,0.41,µg/L,median=0.7;group_letters=a
+ruiz2017,Table 4,8,acquired immunity factor,TGFβ2,Peru,population,43,IQR upper,1.21,µg/L,median=0.7;group_letters=a
+ruiz2017,Table 4,8,acquired immunity factor,IL2,Spain,population,41,median (IQR),nd,ng/L,below detection limit
+ruiz2017,Table 4,8,acquired immunity factor,IL4,Spain,population,41,median,0.7,ng/L,IQR 0.7-0.7;group_letters=ab
+ruiz2017,Table 4,8,acquired immunity factor,IL4,Spain,population,41,IQR lower,0.7,ng/L,median=0.7;group_letters=ab
+ruiz2017,Table 4,8,acquired immunity factor,IL4,Spain,population,41,IQR upper,0.7,ng/L,median=0.7;group_letters=ab
+ruiz2017,Table 4,8,acquired immunity factor,IL10,Spain,population,41,median,3.25,ng/L,IQR 1.68-4.35;group_letters=b
+ruiz2017,Table 4,8,acquired immunity factor,IL10,Spain,population,41,IQR lower,1.68,ng/L,median=3.25;group_letters=b
+ruiz2017,Table 4,8,acquired immunity factor,IL10,Spain,population,41,IQR upper,4.35,ng/L,median=3.25;group_letters=b
+ruiz2017,Table 4,8,acquired immunity factor,IL13,Spain,population,41,median,2.63,ng/L,IQR 1.48-3.99;group_letters=c
+ruiz2017,Table 4,8,acquired immunity factor,IL13,Spain,population,41,IQR lower,1.48,ng/L,median=2.63;group_letters=c
+ruiz2017,Table 4,8,acquired immunity factor,IL13,Spain,population,41,IQR upper,3.99,ng/L,median=2.63;group_letters=c
+ruiz2017,Table 4,8,acquired immunity factor,IL17,Spain,population,41,median,4.29,ng/L,IQR 2.1-6.47
+ruiz2017,Table 4,8,acquired immunity factor,IL17,Spain,population,41,IQR lower,2.1,ng/L,median=4.29
+ruiz2017,Table 4,8,acquired immunity factor,IL17,Spain,population,41,IQR upper,6.47,ng/L,median=4.29
+ruiz2017,Table 4,8,acquired immunity factor,IL5,Spain,population,41,median,2.57,ng/L,IQR 0.79-2.82
+ruiz2017,Table 4,8,acquired immunity factor,IL5,Spain,population,41,IQR lower,0.79,ng/L,median=2.57
+ruiz2017,Table 4,8,acquired immunity factor,IL5,Spain,population,41,IQR upper,2.82,ng/L,median=2.57
+ruiz2017,Table 4,8,acquired immunity factor,IL7,Spain,population,41,median,34.56,ng/L,IQR 26.81-53.67;group_letters=ade
+ruiz2017,Table 4,8,acquired immunity factor,IL7,Spain,population,41,IQR lower,26.81,ng/L,median=34.56;group_letters=ade
+ruiz2017,Table 4,8,acquired immunity factor,IL7,Spain,population,41,IQR upper,53.67,ng/L,median=34.56;group_letters=ade
+ruiz2017,Table 4,8,acquired immunity factor,IgA,Spain,population,41,median,418.83,mg/L,IQR 256.78-539.24;group_letters=bcd
+ruiz2017,Table 4,8,acquired immunity factor,IgA,Spain,population,41,IQR lower,256.78,mg/L,median=418.83;group_letters=bcd
+ruiz2017,Table 4,8,acquired immunity factor,IgA,Spain,population,41,IQR upper,539.24,mg/L,median=418.83;group_letters=bcd
+ruiz2017,Table 4,8,acquired immunity factor,IgM,Spain,population,41,median,38.8,mg/L,IQR 19.92-62.45;group_letters=bd
+ruiz2017,Table 4,8,acquired immunity factor,IgM,Spain,population,41,IQR lower,19.92,mg/L,median=38.8;group_letters=bd
+ruiz2017,Table 4,8,acquired immunity factor,IgM,Spain,population,41,IQR upper,62.45,mg/L,median=38.8;group_letters=bd
+ruiz2017,Table 4,8,acquired immunity factor,IgG,Spain,population,41,median,59.95,mg/L,IQR 48.73-90.51;group_letters=c
+ruiz2017,Table 4,8,acquired immunity factor,IgG,Spain,population,41,IQR lower,48.73,mg/L,median=59.95;group_letters=c
+ruiz2017,Table 4,8,acquired immunity factor,IgG,Spain,population,41,IQR upper,90.51,mg/L,median=59.95;group_letters=c
+ruiz2017,Table 4,8,acquired immunity factor,TGFβ2,Spain,population,41,median,1.99,µg/L,IQR 1.07-3.57;group_letters=c
+ruiz2017,Table 4,8,acquired immunity factor,TGFβ2,Spain,population,41,IQR lower,1.07,µg/L,median=1.99;group_letters=c
+ruiz2017,Table 4,8,acquired immunity factor,TGFβ2,Spain,population,41,IQR upper,3.57,µg/L,median=1.99;group_letters=c
+ruiz2017,Table 4,8,acquired immunity factor,IL2,Sweden,population,24,median (IQR),nd,ng/L,below detection limit
+ruiz2017,Table 4,8,acquired immunity factor,IL4,Sweden,population,24,median (IQR),nd,ng/L,below detection limit
+ruiz2017,Table 4,8,acquired immunity factor,IL10,Sweden,population,24,median (IQR),nd,ng/L,below detection limit
+ruiz2017,Table 4,8,acquired immunity factor,IL13,Sweden,population,24,median,2.06,ng/L,IQR 1.23-3.68;group_letters=ac
+ruiz2017,Table 4,8,acquired immunity factor,IL13,Sweden,population,24,IQR lower,1.23,ng/L,median=2.06;group_letters=ac
+ruiz2017,Table 4,8,acquired immunity factor,IL13,Sweden,population,24,IQR upper,3.68,ng/L,median=2.06;group_letters=ac
+ruiz2017,Table 4,8,acquired immunity factor,IL17,Sweden,population,24,median (IQR),nd,ng/L,below detection limit
+ruiz2017,Table 4,8,acquired immunity factor,IL5,Sweden,population,24,median,3.09,ng/L,IQR 2.45-3.73
+ruiz2017,Table 4,8,acquired immunity factor,IL5,Sweden,population,24,IQR lower,2.45,ng/L,median=3.09
+ruiz2017,Table 4,8,acquired immunity factor,IL5,Sweden,population,24,IQR upper,3.73,ng/L,median=3.09
+ruiz2017,Table 4,8,acquired immunity factor,IL7,Sweden,population,24,median,11.15,ng/L,IQR 8.48-26.39;group_letters=bce
+ruiz2017,Table 4,8,acquired immunity factor,IL7,Sweden,population,24,IQR lower,8.48,ng/L,median=11.15;group_letters=bce
+ruiz2017,Table 4,8,acquired immunity factor,IL7,Sweden,population,24,IQR upper,26.39,ng/L,median=11.15;group_letters=bce
+ruiz2017,Table 4,8,acquired immunity factor,IgA,Sweden,population,24,median,1840.18,mg/L,IQR 1065.84-2435.49;group_letters=e
+ruiz2017,Table 4,8,acquired immunity factor,IgA,Sweden,population,24,IQR lower,1065.84,mg/L,median=1840.18;group_letters=e
+ruiz2017,Table 4,8,acquired immunity factor,IgA,Sweden,population,24,IQR upper,2435.49,mg/L,median=1840.18;group_letters=e
+ruiz2017,Table 4,8,acquired immunity factor,IgM,Sweden,population,24,median,13.54,mg/L,IQR 4.13-17.65;group_letters=c
+ruiz2017,Table 4,8,acquired immunity factor,IgM,Sweden,population,24,IQR lower,4.13,mg/L,median=13.54;group_letters=c
+ruiz2017,Table 4,8,acquired immunity factor,IgM,Sweden,population,24,IQR upper,17.65,mg/L,median=13.54;group_letters=c
+ruiz2017,Table 4,8,acquired immunity factor,IgG,Sweden,population,24,median,15.31,mg/L,IQR 13.88-19.45;group_letters=d
+ruiz2017,Table 4,8,acquired immunity factor,IgG,Sweden,population,24,IQR lower,13.88,mg/L,median=15.31;group_letters=d
+ruiz2017,Table 4,8,acquired immunity factor,IgG,Sweden,population,24,IQR upper,19.45,mg/L,median=15.31;group_letters=d
+ruiz2017,Table 4,8,acquired immunity factor,TGFβ2,Sweden,population,24,median,0.88,µg/L,IQR 0.53-1.78;group_letters=ab
+ruiz2017,Table 4,8,acquired immunity factor,TGFβ2,Sweden,population,24,IQR lower,0.53,µg/L,median=0.88;group_letters=ab
+ruiz2017,Table 4,8,acquired immunity factor,TGFβ2,Sweden,population,24,IQR upper,1.78,µg/L,median=0.88;group_letters=ab
+ruiz2017,Table 4,8,acquired immunity factor,IL2,United States California,population,19,median (IQR),nd,ng/L,below detection limit
+ruiz2017,Table 4,8,acquired immunity factor,IL4,United States California,population,19,median,1.89,ng/L,IQR 1.89-1.89
+ruiz2017,Table 4,8,acquired immunity factor,IL4,United States California,population,19,IQR lower,1.89,ng/L,median=1.89
+ruiz2017,Table 4,8,acquired immunity factor,IL4,United States California,population,19,IQR upper,1.89,ng/L,median=1.89
+ruiz2017,Table 4,8,acquired immunity factor,IL10,United States California,population,19,median (IQR),nd,ng/L,below detection limit
+ruiz2017,Table 4,8,acquired immunity factor,IL13,United States California,population,19,median,3.59,ng/L,IQR 1.34-4.99;group_letters=ac
+ruiz2017,Table 4,8,acquired immunity factor,IL13,United States California,population,19,IQR lower,1.34,ng/L,median=3.59;group_letters=ac
+ruiz2017,Table 4,8,acquired immunity factor,IL13,United States California,population,19,IQR upper,4.99,ng/L,median=3.59;group_letters=ac
+ruiz2017,Table 4,8,acquired immunity factor,IL17,United States California,population,19,median,16.84,ng/L,IQR 16.84-16.84
+ruiz2017,Table 4,8,acquired immunity factor,IL17,United States California,population,19,IQR lower,16.84,ng/L,median=16.84
+ruiz2017,Table 4,8,acquired immunity factor,IL17,United States California,population,19,IQR upper,16.84,ng/L,median=16.84
+ruiz2017,Table 4,8,acquired immunity factor,IL5,United States California,population,19,median (IQR),nd,ng/L,below detection limit
+ruiz2017,Table 4,8,acquired immunity factor,IL7,United States California,population,19,median,13.92,ng/L,IQR 7.23-31.56;group_letters=ab
+ruiz2017,Table 4,8,acquired immunity factor,IL7,United States California,population,19,IQR lower,7.23,ng/L,median=13.92;group_letters=ab
+ruiz2017,Table 4,8,acquired immunity factor,IL7,United States California,population,19,IQR upper,31.56,ng/L,median=13.92;group_letters=ab
+ruiz2017,Table 4,8,acquired immunity factor,IgA,United States California,population,19,median,1210.59,mg/L,IQR 642.9-2053.42
+ruiz2017,Table 4,8,acquired immunity factor,IgA,United States California,population,19,IQR lower,642.9,mg/L,median=1210.59
+ruiz2017,Table 4,8,acquired immunity factor,IgA,United States California,population,19,IQR upper,2053.42,mg/L,median=1210.59
+ruiz2017,Table 4,8,acquired immunity factor,IgM,United States California,population,19,median,12.27,mg/L,IQR 8.98-18.91;group_letters=cd
+ruiz2017,Table 4,8,acquired immunity factor,IgM,United States California,population,19,IQR lower,8.98,mg/L,median=12.27;group_letters=cd
+ruiz2017,Table 4,8,acquired immunity factor,IgM,United States California,population,19,IQR upper,18.91,mg/L,median=12.27;group_letters=cd
+ruiz2017,Table 4,8,acquired immunity factor,IgG,United States California,population,19,median,19.26,mg/L,IQR 13.89-36.37;group_letters=d
+ruiz2017,Table 4,8,acquired immunity factor,IgG,United States California,population,19,IQR lower,13.89,mg/L,median=19.26;group_letters=d
+ruiz2017,Table 4,8,acquired immunity factor,IgG,United States California,population,19,IQR upper,36.37,mg/L,median=19.26;group_letters=d
+ruiz2017,Table 4,8,acquired immunity factor,TGFβ2,United States California,population,19,median,1.6,µg/L,IQR 1.0-2.4;group_letters=abc
+ruiz2017,Table 4,8,acquired immunity factor,TGFβ2,United States California,population,19,IQR lower,1.0,µg/L,median=1.6;group_letters=abc
+ruiz2017,Table 4,8,acquired immunity factor,TGFβ2,United States California,population,19,IQR upper,2.4,µg/L,median=1.6;group_letters=abc
+ruiz2017,Table 4,8,acquired immunity factor,IL2,United States Washington,population,41,median (IQR),nd,ng/L,below detection limit
+ruiz2017,Table 4,8,acquired immunity factor,IL4,United States Washington,population,41,median (IQR),nd,ng/L,below detection limit
+ruiz2017,Table 4,8,acquired immunity factor,IL10,United States Washington,population,41,median (IQR),nd,ng/L,below detection limit
+ruiz2017,Table 4,8,acquired immunity factor,IL13,United States Washington,population,41,median,2.87,ng/L,IQR 1.67-6.6;group_letters=c
+ruiz2017,Table 4,8,acquired immunity factor,IL13,United States Washington,population,41,IQR lower,1.67,ng/L,median=2.87;group_letters=c
+ruiz2017,Table 4,8,acquired immunity factor,IL13,United States Washington,population,41,IQR upper,6.6,ng/L,median=2.87;group_letters=c
+ruiz2017,Table 4,8,acquired immunity factor,IL17,United States Washington,population,41,median (IQR),nd,ng/L,below detection limit
+ruiz2017,Table 4,8,acquired immunity factor,IL5,United States Washington,population,41,median (IQR),nd,ng/L,below detection limit
+ruiz2017,Table 4,8,acquired immunity factor,IL7,United States Washington,population,41,median,12.26,ng/L,IQR 8.7-15.54;group_letters=bc
+ruiz2017,Table 4,8,acquired immunity factor,IL7,United States Washington,population,41,IQR lower,8.7,ng/L,median=12.26;group_letters=bc
+ruiz2017,Table 4,8,acquired immunity factor,IL7,United States Washington,population,41,IQR upper,15.54,ng/L,median=12.26;group_letters=bc
+ruiz2017,Table 4,8,acquired immunity factor,IgA,United States Washington,population,41,median,1355.6,mg/L,IQR 849.41-2112.45;group_letters=e
+ruiz2017,Table 4,8,acquired immunity factor,IgA,United States Washington,population,41,IQR lower,849.41,mg/L,median=1355.6;group_letters=e
+ruiz2017,Table 4,8,acquired immunity factor,IgA,United States Washington,population,41,IQR upper,2112.45,mg/L,median=1355.6;group_letters=e
+ruiz2017,Table 4,8,acquired immunity factor,IgM,United States Washington,population,41,median,18.95,mg/L,IQR 7.78-36.6;group_letters=cd
+ruiz2017,Table 4,8,acquired immunity factor,IgM,United States Washington,population,41,IQR lower,7.78,mg/L,median=18.95;group_letters=cd
+ruiz2017,Table 4,8,acquired immunity factor,IgM,United States Washington,population,41,IQR upper,36.6,mg/L,median=18.95;group_letters=cd
+ruiz2017,Table 4,8,acquired immunity factor,IgG,United States Washington,population,41,median,32.67,mg/L,IQR 19.35-44.6;group_letters=d
+ruiz2017,Table 4,8,acquired immunity factor,IgG,United States Washington,population,41,IQR lower,19.35,mg/L,median=32.67;group_letters=d
+ruiz2017,Table 4,8,acquired immunity factor,IgG,United States Washington,population,41,IQR upper,44.6,mg/L,median=32.67;group_letters=d
+ruiz2017,Table 4,8,acquired immunity factor,TGFβ2,United States Washington,population,41,median,1.43,µg/L,IQR 0.85-2.29;group_letters=abc
+ruiz2017,Table 4,8,acquired immunity factor,TGFβ2,United States Washington,population,41,IQR lower,0.85,µg/L,median=1.43;group_letters=abc
+ruiz2017,Table 4,8,acquired immunity factor,TGFβ2,United States Washington,population,41,IQR upper,2.29,µg/L,median=1.43;group_letters=abc

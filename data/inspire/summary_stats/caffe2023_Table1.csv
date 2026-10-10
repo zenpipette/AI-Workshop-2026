@@ -1,0 +1,50 @@
+paper,table,page,data_type,analyte,group,group_type,n,statistic,value,unit,notes
+caffe2023,Table 1,6,maternal characteristic,maternal age,Total sample,infant sex group,358,mean,27.76,y,SD;SD=6.19
+caffe2023,Table 1,6,maternal characteristic,maternal age,Total sample,infant sex group,358,SD,6.19,y,
+caffe2023,Table 1,6,maternal characteristic,maternal age,Female,infant sex group,182,mean,27.34,y,SD;SD=6.25
+caffe2023,Table 1,6,maternal characteristic,maternal age,Female,infant sex group,182,SD,6.25,y,
+caffe2023,Table 1,6,maternal characteristic,maternal age,Male,infant sex group,176,mean,28.19,y,SD;SD=6.12
+caffe2023,Table 1,6,maternal characteristic,maternal age,Male,infant sex group,176,SD,6.12,y,
+caffe2023,Table 1,6,maternal characteristic,maternal age by infant sex,Female vs Male,comparison,,p value (Welch t-test),0.193,unitless,
+caffe2023,Table 1,6,maternal characteristic,maternal BMI,Total sample,infant sex group,358,mean,24.6,kg/m2,SD;SD=4.60
+caffe2023,Table 1,6,maternal characteristic,maternal BMI,Total sample,infant sex group,358,SD,4.6,kg/m2,
+caffe2023,Table 1,6,maternal characteristic,maternal BMI,Female,infant sex group,182,mean,24.24,kg/m2,SD;SD=4.24
+caffe2023,Table 1,6,maternal characteristic,maternal BMI,Female,infant sex group,182,SD,4.24,kg/m2,
+caffe2023,Table 1,6,maternal characteristic,maternal BMI,Male,infant sex group,176,mean,24.98,kg/m2,SD;SD=4.90
+caffe2023,Table 1,6,maternal characteristic,maternal BMI,Male,infant sex group,176,SD,4.9,kg/m2,
+caffe2023,Table 1,6,maternal characteristic,maternal BMI by infant sex,Female vs Male,comparison,,p value (Welch t-test),0.126,unitless,
+caffe2023,Table 1,6,maternal characteristic (BMI subset),maternal BMI category: Underweight,Total sample,infant sex group,358,mean,17.38,kg/m2,SD;SD=0.90
+caffe2023,Table 1,6,maternal characteristic (BMI subset),maternal BMI category: Underweight,Total sample,infant sex group,358,SD,0.9,kg/m2,
+caffe2023,Table 1,6,maternal characteristic (BMI subset),maternal BMI category: Underweight,Female,infant sex group,182,mean,17.33,kg/m2,SD;SD=1.23
+caffe2023,Table 1,6,maternal characteristic (BMI subset),maternal BMI category: Underweight,Female,infant sex group,182,SD,1.23,kg/m2,
+caffe2023,Table 1,6,maternal characteristic (BMI subset),maternal BMI category: Underweight,Male,infant sex group,176,mean,17.41,kg/m2,SD;SD=0.57
+caffe2023,Table 1,6,maternal characteristic (BMI subset),maternal BMI category: Underweight,Male,infant sex group,176,SD,0.57,kg/m2,
+caffe2023,Table 1,6,maternal characteristic (BMI subset),maternal BMI category: Underweight by infant sex,Female vs Male,comparison,,p value (Welch t-test),0.163,unitless,
+caffe2023,Table 1,6,maternal characteristic (BMI subset),maternal BMI category: Healthy,Total sample,infant sex group,358,mean,21.98,kg/m2,SD;SD=1.73
+caffe2023,Table 1,6,maternal characteristic (BMI subset),maternal BMI category: Healthy,Total sample,infant sex group,358,SD,1.73,kg/m2,
+caffe2023,Table 1,6,maternal characteristic (BMI subset),maternal BMI category: Healthy,Female,infant sex group,182,mean,24.24,kg/m2,SD;SD=4.24
+caffe2023,Table 1,6,maternal characteristic (BMI subset),maternal BMI category: Healthy,Female,infant sex group,182,SD,4.24,kg/m2,
+caffe2023,Table 1,6,maternal characteristic (BMI subset),maternal BMI category: Healthy,Male,infant sex group,176,mean,21.99,kg/m2,SD;SD=1.81
+caffe2023,Table 1,6,maternal characteristic (BMI subset),maternal BMI category: Healthy,Male,infant sex group,176,SD,1.81,kg/m2,
+caffe2023,Table 1,6,maternal characteristic (BMI subset),maternal BMI category: Healthy by infant sex,Female vs Male,comparison,,p value (Welch t-test),0.616,unitless,
+caffe2023,Table 1,6,maternal characteristic (BMI subset),maternal BMI category: Overweight/Obese,Total sample,infant sex group,358,mean,29.23,kg/m2,SD;SD=3.67
+caffe2023,Table 1,6,maternal characteristic (BMI subset),maternal BMI category: Overweight/Obese,Total sample,infant sex group,358,SD,3.67,kg/m2,
+caffe2023,Table 1,6,maternal characteristic (BMI subset),maternal BMI category: Overweight/Obese,Female,infant sex group,182,mean,28.67,kg/m2,SD;SD=3.51
+caffe2023,Table 1,6,maternal characteristic (BMI subset),maternal BMI category: Overweight/Obese,Female,infant sex group,182,SD,3.51,kg/m2,
+caffe2023,Table 1,6,maternal characteristic (BMI subset),maternal BMI category: Overweight/Obese,Male,infant sex group,176,mean,29.75,kg/m2,SD;SD=3.76
+caffe2023,Table 1,6,maternal characteristic (BMI subset),maternal BMI category: Overweight/Obese,Male,infant sex group,176,SD,3.76,kg/m2,
+caffe2023,Table 1,6,maternal characteristic (BMI subset),maternal BMI category: Overweight/Obese by infant sex,Female vs Male,comparison,,p value (Welch t-test),0.476,unitless,
+caffe2023,Table 1,6,maternal characteristic,maternal diet diversity score,Total sample,infant sex group,358,mean,6.11,DDS (0-8),SD;SD=1.32
+caffe2023,Table 1,6,maternal characteristic,maternal diet diversity score,Total sample,infant sex group,358,SD,1.32,DDS (0-8),
+caffe2023,Table 1,6,maternal characteristic,maternal diet diversity score,Female,infant sex group,182,mean,6.15,DDS (0-8),SD;SD=1.31
+caffe2023,Table 1,6,maternal characteristic,maternal diet diversity score,Female,infant sex group,182,SD,1.31,DDS (0-8),
+caffe2023,Table 1,6,maternal characteristic,maternal diet diversity score,Male,infant sex group,176,mean,6.06,DDS (0-8),SD;SD=1.32
+caffe2023,Table 1,6,maternal characteristic,maternal diet diversity score,Male,infant sex group,176,SD,1.32,DDS (0-8),
+caffe2023,Table 1,6,maternal characteristic,maternal diet diversity score by infant sex,Female vs Male,comparison,,p value (Welch t-test),0.539,unitless,
+caffe2023,Table 1,6,infant characteristic,infant age,Total sample,infant sex group,358,mean,9.02,week,SD;SD=2.89
+caffe2023,Table 1,6,infant characteristic,infant age,Total sample,infant sex group,358,SD,2.89,week,
+caffe2023,Table 1,6,infant characteristic,infant age,Female,infant sex group,182,mean,9.15,week,SD;SD=2.83
+caffe2023,Table 1,6,infant characteristic,infant age,Female,infant sex group,182,SD,2.83,week,
+caffe2023,Table 1,6,infant characteristic,infant age,Male,infant sex group,176,mean,8.88,week,SD;SD=2.93
+caffe2023,Table 1,6,infant characteristic,infant age,Male,infant sex group,176,SD,2.93,week,
+caffe2023,Table 1,6,infant characteristic,infant age by infant sex,Female vs Male,comparison,,p value (Welch t-test),0.375,unitless,

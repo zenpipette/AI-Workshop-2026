@@ -1,0 +1,47 @@
+paper,table,page,data_type,analyte,group,group_type,n,statistic,value,unit,notes
+pace2021,text (sec 3.3),,macronutrient,lactose,all populations pooled,overall,357,mean ± SD,79.2 ± 11.0,g/L,n=357 dyads; Figure 2 shows by-population values (not numeric in text)
+pace2021,text (sec 3.3),,macronutrient,lactose,all populations pooled,overall,357,range,26.7-118.3,g/L,
+pace2021,text (sec 3.3),,macronutrient,lactose,all populations pooled,overall,357,IQR,72.7-84.3,g/L,
+pace2021,text (sec 3.3),,macronutrient,protein,all populations pooled,overall,357,mean ± SD,15.0 ± 2.8,g/L,
+pace2021,text (sec 3.3),,macronutrient,protein,all populations pooled,overall,357,range,9.4-32.6,g/L,
+pace2021,text (sec 3.3),,macronutrient,protein,all populations pooled,overall,357,IQR,13.2-16.6,g/L,
+pace2021,text (sec 3.3),,macronutrient,lactose ~ population,11 populations,association,,Kruskal-Wallis p,<0.001,unitless,Figure 2A
+pace2021,text (sec 3.3),,macronutrient,protein ~ population,11 populations,association,,Kruskal-Wallis p,<0.001,unitless,Figure 2A
+pace2021,text (sec 3.3),,macronutrient,lactose ~ lactotype,L1-L4,association,,Kruskal-Wallis p,0.008,unitless,Figure 2B
+pace2021,text (sec 3.3),,macronutrient,protein ~ lactotype,L1-L4,association,,Kruskal-Wallis p,0.348,unitless,Figure 2B
+pace2021,text (sec 3.3),,macronutrient,lactose ~ enterotype,E1-E2,association,,Kruskal-Wallis p,0.553,unitless,Figure 2C
+pace2021,text (sec 3.3),,macronutrient,protein ~ enterotype,E1-E2,association,,Kruskal-Wallis p,0.051,unitless,Figure 2C (trend)
+pace2021,text (sec 3.4),,HMO,total HMOs,all populations pooled,overall,357,mean ± SD,"12,913 ± 4039",nmol/mL,
+pace2021,text (sec 3.4),,HMO,total HMOs,all populations pooled,overall,357,range,"4053-22,884",nmol/mL,
+pace2021,text (sec 3.4),,HMO,total HMOs,all populations pooled,overall,357,IQR,"9735-15,847",nmol/mL,
+pace2021,Figure 3 (text),,milk/infant fecal microbiome (envfit),milk microbiome (Bray-Curtis) ~ population cohort,n=340 paired dyads,overall,340,envfit R2 (explained variance),20-37%,unitless,approximate as printed; FDR-significant features flagged *
+pace2021,Figure 3 (text),,milk/infant fecal microbiome (envfit),milk + infant fecal microbiome ~ population cohort and CSTs,n=340 paired dyads,overall,340,envfit R2 (explained variance),20-37%,unitless,approximate as printed; FDR-significant features flagged *
+pace2021,Figure 3 (text),,milk/infant fecal microbiome (envfit),infant fecal microbiome (Bray-Curtis) ~ microbial lactotype,n=340 paired dyads,overall,340,envfit R2 (explained variance),~8%,unitless,approximate as printed; FDR-significant features flagged *
+pace2021,Figure 3 (text),,milk/infant fecal microbiome (envfit),milk microbiome (Bray-Curtis) ~ lactose concentration,n=340 paired dyads,overall,340,envfit R2 (explained variance),~4%,unitless,approximate as printed; FDR-significant features flagged *
+pace2021,Figure 3 (text),,milk/infant fecal microbiome (envfit),infant fecal microbiome (Bray-Curtis) ~ protein concentration,n=340 paired dyads,overall,340,envfit R2 (explained variance),~3%,unitless,approximate as printed; FDR-significant features flagged *
+pace2021,Figure 3 (text),,milk/infant fecal microbiome (envfit),milk microbiome (Bray-Curtis) ~ HMO-bound fucose concentration,n=340 paired dyads,overall,340,envfit R2 (explained variance),~7%,unitless,approximate as printed; FDR-significant features flagged *
+pace2021,Figure 3 (text),,milk/infant fecal microbiome (envfit),infant fecal microbiome (Bray-Curtis) ~ HMO-bound fucose:HMO-bound sialic acid ratio,n=340 paired dyads,overall,340,envfit R2 (explained variance),~12%,unitless,approximate as printed; FDR-significant features flagged *
+pace2021,text (sec 3.5),,milk/infant fecal microbiome (envfit),both microbiomes ~ 3FL concentration,n=340 paired dyads,overall,340,envfit R2 (explained variance),>4%,unitless,each individually; as printed
+pace2021,text (sec 3.5),,milk/infant fecal microbiome (envfit),both microbiomes ~ DSLNT concentration,n=340 paired dyads,overall,340,envfit R2 (explained variance),>4%,unitless,each individually; as printed
+pace2021,text (sec 3.5),,milk/infant fecal microbiome (envfit),both microbiomes ~ 2'FL concentration,n=340 paired dyads,overall,340,envfit R2 (explained variance),>4%,unitless,each individually; as printed
+pace2021,Figure 4 (text),,HMO vs microbiome / microbiome vs microbiome,2'FL (milk) ~ LNFP I (milk),n=340 paired dyads,overall,340,Spearman rank correlation (rho),0.74,unitless,grouped with shared features: a1-2-fucosylated HMO; FDR p<=0.1 shown in Figure 4
+pace2021,Figure 4 (text),,HMO vs microbiome / microbiome vs microbiome,6'SL (milk) ~ LSTc (milk),n=340 paired dyads,overall,340,Spearman rank correlation (rho),0.65,unitless,sialylated HMOs; FDR p<=0.1 shown in Figure 4
+pace2021,Figure 4 (text),,HMO vs microbiome / microbiome vs microbiome,Bacteroides (infant feces) ~ Streptococcus (infant feces),n=340 paired dyads,overall,340,Spearman rank correlation (rho),-0.4,unitless,strongest inverse bacterium-to-bacterium; FDR p<=0.1 shown in Figure 4
+pace2021,Figure 4 (text),,HMO vs microbiome / microbiome vs microbiome,Dyella (milk) ~ Rhizobium (milk),n=340 paired dyads,overall,340,Spearman rank correlation (rho),-0.38,unitless,FDR p<=0.1 shown in Figure 4
+pace2021,Figure 4 (text),,HMO vs microbiome / microbiome vs microbiome,Gemella (milk) ~ Lactobacillus (infant feces),n=340 paired dyads,overall,340,Spearman rank correlation (rho),-0.29,unitless,FDR p<=0.1 shown in Figure 4
+pace2021,Figure 4 (text),,HMO vs microbiome / microbiome vs microbiome,Dyella (milk) ~ unclassified Xanthomonadaceae (milk),n=340 paired dyads,overall,340,Spearman rank correlation (rho),0.68,unitless,strongest positive; FDR p<=0.1 shown in Figure 4
+pace2021,Figure 4 (text),,HMO vs microbiome / microbiome vs microbiome,Corynebacterium 1 (milk) ~ Kocuria (milk),n=340 paired dyads,overall,340,Spearman rank correlation (rho),0.43,unitless,FDR p<=0.1 shown in Figure 4
+pace2021,Figure 4 (text),,HMO vs microbiome / microbiome vs microbiome,Bacteroides (infant feces) ~ Parabacteroides (infant feces),n=340 paired dyads,overall,340,Spearman rank correlation (rho),0.42,unitless,FDR p<=0.1 shown in Figure 4
+pace2021,Figure 4 (text),,HMO vs microbiome / microbiome vs microbiome,Bifidobacterium (milk) ~ Kocuria (milk),n=340 paired dyads,overall,340,Spearman rank correlation (rho),0.41,unitless,FDR p<=0.1 shown in Figure 4
+pace2021,Figure 4 (text),,HMO vs microbiome / microbiome vs microbiome,Lactobacillus (milk) ~ Lactobacillus (infant feces),n=340 paired dyads,overall,340,Spearman rank correlation (rho),0.36,unitless,positive milk-feces correlation; FDR p<=0.1 shown in Figure 4
+pace2021,Figure 4 (text),,HMO vs microbiome / microbiome vs microbiome,Bifidobacterium (milk) ~ Bifidobacterium (infant feces),n=340 paired dyads,overall,340,Spearman rank correlation (rho),-0.18,unitless,inverse milk-feces correlation; FDR p<=0.1 shown in Figure 4
+pace2021,text (sec 3.6),,HMO vs microbiome,milk + infant fecal Lactobacillus vs fucosylated HMOs,n=340 paired dyads,overall,340,Spearman correlation (qualitative direction),inverse,unitless,stated in text; exact values not printed (Figure 4) - UNVERIFIED exact rho
+pace2021,text (sec 3.6),,HMO vs microbiome,milk + infant fecal Veillonella vs sialylated HMOs,n=340 paired dyads,overall,340,Spearman correlation (qualitative direction),inverse,unitless,stated in text; exact values not printed (Figure 4) - UNVERIFIED exact rho
+pace2021,text (sec 3.6),,HMO vs microbiome,infant fecal Bifidobacterium vs fucosylated HMOs (except DFLNH inverse),n=340 paired dyads,overall,340,Spearman correlation (qualitative direction),positive association (sig only with fucosylated HMOs),unitless,stated in text; exact values not printed (Figure 4) - UNVERIFIED exact rho
+pace2021,text (sec 3.6),,HMO vs microbiome,milk Bifidobacterium vs 2'FL and other fucosylated HMOs,n=340 paired dyads,overall,340,Spearman correlation (qualitative direction),inverse,unitless,stated in text; exact values not printed (Figure 4) - UNVERIFIED exact rho
+pace2021,text (sec 3.6),,HMO vs microbiome,"milk + infant fecal Bifidobacterium vs DSLNT, DSLNH, other sialylated HMOs",n=340 paired dyads,overall,340,Spearman correlation (qualitative direction),positive,unitless,stated in text; exact values not printed (Figure 4) - UNVERIFIED exact rho
+pace2021,text (sec 3.6),,HMO vs microbiome,milk Streptococcus (not fecal) vs fucosylated HMOs,n=340 paired dyads,overall,340,Spearman correlation (qualitative direction),positive,unitless,stated in text; exact values not printed (Figure 4) - UNVERIFIED exact rho
+pace2021,text (sec 3.1),,maternal characteristic,maternal age,all populations pooled,overall,357,mean ± SD,27.4 ± 6.1,y,
+pace2021,text (sec 3.1),,maternal characteristic,time postpartum at sampling,all populations pooled,overall,357,mean ± SD,64.6 ± 21.9,d,
+pace2021,text (sec 3.1),,maternal characteristic,vaginal delivery,all populations pooled,overall,357,%,86,%,
+pace2021,text (sec 3.1),,infant characteristic,exclusive breastfeeding,all populations pooled,overall,357,%,60,%,

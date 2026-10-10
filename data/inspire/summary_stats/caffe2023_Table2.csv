@@ -1,0 +1,37 @@
+paper,table,page,data_type,analyte,group,group_type,n,statistic,value,unit,notes
+caffe2023,Table 2,6,immune factor (LME model),log IgA (mg/L) ~ (Intercept),all (n=358 dyads),overall,358,LME beta coefficient,5.992,log(concentration)/unit,P=<0.001;population = random effect
+caffe2023,Table 2,6,immune factor (LME model),log IgG (mg/L) ~ (Intercept),all (n=358 dyads),overall,358,LME beta coefficient,4.963,log(concentration)/unit,P=<0.001;population = random effect
+caffe2023,Table 2,6,immune factor (LME model),log IgM (mg/L) ~ (Intercept),all (n=358 dyads),overall,358,LME beta coefficient,4.307,log(concentration)/unit,P=<0.001;population = random effect
+caffe2023,Table 2,6,immune factor (LME model),log EGF (µg/L) ~ (Intercept),all (n=358 dyads),overall,358,LME beta coefficient,1.940,log(concentration)/unit,P=<0.001;population = random effect
+caffe2023,Table 2,6,immune factor (LME model),log TGFβ2 (µg/L) ~ (Intercept),all (n=358 dyads),overall,358,LME beta coefficient,0.776,log(concentration)/unit,P=0.207;population = random effect
+caffe2023,Table 2,6,immune factor (LME model),log IL-10 (ng/L) ~ (Intercept),all (n=358 dyads),overall,358,LME beta coefficient,-0.312,log(concentration)/unit,P=0.783;population = random effect
+caffe2023,Table 2,6,immune factor (LME model),log IgA (mg/L) ~ Infant Sexa,all (n=358 dyads),overall,358,LME beta coefficient,-0.350,log(concentration)/unit,P=0.497;population = random effect
+caffe2023,Table 2,6,immune factor (LME model),log IgG (mg/L) ~ Infant Sexa,all (n=358 dyads),overall,358,LME beta coefficient,-0.306,log(concentration)/unit,P=0.374;population = random effect
+caffe2023,Table 2,6,immune factor (LME model),log IgM (mg/L) ~ Infant Sexa,all (n=358 dyads),overall,358,LME beta coefficient,-0.634,log(concentration)/unit,P=0.214;population = random effect
+caffe2023,Table 2,6,immune factor (LME model),log EGF (µg/L) ~ Infant Sexa,all (n=358 dyads),overall,358,LME beta coefficient,-0.270,log(concentration)/unit,P=0.272;population = random effect
+caffe2023,Table 2,6,immune factor (LME model),log TGFβ2 (µg/L) ~ Infant Sexa,all (n=358 dyads),overall,358,LME beta coefficient,-1.261,log(concentration)/unit,P=0.058;population = random effect
+caffe2023,Table 2,6,immune factor (LME model),log IL-10 (ng/L) ~ Infant Sexa,all (n=358 dyads),overall,358,LME beta coefficient,0.449,log(concentration)/unit,P=0.630;population = random effect
+caffe2023,Table 2,6,immune factor (LME model),log IgA (mg/L) ~ Maternal BMI,all (n=358 dyads),overall,358,LME beta coefficient,0.009,log(concentration)/unit,P=0.587;population = random effect
+caffe2023,Table 2,6,immune factor (LME model),log IgG (mg/L) ~ Maternal BMI,all (n=358 dyads),overall,358,LME beta coefficient,-0.016,log(concentration)/unit,P=0.151;population = random effect
+caffe2023,Table 2,6,immune factor (LME model),log IgM (mg/L) ~ Maternal BMI,all (n=358 dyads),overall,358,LME beta coefficient,-0.015,log(concentration)/unit,P=0.360;population = random effect
+caffe2023,Table 2,6,immune factor (LME model),log EGF (µg/L) ~ Maternal BMI,all (n=358 dyads),overall,358,LME beta coefficient,-0.004,log(concentration)/unit,P=0.603;population = random effect
+caffe2023,Table 2,6,immune factor (LME model),log TGFβ2 (µg/L) ~ Maternal BMI,all (n=358 dyads),overall,358,LME beta coefficient,-0.038,log(concentration)/unit,P=0.075;population = random effect
+caffe2023,Table 2,6,immune factor (LME model),log IL-10 (ng/L) ~ Maternal BMI,all (n=358 dyads),overall,358,LME beta coefficient,-0.005,log(concentration)/unit,P=0.872;population = random effect
+caffe2023,Table 2,6,immune factor (LME model),log IgA (mg/L) ~ Infant Ageb,all (n=358 dyads),overall,358,LME beta coefficient,-0.018,log(concentration)/unit,P=0.292;population = random effect
+caffe2023,Table 2,6,immune factor (LME model),log IgG (mg/L) ~ Infant Ageb,all (n=358 dyads),overall,358,LME beta coefficient,-0.003,log(concentration)/unit,P=0.776;population = random effect
+caffe2023,Table 2,6,immune factor (LME model),log IgM (mg/L) ~ Infant Ageb,all (n=358 dyads),overall,358,LME beta coefficient,-0.029,log(concentration)/unit,P=0.083;population = random effect
+caffe2023,Table 2,6,immune factor (LME model),log EGF (µg/L) ~ Infant Ageb,all (n=358 dyads),overall,358,LME beta coefficient,-0.010,log(concentration)/unit,P=0.232;population = random effect
+caffe2023,Table 2,6,immune factor (LME model),log TGFβ2 (µg/L) ~ Infant Ageb,all (n=358 dyads),overall,358,LME beta coefficient,0.048,log(concentration)/unit,P=0.029;population = random effect
+caffe2023,Table 2,6,immune factor (LME model),log IL-10 (ng/L) ~ Infant Ageb,all (n=358 dyads),overall,358,LME beta coefficient,0.011,log(concentration)/unit,P=0.728;population = random effect
+caffe2023,Table 2,6,immune factor (LME model),log IgA (mg/L) ~ Maternal Age,all (n=358 dyads),overall,358,LME beta coefficient,0.008,log(concentration)/unit,P=0.400;population = random effect
+caffe2023,Table 2,6,immune factor (LME model),log IgG (mg/L) ~ Maternal Age,all (n=358 dyads),overall,358,LME beta coefficient,-0.014,log(concentration)/unit,P=0.015;population = random effect
+caffe2023,Table 2,6,immune factor (LME model),log IgM (mg/L) ~ Maternal Age,all (n=358 dyads),overall,358,LME beta coefficient,-0.003,log(concentration)/unit,P=0.760;population = random effect
+caffe2023,Table 2,6,immune factor (LME model),log EGF (µg/L) ~ Maternal Age,all (n=358 dyads),overall,358,LME beta coefficient,-0.004,log(concentration)/unit,P=0.408;population = random effect
+caffe2023,Table 2,6,immune factor (LME model),log TGFβ2 (µg/L) ~ Maternal Age,all (n=358 dyads),overall,358,LME beta coefficient,-0.005,log(concentration)/unit,P=0.648;population = random effect
+caffe2023,Table 2,6,immune factor (LME model),log IL-10 (ng/L) ~ Maternal Age,all (n=358 dyads),overall,358,LME beta coefficient,-0.009,log(concentration)/unit,P=0.581;population = random effect
+caffe2023,Table 2,6,immune factor (LME model),log IgA (mg/L) ~ Infant Sex:Maternal BMI,all (n=358 dyads),overall,358,LME beta coefficient,0.010,log(concentration)/unit,P=0.631;population = random effect
+caffe2023,Table 2,6,immune factor (LME model),log IgG (mg/L) ~ Infant Sex:Maternal BMI,all (n=358 dyads),overall,358,LME beta coefficient,0.010,log(concentration)/unit,P=0.471;population = random effect
+caffe2023,Table 2,6,immune factor (LME model),log IgM (mg/L) ~ Infant Sex:Maternal BMI,all (n=358 dyads),overall,358,LME beta coefficient,0.025,log(concentration)/unit,P=0.229;population = random effect
+caffe2023,Table 2,6,immune factor (LME model),log EGF (µg/L) ~ Infant Sex:Maternal BMI,all (n=358 dyads),overall,358,LME beta coefficient,0.011,log(concentration)/unit,P=0.268;population = random effect
+caffe2023,Table 2,6,immune factor (LME model),log TGFβ2 (µg/L) ~ Infant Sex:Maternal BMI,all (n=358 dyads),overall,358,LME beta coefficient,0.048,log(concentration)/unit,P=0.070;population = random effect
+caffe2023,Table 2,6,immune factor (LME model),log IL-10 (ng/L) ~ Infant Sex:Maternal BMI,all (n=358 dyads),overall,358,LME beta coefficient,-0.020,log(concentration)/unit,P=0.588;population = random effect

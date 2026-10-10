@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+scratch/
+*.pdf
+# Real (non-simulated) downloaded datasets are never committed
+data/raw_downloads/

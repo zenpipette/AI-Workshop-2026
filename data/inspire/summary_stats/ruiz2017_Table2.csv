@@ -1,0 +1,231 @@
+paper,table,page,data_type,analyte,group,group_type,n,statistic,value,unit,notes
+ruiz2017,Table 2,6,immune factor,IL1β,Ethiopia urban,population,40,detection frequency,73,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL1β,Gambia rural,population,40,detection frequency,83,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL1β,Gambia urban,population,40,detection frequency,70,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL1β,Ghana,population,40,detection frequency,98,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL1β,Kenya,population,42,detection frequency,98,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL1β,Peru,population,43,detection frequency,72,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL1β,Spain,population,41,detection frequency,56,%,group_letters=ab;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL1β,Sweden,population,24,detection frequency,58,%,group_letters=ab;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL1β,United States California,population,19,detection frequency,84,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL1β,United States Washington,population,41,detection frequency,24,%,group_letters=b;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL6,Ethiopia urban,population,40,detection frequency,35,%,group_letters=ab;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL6,Gambia rural,population,40,detection frequency,75,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL6,Gambia urban,population,40,detection frequency,50,%,group_letters=ab;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL6,Ghana,population,40,detection frequency,33,%,group_letters=ab;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL6,Kenya,population,42,detection frequency,69,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL6,Peru,population,43,detection frequency,42,%,group_letters=ab;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL6,Spain,population,41,detection frequency,41,%,group_letters=ab;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL6,Sweden,population,24,detection frequency,33,%,group_letters=ab;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL6,United States California,population,19,detection frequency,47,%,group_letters=ab;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL6,United States Washington,population,41,detection frequency,19,%,group_letters=b;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL12,Ethiopia urban,population,40,detection frequency,13,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL12,Gambia rural,population,40,detection frequency,68,%,group_letters=bc;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL12,Gambia urban,population,40,detection frequency,30,%,group_letters=ab;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL12,Ghana,population,40,detection frequency,75,%,group_letters=c;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL12,Kenya,population,42,detection frequency,24,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL12,Peru,population,43,detection frequency,74,%,group_letters=c;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL12,Spain,population,41,detection frequency,17,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL12,Sweden,population,24,detection frequency,13,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL12,United States California,population,19,detection frequency,10,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL12,United States Washington,population,41,detection frequency,0,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,INFγ,Ethiopia urban,population,40,detection frequency,25,%,group_letters=ab;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,INFγ,Gambia rural,population,40,detection frequency,40,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,INFγ,Gambia urban,population,40,detection frequency,18,%,group_letters=ab;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,INFγ,Ghana,population,40,detection frequency,18,%,group_letters=ab;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,INFγ,Kenya,population,42,detection frequency,26,%,group_letters=ab;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,INFγ,Peru,population,43,detection frequency,26,%,group_letters=ab;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,INFγ,Spain,population,41,detection frequency,2,%,group_letters=b;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,INFγ,Sweden,population,24,detection frequency,8,%,group_letters=ab;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,INFγ,United States California,population,19,detection frequency,10,%,group_letters=ab;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,INFγ,United States Washington,population,41,detection frequency,0,%,group_letters=b;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,TNFα,Ethiopia urban,population,40,detection frequency,100,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,TNFα,Gambia rural,population,40,detection frequency,83,%,group_letters=ab;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,TNFα,Gambia urban,population,40,detection frequency,30,%,group_letters=c;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,TNFα,Ghana,population,40,detection frequency,85,%,group_letters=ab;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,TNFα,Kenya,population,42,detection frequency,62,%,group_letters=abc;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,TNFα,Peru,population,43,detection frequency,39,%,group_letters=bc;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,TNFα,Spain,population,41,detection frequency,44,%,group_letters=bc;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,TNFα,Sweden,population,24,detection frequency,67,%,group_letters=abc;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,TNFα,United States California,population,19,detection frequency,79,%,group_letters=abc;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,TNFα,United States Washington,population,41,detection frequency,76,%,group_letters=abc;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL2,Ethiopia urban,population,40,detection frequency,0,%,Kruskal-Wallis p=
+ruiz2017,Table 2,6,immune factor,IL2,Gambia rural,population,40,detection frequency,0,%,Kruskal-Wallis p=
+ruiz2017,Table 2,6,immune factor,IL2,Gambia urban,population,40,detection frequency,0,%,Kruskal-Wallis p=
+ruiz2017,Table 2,6,immune factor,IL2,Ghana,population,40,detection frequency,18,%,Kruskal-Wallis p=
+ruiz2017,Table 2,6,immune factor,IL2,Kenya,population,42,detection frequency,0,%,Kruskal-Wallis p=
+ruiz2017,Table 2,6,immune factor,IL2,Peru,population,43,detection frequency,0,%,Kruskal-Wallis p=
+ruiz2017,Table 2,6,immune factor,IL2,Spain,population,41,detection frequency,0,%,Kruskal-Wallis p=
+ruiz2017,Table 2,6,immune factor,IL2,Sweden,population,24,detection frequency,0,%,Kruskal-Wallis p=
+ruiz2017,Table 2,6,immune factor,IL2,United States California,population,19,detection frequency,0,%,Kruskal-Wallis p=
+ruiz2017,Table 2,6,immune factor,IL2,United States Washington,population,41,detection frequency,0,%,Kruskal-Wallis p=
+ruiz2017,Table 2,6,immune factor,IL4,Ethiopia urban,population,40,detection frequency,33,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL4,Gambia rural,population,40,detection frequency,23,%,group_letters=ab;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL4,Gambia urban,population,40,detection frequency,0,%,group_letters=bc;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL4,Ghana,population,40,detection frequency,33,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL4,Kenya,population,42,detection frequency,14,%,group_letters=abc;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL4,Peru,population,43,detection frequency,7,%,group_letters=bc;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL4,Spain,population,41,detection frequency,2,%,group_letters=bc;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL4,Sweden,population,24,detection frequency,0,%,group_letters=c;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL4,United States California,population,19,detection frequency,5,%,group_letters=bc;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL4,United States Washington,population,41,detection frequency,0,%,group_letters=c;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL10,Ethiopia urban,population,40,detection frequency,63,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL10,Gambia rural,population,40,detection frequency,98,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL10,Gambia urban,population,40,detection frequency,95,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL10,Ghana,population,40,detection frequency,90,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL10,Kenya,population,42,detection frequency,100,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL10,Peru,population,43,detection frequency,79,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL10,Spain,population,41,detection frequency,78,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL10,Sweden,population,24,detection frequency,0,%,group_letters=b;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL10,United States California,population,19,detection frequency,0,%,group_letters=b;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL10,United States Washington,population,41,detection frequency,0,%,group_letters=b;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL13,Ethiopia urban,population,40,detection frequency,100,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL13,Gambia rural,population,40,detection frequency,68,%,group_letters=ab;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL13,Gambia urban,population,40,detection frequency,45,%,group_letters=b;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL13,Ghana,population,40,detection frequency,68,%,group_letters=ab;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL13,Kenya,population,42,detection frequency,67,%,group_letters=ab;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL13,Peru,population,43,detection frequency,86,%,group_letters=ab;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL13,Spain,population,41,detection frequency,83,%,group_letters=ab;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL13,Sweden,population,24,detection frequency,50,%,group_letters=b;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL13,United States California,population,19,detection frequency,53,%,group_letters=ab;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL13,United States Washington,population,41,detection frequency,66,%,group_letters=b;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL17,Ethiopia urban,population,40,detection frequency,10,%,Kruskal-Wallis p=0.022
+ruiz2017,Table 2,6,immune factor,IL17,Gambia rural,population,40,detection frequency,15,%,Kruskal-Wallis p=0.022
+ruiz2017,Table 2,6,immune factor,IL17,Gambia urban,population,40,detection frequency,8,%,Kruskal-Wallis p=0.022
+ruiz2017,Table 2,6,immune factor,IL17,Ghana,population,40,detection frequency,18,%,Kruskal-Wallis p=0.022
+ruiz2017,Table 2,6,immune factor,IL17,Kenya,population,42,detection frequency,21,%,Kruskal-Wallis p=0.022
+ruiz2017,Table 2,6,immune factor,IL17,Peru,population,43,detection frequency,9,%,Kruskal-Wallis p=0.022
+ruiz2017,Table 2,6,immune factor,IL17,Spain,population,41,detection frequency,5,%,Kruskal-Wallis p=0.022
+ruiz2017,Table 2,6,immune factor,IL17,Sweden,population,24,detection frequency,0,%,Kruskal-Wallis p=0.022
+ruiz2017,Table 2,6,immune factor,IL17,United States California,population,19,detection frequency,5,%,Kruskal-Wallis p=0.022
+ruiz2017,Table 2,6,immune factor,IL17,United States Washington,population,41,detection frequency,0,%,Kruskal-Wallis p=0.022
+ruiz2017,Table 2,6,immune factor,IL5,Ethiopia urban,population,40,detection frequency,43,%,group_letters=abd;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL5,Gambia rural,population,40,detection frequency,65,%,group_letters=bd;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL5,Gambia urban,population,40,detection frequency,0,%,group_letters=c;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL5,Ghana,population,40,detection frequency,15,%,group_letters=ac;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL5,Kenya,population,42,detection frequency,60,%,group_letters=bd;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL5,Peru,population,43,detection frequency,5,%,group_letters=c;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL5,Spain,population,41,detection frequency,7,%,group_letters=ac;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL5,Sweden,population,24,detection frequency,8,%,group_letters=ac;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL5,United States California,population,19,detection frequency,0,%,group_letters=c;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL5,United States Washington,population,41,detection frequency,0,%,group_letters=c;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL7,Ethiopia urban,population,40,detection frequency,100,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL7,Gambia rural,population,40,detection frequency,100,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL7,Gambia urban,population,40,detection frequency,93,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL7,Ghana,population,40,detection frequency,73,%,group_letters=b;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL7,Kenya,population,42,detection frequency,100,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL7,Peru,population,43,detection frequency,100,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL7,Spain,population,41,detection frequency,93,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL7,Sweden,population,24,detection frequency,100,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL7,United States California,population,19,detection frequency,100,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL7,United States Washington,population,41,detection frequency,100,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IgA,Ethiopia urban,population,40,detection frequency,100,%,Kruskal-Wallis p=1
+ruiz2017,Table 2,6,immune factor,IgA,Gambia rural,population,40,detection frequency,100,%,Kruskal-Wallis p=1
+ruiz2017,Table 2,6,immune factor,IgA,Gambia urban,population,40,detection frequency,100,%,Kruskal-Wallis p=1
+ruiz2017,Table 2,6,immune factor,IgA,Ghana,population,40,detection frequency,100,%,Kruskal-Wallis p=1
+ruiz2017,Table 2,6,immune factor,IgA,Kenya,population,42,detection frequency,100,%,Kruskal-Wallis p=1
+ruiz2017,Table 2,6,immune factor,IgA,Peru,population,43,detection frequency,100,%,Kruskal-Wallis p=1
+ruiz2017,Table 2,6,immune factor,IgA,Spain,population,41,detection frequency,100,%,Kruskal-Wallis p=1
+ruiz2017,Table 2,6,immune factor,IgA,Sweden,population,24,detection frequency,100,%,Kruskal-Wallis p=1
+ruiz2017,Table 2,6,immune factor,IgA,United States California,population,19,detection frequency,100,%,Kruskal-Wallis p=1
+ruiz2017,Table 2,6,immune factor,IgA,United States Washington,population,41,detection frequency,100,%,Kruskal-Wallis p=1
+ruiz2017,Table 2,6,immune factor,IgM,Ethiopia urban,population,40,detection frequency,100,%,Kruskal-Wallis p=1
+ruiz2017,Table 2,6,immune factor,IgM,Gambia rural,population,40,detection frequency,100,%,Kruskal-Wallis p=1
+ruiz2017,Table 2,6,immune factor,IgM,Gambia urban,population,40,detection frequency,100,%,Kruskal-Wallis p=1
+ruiz2017,Table 2,6,immune factor,IgM,Ghana,population,40,detection frequency,100,%,Kruskal-Wallis p=1
+ruiz2017,Table 2,6,immune factor,IgM,Kenya,population,42,detection frequency,100,%,Kruskal-Wallis p=1
+ruiz2017,Table 2,6,immune factor,IgM,Peru,population,43,detection frequency,98,%,Kruskal-Wallis p=1
+ruiz2017,Table 2,6,immune factor,IgM,Spain,population,41,detection frequency,100,%,Kruskal-Wallis p=1
+ruiz2017,Table 2,6,immune factor,IgM,Sweden,population,24,detection frequency,96,%,Kruskal-Wallis p=1
+ruiz2017,Table 2,6,immune factor,IgM,United States California,population,19,detection frequency,100,%,Kruskal-Wallis p=1
+ruiz2017,Table 2,6,immune factor,IgM,United States Washington,population,41,detection frequency,100,%,Kruskal-Wallis p=1
+ruiz2017,Table 2,6,immune factor,IgG,Ethiopia urban,population,40,detection frequency,100,%,Kruskal-Wallis p=1
+ruiz2017,Table 2,6,immune factor,IgG,Gambia rural,population,40,detection frequency,100,%,Kruskal-Wallis p=1
+ruiz2017,Table 2,6,immune factor,IgG,Gambia urban,population,40,detection frequency,100,%,Kruskal-Wallis p=1
+ruiz2017,Table 2,6,immune factor,IgG,Ghana,population,40,detection frequency,100,%,Kruskal-Wallis p=1
+ruiz2017,Table 2,6,immune factor,IgG,Kenya,population,42,detection frequency,100,%,Kruskal-Wallis p=1
+ruiz2017,Table 2,6,immune factor,IgG,Peru,population,43,detection frequency,98,%,Kruskal-Wallis p=1
+ruiz2017,Table 2,6,immune factor,IgG,Spain,population,41,detection frequency,100,%,Kruskal-Wallis p=1
+ruiz2017,Table 2,6,immune factor,IgG,Sweden,population,24,detection frequency,96,%,Kruskal-Wallis p=1
+ruiz2017,Table 2,6,immune factor,IgG,United States California,population,19,detection frequency,100,%,Kruskal-Wallis p=1
+ruiz2017,Table 2,6,immune factor,IgG,United States Washington,population,41,detection frequency,100,%,Kruskal-Wallis p=1
+ruiz2017,Table 2,6,immune factor,TGFβ2,Ethiopia urban,population,40,detection frequency,100,%,Kruskal-Wallis p=0.114
+ruiz2017,Table 2,6,immune factor,TGFβ2,Gambia rural,population,40,detection frequency,100,%,Kruskal-Wallis p=0.114
+ruiz2017,Table 2,6,immune factor,TGFβ2,Gambia urban,population,40,detection frequency,100,%,Kruskal-Wallis p=0.114
+ruiz2017,Table 2,6,immune factor,TGFβ2,Ghana,population,40,detection frequency,100,%,Kruskal-Wallis p=0.114
+ruiz2017,Table 2,6,immune factor,TGFβ2,Kenya,population,42,detection frequency,100,%,Kruskal-Wallis p=0.114
+ruiz2017,Table 2,6,immune factor,TGFβ2,Peru,population,43,detection frequency,100,%,Kruskal-Wallis p=0.114
+ruiz2017,Table 2,6,immune factor,TGFβ2,Spain,population,41,detection frequency,100,%,Kruskal-Wallis p=0.114
+ruiz2017,Table 2,6,immune factor,TGFβ2,Sweden,population,24,detection frequency,96,%,Kruskal-Wallis p=0.114
+ruiz2017,Table 2,6,immune factor,TGFβ2,United States California,population,19,detection frequency,100,%,Kruskal-Wallis p=0.114
+ruiz2017,Table 2,6,immune factor,TGFβ2,United States Washington,population,41,detection frequency,100,%,Kruskal-Wallis p=0.114
+ruiz2017,Table 2,6,immune factor,IL8,Ethiopia urban,population,40,detection frequency,100,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL8,Gambia rural,population,40,detection frequency,100,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL8,Gambia urban,population,40,detection frequency,100,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL8,Ghana,population,40,detection frequency,100,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL8,Kenya,population,42,detection frequency,100,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL8,Peru,population,43,detection frequency,100,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL8,Spain,population,41,detection frequency,100,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL8,Sweden,population,24,detection frequency,100,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL8,United States California,population,19,detection frequency,100,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,IL8,United States Washington,population,41,detection frequency,90,%,group_letters=b;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,GROα,Ethiopia urban,population,40,detection frequency,100,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,GROα,Gambia rural,population,40,detection frequency,100,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,GROα,Gambia urban,population,40,detection frequency,100,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,GROα,Ghana,population,40,detection frequency,80,%,group_letters=b;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,GROα,Kenya,population,42,detection frequency,100,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,GROα,Peru,population,43,detection frequency,100,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,GROα,Spain,population,41,detection frequency,100,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,GROα,Sweden,population,24,detection frequency,100,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,GROα,United States California,population,19,detection frequency,100,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,GROα,United States Washington,population,41,detection frequency,88,%,group_letters=ab;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,MCP1,Ethiopia urban,population,40,detection frequency,85,%,group_letters=ab;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,MCP1,Gambia rural,population,40,detection frequency,85,%,group_letters=ab;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,MCP1,Gambia urban,population,40,detection frequency,83,%,group_letters=ab;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,MCP1,Ghana,population,40,detection frequency,95,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,MCP1,Kenya,population,42,detection frequency,90,%,group_letters=ab;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,MCP1,Peru,population,43,detection frequency,65,%,group_letters=ab;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,MCP1,Spain,population,41,detection frequency,78,%,group_letters=ab;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,MCP1,Sweden,population,24,detection frequency,46,%,group_letters=bc;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,MCP1,United States California,population,19,detection frequency,58,%,group_letters=abc;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,MCP1,United States Washington,population,41,detection frequency,17,%,group_letters=c;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,MIP1β,Ethiopia urban,population,40,detection frequency,100,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,MIP1β,Gambia rural,population,40,detection frequency,100,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,MIP1β,Gambia urban,population,40,detection frequency,98,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,MIP1β,Ghana,population,40,detection frequency,98,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,MIP1β,Kenya,population,42,detection frequency,100,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,MIP1β,Peru,population,43,detection frequency,98,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,MIP1β,Spain,population,41,detection frequency,95,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,MIP1β,Sweden,population,24,detection frequency,92,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,MIP1β,United States California,population,19,detection frequency,95,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,MIP1β,United States Washington,population,41,detection frequency,51,%,group_letters=b;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,GCSF,Ethiopia urban,population,40,detection frequency,93,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,GCSF,Gambia rural,population,40,detection frequency,73,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,GCSF,Gambia urban,population,40,detection frequency,25,%,group_letters=bc;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,GCSF,Ghana,population,40,detection frequency,98,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,GCSF,Kenya,population,42,detection frequency,90,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,GCSF,Peru,population,43,detection frequency,79,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,GCSF,Spain,population,41,detection frequency,71,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,GCSF,Sweden,population,24,detection frequency,50,%,group_letters=abc;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,GCSF,United States California,population,19,detection frequency,63,%,group_letters=ab;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,GCSF,United States Washington,population,41,detection frequency,10,%,group_letters=c;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,GMCSF,Ethiopia urban,population,40,detection frequency,10,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,GMCSF,Gambia rural,population,40,detection frequency,3,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,GMCSF,Gambia urban,population,40,detection frequency,5,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,GMCSF,Ghana,population,40,detection frequency,50,%,group_letters=b;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,GMCSF,Kenya,population,42,detection frequency,5,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,GMCSF,Peru,population,43,detection frequency,5,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,GMCSF,Spain,population,41,detection frequency,7,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,GMCSF,Sweden,population,24,detection frequency,0,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,GMCSF,United States California,population,19,detection frequency,0,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,GMCSF,United States Washington,population,41,detection frequency,0,%,group_letters=a;Kruskal-Wallis p=<0.001
+ruiz2017,Table 2,6,immune factor,EGF,Ethiopia urban,population,40,detection frequency,100,%,Kruskal-Wallis p=1
+ruiz2017,Table 2,6,immune factor,EGF,Gambia rural,population,40,detection frequency,100,%,Kruskal-Wallis p=1
+ruiz2017,Table 2,6,immune factor,EGF,Gambia urban,population,40,detection frequency,100,%,Kruskal-Wallis p=1
+ruiz2017,Table 2,6,immune factor,EGF,Ghana,population,40,detection frequency,100,%,Kruskal-Wallis p=1
+ruiz2017,Table 2,6,immune factor,EGF,Kenya,population,42,detection frequency,100,%,Kruskal-Wallis p=1
+ruiz2017,Table 2,6,immune factor,EGF,Peru,population,43,detection frequency,100,%,Kruskal-Wallis p=1
+ruiz2017,Table 2,6,immune factor,EGF,Spain,population,41,detection frequency,100,%,Kruskal-Wallis p=1
+ruiz2017,Table 2,6,immune factor,EGF,Sweden,population,24,detection frequency,100,%,Kruskal-Wallis p=1
+ruiz2017,Table 2,6,immune factor,EGF,United States California,population,19,detection frequency,100,%,Kruskal-Wallis p=1
+ruiz2017,Table 2,6,immune factor,EGF,United States Washington,population,41,detection frequency,100,%,Kruskal-Wallis p=1

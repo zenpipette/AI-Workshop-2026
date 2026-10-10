@@ -1,0 +1,441 @@
+paper,table,page,data_type,analyte,group,group_type,n,statistic,value,unit,notes
+mcguire2017,Table 2,5,HMO,2#FL,Ethiopia Rural,population,40,mean,2264.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,2#FL,Ethiopia Rural,population,40,SEM,370.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,2#FL,Ethiopia Urban,population,40,mean,2853.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,2#FL,Ethiopia Urban,population,40,SEM,369.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,2#FL,Gambia Rural,population,40,mean,2950.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,2#FL,Gambia Rural,population,40,SEM,455.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,2#FL,Gambia Urban,population,40,mean,4220.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,2#FL,Gambia Urban,population,40,SEM,530.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,2#FL,Ghana,population,40,mean,1438.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,2#FL,Ghana,population,40,SEM,207.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,2#FL,Kenya,population,42,mean,3380.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,2#FL,Kenya,population,42,SEM,422.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,2#FL,Peru,population,43,mean,6528.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,2#FL,Peru,population,43,SEM,435.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,2#FL,Spain,population,41,mean,3906.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,2#FL,Spain,population,41,SEM,464.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,2#FL,Sweden,population,24,mean,5661.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,2#FL,Sweden,population,24,SEM,728.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,2#FL,United States Washington,population,41,mean,4159.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,2#FL,United States Washington,population,41,SEM,531.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,2#FL,United States California,population,19,mean,7043.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,2#FL,United States California,population,19,SEM,858.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,3FL,Ethiopia Rural,population,40,mean,189.0,nmol/mL,"SEM;group_letters=a,b,c"
+mcguire2017,Table 2,5,HMO,3FL,Ethiopia Rural,population,40,SEM,22.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,3FL,Ethiopia Urban,population,40,mean,184.0,nmol/mL,"SEM;group_letters=b,c"
+mcguire2017,Table 2,5,HMO,3FL,Ethiopia Urban,population,40,SEM,42.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,3FL,Gambia Rural,population,40,mean,103.0,nmol/mL,SEM;group_letters=c
+mcguire2017,Table 2,5,HMO,3FL,Gambia Rural,population,40,SEM,16.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,3FL,Gambia Urban,population,40,mean,162.0,nmol/mL,"SEM;group_letters=b,c"
+mcguire2017,Table 2,5,HMO,3FL,Gambia Urban,population,40,SEM,21.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,3FL,Ghana,population,40,mean,192.0,nmol/mL,"SEM;group_letters=b,c"
+mcguire2017,Table 2,5,HMO,3FL,Ghana,population,40,SEM,33.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,3FL,Kenya,population,42,mean,195.0,nmol/mL,"SEM;group_letters=b,c"
+mcguire2017,Table 2,5,HMO,3FL,Kenya,population,42,SEM,28.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,3FL,Peru,population,43,mean,209.0,nmol/mL,"SEM;group_letters=a,b,c"
+mcguire2017,Table 2,5,HMO,3FL,Peru,population,43,SEM,32.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,3FL,Spain,population,41,mean,206.0,nmol/mL,"SEM;group_letters=a,b,c"
+mcguire2017,Table 2,5,HMO,3FL,Spain,population,41,SEM,25.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,3FL,Sweden,population,24,mean,473.0,nmol/mL,SEM;group_letters=a
+mcguire2017,Table 2,5,HMO,3FL,Sweden,population,24,SEM,55.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,3FL,United States Washington,population,41,mean,122.0,nmol/mL,"SEM;group_letters=b,c"
+mcguire2017,Table 2,5,HMO,3FL,United States Washington,population,41,SEM,14.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,3FL,United States California,population,19,mean,388.0,nmol/mL,"SEM;group_letters=a,b"
+mcguire2017,Table 2,5,HMO,3FL,United States California,population,19,SEM,47.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNnT,Ethiopia Rural,population,40,mean,838.0,nmol/mL,"SEM;group_letters=a,b,c"
+mcguire2017,Table 2,5,HMO,LNnT,Ethiopia Rural,population,40,SEM,60.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNnT,Ethiopia Urban,population,40,mean,927.0,nmol/mL,"SEM;group_letters=a,b,c"
+mcguire2017,Table 2,5,HMO,LNnT,Ethiopia Urban,population,40,SEM,67.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNnT,Gambia Rural,population,40,mean,1423.0,nmol/mL,SEM;group_letters=a
+mcguire2017,Table 2,5,HMO,LNnT,Gambia Rural,population,40,SEM,117.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNnT,Gambia Urban,population,40,mean,781.0,nmol/mL,"SEM;group_letters=b,c"
+mcguire2017,Table 2,5,HMO,LNnT,Gambia Urban,population,40,SEM,61.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNnT,Ghana,population,40,mean,866.0,nmol/mL,"SEM;group_letters=a,b,c"
+mcguire2017,Table 2,5,HMO,LNnT,Ghana,population,40,SEM,70.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNnT,Kenya,population,42,mean,1073.0,nmol/mL,"SEM;group_letters=a,b"
+mcguire2017,Table 2,5,HMO,LNnT,Kenya,population,42,SEM,103.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNnT,Peru,population,43,mean,588.0,nmol/mL,SEM;group_letters=c
+mcguire2017,Table 2,5,HMO,LNnT,Peru,population,43,SEM,56.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNnT,Spain,population,41,mean,548.0,nmol/mL,SEM;group_letters=c
+mcguire2017,Table 2,5,HMO,LNnT,Spain,population,41,SEM,45.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNnT,Sweden,population,24,mean,854.0,nmol/mL,"SEM;group_letters=a,b,c"
+mcguire2017,Table 2,5,HMO,LNnT,Sweden,population,24,SEM,74.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNnT,United States Washington,population,41,mean,776.0,nmol/mL,"SEM;group_letters=b,c"
+mcguire2017,Table 2,5,HMO,LNnT,United States Washington,population,41,SEM,42.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNnT,United States California,population,19,mean,793.0,nmol/mL,"SEM;group_letters=a,b,c"
+mcguire2017,Table 2,5,HMO,LNnT,United States California,population,19,SEM,82.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,3#SL,Ethiopia Rural,population,40,mean,413.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,3#SL,Ethiopia Rural,population,40,SEM,33.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,3#SL,Ethiopia Urban,population,40,mean,526.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,3#SL,Ethiopia Urban,population,40,SEM,43.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,3#SL,Gambia Rural,population,40,mean,465.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,3#SL,Gambia Rural,population,40,SEM,36.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,3#SL,Gambia Urban,population,40,mean,505.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,3#SL,Gambia Urban,population,40,SEM,45.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,3#SL,Ghana,population,40,mean,618.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,3#SL,Ghana,population,40,SEM,56.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,3#SL,Kenya,population,42,mean,528.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,3#SL,Kenya,population,42,SEM,44.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,3#SL,Peru,population,43,mean,528.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,3#SL,Peru,population,43,SEM,51.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,3#SL,Spain,population,41,mean,607.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,3#SL,Spain,population,41,SEM,42.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,3#SL,Sweden,population,24,mean,467.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,3#SL,Sweden,population,24,SEM,65.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,3#SL,United States Washington,population,41,mean,562.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,3#SL,United States Washington,population,41,SEM,40.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,3#SL,United States California,population,19,mean,473.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,3#SL,United States California,population,19,SEM,55.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,DFLac,Ethiopia Rural,population,40,mean,179.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,DFLac,Ethiopia Rural,population,40,SEM,27.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,DFLac,Ethiopia Urban,population,40,mean,290.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,DFLac,Ethiopia Urban,population,40,SEM,33.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,DFLac,Gambia Rural,population,40,mean,338.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,DFLac,Gambia Rural,population,40,SEM,59.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,DFLac,Gambia Urban,population,40,mean,355.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,DFLac,Gambia Urban,population,40,SEM,42.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,DFLac,Ghana,population,40,mean,393.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,DFLac,Ghana,population,40,SEM,65.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,DFLac,Kenya,population,42,mean,338.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,DFLac,Kenya,population,42,SEM,38.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,DFLac,Peru,population,43,mean,470.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,DFLac,Peru,population,43,SEM,49.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,DFLac,Spain,population,41,mean,307.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,DFLac,Spain,population,41,SEM,40.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,DFLac,Sweden,population,24,mean,275.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,DFLac,Sweden,population,24,SEM,40.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,DFLac,United States Washington,population,41,mean,270.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,DFLac,United States Washington,population,41,SEM,38.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,DFLac,United States California,population,19,mean,374.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,DFLac,United States California,population,19,SEM,57.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,6#SL,Ethiopia Rural,population,40,mean,374.0,nmol/mL,"SEM;group_letters=c,d"
+mcguire2017,Table 2,5,HMO,6#SL,Ethiopia Rural,population,40,SEM,63.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,6#SL,Ethiopia Urban,population,40,mean,545.0,nmol/mL,"SEM;group_letters=a,b"
+mcguire2017,Table 2,5,HMO,6#SL,Ethiopia Urban,population,40,SEM,45.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,6#SL,Gambia Rural,population,40,mean,462.0,nmol/mL,"SEM;group_letters=a,b,c"
+mcguire2017,Table 2,5,HMO,6#SL,Gambia Rural,population,40,SEM,35.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,6#SL,Gambia Urban,population,40,mean,585.0,nmol/mL,"SEM;group_letters=a,b"
+mcguire2017,Table 2,5,HMO,6#SL,Gambia Urban,population,40,SEM,61.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,6#SL,Ghana,population,40,mean,890.0,nmol/mL,SEM;group_letters=a
+mcguire2017,Table 2,5,HMO,6#SL,Ghana,population,40,SEM,88.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,6#SL,Kenya,population,42,mean,435.0,nmol/mL,"SEM;group_letters=b,c"
+mcguire2017,Table 2,5,HMO,6#SL,Kenya,population,42,SEM,34.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,6#SL,Peru,population,43,mean,636.0,nmol/mL,"SEM;group_letters=a,b"
+mcguire2017,Table 2,5,HMO,6#SL,Peru,population,43,SEM,63.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,6#SL,Spain,population,41,mean,504.0,nmol/mL,"SEM;group_letters=a,b,c"
+mcguire2017,Table 2,5,HMO,6#SL,Spain,population,41,SEM,40.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,6#SL,Sweden,population,24,mean,200.0,nmol/mL,SEM;group_letters=d
+mcguire2017,Table 2,5,HMO,6#SL,Sweden,population,24,SEM,24.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,6#SL,United States Washington,population,41,mean,402.0,nmol/mL,"SEM;group_letters=b,c,d"
+mcguire2017,Table 2,5,HMO,6#SL,United States Washington,population,41,SEM,34.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,6#SL,United States California,population,19,mean,294.0,nmol/mL,"SEM;group_letters=c,d"
+mcguire2017,Table 2,5,HMO,6#SL,United States California,population,19,SEM,49.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNT,Ethiopia Rural,population,40,mean,1304.0,nmol/mL,"SEM;group_letters=b,c"
+mcguire2017,Table 2,5,HMO,LNT,Ethiopia Rural,population,40,SEM,131.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNT,Ethiopia Urban,population,40,mean,1408.0,nmol/mL,"SEM;group_letters=a,b"
+mcguire2017,Table 2,5,HMO,LNT,Ethiopia Urban,population,40,SEM,113.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNT,Gambia Rural,population,40,mean,2265.0,nmol/mL,SEM;group_letters=a
+mcguire2017,Table 2,5,HMO,LNT,Gambia Rural,population,40,SEM,222.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNT,Gambia Urban,population,40,mean,1576.0,nmol/mL,SEM;group_letters=a
+mcguire2017,Table 2,5,HMO,LNT,Gambia Urban,population,40,SEM,143.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNT,Ghana,population,40,mean,1882.0,nmol/mL,SEM;group_letters=a
+mcguire2017,Table 2,5,HMO,LNT,Ghana,population,40,SEM,209.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNT,Kenya,population,42,mean,1632.0,nmol/mL,SEM;group_letters=a
+mcguire2017,Table 2,5,HMO,LNT,Kenya,population,42,SEM,158.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNT,Peru,population,43,mean,953.0,nmol/mL,SEM;group_letters=b
+mcguire2017,Table 2,5,HMO,LNT,Peru,population,43,SEM,139.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNT,Spain,population,41,mean,1570.0,nmol/mL,SEM;group_letters=a
+mcguire2017,Table 2,5,HMO,LNT,Spain,population,41,SEM,119.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNT,Sweden,population,24,mean,2132.0,nmol/mL,SEM;group_letters=a
+mcguire2017,Table 2,5,HMO,LNT,Sweden,population,24,SEM,210.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNT,United States Washington,population,41,mean,1135.0,nmol/mL,"SEM;group_letters=a,b"
+mcguire2017,Table 2,5,HMO,LNT,United States Washington,population,41,SEM,91.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNT,United States California,population,19,mean,1438.0,nmol/mL,"SEM;group_letters=a,b"
+mcguire2017,Table 2,5,HMO,LNT,United States California,population,19,SEM,198.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNFP I,Ethiopia Rural,population,40,mean,904.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,LNFP I,Ethiopia Rural,population,40,SEM,167.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNFP I,Ethiopia Urban,population,40,mean,1276.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,LNFP I,Ethiopia Urban,population,40,SEM,205.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNFP I,Gambia Rural,population,40,mean,1153.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,LNFP I,Gambia Rural,population,40,SEM,208.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNFP I,Gambia Urban,population,40,mean,1343.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,LNFP I,Gambia Urban,population,40,SEM,193.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNFP I,Ghana,population,40,mean,1292.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,LNFP I,Ghana,population,40,SEM,224.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNFP I,Kenya,population,42,mean,921.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,LNFP I,Kenya,population,42,SEM,158.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNFP I,Peru,population,43,mean,1116.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,LNFP I,Peru,population,43,SEM,112.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNFP I,Spain,population,41,mean,1056.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,LNFP I,Spain,population,41,SEM,167.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNFP I,Sweden,population,24,mean,1395.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,LNFP I,Sweden,population,24,SEM,220.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNFP I,United States Washington,population,41,mean,850.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,LNFP I,United States Washington,population,41,SEM,144.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNFP I,United States California,population,19,mean,1368.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,LNFP I,United States California,population,19,SEM,143.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNFP II,Ethiopia Rural,population,40,mean,1618.0,nmol/mL,SEM;group_letters=b
+mcguire2017,Table 2,5,HMO,LNFP II,Ethiopia Rural,population,40,SEM,165.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNFP II,Ethiopia Urban,population,40,mean,1713.0,nmol/mL,"SEM;group_letters=a,b"
+mcguire2017,Table 2,5,HMO,LNFP II,Ethiopia Urban,population,40,SEM,151.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNFP II,Gambia Rural,population,40,mean,1925.0,nmol/mL,"SEM;group_letters=a,b"
+mcguire2017,Table 2,5,HMO,LNFP II,Gambia Rural,population,40,SEM,201.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNFP II,Gambia Urban,population,40,mean,1551.0,nmol/mL,"SEM;group_letters=a,b"
+mcguire2017,Table 2,5,HMO,LNFP II,Gambia Urban,population,40,SEM,190.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNFP II,Ghana,population,40,mean,1133.0,nmol/mL,"SEM;group_letters=a,b"
+mcguire2017,Table 2,5,HMO,LNFP II,Ghana,population,40,SEM,89.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNFP II,Kenya,population,42,mean,1667.0,nmol/mL,SEM;group_letters=b
+mcguire2017,Table 2,5,HMO,LNFP II,Kenya,population,42,SEM,167.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNFP II,Peru,population,43,mean,1115.0,nmol/mL,"SEM;group_letters=a,b"
+mcguire2017,Table 2,5,HMO,LNFP II,Peru,population,43,SEM,105.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNFP II,Spain,population,41,mean,2001.0,nmol/mL,"SEM;group_letters=a,b"
+mcguire2017,Table 2,5,HMO,LNFP II,Spain,population,41,SEM,227.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNFP II,Sweden,population,24,mean,1893.0,nmol/mL,"SEM;group_letters=a,b"
+mcguire2017,Table 2,5,HMO,LNFP II,Sweden,population,24,SEM,205.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNFP II,United States Washington,population,41,mean,2125.0,nmol/mL,"SEM;group_letters=a,b"
+mcguire2017,Table 2,5,HMO,LNFP II,United States Washington,population,41,SEM,216.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNFP II,United States California,population,19,mean,1240.0,nmol/mL,SEM;group_letters=a
+mcguire2017,Table 2,5,HMO,LNFP II,United States California,population,19,SEM,154.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNFP III,Ethiopia Rural,population,40,mean,44.0,nmol/mL,"SEM;group_letters=b,c"
+mcguire2017,Table 2,5,HMO,LNFP III,Ethiopia Rural,population,40,SEM,8.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNFP III,Ethiopia Urban,population,40,mean,24.0,nmol/mL,SEM;group_letters=c
+mcguire2017,Table 2,5,HMO,LNFP III,Ethiopia Urban,population,40,SEM,3.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNFP III,Gambia Rural,population,40,mean,40.0,nmol/mL,"SEM;group_letters=b,c"
+mcguire2017,Table 2,5,HMO,LNFP III,Gambia Rural,population,40,SEM,7.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNFP III,Gambia Urban,population,40,mean,30.0,nmol/mL,"SEM;group_letters=b,c"
+mcguire2017,Table 2,5,HMO,LNFP III,Gambia Urban,population,40,SEM,4.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNFP III,Ghana,population,40,mean,47.0,nmol/mL,"SEM;group_letters=b,c"
+mcguire2017,Table 2,5,HMO,LNFP III,Ghana,population,40,SEM,7.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNFP III,Kenya,population,42,mean,46.0,nmol/mL,"SEM;group_letters=b,c"
+mcguire2017,Table 2,5,HMO,LNFP III,Kenya,population,42,SEM,10.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNFP III,Peru,population,43,mean,53.0,nmol/mL,"SEM;group_letters=b,c"
+mcguire2017,Table 2,5,HMO,LNFP III,Peru,population,43,SEM,8.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNFP III,Spain,population,41,mean,32.0,nmol/mL,"SEM;group_letters=b,c"
+mcguire2017,Table 2,5,HMO,LNFP III,Spain,population,41,SEM,4.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNFP III,Sweden,population,24,mean,269.0,nmol/mL,SEM;group_letters=a
+mcguire2017,Table 2,5,HMO,LNFP III,Sweden,population,24,SEM,22.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNFP III,United States Washington,population,41,mean,25.0,nmol/mL,SEM;group_letters=c
+mcguire2017,Table 2,5,HMO,LNFP III,United States Washington,population,41,SEM,5.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNFP III,United States California,population,19,mean,76.0,nmol/mL,"SEM;group_letters=a,b"
+mcguire2017,Table 2,5,HMO,LNFP III,United States California,population,19,SEM,10.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LSTb,Ethiopia Rural,population,40,mean,86.0,nmol/mL,SEM;group_letters=a
+mcguire2017,Table 2,5,HMO,LSTb,Ethiopia Rural,population,40,SEM,7.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LSTb,Ethiopia Urban,population,40,mean,79.0,nmol/mL,SEM;group_letters=a
+mcguire2017,Table 2,5,HMO,LSTb,Ethiopia Urban,population,40,SEM,7.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LSTb,Gambia Rural,population,40,mean,132.0,nmol/mL,SEM;group_letters=a
+mcguire2017,Table 2,5,HMO,LSTb,Gambia Rural,population,40,SEM,10.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LSTb,Gambia Urban,population,40,mean,96.0,nmol/mL,SEM;group_letters=a
+mcguire2017,Table 2,5,HMO,LSTb,Gambia Urban,population,40,SEM,12.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LSTb,Ghana,population,40,mean,115.0,nmol/mL,SEM;group_letters=a
+mcguire2017,Table 2,5,HMO,LSTb,Ghana,population,40,SEM,10.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LSTb,Kenya,population,42,mean,86.0,nmol/mL,SEM;group_letters=a
+mcguire2017,Table 2,5,HMO,LSTb,Kenya,population,42,SEM,1.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LSTb,Peru,population,43,mean,41.0,nmol/mL,SEM;group_letters=b
+mcguire2017,Table 2,5,HMO,LSTb,Peru,population,43,SEM,5.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LSTb,Spain,population,41,mean,105.0,nmol/mL,SEM;group_letters=a
+mcguire2017,Table 2,5,HMO,LSTb,Spain,population,41,SEM,15.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LSTb,Sweden,population,24,mean,140.0,nmol/mL,SEM;group_letters=a
+mcguire2017,Table 2,5,HMO,LSTb,Sweden,population,24,SEM,15.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LSTb,United States Washington,population,41,mean,82.0,nmol/mL,SEM;group_letters=a
+mcguire2017,Table 2,5,HMO,LSTb,United States Washington,population,41,SEM,7.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LSTb,United States California,population,19,mean,79.0,nmol/mL,"SEM;group_letters=a,b"
+mcguire2017,Table 2,5,HMO,LSTb,United States California,population,19,SEM,14.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LSTc,Ethiopia Rural,population,40,mean,101.0,nmol/mL,SEM;group_letters=c
+mcguire2017,Table 2,5,HMO,LSTc,Ethiopia Rural,population,40,SEM,19.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LSTc,Ethiopia Urban,population,40,mean,169.0,nmol/mL,"SEM;group_letters=a,b"
+mcguire2017,Table 2,5,HMO,LSTc,Ethiopia Urban,population,40,SEM,15.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LSTc,Gambia Rural,population,40,mean,159.0,nmol/mL,"SEM;group_letters=a,b"
+mcguire2017,Table 2,5,HMO,LSTc,Gambia Rural,population,40,SEM,13.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LSTc,Gambia Urban,population,40,mean,146.0,nmol/mL,"SEM;group_letters=a,b,c"
+mcguire2017,Table 2,5,HMO,LSTc,Gambia Urban,population,40,SEM,20.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LSTc,Ghana,population,40,mean,246.0,nmol/mL,SEM;group_letters=a
+mcguire2017,Table 2,5,HMO,LSTc,Ghana,population,40,SEM,25.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LSTc,Kenya,population,42,mean,158.0,nmol/mL,"SEM;group_letters=a,b,c"
+mcguire2017,Table 2,5,HMO,LSTc,Kenya,population,42,SEM,22.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LSTc,Peru,population,43,mean,182.0,nmol/mL,"SEM;group_letters=a,b"
+mcguire2017,Table 2,5,HMO,LSTc,Peru,population,43,SEM,17.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LSTc,Spain,population,41,mean,72.0,nmol/mL,SEM;group_letters=c
+mcguire2017,Table 2,5,HMO,LSTc,Spain,population,41,SEM,7.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LSTc,Sweden,population,24,mean,92.0,nmol/mL,"SEM;group_letters=b,c"
+mcguire2017,Table 2,5,HMO,LSTc,Sweden,population,24,SEM,16.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LSTc,United States Washington,population,41,mean,112.0,nmol/mL,"SEM;group_letters=b,c"
+mcguire2017,Table 2,5,HMO,LSTc,United States Washington,population,41,SEM,12.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LSTc,United States California,population,19,mean,103.0,nmol/mL,"SEM;group_letters=b,c"
+mcguire2017,Table 2,5,HMO,LSTc,United States California,population,19,SEM,12.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,DFLNT,Ethiopia Rural,population,40,mean,758.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,DFLNT,Ethiopia Rural,population,40,SEM,127.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,DFLNT,Ethiopia Urban,population,40,mean,1057.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,DFLNT,Ethiopia Urban,population,40,SEM,147.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,DFLNT,Gambia Rural,population,40,mean,913.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,DFLNT,Gambia Rural,population,40,SEM,135.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,DFLNT,Gambia Urban,population,40,mean,1032.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,DFLNT,Gambia Urban,population,40,SEM,139.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,DFLNT,Ghana,population,40,mean,1105.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,DFLNT,Ghana,population,40,SEM,188.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,DFLNT,Kenya,population,42,mean,1082.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,DFLNT,Kenya,population,42,SEM,134.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,DFLNT,Peru,population,43,mean,1076.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,DFLNT,Peru,population,43,SEM,95.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,DFLNT,Spain,population,41,mean,1406.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,DFLNT,Spain,population,41,SEM,120.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,DFLNT,Sweden,population,24,mean,1388.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,DFLNT,Sweden,population,24,SEM,147.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,DFLNT,United States Washington,population,41,mean,1246.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,DFLNT,United States Washington,population,41,SEM,105.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,DFLNT,United States California,population,19,mean,1418.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,DFLNT,United States California,population,19,SEM,197.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNH,Ethiopia Rural,population,40,mean,68.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,LNH,Ethiopia Rural,population,40,SEM,8.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNH,Ethiopia Urban,population,40,mean,86.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,LNH,Ethiopia Urban,population,40,SEM,9.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNH,Gambia Rural,population,40,mean,112.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,LNH,Gambia Rural,population,40,SEM,17.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNH,Gambia Urban,population,40,mean,92.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,LNH,Gambia Urban,population,40,SEM,15.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNH,Ghana,population,40,mean,109.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,LNH,Ghana,population,40,SEM,13.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNH,Kenya,population,42,mean,92.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,LNH,Kenya,population,42,SEM,10.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNH,Peru,population,43,mean,107.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,LNH,Peru,population,43,SEM,10.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNH,Spain,population,41,mean,58.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,LNH,Spain,population,41,SEM,4.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNH,Sweden,population,24,mean,113.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,LNH,Sweden,population,24,SEM,12.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNH,United States Washington,population,41,mean,93.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,LNH,United States Washington,population,41,SEM,7.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,LNH,United States California,population,19,mean,39.0,nmol/mL,SEM
+mcguire2017,Table 2,5,HMO,LNH,United States California,population,19,SEM,5.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,DSLNT,Ethiopia Rural,population,40,mean,310.0,nmol/mL,"SEM;group_letters=c,d"
+mcguire2017,Table 2,5,HMO,DSLNT,Ethiopia Rural,population,40,SEM,30.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,DSLNT,Ethiopia Urban,population,40,mean,553.0,nmol/mL,"SEM;group_letters=a,b"
+mcguire2017,Table 2,5,HMO,DSLNT,Ethiopia Urban,population,40,SEM,42.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,DSLNT,Gambia Rural,population,40,mean,870.0,nmol/mL,SEM;group_letters=a
+mcguire2017,Table 2,5,HMO,DSLNT,Gambia Rural,population,40,SEM,68.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,DSLNT,Gambia Urban,population,40,mean,477.0,nmol/mL,"SEM;group_letters=b,c"
+mcguire2017,Table 2,5,HMO,DSLNT,Gambia Urban,population,40,SEM,45.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,DSLNT,Ghana,population,40,mean,561.0,nmol/mL,"SEM;group_letters=a,b"
+mcguire2017,Table 2,5,HMO,DSLNT,Ghana,population,40,SEM,57.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,DSLNT,Kenya,population,42,mean,444.0,nmol/mL,"SEM;group_letters=b,c,d"
+mcguire2017,Table 2,5,HMO,DSLNT,Kenya,population,42,SEM,47.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,DSLNT,Peru,population,43,mean,274.0,nmol/mL,SEM;group_letters=d
+mcguire2017,Table 2,5,HMO,DSLNT,Peru,population,43,SEM,33.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,DSLNT,Spain,population,41,mean,357.0,nmol/mL,"SEM;group_letters=b,c,d"
+mcguire2017,Table 2,5,HMO,DSLNT,Spain,population,41,SEM,31.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,DSLNT,Sweden,population,24,mean,216.0,nmol/mL,SEM;group_letters=d
+mcguire2017,Table 2,5,HMO,DSLNT,Sweden,population,24,SEM,14.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,DSLNT,United States Washington,population,41,mean,443.0,nmol/mL,"SEM;group_letters=b,c,d"
+mcguire2017,Table 2,5,HMO,DSLNT,United States Washington,population,41,SEM,28.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,DSLNT,United States California,population,19,mean,275.0,nmol/mL,"SEM;group_letters=b,c,d"
+mcguire2017,Table 2,5,HMO,DSLNT,United States California,population,19,SEM,14.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,FLNH,Ethiopia Rural,population,40,mean,5.0,nmol/mL,SEM;group_letters=c
+mcguire2017,Table 2,5,HMO,FLNH,Ethiopia Rural,population,40,SEM,1.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,FLNH,Ethiopia Urban,population,40,mean,27.0,nmol/mL,SEM;group_letters=b
+mcguire2017,Table 2,5,HMO,FLNH,Ethiopia Urban,population,40,SEM,5.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,FLNH,Gambia Rural,population,40,mean,30.0,nmol/mL,"SEM;group_letters=a,b"
+mcguire2017,Table 2,5,HMO,FLNH,Gambia Rural,population,40,SEM,5.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,FLNH,Gambia Urban,population,40,mean,35.0,nmol/mL,"SEM;group_letters=a,b"
+mcguire2017,Table 2,5,HMO,FLNH,Gambia Urban,population,40,SEM,5.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,FLNH,Ghana,population,40,mean,32.0,nmol/mL,SEM;group_letters=b
+mcguire2017,Table 2,5,HMO,FLNH,Ghana,population,40,SEM,7.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,FLNH,Kenya,population,42,mean,33.0,nmol/mL,SEM;group_letters=b
+mcguire2017,Table 2,5,HMO,FLNH,Kenya,population,42,SEM,6.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,FLNH,Peru,population,43,mean,50.0,nmol/mL,"SEM;group_letters=b,c"
+mcguire2017,Table 2,5,HMO,FLNH,Peru,population,43,SEM,7.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,FLNH,Spain,population,41,mean,83.0,nmol/mL,SEM;group_letters=a
+mcguire2017,Table 2,5,HMO,FLNH,Spain,population,41,SEM,9.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,FLNH,Sweden,population,24,mean,10.0,nmol/mL,"SEM;group_letters=b,c"
+mcguire2017,Table 2,5,HMO,FLNH,Sweden,population,24,SEM,3.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,FLNH,United States Washington,population,41,mean,73.0,nmol/mL,SEM;group_letters=a
+mcguire2017,Table 2,5,HMO,FLNH,United States Washington,population,41,SEM,7.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,FLNH,United States California,population,19,mean,7.0,nmol/mL,"SEM;group_letters=b,c"
+mcguire2017,Table 2,5,HMO,FLNH,United States California,population,19,SEM,1.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,DFLNH,Ethiopia Rural,population,40,mean,84.0,nmol/mL,SEM;group_letters=c
+mcguire2017,Table 2,5,HMO,DFLNH,Ethiopia Rural,population,40,SEM,15.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,DFLNH,Ethiopia Urban,population,40,mean,94.0,nmol/mL,SEM;group_letters=c
+mcguire2017,Table 2,5,HMO,DFLNH,Ethiopia Urban,population,40,SEM,16.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,DFLNH,Gambia Rural,population,40,mean,87.0,nmol/mL,SEM;group_letters=c
+mcguire2017,Table 2,5,HMO,DFLNH,Gambia Rural,population,40,SEM,13.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,DFLNH,Gambia Urban,population,40,mean,123.0,nmol/mL,"SEM;group_letters=a,b,c"
+mcguire2017,Table 2,5,HMO,DFLNH,Gambia Urban,population,40,SEM,18.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,DFLNH,Ghana,population,40,mean,81.0,nmol/mL,"SEM;group_letters=b,c"
+mcguire2017,Table 2,5,HMO,DFLNH,Ghana,population,40,SEM,11.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,DFLNH,Kenya,population,42,mean,64.0,nmol/mL,SEM;group_letters=c
+mcguire2017,Table 2,5,HMO,DFLNH,Kenya,population,42,SEM,10.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,DFLNH,Peru,population,43,mean,195.0,nmol/mL,"SEM;group_letters=a,b"
+mcguire2017,Table 2,5,HMO,DFLNH,Peru,population,43,SEM,21.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,DFLNH,Spain,population,41,mean,115.0,nmol/mL,"SEM;group_letters=a,b,c"
+mcguire2017,Table 2,5,HMO,DFLNH,Spain,population,41,SEM,17.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,DFLNH,Sweden,population,24,mean,285.0,nmol/mL,SEM;group_letters=a
+mcguire2017,Table 2,5,HMO,DFLNH,Sweden,population,24,SEM,32.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,DFLNH,United States Washington,population,41,mean,98.0,nmol/mL,"SEM;group_letters=b,c"
+mcguire2017,Table 2,5,HMO,DFLNH,United States Washington,population,41,SEM,12.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,DFLNH,United States California,population,19,mean,93.0,nmol/mL,"SEM;group_letters=a,b,c"
+mcguire2017,Table 2,5,HMO,DFLNH,United States California,population,19,SEM,11.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,FDSLNH,Ethiopia Rural,population,40,mean,158.0,nmol/mL,"SEM;group_letters=a,b"
+mcguire2017,Table 2,5,HMO,FDSLNH,Ethiopia Rural,population,40,SEM,30.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,FDSLNH,Ethiopia Urban,population,40,mean,240.0,nmol/mL,"SEM;group_letters=a,b"
+mcguire2017,Table 2,5,HMO,FDSLNH,Ethiopia Urban,population,40,SEM,26.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,FDSLNH,Gambia Rural,population,40,mean,197.0,nmol/mL,"SEM;group_letters=a,b"
+mcguire2017,Table 2,5,HMO,FDSLNH,Gambia Rural,population,40,SEM,24.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,FDSLNH,Gambia Urban,population,40,mean,199.0,nmol/mL,"SEM;group_letters=a,b"
+mcguire2017,Table 2,5,HMO,FDSLNH,Gambia Urban,population,40,SEM,33.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,FDSLNH,Ghana,population,40,mean,182.0,nmol/mL,"SEM;group_letters=a,b"
+mcguire2017,Table 2,5,HMO,FDSLNH,Ghana,population,40,SEM,25.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,FDSLNH,Kenya,population,42,mean,204.0,nmol/mL,"SEM;group_letters=a,b"
+mcguire2017,Table 2,5,HMO,FDSLNH,Kenya,population,42,SEM,25.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,FDSLNH,Peru,population,43,mean,245.0,nmol/mL,"SEM;group_letters=a,b"
+mcguire2017,Table 2,5,HMO,FDSLNH,Peru,population,43,SEM,33.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,FDSLNH,Spain,population,41,mean,314.0,nmol/mL,SEM;group_letters=a
+mcguire2017,Table 2,5,HMO,FDSLNH,Spain,population,41,SEM,38.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,FDSLNH,Sweden,population,24,mean,83.0,nmol/mL,SEM;group_letters=b
+mcguire2017,Table 2,5,HMO,FDSLNH,Sweden,population,24,SEM,15.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,FDSLNH,United States Washington,population,41,mean,370.0,nmol/mL,SEM;group_letters=a
+mcguire2017,Table 2,5,HMO,FDSLNH,United States Washington,population,41,SEM,48.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,FDSLNH,United States California,population,19,mean,70.0,nmol/mL,SEM;group_letters=b
+mcguire2017,Table 2,5,HMO,FDSLNH,United States California,population,19,SEM,9.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,DSLNH,Ethiopia Rural,population,40,mean,50.0,nmol/mL,SEM;group_letters=b
+mcguire2017,Table 2,5,HMO,DSLNH,Ethiopia Rural,population,40,SEM,7.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,DSLNH,Ethiopia Urban,population,40,mean,136.0,nmol/mL,SEM;group_letters=a
+mcguire2017,Table 2,5,HMO,DSLNH,Ethiopia Urban,population,40,SEM,12.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,DSLNH,Gambia Rural,population,40,mean,109.0,nmol/mL,"SEM;group_letters=a,b"
+mcguire2017,Table 2,5,HMO,DSLNH,Gambia Rural,population,40,SEM,12.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,DSLNH,Gambia Urban,population,40,mean,129.0,nmol/mL,"SEM;group_letters=a,b"
+mcguire2017,Table 2,5,HMO,DSLNH,Gambia Urban,population,40,SEM,20.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,DSLNH,Ghana,population,40,mean,126.0,nmol/mL,"SEM;group_letters=a,b"
+mcguire2017,Table 2,5,HMO,DSLNH,Ghana,population,40,SEM,18.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,DSLNH,Kenya,population,42,mean,101.0,nmol/mL,"SEM;group_letters=a,b"
+mcguire2017,Table 2,5,HMO,DSLNH,Kenya,population,42,SEM,11.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,DSLNH,Peru,population,43,mean,108.0,nmol/mL,"SEM;group_letters=a,b"
+mcguire2017,Table 2,5,HMO,DSLNH,Peru,population,43,SEM,16.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,DSLNH,Spain,population,41,mean,103.0,nmol/mL,"SEM;group_letters=a,b"
+mcguire2017,Table 2,5,HMO,DSLNH,Spain,population,41,SEM,11.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,DSLNH,Sweden,population,24,mean,55.0,nmol/mL,"SEM;group_letters=a,b"
+mcguire2017,Table 2,5,HMO,DSLNH,Sweden,population,24,SEM,11.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,DSLNH,United States Washington,population,41,mean,93.0,nmol/mL,"SEM;group_letters=a,b"
+mcguire2017,Table 2,5,HMO,DSLNH,United States Washington,population,41,SEM,12.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,DSLNH,United States California,population,19,mean,33.0,nmol/mL,SEM;group_letters=b
+mcguire2017,Table 2,5,HMO,DSLNH,United States California,population,19,SEM,6.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,Total,Ethiopia Rural,population,40,mean,9748.0,nmol/mL,SEM;group_letters=c
+mcguire2017,Table 2,5,HMO,Total,Ethiopia Rural,population,40,SEM,626.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,Total,Ethiopia Urban,population,40,mean,12187.0,nmol/mL,"SEM;group_letters=a,b,c"
+mcguire2017,Table 2,5,HMO,Total,Ethiopia Urban,population,40,SEM,519.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,Total,Gambia Rural,population,40,mean,13732.0,nmol/mL,"SEM;group_letters=a,b"
+mcguire2017,Table 2,5,HMO,Total,Gambia Rural,population,40,SEM,497.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,Total,Gambia Urban,population,40,mean,13435.0,nmol/mL,"SEM;group_letters=a,b"
+mcguire2017,Table 2,5,HMO,Total,Gambia Urban,population,40,SEM,613.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,Total,Ghana,population,40,mean,11307.0,nmol/mL,"SEM;group_letters=b,c"
+mcguire2017,Table 2,5,HMO,Total,Ghana,population,40,SEM,631.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,Total,Kenya,population,42,mean,12480.0,nmol/mL,"SEM;group_letters=a,b,c"
+mcguire2017,Table 2,5,HMO,Total,Kenya,population,42,SEM,628.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,Total,Peru,population,43,mean,14474.0,nmol/mL,"SEM;group_letters=a,b"
+mcguire2017,Table 2,5,HMO,Total,Peru,population,43,SEM,539.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,Total,Spain,population,41,mean,13349.0,nmol/mL,"SEM;group_letters=a,b"
+mcguire2017,Table 2,5,HMO,Total,Spain,population,41,SEM,645.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,Total,Sweden,population,24,mean,15998.0,nmol/mL,SEM;group_letters=a
+mcguire2017,Table 2,5,HMO,Total,Sweden,population,24,SEM,768.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,Total,United States Washington,population,41,mean,13035.0,nmol/mL,"SEM;group_letters=a,b"
+mcguire2017,Table 2,5,HMO,Total,United States Washington,population,41,SEM,502.0,nmol/mL,mean±SEM reported
+mcguire2017,Table 2,5,HMO,Total,United States California,population,19,mean,15606.0,nmol/mL,"SEM;group_letters=a,b"
+mcguire2017,Table 2,5,HMO,Total,United States California,population,19,SEM,727.0,nmol/mL,mean±SEM reported

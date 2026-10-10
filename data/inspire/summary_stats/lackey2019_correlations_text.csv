@@ -1,0 +1,8 @@
+paper,table,page,data_type,analyte,group,group_type,n,statistic,value,unit,notes
+lackey2019,text/Figures 5-6,13,milk vs infant fecal microbiome,infant fecal richness ~ milk richness,Kenya,population,,Spearman r,0.31,unitless,P=0.0453; only cohort with significant correlation (Supplementary Table 4)
+lackey2019,text/Figures 5-6,13,milk vs infant fecal microbiome,Lactobacillus (milk) driving first canonical component,all cohorts,population,,canonical correlation coefficient (rs),-0.498,unitless,Figure 6; first canonical component in milk driven by Lactobacillus
+lackey2019,text/Figures 5-6,13,milk vs infant fecal microbiome,Lactobacillus relative abundance milk ~ infant feces,overall,population,,Spearman rs,>0.3 threshold,unitless,positively correlated (Figure 5; stars = P<0.01 and |rs|>0.3); Direction positive; exact value not printed - UNVERIFIED exact r
+lackey2019,text (Jaccard/Bray-Curtis),13,milk vs infant fecal microbiome,mother's milk ~ own infant's fecal microbiome,overall,overall,,Jaccard similarity P,0.0258,unitless,mother/infant dyads more similar than random combos
+lackey2019,text (Jaccard/Bray-Curtis),13,milk vs infant fecal microbiome,mother's milk ~ own infant's fecal microbiome,overall,overall,,Bray-Curtis dissimilarity P,0.0936,unitless,trend only
+lackey2019,text (Jaccard/Bray-Curtis),13,milk vs infant fecal microbiome,mother's milk ~ own infant's fecal microbiome,Ethiopia urban,population,32,Bray-Curtis dissimilarity P,0.0185,unitless,significant only cohort
+lackey2019,text (ANOSIM),9,infant fecal microbiome,within- vs among-cohort similarity,all cohorts,population,,ANOSIM R,0.1318,unitless,P<0.001

@@ -1,0 +1,205 @@
+paper,table,page,data_type,analyte,group,group_type,n,statistic,value,unit,notes
+ruiz2017,Table 5,8,chemokine,IL8,Ethiopia urban,population,40,median,54.01,ng/L,IQR 27.55-152.11;group_letters=ad
+ruiz2017,Table 5,8,chemokine,IL8,Ethiopia urban,population,40,IQR lower,27.55,ng/L,median=54.01;group_letters=ad
+ruiz2017,Table 5,8,chemokine,IL8,Ethiopia urban,population,40,IQR upper,152.11,ng/L,median=54.01;group_letters=ad
+ruiz2017,Table 5,8,chemokine,GROα,Ethiopia urban,population,40,median,5.63,ng/L,IQR 3.14-11.75;group_letters=ad
+ruiz2017,Table 5,8,chemokine,GROα,Ethiopia urban,population,40,IQR lower,3.14,ng/L,median=5.63;group_letters=ad
+ruiz2017,Table 5,8,chemokine,GROα,Ethiopia urban,population,40,IQR upper,11.75,ng/L,median=5.63;group_letters=ad
+ruiz2017,Table 5,8,chemokine,MCP1,Ethiopia urban,population,40,median,132.62,ng/L,IQR 49.71-338.41;group_letters=ab
+ruiz2017,Table 5,8,chemokine,MCP1,Ethiopia urban,population,40,IQR lower,49.71,ng/L,median=132.62;group_letters=ab
+ruiz2017,Table 5,8,chemokine,MCP1,Ethiopia urban,population,40,IQR upper,338.41,ng/L,median=132.62;group_letters=ab
+ruiz2017,Table 5,8,chemokine,MIP1β,Ethiopia urban,population,40,median,24.75,ng/L,IQR 14.53-57.33;group_letters=ad
+ruiz2017,Table 5,8,chemokine,MIP1β,Ethiopia urban,population,40,IQR lower,14.53,ng/L,median=24.75;group_letters=ad
+ruiz2017,Table 5,8,chemokine,MIP1β,Ethiopia urban,population,40,IQR upper,57.33,ng/L,median=24.75;group_letters=ad
+ruiz2017,Table 5,8,growth factor,GCSF,Ethiopia urban,population,40,median,79.91,ng/L,IQR 43.77-134.61;group_letters=a
+ruiz2017,Table 5,8,growth factor,GCSF,Ethiopia urban,population,40,IQR lower,43.77,ng/L,median=79.91;group_letters=a
+ruiz2017,Table 5,8,growth factor,GCSF,Ethiopia urban,population,40,IQR upper,134.61,ng/L,median=79.91;group_letters=a
+ruiz2017,Table 5,8,growth factor,GMCSF,Ethiopia urban,population,40,median,8.63,ng/L,IQR 2.8-12.16
+ruiz2017,Table 5,8,growth factor,GMCSF,Ethiopia urban,population,40,IQR lower,2.8,ng/L,median=8.63
+ruiz2017,Table 5,8,growth factor,GMCSF,Ethiopia urban,population,40,IQR upper,12.16,ng/L,median=8.63
+ruiz2017,Table 5,8,growth factor,EGF,Ethiopia urban,population,40,median,4.65,µg/L,IQR 3.63-5.7;group_letters=ac
+ruiz2017,Table 5,8,growth factor,EGF,Ethiopia urban,population,40,IQR lower,3.63,µg/L,median=4.65;group_letters=ac
+ruiz2017,Table 5,8,growth factor,EGF,Ethiopia urban,population,40,IQR upper,5.7,µg/L,median=4.65;group_letters=ac
+ruiz2017,Table 5,8,chemokine,IL8,Gambia rural,population,40,median,59.56,ng/L,IQR 44.44-167.65;group_letters=a
+ruiz2017,Table 5,8,chemokine,IL8,Gambia rural,population,40,IQR lower,44.44,ng/L,median=59.56;group_letters=a
+ruiz2017,Table 5,8,chemokine,IL8,Gambia rural,population,40,IQR upper,167.65,ng/L,median=59.56;group_letters=a
+ruiz2017,Table 5,8,chemokine,GROα,Gambia rural,population,40,median,4.19,ng/L,IQR 1.72-8.05;group_letters=ab
+ruiz2017,Table 5,8,chemokine,GROα,Gambia rural,population,40,IQR lower,1.72,ng/L,median=4.19;group_letters=ab
+ruiz2017,Table 5,8,chemokine,GROα,Gambia rural,population,40,IQR upper,8.05,ng/L,median=4.19;group_letters=ab
+ruiz2017,Table 5,8,chemokine,MCP1,Gambia rural,population,40,median,175.5,ng/L,IQR 70.43-612.74;group_letters=ab
+ruiz2017,Table 5,8,chemokine,MCP1,Gambia rural,population,40,IQR lower,70.43,ng/L,median=175.5;group_letters=ab
+ruiz2017,Table 5,8,chemokine,MCP1,Gambia rural,population,40,IQR upper,612.74,ng/L,median=175.5;group_letters=ab
+ruiz2017,Table 5,8,chemokine,MIP1β,Gambia rural,population,40,median,23.01,ng/L,IQR 11.46-47.96;group_letters=ab
+ruiz2017,Table 5,8,chemokine,MIP1β,Gambia rural,population,40,IQR lower,11.46,ng/L,median=23.01;group_letters=ab
+ruiz2017,Table 5,8,chemokine,MIP1β,Gambia rural,population,40,IQR upper,47.96,ng/L,median=23.01;group_letters=ab
+ruiz2017,Table 5,8,growth factor,GCSF,Gambia rural,population,40,median,51.38,ng/L,IQR 32.08-99.01;group_letters=ab
+ruiz2017,Table 5,8,growth factor,GCSF,Gambia rural,population,40,IQR lower,32.08,ng/L,median=51.38;group_letters=ab
+ruiz2017,Table 5,8,growth factor,GCSF,Gambia rural,population,40,IQR upper,99.01,ng/L,median=51.38;group_letters=ab
+ruiz2017,Table 5,8,growth factor,GMCSF,Gambia rural,population,40,median,9.99,ng/L,IQR 9.99-9.99
+ruiz2017,Table 5,8,growth factor,GMCSF,Gambia rural,population,40,IQR lower,9.99,ng/L,median=9.99
+ruiz2017,Table 5,8,growth factor,GMCSF,Gambia rural,population,40,IQR upper,9.99,ng/L,median=9.99
+ruiz2017,Table 5,8,growth factor,EGF,Gambia rural,population,40,median,3.97,µg/L,IQR 3.51-5.24;group_letters=ab
+ruiz2017,Table 5,8,growth factor,EGF,Gambia rural,population,40,IQR lower,3.51,µg/L,median=3.97;group_letters=ab
+ruiz2017,Table 5,8,growth factor,EGF,Gambia rural,population,40,IQR upper,5.24,µg/L,median=3.97;group_letters=ab
+ruiz2017,Table 5,8,chemokine,IL8,Gambia urban,population,40,median,98.52,ng/L,IQR 36.06-278.61;group_letters=a
+ruiz2017,Table 5,8,chemokine,IL8,Gambia urban,population,40,IQR lower,36.06,ng/L,median=98.52;group_letters=a
+ruiz2017,Table 5,8,chemokine,IL8,Gambia urban,population,40,IQR upper,278.61,ng/L,median=98.52;group_letters=a
+ruiz2017,Table 5,8,chemokine,GROα,Gambia urban,population,40,median,1.36,ng/L,IQR 0.71-3.98;group_letters=bc
+ruiz2017,Table 5,8,chemokine,GROα,Gambia urban,population,40,IQR lower,0.71,ng/L,median=1.36;group_letters=bc
+ruiz2017,Table 5,8,chemokine,GROα,Gambia urban,population,40,IQR upper,3.98,ng/L,median=1.36;group_letters=bc
+ruiz2017,Table 5,8,chemokine,MCP1,Gambia urban,population,40,median,147.31,ng/L,IQR 69.24-465.11;group_letters=ab
+ruiz2017,Table 5,8,chemokine,MCP1,Gambia urban,population,40,IQR lower,69.24,ng/L,median=147.31;group_letters=ab
+ruiz2017,Table 5,8,chemokine,MCP1,Gambia urban,population,40,IQR upper,465.11,ng/L,median=147.31;group_letters=ab
+ruiz2017,Table 5,8,chemokine,MIP1β,Gambia urban,population,40,median,9.48,ng/L,IQR 5.5-16.84;group_letters=bc
+ruiz2017,Table 5,8,chemokine,MIP1β,Gambia urban,population,40,IQR lower,5.5,ng/L,median=9.48;group_letters=bc
+ruiz2017,Table 5,8,chemokine,MIP1β,Gambia urban,population,40,IQR upper,16.84,ng/L,median=9.48;group_letters=bc
+ruiz2017,Table 5,8,growth factor,GCSF,Gambia urban,population,40,median,48.19,ng/L,IQR 24.53-248.0;group_letters=ab
+ruiz2017,Table 5,8,growth factor,GCSF,Gambia urban,population,40,IQR lower,24.53,ng/L,median=48.19;group_letters=ab
+ruiz2017,Table 5,8,growth factor,GCSF,Gambia urban,population,40,IQR upper,248.0,ng/L,median=48.19;group_letters=ab
+ruiz2017,Table 5,8,growth factor,GMCSF,Gambia urban,population,40,median,13.44,ng/L,IQR 2.33-24.55
+ruiz2017,Table 5,8,growth factor,GMCSF,Gambia urban,population,40,IQR lower,2.33,ng/L,median=13.44
+ruiz2017,Table 5,8,growth factor,GMCSF,Gambia urban,population,40,IQR upper,24.55,ng/L,median=13.44
+ruiz2017,Table 5,8,growth factor,EGF,Gambia urban,population,40,median,3.53,µg/L,IQR 2.78-4.95;group_letters=ab
+ruiz2017,Table 5,8,growth factor,EGF,Gambia urban,population,40,IQR lower,2.78,µg/L,median=3.53;group_letters=ab
+ruiz2017,Table 5,8,growth factor,EGF,Gambia urban,population,40,IQR upper,4.95,µg/L,median=3.53;group_letters=ab
+ruiz2017,Table 5,8,chemokine,IL8,Ghana,population,40,median,6.74,ng/L,IQR 2.29-17.36;group_letters=b
+ruiz2017,Table 5,8,chemokine,IL8,Ghana,population,40,IQR lower,2.29,ng/L,median=6.74;group_letters=b
+ruiz2017,Table 5,8,chemokine,IL8,Ghana,population,40,IQR upper,17.36,ng/L,median=6.74;group_letters=b
+ruiz2017,Table 5,8,chemokine,GROα,Ghana,population,40,median,0.27,ng/L,IQR 0.05-0.74;group_letters=c
+ruiz2017,Table 5,8,chemokine,GROα,Ghana,population,40,IQR lower,0.05,ng/L,median=0.27;group_letters=c
+ruiz2017,Table 5,8,chemokine,GROα,Ghana,population,40,IQR upper,0.74,ng/L,median=0.27;group_letters=c
+ruiz2017,Table 5,8,chemokine,MCP1,Ghana,population,40,median,126.0,ng/L,IQR 45.79-260.11;group_letters=ab
+ruiz2017,Table 5,8,chemokine,MCP1,Ghana,population,40,IQR lower,45.79,ng/L,median=126.0;group_letters=ab
+ruiz2017,Table 5,8,chemokine,MCP1,Ghana,population,40,IQR upper,260.11,ng/L,median=126.0;group_letters=ab
+ruiz2017,Table 5,8,chemokine,MIP1β,Ghana,population,40,median,4.24,ng/L,IQR 2.71-9.15;group_letters=ce
+ruiz2017,Table 5,8,chemokine,MIP1β,Ghana,population,40,IQR lower,2.71,ng/L,median=4.24;group_letters=ce
+ruiz2017,Table 5,8,chemokine,MIP1β,Ghana,population,40,IQR upper,9.15,ng/L,median=4.24;group_letters=ce
+ruiz2017,Table 5,8,growth factor,GCSF,Ghana,population,40,median,47.1,ng/L,IQR 33.76-63.58;group_letters=ab
+ruiz2017,Table 5,8,growth factor,GCSF,Ghana,population,40,IQR lower,33.76,ng/L,median=47.1;group_letters=ab
+ruiz2017,Table 5,8,growth factor,GCSF,Ghana,population,40,IQR upper,63.58,ng/L,median=47.1;group_letters=ab
+ruiz2017,Table 5,8,growth factor,GMCSF,Ghana,population,40,median,23.36,ng/L,IQR 8.18-42.91
+ruiz2017,Table 5,8,growth factor,GMCSF,Ghana,population,40,IQR lower,8.18,ng/L,median=23.36
+ruiz2017,Table 5,8,growth factor,GMCSF,Ghana,population,40,IQR upper,42.91,ng/L,median=23.36
+ruiz2017,Table 5,8,growth factor,EGF,Ghana,population,40,median,3.2,µg/L,IQR 2.21-4.11;group_letters=b
+ruiz2017,Table 5,8,growth factor,EGF,Ghana,population,40,IQR lower,2.21,µg/L,median=3.2;group_letters=b
+ruiz2017,Table 5,8,growth factor,EGF,Ghana,population,40,IQR upper,4.11,µg/L,median=3.2;group_letters=b
+ruiz2017,Table 5,8,chemokine,IL8,Kenya,population,42,median,85.62,ng/L,IQR 59.15-228.34;group_letters=a
+ruiz2017,Table 5,8,chemokine,IL8,Kenya,population,42,IQR lower,59.15,ng/L,median=85.62;group_letters=a
+ruiz2017,Table 5,8,chemokine,IL8,Kenya,population,42,IQR upper,228.34,ng/L,median=85.62;group_letters=a
+ruiz2017,Table 5,8,chemokine,GROα,Kenya,population,42,median,8.96,ng/L,IQR 3.0-13.75;group_letters=a
+ruiz2017,Table 5,8,chemokine,GROα,Kenya,population,42,IQR lower,3.0,ng/L,median=8.96;group_letters=a
+ruiz2017,Table 5,8,chemokine,GROα,Kenya,population,42,IQR upper,13.75,ng/L,median=8.96;group_letters=a
+ruiz2017,Table 5,8,chemokine,MCP1,Kenya,population,42,median,252.51,ng/L,IQR 109.92-807.72;group_letters=a
+ruiz2017,Table 5,8,chemokine,MCP1,Kenya,population,42,IQR lower,109.92,ng/L,median=252.51;group_letters=a
+ruiz2017,Table 5,8,chemokine,MCP1,Kenya,population,42,IQR upper,807.72,ng/L,median=252.51;group_letters=a
+ruiz2017,Table 5,8,chemokine,MIP1β,Kenya,population,42,median,33.11,ng/L,IQR 19.38-75.79;group_letters=a
+ruiz2017,Table 5,8,chemokine,MIP1β,Kenya,population,42,IQR lower,19.38,ng/L,median=33.11;group_letters=a
+ruiz2017,Table 5,8,chemokine,MIP1β,Kenya,population,42,IQR upper,75.79,ng/L,median=33.11;group_letters=a
+ruiz2017,Table 5,8,growth factor,GCSF,Kenya,population,42,median,47.32,ng/L,IQR 17.45-87.68;group_letters=ab
+ruiz2017,Table 5,8,growth factor,GCSF,Kenya,population,42,IQR lower,17.45,ng/L,median=47.32;group_letters=ab
+ruiz2017,Table 5,8,growth factor,GCSF,Kenya,population,42,IQR upper,87.68,ng/L,median=47.32;group_letters=ab
+ruiz2017,Table 5,8,growth factor,GMCSF,Kenya,population,42,median,10.39,ng/L,IQR 9.58-11.21
+ruiz2017,Table 5,8,growth factor,GMCSF,Kenya,population,42,IQR lower,9.58,ng/L,median=10.39
+ruiz2017,Table 5,8,growth factor,GMCSF,Kenya,population,42,IQR upper,11.21,ng/L,median=10.39
+ruiz2017,Table 5,8,growth factor,EGF,Kenya,population,42,median,4.95,µg/L,IQR 4.1-6.12;group_letters=ac
+ruiz2017,Table 5,8,growth factor,EGF,Kenya,population,42,IQR lower,4.1,µg/L,median=4.95;group_letters=ac
+ruiz2017,Table 5,8,growth factor,EGF,Kenya,population,42,IQR upper,6.12,µg/L,median=4.95;group_letters=ac
+ruiz2017,Table 5,8,chemokine,IL8,Peru,population,43,median,67.9,ng/L,IQR 30.3-143.28;group_letters=ac
+ruiz2017,Table 5,8,chemokine,IL8,Peru,population,43,IQR lower,30.3,ng/L,median=67.9;group_letters=ac
+ruiz2017,Table 5,8,chemokine,IL8,Peru,population,43,IQR upper,143.28,ng/L,median=67.9;group_letters=ac
+ruiz2017,Table 5,8,chemokine,GROα,Peru,population,43,median,11.01,ng/L,IQR 3.78-15.02;group_letters=ab
+ruiz2017,Table 5,8,chemokine,GROα,Peru,population,43,IQR lower,3.78,ng/L,median=11.01;group_letters=ab
+ruiz2017,Table 5,8,chemokine,GROα,Peru,population,43,IQR upper,15.02,ng/L,median=11.01;group_letters=ab
+ruiz2017,Table 5,8,chemokine,MCP1,Peru,population,43,median,148.7,ng/L,IQR 66.41-308.81;group_letters=ab
+ruiz2017,Table 5,8,chemokine,MCP1,Peru,population,43,IQR lower,66.41,ng/L,median=148.7;group_letters=ab
+ruiz2017,Table 5,8,chemokine,MCP1,Peru,population,43,IQR upper,308.81,ng/L,median=148.7;group_letters=ab
+ruiz2017,Table 5,8,chemokine,MIP1β,Peru,population,43,median,14.24,ng/L,IQR 6.74-28.35;group_letters=bd
+ruiz2017,Table 5,8,chemokine,MIP1β,Peru,population,43,IQR lower,6.74,ng/L,median=14.24;group_letters=bd
+ruiz2017,Table 5,8,chemokine,MIP1β,Peru,population,43,IQR upper,28.35,ng/L,median=14.24;group_letters=bd
+ruiz2017,Table 5,8,growth factor,GCSF,Peru,population,43,median,50.2,ng/L,IQR 13.72-125.33;group_letters=ab
+ruiz2017,Table 5,8,growth factor,GCSF,Peru,population,43,IQR lower,13.72,ng/L,median=50.2;group_letters=ab
+ruiz2017,Table 5,8,growth factor,GCSF,Peru,population,43,IQR upper,125.33,ng/L,median=50.2;group_letters=ab
+ruiz2017,Table 5,8,growth factor,GMCSF,Peru,population,43,median,11.84,ng/L,IQR 1.79-21.89
+ruiz2017,Table 5,8,growth factor,GMCSF,Peru,population,43,IQR lower,1.79,ng/L,median=11.84
+ruiz2017,Table 5,8,growth factor,GMCSF,Peru,population,43,IQR upper,21.89,ng/L,median=11.84
+ruiz2017,Table 5,8,growth factor,EGF,Peru,population,43,median,4.19,µg/L,IQR 3.68-4.62;group_letters=ab
+ruiz2017,Table 5,8,growth factor,EGF,Peru,population,43,IQR lower,3.68,µg/L,median=4.19;group_letters=ab
+ruiz2017,Table 5,8,growth factor,EGF,Peru,population,43,IQR upper,4.62,µg/L,median=4.19;group_letters=ab
+ruiz2017,Table 5,8,chemokine,IL8,Spain,population,41,median,72.08,ng/L,IQR 27.73-183.59;group_letters=ac
+ruiz2017,Table 5,8,chemokine,IL8,Spain,population,41,IQR lower,27.73,ng/L,median=72.08;group_letters=ac
+ruiz2017,Table 5,8,chemokine,IL8,Spain,population,41,IQR upper,183.59,ng/L,median=72.08;group_letters=ac
+ruiz2017,Table 5,8,chemokine,GROα,Spain,population,41,median,6.19,ng/L,IQR 3.61-10.15;group_letters=ad
+ruiz2017,Table 5,8,chemokine,GROα,Spain,population,41,IQR lower,3.61,ng/L,median=6.19;group_letters=ad
+ruiz2017,Table 5,8,chemokine,GROα,Spain,population,41,IQR upper,10.15,ng/L,median=6.19;group_letters=ad
+ruiz2017,Table 5,8,chemokine,MCP1,Spain,population,41,median,156.57,ng/L,IQR 59.1-307.49;group_letters=ab
+ruiz2017,Table 5,8,chemokine,MCP1,Spain,population,41,IQR lower,59.1,ng/L,median=156.57;group_letters=ab
+ruiz2017,Table 5,8,chemokine,MCP1,Spain,population,41,IQR upper,307.49,ng/L,median=156.57;group_letters=ab
+ruiz2017,Table 5,8,chemokine,MIP1β,Spain,population,41,median,30.7,ng/L,IQR 15.17-74.08;group_letters=ad
+ruiz2017,Table 5,8,chemokine,MIP1β,Spain,population,41,IQR lower,15.17,ng/L,median=30.7;group_letters=ad
+ruiz2017,Table 5,8,chemokine,MIP1β,Spain,population,41,IQR upper,74.08,ng/L,median=30.7;group_letters=ad
+ruiz2017,Table 5,8,growth factor,GCSF,Spain,population,41,median,18.33,ng/L,IQR 4.88-59.06;group_letters=bd
+ruiz2017,Table 5,8,growth factor,GCSF,Spain,population,41,IQR lower,4.88,ng/L,median=18.33;group_letters=bd
+ruiz2017,Table 5,8,growth factor,GCSF,Spain,population,41,IQR upper,59.06,ng/L,median=18.33;group_letters=bd
+ruiz2017,Table 5,8,growth factor,GMCSF,Spain,population,41,median,12.87,ng/L,IQR 0.44-23.83
+ruiz2017,Table 5,8,growth factor,GMCSF,Spain,population,41,IQR lower,0.44,ng/L,median=12.87
+ruiz2017,Table 5,8,growth factor,GMCSF,Spain,population,41,IQR upper,23.83,ng/L,median=12.87
+ruiz2017,Table 5,8,growth factor,EGF,Spain,population,41,median,5.96,µg/L,IQR 4.73-6.85;group_letters=cd
+ruiz2017,Table 5,8,growth factor,EGF,Spain,population,41,IQR lower,4.73,µg/L,median=5.96;group_letters=cd
+ruiz2017,Table 5,8,growth factor,EGF,Spain,population,41,IQR upper,6.85,µg/L,median=5.96;group_letters=cd
+ruiz2017,Table 5,8,chemokine,IL8,Sweden,population,24,median,11.66,ng/L,IQR 4.12-23.24;group_letters=b
+ruiz2017,Table 5,8,chemokine,IL8,Sweden,population,24,IQR lower,4.12,ng/L,median=11.66;group_letters=b
+ruiz2017,Table 5,8,chemokine,IL8,Sweden,population,24,IQR upper,23.24,ng/L,median=11.66;group_letters=b
+ruiz2017,Table 5,8,chemokine,GROα,Sweden,population,24,median,1.31,ng/L,IQR 0.54-5.71;group_letters=bde
+ruiz2017,Table 5,8,chemokine,GROα,Sweden,population,24,IQR lower,0.54,ng/L,median=1.31;group_letters=bde
+ruiz2017,Table 5,8,chemokine,GROα,Sweden,population,24,IQR upper,5.71,ng/L,median=1.31;group_letters=bde
+ruiz2017,Table 5,8,chemokine,MCP1,Sweden,population,24,median,35.18,ng/L,IQR 18.6-231.82;group_letters=b
+ruiz2017,Table 5,8,chemokine,MCP1,Sweden,population,24,IQR lower,18.6,ng/L,median=35.18;group_letters=b
+ruiz2017,Table 5,8,chemokine,MCP1,Sweden,population,24,IQR upper,231.82,ng/L,median=35.18;group_letters=b
+ruiz2017,Table 5,8,chemokine,MIP1β,Sweden,population,24,median,9.42,ng/L,IQR 3.01-24.23;group_letters=bc
+ruiz2017,Table 5,8,chemokine,MIP1β,Sweden,population,24,IQR lower,3.01,ng/L,median=9.42;group_letters=bc
+ruiz2017,Table 5,8,chemokine,MIP1β,Sweden,population,24,IQR upper,24.23,ng/L,median=9.42;group_letters=bc
+ruiz2017,Table 5,8,growth factor,GCSF,Sweden,population,24,median,1.29,ng/L,IQR 0.88-2.97;group_letters=c
+ruiz2017,Table 5,8,growth factor,GCSF,Sweden,population,24,IQR lower,0.88,ng/L,median=1.29;group_letters=c
+ruiz2017,Table 5,8,growth factor,GCSF,Sweden,population,24,IQR upper,2.97,ng/L,median=1.29;group_letters=c
+ruiz2017,Table 5,8,growth factor,GMCSF,Sweden,population,24,median (IQR),nd,ng/L,below detection limit
+ruiz2017,Table 5,8,growth factor,EGF,Sweden,population,24,median,8.29,µg/L,IQR 6.12-10.78;group_letters=d
+ruiz2017,Table 5,8,growth factor,EGF,Sweden,population,24,IQR lower,6.12,µg/L,median=8.29;group_letters=d
+ruiz2017,Table 5,8,growth factor,EGF,Sweden,population,24,IQR upper,10.78,µg/L,median=8.29;group_letters=d
+ruiz2017,Table 5,8,chemokine,IL8,United States California,population,19,median,22.3,ng/L,IQR 10.94-27.2;group_letters=bcd
+ruiz2017,Table 5,8,chemokine,IL8,United States California,population,19,IQR lower,10.94,ng/L,median=22.3;group_letters=bcd
+ruiz2017,Table 5,8,chemokine,IL8,United States California,population,19,IQR upper,27.2,ng/L,median=22.3;group_letters=bcd
+ruiz2017,Table 5,8,chemokine,GROα,United States California,population,19,median,3.82,ng/L,IQR 0.95-7.19;group_letters=ab
+ruiz2017,Table 5,8,chemokine,GROα,United States California,population,19,IQR lower,0.95,ng/L,median=3.82;group_letters=ab
+ruiz2017,Table 5,8,chemokine,GROα,United States California,population,19,IQR upper,7.19,ng/L,median=3.82;group_letters=ab
+ruiz2017,Table 5,8,chemokine,MCP1,United States California,population,19,median,52.6,ng/L,IQR 24.19-142.64;group_letters=ab
+ruiz2017,Table 5,8,chemokine,MCP1,United States California,population,19,IQR lower,24.19,ng/L,median=52.6;group_letters=ab
+ruiz2017,Table 5,8,chemokine,MCP1,United States California,population,19,IQR upper,142.64,ng/L,median=52.6;group_letters=ab
+ruiz2017,Table 5,8,chemokine,MIP1β,United States California,population,19,median,19.12,ng/L,IQR 3.41-31.09;group_letters=abd
+ruiz2017,Table 5,8,chemokine,MIP1β,United States California,population,19,IQR lower,3.41,ng/L,median=19.12;group_letters=abd
+ruiz2017,Table 5,8,chemokine,MIP1β,United States California,population,19,IQR upper,31.09,ng/L,median=19.12;group_letters=abd
+ruiz2017,Table 5,8,growth factor,GCSF,United States California,population,19,median,3.13,ng/L,IQR 1.94-6.51;group_letters=cd
+ruiz2017,Table 5,8,growth factor,GCSF,United States California,population,19,IQR lower,1.94,ng/L,median=3.13;group_letters=cd
+ruiz2017,Table 5,8,growth factor,GCSF,United States California,population,19,IQR upper,6.51,ng/L,median=3.13;group_letters=cd
+ruiz2017,Table 5,8,growth factor,GMCSF,United States California,population,19,median (IQR),nd,ng/L,below detection limit
+ruiz2017,Table 5,8,growth factor,EGF,United States California,population,19,median,9.42,µg/L,IQR 6.22-10.55;group_letters=d
+ruiz2017,Table 5,8,growth factor,EGF,United States California,population,19,IQR lower,6.22,µg/L,median=9.42;group_letters=d
+ruiz2017,Table 5,8,growth factor,EGF,United States California,population,19,IQR upper,10.55,µg/L,median=9.42;group_letters=d
+ruiz2017,Table 5,8,chemokine,IL8,United States Washington,population,41,median,5.19,ng/L,IQR 2.57-12.19;group_letters=b
+ruiz2017,Table 5,8,chemokine,IL8,United States Washington,population,41,IQR lower,2.57,ng/L,median=5.19;group_letters=b
+ruiz2017,Table 5,8,chemokine,IL8,United States Washington,population,41,IQR upper,12.19,ng/L,median=5.19;group_letters=b
+ruiz2017,Table 5,8,chemokine,GROα,United States Washington,population,41,median,0.34,ng/L,IQR 0.21-0.73;group_letters=ce
+ruiz2017,Table 5,8,chemokine,GROα,United States Washington,population,41,IQR lower,0.21,ng/L,median=0.34;group_letters=ce
+ruiz2017,Table 5,8,chemokine,GROα,United States Washington,population,41,IQR upper,0.73,ng/L,median=0.34;group_letters=ce
+ruiz2017,Table 5,8,chemokine,MCP1,United States Washington,population,41,median,14.31,ng/L,IQR 12.33-127.92;group_letters=b
+ruiz2017,Table 5,8,chemokine,MCP1,United States Washington,population,41,IQR lower,12.33,ng/L,median=14.31;group_letters=b
+ruiz2017,Table 5,8,chemokine,MCP1,United States Washington,population,41,IQR upper,127.92,ng/L,median=14.31;group_letters=b
+ruiz2017,Table 5,8,chemokine,MIP1β,United States Washington,population,41,median,2.85,ng/L,IQR 1.37-7.68;group_letters=e
+ruiz2017,Table 5,8,chemokine,MIP1β,United States Washington,population,41,IQR lower,1.37,ng/L,median=2.85;group_letters=e
+ruiz2017,Table 5,8,chemokine,MIP1β,United States Washington,population,41,IQR upper,7.68,ng/L,median=2.85;group_letters=e
+ruiz2017,Table 5,8,growth factor,GCSF,United States Washington,population,41,median,0.85,ng/L,IQR 0.18-1.36;group_letters=c
+ruiz2017,Table 5,8,growth factor,GCSF,United States Washington,population,41,IQR lower,0.18,ng/L,median=0.85;group_letters=c
+ruiz2017,Table 5,8,growth factor,GCSF,United States Washington,population,41,IQR upper,1.36,ng/L,median=0.85;group_letters=c
+ruiz2017,Table 5,8,growth factor,GMCSF,United States Washington,population,41,median (IQR),nd,ng/L,below detection limit
+ruiz2017,Table 5,8,growth factor,EGF,United States Washington,population,41,median,6.85,µg/L,IQR 5.76-8.51;group_letters=d
+ruiz2017,Table 5,8,growth factor,EGF,United States Washington,population,41,IQR lower,5.76,µg/L,median=6.85;group_letters=d
+ruiz2017,Table 5,8,growth factor,EGF,United States Washington,population,41,IQR upper,8.51,µg/L,median=6.85;group_letters=d

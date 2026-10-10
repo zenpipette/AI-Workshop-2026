@@ -1,0 +1,58 @@
+paper,table,page,data_type,analyte,group,group_type,n,statistic,value,unit,notes
+mcguire2017,Table 6,12,HMO (NMF score),2#FL,BMI <18.5 (underweight),BMI category,22,NMF feature score,0.48,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 6,12,HMO (NMF score),2#FL,BMI 18.5-24.9 (healthy),BMI category,242,NMF feature score,1.00,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 6,12,HMO (NMF score),2#FL,BMI >=25 (overweight),BMI category,139,NMF feature score,0.64,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 6,12,HMO (NMF score),3FL,BMI <18.5 (underweight),BMI category,22,NMF feature score,0.43,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 6,12,HMO (NMF score),3FL,BMI 18.5-24.9 (healthy),BMI category,242,NMF feature score,0.42,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 6,12,HMO (NMF score),3FL,BMI >=25 (overweight),BMI category,139,NMF feature score,0.32,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 6,12,HMO (NMF score),LNnT,BMI <18.5 (underweight),BMI category,22,NMF feature score,0.16,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 6,12,HMO (NMF score),LNnT,BMI 18.5-24.9 (healthy),BMI category,242,NMF feature score,0.54,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 6,12,HMO (NMF score),LNnT,BMI >=25 (overweight),BMI category,139,NMF feature score,0.35,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 6,12,HMO (NMF score),3#SL,BMI <18.5 (underweight),BMI category,22,NMF feature score,0.19,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 6,12,HMO (NMF score),3#SL,BMI 18.5-24.9 (healthy),BMI category,242,NMF feature score,0.16,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 6,12,HMO (NMF score),3#SL,BMI >=25 (overweight),BMI category,139,NMF feature score,0.22,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 6,12,HMO (NMF score),DFLac,BMI <18.5 (underweight),BMI category,22,NMF feature score,0.54,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 6,12,HMO (NMF score),DFLac,BMI 18.5-24.9 (healthy),BMI category,242,NMF feature score,0.45,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 6,12,HMO (NMF score),DFLac,BMI >=25 (overweight),BMI category,139,NMF feature score,0.32,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 6,12,HMO (NMF score),6#SL,BMI <18.5 (underweight),BMI category,22,NMF feature score,0.34,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 6,12,HMO (NMF score),6#SL,BMI 18.5-24.9 (healthy),BMI category,242,NMF feature score,0.62,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 6,12,HMO (NMF score),6#SL,BMI >=25 (overweight),BMI category,139,NMF feature score,0.69,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 6,12,HMO (NMF score),LNT,BMI <18.5 (underweight),BMI category,22,NMF feature score,0.35,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 6,12,HMO (NMF score),LNT,BMI 18.5-24.9 (healthy),BMI category,242,NMF feature score,0.44,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 6,12,HMO (NMF score),LNT,BMI >=25 (overweight),BMI category,139,NMF feature score,0.55,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 6,12,HMO (NMF score),LNFP I,BMI <18.5 (underweight),BMI category,22,NMF feature score,0.56,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 6,12,HMO (NMF score),LNFP I,BMI 18.5-24.9 (healthy),BMI category,242,NMF feature score,0.75,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 6,12,HMO (NMF score),LNFP I,BMI >=25 (overweight),BMI category,139,NMF feature score,0.60,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 6,12,HMO (NMF score),LNFP II,BMI <18.5 (underweight),BMI category,22,NMF feature score,0.50,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 6,12,HMO (NMF score),LNFP II,BMI 18.5-24.9 (healthy),BMI category,242,NMF feature score,0.59,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 6,12,HMO (NMF score),LNFP II,BMI >=25 (overweight),BMI category,139,NMF feature score,0.52,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 6,12,HMO (NMF score),LNFP III,BMI <18.5 (underweight),BMI category,22,NMF feature score,0.42,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 6,12,HMO (NMF score),LNFP III,BMI 18.5-24.9 (healthy),BMI category,242,NMF feature score,0.42,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 6,12,HMO (NMF score),LNFP III,BMI >=25 (overweight),BMI category,139,NMF feature score,0.50,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 6,12,HMO (NMF score),LSTb,BMI <18.5 (underweight),BMI category,22,NMF feature score,0.07,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 6,12,HMO (NMF score),LSTb,BMI 18.5-24.9 (healthy),BMI category,242,NMF feature score,0.30,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 6,12,HMO (NMF score),LSTb,BMI >=25 (overweight),BMI category,139,NMF feature score,0.30,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 6,12,HMO (NMF score),LSTc,BMI <18.5 (underweight),BMI category,22,NMF feature score,0.27,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 6,12,HMO (NMF score),LSTc,BMI 18.5-24.9 (healthy),BMI category,242,NMF feature score,0.48,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 6,12,HMO (NMF score),LSTc,BMI >=25 (overweight),BMI category,139,NMF feature score,0.43,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 6,12,HMO (NMF score),DFLNT,BMI <18.5 (underweight),BMI category,22,NMF feature score,0.69,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 6,12,HMO (NMF score),DFLNT,BMI 18.5-24.9 (healthy),BMI category,242,NMF feature score,0.70,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 6,12,HMO (NMF score),DFLNT,BMI >=25 (overweight),BMI category,139,NMF feature score,0.73,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 6,12,HMO (NMF score),LNH,BMI <18.5 (underweight),BMI category,22,NMF feature score,0.18,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 6,12,HMO (NMF score),LNH,BMI 18.5-24.9 (healthy),BMI category,242,NMF feature score,0.25,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 6,12,HMO (NMF score),LNH,BMI >=25 (overweight),BMI category,139,NMF feature score,0.18,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 6,12,HMO (NMF score),DSLNT,BMI <18.5 (underweight),BMI category,22,NMF feature score,0.26,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 6,12,HMO (NMF score),DSLNT,BMI 18.5-24.9 (healthy),BMI category,242,NMF feature score,0.24,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 6,12,HMO (NMF score),DSLNT,BMI >=25 (overweight),BMI category,139,NMF feature score,0.13,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 6,12,HMO (NMF score),FLNH,BMI <18.5 (underweight),BMI category,22,NMF feature score,0.51,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 6,12,HMO (NMF score),FLNH,BMI 18.5-24.9 (healthy),BMI category,242,NMF feature score,0.26,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 6,12,HMO (NMF score),FLNH,BMI >=25 (overweight),BMI category,139,NMF feature score,0.54,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 6,12,HMO (NMF score),DFLNH,BMI <18.5 (underweight),BMI category,22,NMF feature score,0.58,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 6,12,HMO (NMF score),DFLNH,BMI 18.5-24.9 (healthy),BMI category,242,NMF feature score,0.45,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 6,12,HMO (NMF score),DFLNH,BMI >=25 (overweight),BMI category,139,NMF feature score,0.25,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 6,12,HMO (NMF score),FDSLNH,BMI <18.5 (underweight),BMI category,22,NMF feature score,0.41,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 6,12,HMO (NMF score),FDSLNH,BMI 18.5-24.9 (healthy),BMI category,242,NMF feature score,0.63,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 6,12,HMO (NMF score),FDSLNH,BMI >=25 (overweight),BMI category,139,NMF feature score,0.62,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 6,12,HMO (NMF score),DSLNH,BMI <18.5 (underweight),BMI category,22,NMF feature score,0.28,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 6,12,HMO (NMF score),DSLNH,BMI 18.5-24.9 (healthy),BMI category,242,NMF feature score,0.48,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 6,12,HMO (NMF score),DSLNH,BMI >=25 (overweight),BMI category,139,NMF feature score,0.61,unitless,probability of contribution to HMO-profile structure

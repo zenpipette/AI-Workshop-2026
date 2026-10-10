@@ -1,0 +1,131 @@
+paper,table,page,data_type,analyte,group,group_type,n,statistic,value,unit,notes
+lane2019,Table 1,7,household composition,mean infant age,Ethiopia rural,population,39,mean,10.07,weeks,SD=4.60
+lane2019,Table 1,7,household composition,mean infant age,Ethiopia rural,population,39,SD,4.60,weeks,
+lane2019,Table 1,7,household composition,proportion delivered vaginally,Ethiopia rural,population,39,proportion,1.00,proportion,
+lane2019,Table 1,7,household composition,proportion exclusively breastfed,Ethiopia rural,population,39,proportion,0.97,proportion,
+lane2019,Table 1,7,household composition,mean household size,Ethiopia rural,population,39,mean,6.26,individuals,SD=1.82;range=3–11
+lane2019,Table 1,7,household composition,mean household size,Ethiopia rural,population,39,SD,1.82,individuals,range=3–11
+lane2019,Table 1,7,household composition,mean number of siblings,Ethiopia rural,population,39,mean,2.54,siblings,SD=2.04;range=0–8
+lane2019,Table 1,7,household composition,mean number of siblings,Ethiopia rural,population,39,SD,2.04,siblings,range=0–8
+lane2019,Table 1,7,household composition,proportion infants with siblings present,Ethiopia rural,population,39,proportion,0.82,proportion,
+lane2019,Table 1,7,household composition,mean number of extended family,Ethiopia rural,population,39,mean,0.72,individuals,SD=1.38;range=0–6
+lane2019,Table 1,7,household composition,mean number of extended family,Ethiopia rural,population,39,SD,1.38,individuals,range=0–6
+lane2019,Table 1,7,household composition,proportion infants with extended family present,Ethiopia rural,population,39,proportion,0.28,proportion,
+lane2019,Table 1,7,household composition,proportion infants with father present,Ethiopia rural,population,39,proportion,1.00,proportion,
+lane2019,Table 1,7,household composition,mean infant age,Ethiopia urban,population,32,mean,8.31,weeks,SD=2.20
+lane2019,Table 1,7,household composition,mean infant age,Ethiopia urban,population,32,SD,2.20,weeks,
+lane2019,Table 1,7,household composition,proportion delivered vaginally,Ethiopia urban,population,32,proportion,1.00,proportion,
+lane2019,Table 1,7,household composition,proportion exclusively breastfed,Ethiopia urban,population,32,proportion,0.88,proportion,
+lane2019,Table 1,7,household composition,mean household size,Ethiopia urban,population,32,mean,4.47,individuals,SD=1.50;range=3–9
+lane2019,Table 1,7,household composition,mean household size,Ethiopia urban,population,32,SD,1.50,individuals,range=3–9
+lane2019,Table 1,7,household composition,mean number of siblings,Ethiopia urban,population,32,mean,0.59,siblings,SD=1.10;range=0–4
+lane2019,Table 1,7,household composition,mean number of siblings,Ethiopia urban,population,32,SD,1.10,siblings,range=0–4
+lane2019,Table 1,7,household composition,proportion infants with siblings present,Ethiopia urban,population,32,proportion,0.31,proportion,
+lane2019,Table 1,7,household composition,mean number of extended family,Ethiopia urban,population,32,mean,0.91,individuals,SD=1.06;range=0–4
+lane2019,Table 1,7,household composition,mean number of extended family,Ethiopia urban,population,32,SD,1.06,individuals,range=0–4
+lane2019,Table 1,7,household composition,proportion infants with extended family present,Ethiopia urban,population,32,proportion,0.59,proportion,
+lane2019,Table 1,7,household composition,proportion infants with father present,Ethiopia urban,population,32,proportion,0.97,proportion,
+lane2019,Table 1,7,household composition,mean infant age,Gambia rural,population,36,mean,8.99,weeks,SD=2.40
+lane2019,Table 1,7,household composition,mean infant age,Gambia rural,population,36,SD,2.40,weeks,
+lane2019,Table 1,7,household composition,proportion delivered vaginally,Gambia rural,population,36,proportion,1.00,proportion,
+lane2019,Table 1,7,household composition,proportion exclusively breastfed,Gambia rural,population,36,proportion,0.97,proportion,
+lane2019,Table 1,7,household composition,mean household size,Gambia rural,population,36,mean,6.19,individuals,SD=2.14;range=4–13
+lane2019,Table 1,7,household composition,mean household size,Gambia rural,population,36,SD,2.14,individuals,range=4–13
+lane2019,Table 1,7,household composition,mean number of siblings,Gambia rural,population,36,mean,2.06,siblings,SD=1.98;range=0–7
+lane2019,Table 1,7,household composition,mean number of siblings,Gambia rural,population,36,SD,1.98,siblings,range=0–7
+lane2019,Table 1,7,household composition,proportion infants with siblings present,Gambia rural,population,36,proportion,0.72,proportion,
+lane2019,Table 1,7,household composition,mean number of extended family,Gambia rural,population,36,mean,1.53,individuals,SD=2.01;range=0–8
+lane2019,Table 1,7,household composition,mean number of extended family,Gambia rural,population,36,SD,2.01,individuals,range=0–8
+lane2019,Table 1,7,household composition,proportion infants with extended family present,Gambia rural,population,36,proportion,0.53,proportion,
+lane2019,Table 1,7,household composition,proportion infants with father present,Gambia rural,population,36,proportion,0.61,proportion,
+lane2019,Table 1,7,household composition,mean infant age,Gambia urban,population,38,mean,8.88,weeks,SD=2.61
+lane2019,Table 1,7,household composition,mean infant age,Gambia urban,population,38,SD,2.61,weeks,
+lane2019,Table 1,7,household composition,proportion delivered vaginally,Gambia urban,population,38,proportion,0.97,proportion,
+lane2019,Table 1,7,household composition,proportion exclusively breastfed,Gambia urban,population,38,proportion,0.53,proportion,
+lane2019,Table 1,7,household composition,mean household size,Gambia urban,population,38,mean,5.97,individuals,SD=1.88;range=3–10
+lane2019,Table 1,7,household composition,mean household size,Gambia urban,population,38,SD,1.88,individuals,range=3–10
+lane2019,Table 1,7,household composition,mean number of siblings,Gambia urban,population,38,mean,1.84,siblings,SD=1.67;range=0–5
+lane2019,Table 1,7,household composition,mean number of siblings,Gambia urban,population,38,SD,1.67,siblings,range=0–5
+lane2019,Table 1,7,household composition,proportion infants with siblings present,Gambia urban,population,38,proportion,0.68,proportion,
+lane2019,Table 1,7,household composition,mean number of extended family,Gambia urban,population,38,mean,1.45,individuals,SD=2.06;range=0–6
+lane2019,Table 1,7,household composition,mean number of extended family,Gambia urban,population,38,SD,2.06,individuals,range=0–6
+lane2019,Table 1,7,household composition,proportion infants with extended family present,Gambia urban,population,38,proportion,0.50,proportion,
+lane2019,Table 1,7,household composition,proportion infants with father present,Gambia urban,population,38,proportion,0.68,proportion,
+lane2019,Table 1,7,household composition,mean infant age,Ghana,population,32,mean,8.35,weeks,SD=2.85
+lane2019,Table 1,7,household composition,mean infant age,Ghana,population,32,SD,2.85,weeks,
+lane2019,Table 1,7,household composition,proportion delivered vaginally,Ghana,population,32,proportion,0.81,proportion,
+lane2019,Table 1,7,household composition,proportion exclusively breastfed,Ghana,population,32,proportion,0.34,proportion,
+lane2019,Table 1,7,household composition,mean household size,Ghana,population,32,mean,5.66,individuals,SD=1.72;range=3–11
+lane2019,Table 1,7,household composition,mean household size,Ghana,population,32,SD,1.72,individuals,range=3–11
+lane2019,Table 1,7,household composition,mean number of siblings,Ghana,population,32,mean,1.31,siblings,SD=1.12;range=0–4
+lane2019,Table 1,7,household composition,mean number of siblings,Ghana,population,32,SD,1.12,siblings,range=0–4
+lane2019,Table 1,7,household composition,proportion infants with siblings present,Ghana,population,32,proportion,0.69,proportion,
+lane2019,Table 1,7,household composition,mean number of extended family,Ghana,population,32,mean,1.75,individuals,SD=1.85;range=0–7
+lane2019,Table 1,7,household composition,mean number of extended family,Ghana,population,32,SD,1.85,individuals,range=0–7
+lane2019,Table 1,7,household composition,proportion infants with extended family present,Ghana,population,32,proportion,0.72,proportion,
+lane2019,Table 1,7,household composition,proportion infants with father present,Ghana,population,32,proportion,0.63,proportion,
+lane2019,Table 1,7,household composition,mean infant age,Kenya,population,40,mean,10.34,weeks,SD=3.41
+lane2019,Table 1,7,household composition,mean infant age,Kenya,population,40,SD,3.41,weeks,
+lane2019,Table 1,7,household composition,proportion delivered vaginally,Kenya,population,40,proportion,0.78,proportion,
+lane2019,Table 1,7,household composition,proportion exclusively breastfed,Kenya,population,40,proportion,0.38,proportion,
+lane2019,Table 1,7,household composition,mean household size,Kenya,population,40,mean,4.65,individuals,SD=1.61;range=2–8
+lane2019,Table 1,7,household composition,mean household size,Kenya,population,40,SD,1.61,individuals,range=2–8
+lane2019,Table 1,7,household composition,mean number of siblings,Kenya,population,40,mean,1.45,siblings,SD=1.43;range=0–5
+lane2019,Table 1,7,household composition,mean number of siblings,Kenya,population,40,SD,1.43,siblings,range=0–5
+lane2019,Table 1,7,household composition,proportion infants with siblings present,Kenya,population,40,proportion,0.73,proportion,
+lane2019,Table 1,7,household composition,mean number of extended family,Kenya,population,40,mean,0.58,individuals,SD=1.20;range=0–4
+lane2019,Table 1,7,household composition,mean number of extended family,Kenya,population,40,SD,1.20,individuals,range=0–4
+lane2019,Table 1,7,household composition,proportion infants with extended family present,Kenya,population,40,proportion,0.23,proportion,
+lane2019,Table 1,7,household composition,proportion infants with father present,Kenya,population,40,proportion,0.63,proportion,
+lane2019,Table 1,7,household composition,mean infant age,Peru,population,42,mean,8.61,weeks,SD=2.42
+lane2019,Table 1,7,household composition,mean infant age,Peru,population,42,SD,2.42,weeks,
+lane2019,Table 1,7,household composition,proportion delivered vaginally,Peru,population,42,proportion,0.52,proportion,
+lane2019,Table 1,7,household composition,proportion exclusively breastfed,Peru,population,42,proportion,0.31,proportion,
+lane2019,Table 1,7,household composition,mean household size,Peru,population,42,mean,6.02,individuals,SD=2.26;range=3–13
+lane2019,Table 1,7,household composition,mean household size,Peru,population,42,SD,2.26,individuals,range=3–13
+lane2019,Table 1,7,household composition,mean number of siblings,Peru,population,42,mean,1.00,siblings,SD=0.96;range=0–4
+lane2019,Table 1,7,household composition,mean number of siblings,Peru,population,42,SD,0.96,siblings,range=0–4
+lane2019,Table 1,7,household composition,proportion infants with siblings present,Peru,population,42,proportion,0.67,proportion,
+lane2019,Table 1,7,household composition,mean number of extended family,Peru,population,42,mean,2.12,individuals,SD=2.56;range=0–10
+lane2019,Table 1,7,household composition,mean number of extended family,Peru,population,42,SD,2.56,individuals,range=0–10
+lane2019,Table 1,7,household composition,proportion infants with extended family present,Peru,population,42,proportion,0.55,proportion,
+lane2019,Table 1,7,household composition,proportion infants with father present,Peru,population,42,proportion,0.90,proportion,
+lane2019,Table 1,7,household composition,mean infant age,Spain,population,37,mean,10.25,weeks,SD=3.52
+lane2019,Table 1,7,household composition,mean infant age,Spain,population,37,SD,3.52,weeks,
+lane2019,Table 1,7,household composition,proportion delivered vaginally,Spain,population,37,proportion,0.92,proportion,
+lane2019,Table 1,7,household composition,proportion exclusively breastfed,Spain,population,37,proportion,0.62,proportion,
+lane2019,Table 1,7,household composition,mean household size,Spain,population,37,mean,3.24,individuals,SD=0.49;range=3–5
+lane2019,Table 1,7,household composition,mean household size,Spain,population,37,SD,0.49,individuals,range=3–5
+lane2019,Table 1,7,household composition,mean number of siblings,Spain,population,37,mean,0.22,siblings,SD=0.42;range=0–1
+lane2019,Table 1,7,household composition,mean number of siblings,Spain,population,37,SD,0.42,siblings,range=0–1
+lane2019,Table 1,7,household composition,proportion infants with siblings present,Spain,population,37,proportion,0.22,proportion,
+lane2019,Table 1,7,household composition,mean number of extended family,Spain,population,37,mean,0.03,individuals,SD=0.16;range=0–1
+lane2019,Table 1,7,household composition,mean number of extended family,Spain,population,37,SD,0.16,individuals,range=0–1
+lane2019,Table 1,7,household composition,proportion infants with extended family present,Spain,population,37,proportion,0.03,proportion,
+lane2019,Table 1,7,household composition,proportion infants with father present,Spain,population,37,proportion,1.00,proportion,
+lane2019,Table 1,7,household composition,mean infant age,Sweden,population,23,mean,6.87,weeks,SD=2.64
+lane2019,Table 1,7,household composition,mean infant age,Sweden,population,23,SD,2.64,weeks,
+lane2019,Table 1,7,household composition,proportion delivered vaginally,Sweden,population,23,proportion,0.78,proportion,
+lane2019,Table 1,7,household composition,proportion exclusively breastfed,Sweden,population,23,proportion,0.48,proportion,
+lane2019,Table 1,7,household composition,mean household size,Sweden,population,23,mean,3.43,individuals,SD=0.73;range=2–5
+lane2019,Table 1,7,household composition,mean household size,Sweden,population,23,SD,0.73,individuals,range=2–5
+lane2019,Table 1,7,household composition,mean number of siblings,Sweden,population,23,mean,0.48,siblings,SD=0.67;range=0–2
+lane2019,Table 1,7,household composition,mean number of siblings,Sweden,population,23,SD,0.67,siblings,range=0–2
+lane2019,Table 1,7,household composition,proportion infants with siblings present,Sweden,population,23,proportion,0.39,proportion,
+lane2019,Table 1,7,household composition,mean number of extended family,Sweden,population,23,mean,0.00,individuals,SD=0.00;range=0–0
+lane2019,Table 1,7,household composition,mean number of extended family,Sweden,population,23,SD,0.00,individuals,range=0–0
+lane2019,Table 1,7,household composition,proportion infants with extended family present,Sweden,population,23,proportion,0.00,proportion,
+lane2019,Table 1,7,household composition,proportion infants with father present,Sweden,population,23,proportion,0.96,proportion,
+lane2019,Table 1,7,household composition,mean infant age,United States Washington/Idaho,population,41,mean,9.67,weeks,SD=2.39
+lane2019,Table 1,7,household composition,mean infant age,United States Washington/Idaho,population,41,SD,2.39,weeks,
+lane2019,Table 1,7,household composition,proportion delivered vaginally,United States Washington/Idaho,population,41,proportion,0.80,proportion,
+lane2019,Table 1,7,household composition,proportion exclusively breastfed,United States Washington/Idaho,population,41,proportion,0.56,proportion,
+lane2019,Table 1,7,household composition,mean household size,United States Washington/Idaho,population,41,mean,3.85,individuals,SD=1.11;range=2–8
+lane2019,Table 1,7,household composition,mean household size,United States Washington/Idaho,population,41,SD,1.11,individuals,range=2–8
+lane2019,Table 1,7,household composition,mean number of siblings,United States Washington/Idaho,population,41,mean,0.85,siblings,SD=1.04;range=0–5
+lane2019,Table 1,7,household composition,mean number of siblings,United States Washington/Idaho,population,41,SD,1.04,siblings,range=0–5
+lane2019,Table 1,7,household composition,proportion infants with siblings present,United States Washington/Idaho,population,41,proportion,0.56,proportion,
+lane2019,Table 1,7,household composition,mean number of extended family,United States Washington/Idaho,population,41,mean,0.05,individuals,SD=0.31;range=0–2
+lane2019,Table 1,7,household composition,mean number of extended family,United States Washington/Idaho,population,41,SD,0.31,individuals,range=0–2
+lane2019,Table 1,7,household composition,proportion infants with extended family present,United States Washington/Idaho,population,41,proportion,0.02,proportion,
+lane2019,Table 1,7,household composition,proportion infants with father present,United States Washington/Idaho,population,41,proportion,0.95,proportion,

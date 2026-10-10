@@ -1,0 +1,77 @@
+paper,table,page,data_type,analyte,group,group_type,n,statistic,value,unit,notes
+mcguire2017,Table 8,13,HMO (NMF score),2#FL,20-46 d,time postpartum quartile,,NMF feature score,0.80,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),2#FL,47-63 d,time postpartum quartile,,NMF feature score,0.84,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),2#FL,64-78 d,time postpartum quartile,,NMF feature score,0.65,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),2#FL,79-161 d,time postpartum quartile,,NMF feature score,0.74,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),3FL,20-46 d,time postpartum quartile,,NMF feature score,0.45,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),3FL,47-63 d,time postpartum quartile,,NMF feature score,0.33,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),3FL,64-78 d,time postpartum quartile,,NMF feature score,0.39,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),3FL,79-161 d,time postpartum quartile,,NMF feature score,0.39,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),LNnT,20-46 d,time postpartum quartile,,NMF feature score,0.38,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),LNnT,47-63 d,time postpartum quartile,,NMF feature score,0.44,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),LNnT,64-78 d,time postpartum quartile,,NMF feature score,0.26,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),LNnT,79-161 d,time postpartum quartile,,NMF feature score,0.55,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),3#SL,20-46 d,time postpartum quartile,,NMF feature score,0.27,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),3#SL,47-63 d,time postpartum quartile,,NMF feature score,0.20,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),3#SL,64-78 d,time postpartum quartile,,NMF feature score,0.25,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),3#SL,79-161 d,time postpartum quartile,,NMF feature score,0.21,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),DFLac,20-46 d,time postpartum quartile,,NMF feature score,0.48,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),DFLac,47-63 d,time postpartum quartile,,NMF feature score,0.27,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),DFLac,64-78 d,time postpartum quartile,,NMF feature score,0.39,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),DFLac,79-161 d,time postpartum quartile,,NMF feature score,0.39,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),6#SL,20-46 d,time postpartum quartile,,NMF feature score,0.68,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),6#SL,47-63 d,time postpartum quartile,,NMF feature score,0.48,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),6#SL,64-78 d,time postpartum quartile,,NMF feature score,0.59,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),6#SL,79-161 d,time postpartum quartile,,NMF feature score,0.35,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),LNT,20-46 d,time postpartum quartile,,NMF feature score,0.40,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),LNT,47-63 d,time postpartum quartile,,NMF feature score,0.41,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),LNT,64-78 d,time postpartum quartile,,NMF feature score,0.53,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),LNT,79-161 d,time postpartum quartile,,NMF feature score,0.41,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),LNFP I,20-46 d,time postpartum quartile,,NMF feature score,0.62,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),LNFP I,47-63 d,time postpartum quartile,,NMF feature score,0.73,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),LNFP I,64-78 d,time postpartum quartile,,NMF feature score,0.73,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),LNFP I,79-161 d,time postpartum quartile,,NMF feature score,0.63,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),LNFP II,20-46 d,time postpartum quartile,,NMF feature score,0.52,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),LNFP II,47-63 d,time postpartum quartile,,NMF feature score,0.77,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),LNFP II,64-78 d,time postpartum quartile,,NMF feature score,0.50,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),LNFP II,79-161 d,time postpartum quartile,,NMF feature score,0.58,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),LNFP III,20-46 d,time postpartum quartile,,NMF feature score,0.34,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),LNFP III,47-63 d,time postpartum quartile,,NMF feature score,0.49,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),LNFP III,64-78 d,time postpartum quartile,,NMF feature score,0.28,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),LNFP III,79-161 d,time postpartum quartile,,NMF feature score,0.21,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),LSTb,20-46 d,time postpartum quartile,,NMF feature score,0.29,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),LSTb,47-63 d,time postpartum quartile,,NMF feature score,0.31,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),LSTb,64-78 d,time postpartum quartile,,NMF feature score,0.31,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),LSTb,79-161 d,time postpartum quartile,,NMF feature score,0.29,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),LSTc,20-46 d,time postpartum quartile,,NMF feature score,0.39,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),LSTc,47-63 d,time postpartum quartile,,NMF feature score,0.32,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),LSTc,64-78 d,time postpartum quartile,,NMF feature score,0.24,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),LSTc,79-161 d,time postpartum quartile,,NMF feature score,0.37,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),DFLNT,20-46 d,time postpartum quartile,,NMF feature score,0.75,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),DFLNT,47-63 d,time postpartum quartile,,NMF feature score,0.75,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),DFLNT,64-78 d,time postpartum quartile,,NMF feature score,0.70,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),DFLNT,79-161 d,time postpartum quartile,,NMF feature score,0.65,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),LNH,20-46 d,time postpartum quartile,,NMF feature score,0.22,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),LNH,47-63 d,time postpartum quartile,,NMF feature score,0.25,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),LNH,64-78 d,time postpartum quartile,,NMF feature score,0.20,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),LNH,79-161 d,time postpartum quartile,,NMF feature score,0.26,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),DSLNT,20-46 d,time postpartum quartile,,NMF feature score,0.31,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),DSLNT,47-63 d,time postpartum quartile,,NMF feature score,0.37,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),DSLNT,64-78 d,time postpartum quartile,,NMF feature score,0.24,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),DSLNT,79-161 d,time postpartum quartile,,NMF feature score,0.24,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),FLNH,20-46 d,time postpartum quartile,,NMF feature score,0.60,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),FLNH,47-63 d,time postpartum quartile,,NMF feature score,0.31,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),FLNH,64-78 d,time postpartum quartile,,NMF feature score,0.17,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),FLNH,79-161 d,time postpartum quartile,,NMF feature score,0.35,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),DFLNH,20-46 d,time postpartum quartile,,NMF feature score,0.40,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),DFLNH,47-63 d,time postpartum quartile,,NMF feature score,0.45,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),DFLNH,64-78 d,time postpartum quartile,,NMF feature score,0.24,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),DFLNH,79-161 d,time postpartum quartile,,NMF feature score,0.30,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),FDSLNH,20-46 d,time postpartum quartile,,NMF feature score,0.62,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),FDSLNH,47-63 d,time postpartum quartile,,NMF feature score,0.66,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),FDSLNH,64-78 d,time postpartum quartile,,NMF feature score,0.58,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),FDSLNH,79-161 d,time postpartum quartile,,NMF feature score,0.66,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),DSLNH,20-46 d,time postpartum quartile,,NMF feature score,0.64,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),DSLNH,47-63 d,time postpartum quartile,,NMF feature score,0.40,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),DSLNH,64-78 d,time postpartum quartile,,NMF feature score,0.42,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 8,13,HMO (NMF score),DSLNH,79-161 d,time postpartum quartile,,NMF feature score,0.22,unitless,probability of contribution to HMO-profile structure

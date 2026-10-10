@@ -1,0 +1,8 @@
+paper,table,page,data_type,analyte,group,group_type,n,statistic,value,unit,notes
+mcguire2021,text (Fig 2),7,antibody,Shigella IgA breadth: LMIC vs HIC,LMIC vs HIC,comparison,,effect size (breadth-score difference),>=5% higher in LMIC,breadth score,P < 10^-4
+mcguire2021,text (Fig 2),7,antibody,Shigella IgG breadth: LMIC vs HIC,LMIC vs HIC,comparison,,effect size (breadth-score difference),>=5% higher in LMIC,breadth score,P < 10^-132
+mcguire2021,text (Fig 2),7,antibody,S. pneumoniae IgG breadth: LMIC vs HIC,LMIC vs HIC,comparison,,effect size (breadth-score difference),>=5% higher in LMIC,breadth score,P < 10^-10
+mcguire2021,text (Fig 2),7,antibody,S. aureus IgA breadth: LMIC vs HIC,LMIC vs HIC,comparison,,effect size (breadth-score difference),>=5% lower in LMIC,breadth score,P < 10^-10
+mcguire2021,text,6,antibody,IgG reactivity to Shigella: Peru vs Spain,Peru vs Spain,comparison,,P value,<1e-28,unitless,text + Table S1B
+mcguire2021,text (Fig 2A),7,antibody,Shigella and S. pneumoniae IgA breadth (all samples),all samples,overall,,median breadth score (approx.),~0.25 each,breadth score,"approx, read from text statement - UNVERIFIED exact"
+mcguire2021,text (Fig 2A),7,antibody,"S. aureus IgA breadth (max, all samples)",all samples,overall,,breadth score (approx.),~0.70,breadth score,approx - UNVERIFIED exact

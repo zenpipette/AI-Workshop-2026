@@ -1,0 +1,229 @@
+paper,table,page,data_type,analyte,group,group_type,n,statistic,value,unit,notes
+mcguire2017,Table 5,11,HMO (NMF score),2#FL,Ethiopia Rural,population,40,NMF feature score,0.43,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),2#FL,Ethiopia Urban,population,40,NMF feature score,0.30,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),2#FL,Gambia Rural,population,40,NMF feature score,0.39,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),2#FL,Gambia Urban,population,40,NMF feature score,0.41,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),2#FL,Ghana,population,40,NMF feature score,0.43,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),2#FL,Kenya,population,42,NMF feature score,0.45,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),2#FL,Peru,population,43,NMF feature score,0.98,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),2#FL,Spain,population,41,NMF feature score,0.63,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),2#FL,Sweden,population,24,NMF feature score,0.68,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),2#FL,United States Washington,population,41,NMF feature score,0.60,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),2#FL,United States California,population,19,NMF feature score,0.62,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),2#FL,Overall,overall,410,NMF feature score,1.00,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),3FL,Ethiopia Rural,population,40,NMF feature score,0.26,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),3FL,Ethiopia Urban,population,40,NMF feature score,0.13,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),3FL,Gambia Rural,population,40,NMF feature score,0.19,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),3FL,Gambia Urban,population,40,NMF feature score,0.42,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),3FL,Ghana,population,40,NMF feature score,0.42,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),3FL,Kenya,population,42,NMF feature score,0.44,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),3FL,Peru,population,43,NMF feature score,0.46,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),3FL,Spain,population,41,NMF feature score,0.58,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),3FL,Sweden,population,24,NMF feature score,0.36,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),3FL,United States Washington,population,41,NMF feature score,0.55,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),3FL,United States California,population,19,NMF feature score,0.60,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),3FL,Overall,overall,410,NMF feature score,0.50,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNnT,Ethiopia Rural,population,40,NMF feature score,0.18,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNnT,Ethiopia Urban,population,40,NMF feature score,0.15,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNnT,Gambia Rural,population,40,NMF feature score,0.26,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNnT,Gambia Urban,population,40,NMF feature score,0.22,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNnT,Ghana,population,40,NMF feature score,0.34,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNnT,Kenya,population,42,NMF feature score,0.17,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNnT,Peru,population,43,NMF feature score,0.32,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNnT,Spain,population,41,NMF feature score,0.30,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNnT,Sweden,population,24,NMF feature score,0.25,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNnT,United States Washington,population,41,NMF feature score,0.42,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNnT,United States California,population,19,NMF feature score,0.14,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNnT,Overall,overall,410,NMF feature score,0.45,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),3#SL,Ethiopia Rural,population,40,NMF feature score,0.19,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),3#SL,Ethiopia Urban,population,40,NMF feature score,0.08,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),3#SL,Gambia Rural,population,40,NMF feature score,0.27,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),3#SL,Gambia Urban,population,40,NMF feature score,0.14,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),3#SL,Ghana,population,40,NMF feature score,0.09,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),3#SL,Kenya,population,42,NMF feature score,0.14,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),3#SL,Peru,population,43,NMF feature score,0.17,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),3#SL,Spain,population,41,NMF feature score,0.33,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),3#SL,Sweden,population,24,NMF feature score,0.20,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),3#SL,United States Washington,population,41,NMF feature score,0.07,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),3#SL,United States California,population,19,NMF feature score,0.26,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),3#SL,Overall,overall,410,NMF feature score,0.19,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DFLac,Ethiopia Rural,population,40,NMF feature score,0.49,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DFLac,Ethiopia Urban,population,40,NMF feature score,0.30,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DFLac,Gambia Rural,population,40,NMF feature score,0.32,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DFLac,Gambia Urban,population,40,NMF feature score,0.67,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DFLac,Ghana,population,40,NMF feature score,0.29,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DFLac,Kenya,population,42,NMF feature score,0.31,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DFLac,Peru,population,43,NMF feature score,0.54,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DFLac,Spain,population,41,NMF feature score,0.69,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DFLac,Sweden,population,24,NMF feature score,0.56,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DFLac,United States Washington,population,41,NMF feature score,0.23,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DFLac,United States California,population,19,NMF feature score,0.47,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DFLac,Overall,overall,410,NMF feature score,0.51,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),6#SL,Ethiopia Rural,population,40,NMF feature score,0.45,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),6#SL,Ethiopia Urban,population,40,NMF feature score,0.49,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),6#SL,Gambia Rural,population,40,NMF feature score,0.36,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),6#SL,Gambia Urban,population,40,NMF feature score,0.18,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),6#SL,Ghana,population,40,NMF feature score,0.46,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),6#SL,Kenya,population,42,NMF feature score,0.28,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),6#SL,Peru,population,43,NMF feature score,0.40,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),6#SL,Spain,population,41,NMF feature score,0.33,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),6#SL,Sweden,population,24,NMF feature score,0.13,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),6#SL,United States Washington,population,41,NMF feature score,0.16,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),6#SL,United States California,population,19,NMF feature score,0.74,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),6#SL,Overall,overall,410,NMF feature score,0.70,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNT,Ethiopia Rural,population,40,NMF feature score,0.34,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNT,Ethiopia Urban,population,40,NMF feature score,0.29,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNT,Gambia Rural,population,40,NMF feature score,0.48,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNT,Gambia Urban,population,40,NMF feature score,0.22,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNT,Ghana,population,40,NMF feature score,0.65,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNT,Kenya,population,42,NMF feature score,0.22,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNT,Peru,population,43,NMF feature score,0.44,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNT,Spain,population,41,NMF feature score,0.23,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNT,Sweden,population,24,NMF feature score,0.33,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNT,United States Washington,population,41,NMF feature score,0.29,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNT,United States California,population,19,NMF feature score,0.40,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNT,Overall,overall,410,NMF feature score,0.55,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNFP I,Ethiopia Rural,population,40,NMF feature score,0.44,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNFP I,Ethiopia Urban,population,40,NMF feature score,0.30,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNFP I,Gambia Rural,population,40,NMF feature score,0.42,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNFP I,Gambia Urban,population,40,NMF feature score,0.43,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNFP I,Ghana,population,40,NMF feature score,0.60,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNFP I,Kenya,population,42,NMF feature score,0.61,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNFP I,Peru,population,43,NMF feature score,0.66,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNFP I,Spain,population,41,NMF feature score,0.52,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNFP I,Sweden,population,24,NMF feature score,0.53,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNFP I,United States Washington,population,41,NMF feature score,0.59,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNFP I,United States California,population,19,NMF feature score,0.52,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNFP I,Overall,overall,410,NMF feature score,0.79,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNFP II,Ethiopia Rural,population,40,NMF feature score,0.34,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNFP II,Ethiopia Urban,population,40,NMF feature score,0.36,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNFP II,Gambia Rural,population,40,NMF feature score,0.51,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNFP II,Gambia Urban,population,40,NMF feature score,0.39,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNFP II,Ghana,population,40,NMF feature score,0.32,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNFP II,Kenya,population,42,NMF feature score,0.49,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNFP II,Peru,population,43,NMF feature score,0.57,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNFP II,Spain,population,41,NMF feature score,0.46,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNFP II,Sweden,population,24,NMF feature score,0.65,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNFP II,United States Washington,population,41,NMF feature score,0.31,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNFP II,United States California,population,19,NMF feature score,0.47,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNFP II,Overall,overall,410,NMF feature score,0.63,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNFP III,Ethiopia Rural,population,40,NMF feature score,0.22,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNFP III,Ethiopia Urban,population,40,NMF feature score,0.18,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNFP III,Gambia Rural,population,40,NMF feature score,0.16,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNFP III,Gambia Urban,population,40,NMF feature score,0.20,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNFP III,Ghana,population,40,NMF feature score,0.34,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNFP III,Kenya,population,42,NMF feature score,0.61,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNFP III,Peru,population,43,NMF feature score,0.15,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNFP III,Spain,population,41,NMF feature score,0.13,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNFP III,Sweden,population,24,NMF feature score,0.39,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNFP III,United States Washington,population,41,NMF feature score,0.37,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNFP III,United States California,population,19,NMF feature score,0.33,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNFP III,Overall,overall,410,NMF feature score,0.42,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LSTb,Ethiopia Rural,population,40,NMF feature score,0.28,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LSTb,Ethiopia Urban,population,40,NMF feature score,0.19,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LSTb,Gambia Rural,population,40,NMF feature score,0.39,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LSTb,Gambia Urban,population,40,NMF feature score,0.22,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LSTb,Ghana,population,40,NMF feature score,0.35,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LSTb,Kenya,population,42,NMF feature score,0.24,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LSTb,Peru,population,43,NMF feature score,0.22,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LSTb,Spain,population,41,NMF feature score,0.27,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LSTb,Sweden,population,24,NMF feature score,0.18,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LSTb,United States Washington,population,41,NMF feature score,0.25,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LSTb,United States California,population,19,NMF feature score,0.14,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LSTb,Overall,overall,410,NMF feature score,0.33,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LSTc,Ethiopia Rural,population,40,NMF feature score,0.34,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LSTc,Ethiopia Urban,population,40,NMF feature score,0.23,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LSTc,Gambia Rural,population,40,NMF feature score,0.23,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LSTc,Gambia Urban,population,40,NMF feature score,0.17,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LSTc,Ghana,population,40,NMF feature score,0.21,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LSTc,Kenya,population,42,NMF feature score,0.17,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LSTc,Peru,population,43,NMF feature score,0.21,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LSTc,Spain,population,41,NMF feature score,0.32,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LSTc,Sweden,population,24,NMF feature score,0.06,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LSTc,United States Washington,population,41,NMF feature score,0.14,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LSTc,United States California,population,19,NMF feature score,0.55,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LSTc,Overall,overall,410,NMF feature score,0.46,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DFLNT,Ethiopia Rural,population,40,NMF feature score,0.44,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DFLNT,Ethiopia Urban,population,40,NMF feature score,0.28,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DFLNT,Gambia Rural,population,40,NMF feature score,0.38,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DFLNT,Gambia Urban,population,40,NMF feature score,0.72,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DFLNT,Ghana,population,40,NMF feature score,0.46,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DFLNT,Kenya,population,42,NMF feature score,0.72,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DFLNT,Peru,population,43,NMF feature score,0.74,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DFLNT,Spain,population,41,NMF feature score,0.85,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DFLNT,Sweden,population,24,NMF feature score,0.56,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DFLNT,United States Washington,population,41,NMF feature score,0.59,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DFLNT,United States California,population,19,NMF feature score,0.71,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DFLNT,Overall,overall,410,NMF feature score,0.72,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNH,Ethiopia Rural,population,40,NMF feature score,0.25,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNH,Ethiopia Urban,population,40,NMF feature score,0.35,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNH,Gambia Rural,population,40,NMF feature score,0.39,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNH,Gambia Urban,population,40,NMF feature score,0.19,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNH,Ghana,population,40,NMF feature score,0.19,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNH,Kenya,population,42,NMF feature score,0.30,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNH,Peru,population,43,NMF feature score,0.41,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNH,Spain,population,41,NMF feature score,0.43,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNH,Sweden,population,24,NMF feature score,0.51,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNH,United States Washington,population,41,NMF feature score,0.28,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNH,United States California,population,19,NMF feature score,0.20,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),LNH,Overall,overall,410,NMF feature score,0.22,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DSLNT,Ethiopia Rural,population,40,NMF feature score,0.15,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DSLNT,Ethiopia Urban,population,40,NMF feature score,0.16,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DSLNT,Gambia Rural,population,40,NMF feature score,0.19,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DSLNT,Gambia Urban,population,40,NMF feature score,0.20,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DSLNT,Ghana,population,40,NMF feature score,0.32,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DSLNT,Kenya,population,42,NMF feature score,0.23,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DSLNT,Peru,population,43,NMF feature score,0.23,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DSLNT,Spain,population,41,NMF feature score,0.28,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DSLNT,Sweden,population,24,NMF feature score,0.14,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DSLNT,United States Washington,population,41,NMF feature score,0.22,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DSLNT,United States California,population,19,NMF feature score,0.25,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DSLNT,Overall,overall,410,NMF feature score,0.23,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),FLNH,Ethiopia Rural,population,40,NMF feature score,0.15,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),FLNH,Ethiopia Urban,population,40,NMF feature score,0.13,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),FLNH,Gambia Rural,population,40,NMF feature score,0.19,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),FLNH,Gambia Urban,population,40,NMF feature score,0.16,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),FLNH,Ghana,population,40,NMF feature score,0.50,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),FLNH,Kenya,population,42,NMF feature score,0.06,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),FLNH,Peru,population,43,NMF feature score,0.47,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),FLNH,Spain,population,41,NMF feature score,0.42,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),FLNH,Sweden,population,24,NMF feature score,0.25,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),FLNH,United States Washington,population,41,NMF feature score,0.29,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),FLNH,United States California,population,19,NMF feature score,0.29,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),FLNH,Overall,overall,410,NMF feature score,0.31,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DFLNH,Ethiopia Rural,population,40,NMF feature score,0.43,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DFLNH,Ethiopia Urban,population,40,NMF feature score,0.32,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DFLNH,Gambia Rural,population,40,NMF feature score,0.34,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DFLNH,Gambia Urban,population,40,NMF feature score,0.61,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DFLNH,Ghana,population,40,NMF feature score,0.23,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DFLNH,Kenya,population,42,NMF feature score,0.43,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DFLNH,Peru,population,43,NMF feature score,0.34,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DFLNH,Spain,population,41,NMF feature score,0.41,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DFLNH,Sweden,population,24,NMF feature score,0.21,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DFLNH,United States Washington,population,41,NMF feature score,0.44,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DFLNH,United States California,population,19,NMF feature score,0.41,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DFLNH,Overall,overall,410,NMF feature score,0.37,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),FDSLNH,Ethiopia Rural,population,40,NMF feature score,0.47,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),FDSLNH,Ethiopia Urban,population,40,NMF feature score,0.45,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),FDSLNH,Gambia Rural,population,40,NMF feature score,0.48,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),FDSLNH,Gambia Urban,population,40,NMF feature score,0.52,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),FDSLNH,Ghana,population,40,NMF feature score,0.36,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),FDSLNH,Kenya,population,42,NMF feature score,0.60,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),FDSLNH,Peru,population,43,NMF feature score,0.55,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),FDSLNH,Spain,population,41,NMF feature score,0.64,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),FDSLNH,Sweden,population,24,NMF feature score,0.56,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),FDSLNH,United States Washington,population,41,NMF feature score,0.39,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),FDSLNH,United States California,population,19,NMF feature score,0.42,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),FDSLNH,Overall,overall,410,NMF feature score,0.63,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DSLNH,Ethiopia Rural,population,40,NMF feature score,0.54,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DSLNH,Ethiopia Urban,population,40,NMF feature score,0.24,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DSLNH,Gambia Rural,population,40,NMF feature score,0.50,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DSLNH,Gambia Urban,population,40,NMF feature score,0.28,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DSLNH,Ghana,population,40,NMF feature score,0.41,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DSLNH,Kenya,population,42,NMF feature score,0.46,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DSLNH,Peru,population,43,NMF feature score,0.35,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DSLNH,Spain,population,41,NMF feature score,0.61,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DSLNH,Sweden,population,24,NMF feature score,0.09,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DSLNH,United States Washington,population,41,NMF feature score,0.18,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DSLNH,United States California,population,19,NMF feature score,0.14,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 5,11,HMO (NMF score),DSLNH,Overall,overall,410,NMF feature score,0.52,unitless,probability of contribution to HMO-profile structure

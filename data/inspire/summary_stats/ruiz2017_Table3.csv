@@ -1,0 +1,147 @@
+paper,table,page,data_type,analyte,group,group_type,n,statistic,value,unit,notes
+ruiz2017,Table 3,7,innate immune factor,IL1β,Ethiopia urban,population,40,median,0.57,ng/L,IQR 0.25-0.87;group_letters=abc
+ruiz2017,Table 3,7,innate immune factor,IL1β,Ethiopia urban,population,40,IQR lower,0.25,ng/L,median=0.57;group_letters=abc
+ruiz2017,Table 3,7,innate immune factor,IL1β,Ethiopia urban,population,40,IQR upper,0.87,ng/L,median=0.57;group_letters=abc
+ruiz2017,Table 3,7,innate immune factor,IL6,Ethiopia urban,population,40,median,15.37,ng/L,IQR 1.33-62.86;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,IL6,Ethiopia urban,population,40,IQR lower,1.33,ng/L,median=15.37;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,IL6,Ethiopia urban,population,40,IQR upper,62.86,ng/L,median=15.37;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,IL12,Ethiopia urban,population,40,median,2.61,ng/L,IQR 0.64-2207.0;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,IL12,Ethiopia urban,population,40,IQR lower,0.64,ng/L,median=2.61;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,IL12,Ethiopia urban,population,40,IQR upper,2207.0,ng/L,median=2.61;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,INFγ,Ethiopia urban,population,40,median,10.93,ng/L,IQR 6.2-25.18
+ruiz2017,Table 3,7,innate immune factor,INFγ,Ethiopia urban,population,40,IQR lower,6.2,ng/L,median=10.93
+ruiz2017,Table 3,7,innate immune factor,INFγ,Ethiopia urban,population,40,IQR upper,25.18,ng/L,median=10.93
+ruiz2017,Table 3,7,innate immune factor,TNFα,Ethiopia urban,population,40,median,4.67,ng/L,IQR 3.39-7.0;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,TNFα,Ethiopia urban,population,40,IQR lower,3.39,ng/L,median=4.67;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,TNFα,Ethiopia urban,population,40,IQR upper,7.0,ng/L,median=4.67;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,IL1β,Gambia rural,population,40,median,0.4,ng/L,IQR 0.28-1.08;group_letters=abc
+ruiz2017,Table 3,7,innate immune factor,IL1β,Gambia rural,population,40,IQR lower,0.28,ng/L,median=0.4;group_letters=abc
+ruiz2017,Table 3,7,innate immune factor,IL1β,Gambia rural,population,40,IQR upper,1.08,ng/L,median=0.4;group_letters=abc
+ruiz2017,Table 3,7,innate immune factor,IL6,Gambia rural,population,40,median,7.06,ng/L,IQR 3.56-16.1;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,IL6,Gambia rural,population,40,IQR lower,3.56,ng/L,median=7.06;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,IL6,Gambia rural,population,40,IQR upper,16.1,ng/L,median=7.06;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,IL12,Gambia rural,population,40,median,4.16,ng/L,IQR 2.82-8.11;group_letters=a
+ruiz2017,Table 3,7,innate immune factor,IL12,Gambia rural,population,40,IQR lower,2.82,ng/L,median=4.16;group_letters=a
+ruiz2017,Table 3,7,innate immune factor,IL12,Gambia rural,population,40,IQR upper,8.11,ng/L,median=4.16;group_letters=a
+ruiz2017,Table 3,7,innate immune factor,INFγ,Gambia rural,population,40,median,26.57,ng/L,IQR 18.35-38.66
+ruiz2017,Table 3,7,innate immune factor,INFγ,Gambia rural,population,40,IQR lower,18.35,ng/L,median=26.57
+ruiz2017,Table 3,7,innate immune factor,INFγ,Gambia rural,population,40,IQR upper,38.66,ng/L,median=26.57
+ruiz2017,Table 3,7,innate immune factor,TNFα,Gambia rural,population,40,median,8.63,ng/L,IQR 5.23-13.5;group_letters=b
+ruiz2017,Table 3,7,innate immune factor,TNFα,Gambia rural,population,40,IQR lower,5.23,ng/L,median=8.63;group_letters=b
+ruiz2017,Table 3,7,innate immune factor,TNFα,Gambia rural,population,40,IQR upper,13.5,ng/L,median=8.63;group_letters=b
+ruiz2017,Table 3,7,innate immune factor,IL1β,Gambia urban,population,40,median,0.52,ng/L,IQR 0.24-3.43;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,IL1β,Gambia urban,population,40,IQR lower,0.24,ng/L,median=0.52;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,IL1β,Gambia urban,population,40,IQR upper,3.43,ng/L,median=0.52;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,IL6,Gambia urban,population,40,median,12.51,ng/L,IQR 4.14-31.86;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,IL6,Gambia urban,population,40,IQR lower,4.14,ng/L,median=12.51;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,IL6,Gambia urban,population,40,IQR upper,31.86,ng/L,median=12.51;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,IL12,Gambia urban,population,40,median,1.71,ng/L,IQR 1.23-4.23;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,IL12,Gambia urban,population,40,IQR lower,1.23,ng/L,median=1.71;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,IL12,Gambia urban,population,40,IQR upper,4.23,ng/L,median=1.71;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,INFγ,Gambia urban,population,40,median,19.25,ng/L,IQR 12.52-44.75
+ruiz2017,Table 3,7,innate immune factor,INFγ,Gambia urban,population,40,IQR lower,12.52,ng/L,median=19.25
+ruiz2017,Table 3,7,innate immune factor,INFγ,Gambia urban,population,40,IQR upper,44.75,ng/L,median=19.25
+ruiz2017,Table 3,7,innate immune factor,TNFα,Gambia urban,population,40,median,1.27,ng/L,IQR 0.91-2.32;group_letters=a
+ruiz2017,Table 3,7,innate immune factor,TNFα,Gambia urban,population,40,IQR lower,0.91,ng/L,median=1.27;group_letters=a
+ruiz2017,Table 3,7,innate immune factor,TNFα,Gambia urban,population,40,IQR upper,2.32,ng/L,median=1.27;group_letters=a
+ruiz2017,Table 3,7,innate immune factor,IL1β,Ghana,population,40,median,0.74,ng/L,IQR 0.39-1.95;group_letters=a
+ruiz2017,Table 3,7,innate immune factor,IL1β,Ghana,population,40,IQR lower,0.39,ng/L,median=0.74;group_letters=a
+ruiz2017,Table 3,7,innate immune factor,IL1β,Ghana,population,40,IQR upper,1.95,ng/L,median=0.74;group_letters=a
+ruiz2017,Table 3,7,innate immune factor,IL6,Ghana,population,40,median,4.03,ng/L,IQR 1.1-16.23;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,IL6,Ghana,population,40,IQR lower,1.1,ng/L,median=4.03;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,IL6,Ghana,population,40,IQR upper,16.23,ng/L,median=4.03;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,IL12,Ghana,population,40,median,2.04,ng/L,IQR 1.2-3.03;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,IL12,Ghana,population,40,IQR lower,1.2,ng/L,median=2.04;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,IL12,Ghana,population,40,IQR upper,3.03,ng/L,median=2.04;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,INFγ,Ghana,population,40,median,15.52,ng/L,IQR 1.14-116.47
+ruiz2017,Table 3,7,innate immune factor,INFγ,Ghana,population,40,IQR lower,1.14,ng/L,median=15.52
+ruiz2017,Table 3,7,innate immune factor,INFγ,Ghana,population,40,IQR upper,116.47,ng/L,median=15.52
+ruiz2017,Table 3,7,innate immune factor,TNFα,Ghana,population,40,median,4.67,ng/L,IQR 3.68-7.46;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,TNFα,Ghana,population,40,IQR lower,3.68,ng/L,median=4.67;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,TNFα,Ghana,population,40,IQR upper,7.46,ng/L,median=4.67;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,IL1β,Kenya,population,42,median,0.98,ng/L,IQR 0.61-1.7;group_letters=a
+ruiz2017,Table 3,7,innate immune factor,IL1β,Kenya,population,42,IQR lower,0.61,ng/L,median=0.98;group_letters=a
+ruiz2017,Table 3,7,innate immune factor,IL1β,Kenya,population,42,IQR upper,1.7,ng/L,median=0.98;group_letters=a
+ruiz2017,Table 3,7,innate immune factor,IL6,Kenya,population,42,median,12.85,ng/L,IQR 5.8-43.19;group_letters=a
+ruiz2017,Table 3,7,innate immune factor,IL6,Kenya,population,42,IQR lower,5.8,ng/L,median=12.85;group_letters=a
+ruiz2017,Table 3,7,innate immune factor,IL6,Kenya,population,42,IQR upper,43.19,ng/L,median=12.85;group_letters=a
+ruiz2017,Table 3,7,innate immune factor,IL12,Kenya,population,42,median,4.46,ng/L,IQR 1.85-5.79;group_letters=a
+ruiz2017,Table 3,7,innate immune factor,IL12,Kenya,population,42,IQR lower,1.85,ng/L,median=4.46;group_letters=a
+ruiz2017,Table 3,7,innate immune factor,IL12,Kenya,population,42,IQR upper,5.79,ng/L,median=4.46;group_letters=a
+ruiz2017,Table 3,7,innate immune factor,INFγ,Kenya,population,42,median,31.84,ng/L,IQR 21.16-82.65
+ruiz2017,Table 3,7,innate immune factor,INFγ,Kenya,population,42,IQR lower,21.16,ng/L,median=31.84
+ruiz2017,Table 3,7,innate immune factor,INFγ,Kenya,population,42,IQR upper,82.65,ng/L,median=31.84
+ruiz2017,Table 3,7,innate immune factor,TNFα,Kenya,population,42,median,6.83,ng/L,IQR 2.08-12.47;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,TNFα,Kenya,population,42,IQR lower,2.08,ng/L,median=6.83;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,TNFα,Kenya,population,42,IQR upper,12.47,ng/L,median=6.83;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,IL1β,Peru,population,43,median,0.52,ng/L,IQR 0.24-1.15;group_letters=abc
+ruiz2017,Table 3,7,innate immune factor,IL1β,Peru,population,43,IQR lower,0.24,ng/L,median=0.52;group_letters=abc
+ruiz2017,Table 3,7,innate immune factor,IL1β,Peru,population,43,IQR upper,1.15,ng/L,median=0.52;group_letters=abc
+ruiz2017,Table 3,7,innate immune factor,IL6,Peru,population,43,median,5.11,ng/L,IQR 1.83-19.52;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,IL6,Peru,population,43,IQR lower,1.83,ng/L,median=5.11;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,IL6,Peru,population,43,IQR upper,19.52,ng/L,median=5.11;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,IL12,Peru,population,43,median,1.71,ng/L,IQR 1.23-2.97;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,IL12,Peru,population,43,IQR lower,1.23,ng/L,median=1.71;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,IL12,Peru,population,43,IQR upper,2.97,ng/L,median=1.71;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,INFγ,Peru,population,43,median,18.33,ng/L,IQR 9.94-53.78
+ruiz2017,Table 3,7,innate immune factor,INFγ,Peru,population,43,IQR lower,9.94,ng/L,median=18.33
+ruiz2017,Table 3,7,innate immune factor,INFγ,Peru,population,43,IQR upper,53.78,ng/L,median=18.33
+ruiz2017,Table 3,7,innate immune factor,TNFα,Peru,population,43,median,3.65,ng/L,IQR 1.26-12.68;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,TNFα,Peru,population,43,IQR lower,1.26,ng/L,median=3.65;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,TNFα,Peru,population,43,IQR upper,12.68,ng/L,median=3.65;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,IL1β,Spain,population,41,median,1.14,ng/L,IQR 0.27-2.61;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,IL1β,Spain,population,41,IQR lower,0.27,ng/L,median=1.14;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,IL1β,Spain,population,41,IQR upper,2.61,ng/L,median=1.14;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,IL6,Spain,population,41,median,12.69,ng/L,IQR 6.13-19.21;group_letters=a
+ruiz2017,Table 3,7,innate immune factor,IL6,Spain,population,41,IQR lower,6.13,ng/L,median=12.69;group_letters=a
+ruiz2017,Table 3,7,innate immune factor,IL6,Spain,population,41,IQR upper,19.21,ng/L,median=12.69;group_letters=a
+ruiz2017,Table 3,7,innate immune factor,IL12,Spain,population,41,median,0.86,ng/L,IQR 0.12-0.96;group_letters=b
+ruiz2017,Table 3,7,innate immune factor,IL12,Spain,population,41,IQR lower,0.12,ng/L,median=0.86;group_letters=b
+ruiz2017,Table 3,7,innate immune factor,IL12,Spain,population,41,IQR upper,0.96,ng/L,median=0.86;group_letters=b
+ruiz2017,Table 3,7,innate immune factor,INFγ,Spain,population,41,median,4.7,ng/L,IQR 4.7-4.7
+ruiz2017,Table 3,7,innate immune factor,INFγ,Spain,population,41,IQR lower,4.7,ng/L,median=4.7
+ruiz2017,Table 3,7,innate immune factor,INFγ,Spain,population,41,IQR upper,4.7,ng/L,median=4.7
+ruiz2017,Table 3,7,innate immune factor,TNFα,Spain,population,41,median,3.18,ng/L,IQR 1.76-4.98;group_letters=a
+ruiz2017,Table 3,7,innate immune factor,TNFα,Spain,population,41,IQR lower,1.76,ng/L,median=3.18;group_letters=a
+ruiz2017,Table 3,7,innate immune factor,TNFα,Spain,population,41,IQR upper,4.98,ng/L,median=3.18;group_letters=a
+ruiz2017,Table 3,7,innate immune factor,IL1β,Sweden,population,24,median,0.32,ng/L,IQR 0.26-1.21;group_letters=abc
+ruiz2017,Table 3,7,innate immune factor,IL1β,Sweden,population,24,IQR lower,0.26,ng/L,median=0.32;group_letters=abc
+ruiz2017,Table 3,7,innate immune factor,IL1β,Sweden,population,24,IQR upper,1.21,ng/L,median=0.32;group_letters=abc
+ruiz2017,Table 3,7,innate immune factor,IL6,Sweden,population,24,median,3.48,ng/L,IQR 2.81-5.39;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,IL6,Sweden,population,24,IQR lower,2.81,ng/L,median=3.48;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,IL6,Sweden,population,24,IQR upper,5.39,ng/L,median=3.48;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,IL12,Sweden,population,24,median,0.78,ng/L,IQR 0.61-37.71;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,IL12,Sweden,population,24,IQR lower,0.61,ng/L,median=0.78;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,IL12,Sweden,population,24,IQR upper,37.71,ng/L,median=0.78;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,INFγ,Sweden,population,24,median,8.06,ng/L,IQR 1.28-14.85
+ruiz2017,Table 3,7,innate immune factor,INFγ,Sweden,population,24,IQR lower,1.28,ng/L,median=8.06
+ruiz2017,Table 3,7,innate immune factor,INFγ,Sweden,population,24,IQR upper,14.85,ng/L,median=8.06
+ruiz2017,Table 3,7,innate immune factor,TNFα,Sweden,population,24,median,3.65,ng/L,IQR 1.5-5.54;group_letters=a
+ruiz2017,Table 3,7,innate immune factor,TNFα,Sweden,population,24,IQR lower,1.5,ng/L,median=3.65;group_letters=a
+ruiz2017,Table 3,7,innate immune factor,TNFα,Sweden,population,24,IQR upper,5.54,ng/L,median=3.65;group_letters=a
+ruiz2017,Table 3,7,innate immune factor,IL1β,United States Washington,population,41,median,0.17,ng/L,IQR 0.11-0.58;group_letters=bc
+ruiz2017,Table 3,7,innate immune factor,IL1β,United States Washington,population,41,IQR lower,0.11,ng/L,median=0.17;group_letters=bc
+ruiz2017,Table 3,7,innate immune factor,IL1β,United States Washington,population,41,IQR upper,0.58,ng/L,median=0.17;group_letters=bc
+ruiz2017,Table 3,7,innate immune factor,IL6,United States Washington,population,41,median,3.61,ng/L,IQR 1.07-10.33;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,IL6,United States Washington,population,41,IQR lower,1.07,ng/L,median=3.61;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,IL6,United States Washington,population,41,IQR upper,10.33,ng/L,median=3.61;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,IL12,United States Washington,population,41,median,0.77,ng/L,IQR 0.61-0.94;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,IL12,United States Washington,population,41,IQR lower,0.61,ng/L,median=0.77;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,IL12,United States Washington,population,41,IQR upper,0.94,ng/L,median=0.77;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,INFγ,United States Washington,population,41,median,21.35,ng/L,IQR 2.16-40.55
+ruiz2017,Table 3,7,innate immune factor,INFγ,United States Washington,population,41,IQR lower,2.16,ng/L,median=21.35
+ruiz2017,Table 3,7,innate immune factor,INFγ,United States Washington,population,41,IQR upper,40.55,ng/L,median=21.35
+ruiz2017,Table 3,7,innate immune factor,TNFα,United States Washington,population,41,median,4.98,ng/L,IQR 2.83-7.07;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,TNFα,United States Washington,population,41,IQR lower,2.83,ng/L,median=4.98;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,TNFα,United States Washington,population,41,IQR upper,7.07,ng/L,median=4.98;group_letters=ab
+ruiz2017,Table 3,7,innate immune factor,IL1β,United States California,population,19,median,0.12,ng/L,IQR 0.06-0.25;group_letters=c
+ruiz2017,Table 3,7,innate immune factor,IL1β,United States California,population,19,IQR lower,0.06,ng/L,median=0.12;group_letters=c
+ruiz2017,Table 3,7,innate immune factor,IL1β,United States California,population,19,IQR upper,0.25,ng/L,median=0.12;group_letters=c
+ruiz2017,Table 3,7,innate immune factor,IL6,United States California,population,19,median,2.13,ng/L,IQR 0.18-4.94;group_letters=b
+ruiz2017,Table 3,7,innate immune factor,IL6,United States California,population,19,IQR lower,0.18,ng/L,median=2.13;group_letters=b
+ruiz2017,Table 3,7,innate immune factor,IL6,United States California,population,19,IQR upper,4.94,ng/L,median=2.13;group_letters=b
+ruiz2017,Table 3,7,innate immune factor,IL12,United States California,population,19,median (IQR),nd,ng/L,below detection limit
+ruiz2017,Table 3,7,innate immune factor,INFγ,United States California,population,19,median (IQR),nd,ng/L,below detection limit
+ruiz2017,Table 3,7,innate immune factor,TNFα,United States California,population,19,median,4.45,ng/L,IQR 1.72-7.07;group_letters=a
+ruiz2017,Table 3,7,innate immune factor,TNFα,United States California,population,19,IQR lower,1.72,ng/L,median=4.45;group_letters=a
+ruiz2017,Table 3,7,innate immune factor,TNFα,United States California,population,19,IQR upper,7.07,ng/L,median=4.45;group_letters=a

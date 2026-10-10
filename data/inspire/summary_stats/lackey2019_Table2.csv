@@ -1,0 +1,617 @@
+paper,table,page,data_type,analyte,group,group_type,n,statistic,value,unit,notes
+lackey2019,Table 2,10,infant fecal microbiome,Streptococcus,Ethiopia rural,population,40,relative abundance (mean),18.2,%,SEM=2.4;group_letters=bc;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Streptococcus,Ethiopia rural,population,40,SEM,2.4,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Streptococcus,Ethiopia urban,population,32,relative abundance (mean),16.0,%,SEM=2.4;group_letters=bc;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Streptococcus,Ethiopia urban,population,32,SEM,2.4,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Streptococcus,Gambia rural,population,38,relative abundance (mean),27.7,%,SEM=3.1;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Streptococcus,Gambia rural,population,38,SEM,3.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Streptococcus,Gambia urban,population,38,relative abundance (mean),33.6,%,SEM=3.4;group_letters=a;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Streptococcus,Gambia urban,population,38,SEM,3.4,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Streptococcus,Ghana,population,32,relative abundance (mean),12.3,%,SEM=2.0;group_letters=c;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Streptococcus,Ghana,population,32,SEM,2.0,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Streptococcus,Kenya,population,42,relative abundance (mean),16.5,%,SEM=2.2;group_letters=bc;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Streptococcus,Kenya,population,42,SEM,2.2,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Streptococcus,Peru,population,42,relative abundance (mean),15.7,%,SEM=2.1;group_letters=bc;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Streptococcus,Peru,population,42,SEM,2.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Streptococcus,Spain,population,37,relative abundance (mean),12.5,%,SEM=1.9;group_letters=c;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Streptococcus,Spain,population,37,SEM,1.9,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Streptococcus,Sweden,population,23,relative abundance (mean),9.0,%,SEM=1.8;group_letters=c;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Streptococcus,Sweden,population,23,SEM,1.8,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Streptococcus,US California,population,12,relative abundance (mean),7.1,%,SEM=2.0;group_letters=c;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Streptococcus,US California,population,12,SEM,2.0,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Streptococcus,US Washington,population,41,relative abundance (mean),12.1,%,SEM=1.8;group_letters=c;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Streptococcus,US Washington,population,41,SEM,1.8,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Escherichia/Shigella,Ethiopia rural,population,40,relative abundance (mean),19.0,%,SEM=2.7;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Escherichia/Shigella,Ethiopia rural,population,40,SEM,2.7,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Escherichia/Shigella,Ethiopia urban,population,32,relative abundance (mean),22.0,%,SEM=3.3;group_letters=a;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Escherichia/Shigella,Ethiopia urban,population,32,SEM,3.3,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Escherichia/Shigella,Gambia rural,population,38,relative abundance (mean),13.5,%,SEM=2.1;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Escherichia/Shigella,Gambia rural,population,38,SEM,2.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Escherichia/Shigella,Gambia urban,population,38,relative abundance (mean),13.6,%,SEM=2.1;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Escherichia/Shigella,Gambia urban,population,38,SEM,2.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Escherichia/Shigella,Ghana,population,32,relative abundance (mean),17.5,%,SEM=2.8;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Escherichia/Shigella,Ghana,population,32,SEM,2.8,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Escherichia/Shigella,Kenya,population,42,relative abundance (mean),19.0,%,SEM=2.7;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Escherichia/Shigella,Kenya,population,42,SEM,2.7,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Escherichia/Shigella,Peru,population,42,relative abundance (mean),19.9,%,SEM=2.7;group_letters=a;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Escherichia/Shigella,Peru,population,42,SEM,2.7,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Escherichia/Shigella,Spain,population,37,relative abundance (mean),16.7,%,SEM=2.6;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Escherichia/Shigella,Spain,population,37,SEM,2.6,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Escherichia/Shigella,Sweden,population,23,relative abundance (mean),12.0,%,SEM=2.4;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Escherichia/Shigella,Sweden,population,23,SEM,2.4,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Escherichia/Shigella,US California,population,12,relative abundance (mean),9.2,%,SEM=2.6;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Escherichia/Shigella,US California,population,12,SEM,2.6,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Escherichia/Shigella,US Washington,population,41,relative abundance (mean),10.0,%,SEM=1.6;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Escherichia/Shigella,US Washington,population,41,SEM,1.6,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Veillonella,Ethiopia rural,population,40,relative abundance (mean),13.7,%,SEM=2.0;group_letters=a;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Veillonella,Ethiopia rural,population,40,SEM,2.0,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Veillonella,Ethiopia urban,population,32,relative abundance (mean),9.8,%,SEM=1.7;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Veillonella,Ethiopia urban,population,32,SEM,1.7,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Veillonella,Gambia rural,population,38,relative abundance (mean),13.2,%,SEM=2.1;group_letters=a;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Veillonella,Gambia rural,population,38,SEM,2.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Veillonella,Gambia urban,population,38,relative abundance (mean),11.9,%,SEM=1.9;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Veillonella,Gambia urban,population,38,SEM,1.9,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Veillonella,Ghana,population,32,relative abundance (mean),5.6,%,SEM=1.0;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Veillonella,Ghana,population,32,SEM,1.0,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Veillonella,Kenya,population,42,relative abundance (mean),14.3,%,SEM=2.0;group_letters=a;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Veillonella,Kenya,population,42,SEM,2.0,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Veillonella,Peru,population,42,relative abundance (mean),14.3,%,SEM=2.1;group_letters=a;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Veillonella,Peru,population,42,SEM,2.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Veillonella,Spain,population,37,relative abundance (mean),13.6,%,SEM=2.1;group_letters=a;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Veillonella,Spain,population,37,SEM,2.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Veillonella,Sweden,population,23,relative abundance (mean),10.9,%,SEM=2.2;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Veillonella,Sweden,population,23,SEM,2.2,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Veillonella,US California,population,12,relative abundance (mean),12.4,%,SEM=3.3;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Veillonella,US California,population,12,SEM,3.3,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Veillonella,US Washington,population,41,relative abundance (mean),9.6,%,SEM=1.5;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Veillonella,US Washington,population,41,SEM,1.5,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Bifidobacterium,Ethiopia rural,population,40,relative abundance (mean),8.7,%,SEM=1.4;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Bifidobacterium,Ethiopia rural,population,40,SEM,1.4,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Bifidobacterium,Ethiopia urban,population,32,relative abundance (mean),10.5,%,SEM=1.9;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Bifidobacterium,Ethiopia urban,population,32,SEM,1.9,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Bifidobacterium,Gambia rural,population,38,relative abundance (mean),15.1,%,SEM=2.4;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Bifidobacterium,Gambia rural,population,38,SEM,2.4,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Bifidobacterium,Gambia urban,population,38,relative abundance (mean),16.0,%,SEM=2.5;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Bifidobacterium,Gambia urban,population,38,SEM,2.5,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Bifidobacterium,Ghana,population,32,relative abundance (mean),19.9,%,SEM=3.1;group_letters=a;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Bifidobacterium,Ghana,population,32,SEM,3.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Bifidobacterium,Kenya,population,42,relative abundance (mean),9.9,%,SEM=1.6;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Bifidobacterium,Kenya,population,42,SEM,1.6,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Bifidobacterium,Peru,population,42,relative abundance (mean),9.3,%,SEM=1.5;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Bifidobacterium,Peru,population,42,SEM,1.5,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Bifidobacterium,Spain,population,37,relative abundance (mean),11.7,%,SEM=2.0;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Bifidobacterium,Spain,population,37,SEM,2.0,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Bifidobacterium,Sweden,population,23,relative abundance (mean),9.5,%,SEM=2.0;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Bifidobacterium,Sweden,population,23,SEM,2.0,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Bifidobacterium,US California,population,12,relative abundance (mean),5.6,%,SEM=1.7;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Bifidobacterium,US California,population,12,SEM,1.7,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Bifidobacterium,US Washington,population,41,relative abundance (mean),10.2,%,SEM=1.6;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Bifidobacterium,US Washington,population,41,SEM,1.6,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Bacteroides,Ethiopia rural,population,40,relative abundance (mean),9.6,%,SEM=1.7;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Bacteroides,Ethiopia rural,population,40,SEM,1.7,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Bacteroides,Ethiopia urban,population,32,relative abundance (mean),9.4,%,SEM=1.8;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Bacteroides,Ethiopia urban,population,32,SEM,1.8,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Bacteroides,Gambia rural,population,38,relative abundance (mean),7.7,%,SEM=1.4;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Bacteroides,Gambia rural,population,38,SEM,1.4,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Bacteroides,Gambia urban,population,38,relative abundance (mean),7.3,%,SEM=1.3;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Bacteroides,Gambia urban,population,38,SEM,1.3,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Bacteroides,Ghana,population,32,relative abundance (mean),9.6,%,SEM=1.8;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Bacteroides,Ghana,population,32,SEM,1.8,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Bacteroides,Kenya,population,42,relative abundance (mean),8.8,%,SEM=1.5;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Bacteroides,Kenya,population,42,SEM,1.5,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Bacteroides,Peru,population,42,relative abundance (mean),10.8,%,SEM=1.8;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Bacteroides,Peru,population,42,SEM,1.8,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Bacteroides,Spain,population,37,relative abundance (mean),12.0,%,SEM=2.1;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Bacteroides,Spain,population,37,SEM,2.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Bacteroides,Sweden,population,23,relative abundance (mean),15.2,%,SEM=3.2;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Bacteroides,Sweden,population,23,SEM,3.2,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Bacteroides,US California,population,12,relative abundance (mean),13.4,%,SEM=3.8;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Bacteroides,US California,population,12,SEM,3.8,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Bacteroides,US Washington,population,41,relative abundance (mean),18.1,%,SEM=2.8;group_letters=a;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Bacteroides,US Washington,population,41,SEM,2.8,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Lactobacillus,Ethiopia rural,population,40,relative abundance (mean),15.2,%,SEM=2.3;group_letters=a;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Lactobacillus,Ethiopia rural,population,40,SEM,2.3,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Lactobacillus,Ethiopia urban,population,32,relative abundance (mean),10.6,%,SEM=1.9;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Lactobacillus,Ethiopia urban,population,32,SEM,1.9,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Lactobacillus,Gambia rural,population,38,relative abundance (mean),14.7,%,SEM=2.3;group_letters=a;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Lactobacillus,Gambia rural,population,38,SEM,2.3,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Lactobacillus,Gambia urban,population,38,relative abundance (mean),9.3,%,SEM=1.6;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Lactobacillus,Gambia urban,population,38,SEM,1.6,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Lactobacillus,Ghana,population,32,relative abundance (mean),12.8,%,SEM=2.2;group_letters=ac;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Lactobacillus,Ghana,population,32,SEM,2.2,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Lactobacillus,Kenya,population,42,relative abundance (mean),12.5,%,SEM=1.9;group_letters=ac;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Lactobacillus,Kenya,population,42,SEM,1.9,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Lactobacillus,Peru,population,42,relative abundance (mean),5.8,%,SEM=1.0;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Lactobacillus,Peru,population,42,SEM,1.0,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Lactobacillus,Spain,population,37,relative abundance (mean),5.1,%,SEM=0.9;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Lactobacillus,Spain,population,37,SEM,0.9,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Lactobacillus,Sweden,population,23,relative abundance (mean),4.6,%,SEM=1.0;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Lactobacillus,Sweden,population,23,SEM,1.0,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Lactobacillus,US California,population,12,relative abundance (mean),4.5,%,SEM=1.3;group_letters=bc;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Lactobacillus,US California,population,12,SEM,1.3,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Lactobacillus,US Washington,population,41,relative abundance (mean),5.6,%,SEM=1.0;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Lactobacillus,US Washington,population,41,SEM,1.0,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Clostridium sensu stricto 1,Ethiopia rural,population,40,relative abundance (mean),3.2,%,SEM=0.6;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Clostridium sensu stricto 1,Ethiopia rural,population,40,SEM,0.6,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Clostridium sensu stricto 1,Ethiopia urban,population,32,relative abundance (mean),3.0,%,SEM=0.6;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Clostridium sensu stricto 1,Ethiopia urban,population,32,SEM,0.6,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Clostridium sensu stricto 1,Gambia rural,population,38,relative abundance (mean),2.8,%,SEM=0.6;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Clostridium sensu stricto 1,Gambia rural,population,38,SEM,0.6,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Clostridium sensu stricto 1,Gambia urban,population,38,relative abundance (mean),2.5,%,SEM=0.5;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Clostridium sensu stricto 1,Gambia urban,population,38,SEM,0.5,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Clostridium sensu stricto 1,Ghana,population,32,relative abundance (mean),3.0,%,SEM=0.6;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Clostridium sensu stricto 1,Ghana,population,32,SEM,0.6,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Clostridium sensu stricto 1,Kenya,population,42,relative abundance (mean),2.8,%,SEM=0.5;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Clostridium sensu stricto 1,Kenya,population,42,SEM,0.5,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Clostridium sensu stricto 1,Peru,population,42,relative abundance (mean),3.0,%,SEM=0.6;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Clostridium sensu stricto 1,Peru,population,42,SEM,0.6,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Clostridium sensu stricto 1,Spain,population,37,relative abundance (mean),3.7,%,SEM=0.7;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Clostridium sensu stricto 1,Spain,population,37,SEM,0.7,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Clostridium sensu stricto 1,Sweden,population,23,relative abundance (mean),6.1,%,SEM=1.4;group_letters=a;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Clostridium sensu stricto 1,Sweden,population,23,SEM,1.4,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Clostridium sensu stricto 1,US California,population,12,relative abundance (mean),5.9,%,SEM=1.8;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Clostridium sensu stricto 1,US California,population,12,SEM,1.8,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Clostridium sensu stricto 1,US Washington,population,41,relative abundance (mean),4.1,%,SEM=0.8;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Clostridium sensu stricto 1,US Washington,population,41,SEM,0.8,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Lachnoclostridium,Ethiopia rural,population,40,relative abundance (mean),2.4,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Lachnoclostridium,Ethiopia rural,population,40,SEM,0.5,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Lachnoclostridium,Ethiopia urban,population,32,relative abundance (mean),2.7,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Lachnoclostridium,Ethiopia urban,population,32,SEM,0.6,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Lachnoclostridium,Gambia rural,population,38,relative abundance (mean),2.2,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Lachnoclostridium,Gambia rural,population,38,SEM,0.4,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Lachnoclostridium,Gambia urban,population,38,relative abundance (mean),2.4,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Lachnoclostridium,Gambia urban,population,38,SEM,0.5,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Lachnoclostridium,Ghana,population,32,relative abundance (mean),2.3,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Lachnoclostridium,Ghana,population,32,SEM,0.5,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Lachnoclostridium,Kenya,population,42,relative abundance (mean),2.9,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Lachnoclostridium,Kenya,population,42,SEM,0.6,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Lachnoclostridium,Peru,population,42,relative abundance (mean),3.3,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Lachnoclostridium,Peru,population,42,SEM,0.6,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Lachnoclostridium,Spain,population,37,relative abundance (mean),2.7,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Lachnoclostridium,Spain,population,37,SEM,0.6,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Lachnoclostridium,Sweden,population,23,relative abundance (mean),2.8,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Lachnoclostridium,Sweden,population,23,SEM,0.7,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Lachnoclostridium,US California,population,12,relative abundance (mean),2.1,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Lachnoclostridium,US California,population,12,SEM,0.7,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Lachnoclostridium,US Washington,population,41,relative abundance (mean),3.8,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Lachnoclostridium,US Washington,population,41,SEM,0.7,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Klebsiella,Ethiopia rural,population,40,relative abundance (mean),1.8,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Klebsiella,Ethiopia rural,population,40,SEM,0.4,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Klebsiella,Ethiopia urban,population,32,relative abundance (mean),2.6,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Klebsiella,Ethiopia urban,population,32,SEM,0.5,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Klebsiella,Gambia rural,population,38,relative abundance (mean),2.3,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Klebsiella,Gambia rural,population,38,SEM,0.5,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Klebsiella,Gambia urban,population,38,relative abundance (mean),3.4,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Klebsiella,Gambia urban,population,38,SEM,0.7,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Klebsiella,Ghana,population,32,relative abundance (mean),2.7,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Klebsiella,Ghana,population,32,SEM,0.6,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Klebsiella,Kenya,population,42,relative abundance (mean),2.5,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Klebsiella,Kenya,population,42,SEM,0.5,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Klebsiella,Peru,population,42,relative abundance (mean),3.3,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Klebsiella,Peru,population,42,SEM,0.6,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Klebsiella,Spain,population,37,relative abundance (mean),2.2,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Klebsiella,Spain,population,37,SEM,0.4,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Klebsiella,Sweden,population,23,relative abundance (mean),2.7,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Klebsiella,Sweden,population,23,SEM,0.6,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Klebsiella,US California,population,12,relative abundance (mean),2.8,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Klebsiella,US California,population,12,SEM,0.9,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Klebsiella,US Washington,population,41,relative abundance (mean),1.9,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Klebsiella,US Washington,population,41,SEM,0.4,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Parabacteroides,Ethiopia rural,population,40,relative abundance (mean),2.1,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Parabacteroides,Ethiopia rural,population,40,SEM,0.4,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Parabacteroides,Ethiopia urban,population,32,relative abundance (mean),2.3,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Parabacteroides,Ethiopia urban,population,32,SEM,0.5,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Parabacteroides,Gambia rural,population,38,relative abundance (mean),2.1,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Parabacteroides,Gambia rural,population,38,SEM,0.4,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Parabacteroides,Gambia urban,population,38,relative abundance (mean),2.1,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Parabacteroides,Gambia urban,population,38,SEM,0.4,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Parabacteroides,Ghana,population,32,relative abundance (mean),2.1,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Parabacteroides,Ghana,population,32,SEM,0.5,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Parabacteroides,Kenya,population,42,relative abundance (mean),2.0,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Parabacteroides,Kenya,population,42,SEM,0.4,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Parabacteroides,Peru,population,42,relative abundance (mean),2.0,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Parabacteroides,Peru,population,42,SEM,0.4,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Parabacteroides,Spain,population,37,relative abundance (mean),2.4,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Parabacteroides,Spain,population,37,SEM,0.5,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Parabacteroides,Sweden,population,23,relative abundance (mean),3.6,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Parabacteroides,Sweden,population,23,SEM,0.9,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Parabacteroides,US California,population,12,relative abundance (mean),2.4,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Parabacteroides,US California,population,12,SEM,0.7,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Parabacteroides,US Washington,population,41,relative abundance (mean),2.1,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Parabacteroides,US Washington,population,41,SEM,0.4,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Enterococcus,Ethiopia rural,population,40,relative abundance (mean),1.4,%,SEM=0.3;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Enterococcus,Ethiopia rural,population,40,SEM,0.3,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Enterococcus,Ethiopia urban,population,32,relative abundance (mean),1.2,%,SEM=0.3;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Enterococcus,Ethiopia urban,population,32,SEM,0.3,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Enterococcus,Gambia rural,population,38,relative abundance (mean),1.2,%,SEM=0.2;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Enterococcus,Gambia rural,population,38,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Enterococcus,Gambia urban,population,38,relative abundance (mean),1.5,%,SEM=0.3;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Enterococcus,Gambia urban,population,38,SEM,0.3,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Enterococcus,Ghana,population,32,relative abundance (mean),3.1,%,SEM=0.6;group_letters=a;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Enterococcus,Ghana,population,32,SEM,0.6,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Enterococcus,Kenya,population,42,relative abundance (mean),1.1,%,SEM=0.2;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Enterococcus,Kenya,population,42,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Enterococcus,Peru,population,42,relative abundance (mean),1.3,%,SEM=0.2;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Enterococcus,Peru,population,42,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Enterococcus,Spain,population,37,relative abundance (mean),1.5,%,SEM=0.3;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Enterococcus,Spain,population,37,SEM,0.3,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Enterococcus,Sweden,population,23,relative abundance (mean),1.3,%,SEM=0.3;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Enterococcus,Sweden,population,23,SEM,0.3,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Enterococcus,US California,population,12,relative abundance (mean),1.0,%,SEM=0.3;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Enterococcus,US California,population,12,SEM,0.3,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Enterococcus,US Washington,population,41,relative abundance (mean),1.4,%,SEM=0.3;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Enterococcus,US Washington,population,41,SEM,0.3,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Enterobacter,Ethiopia rural,population,40,relative abundance (mean),1.1,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Enterobacter,Ethiopia rural,population,40,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Enterobacter,Ethiopia urban,population,32,relative abundance (mean),1.1,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Enterobacter,Ethiopia urban,population,32,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Enterobacter,Gambia rural,population,38,relative abundance (mean),1.1,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Enterobacter,Gambia rural,population,38,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Enterobacter,Gambia urban,population,38,relative abundance (mean),1.1,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Enterobacter,Gambia urban,population,38,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Enterobacter,Ghana,population,32,relative abundance (mean),1.1,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Enterobacter,Ghana,population,32,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Enterobacter,Kenya,population,42,relative abundance (mean),1.2,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Enterobacter,Kenya,population,42,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Enterobacter,Peru,population,42,relative abundance (mean),1.3,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Enterobacter,Peru,population,42,SEM,0.3,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Enterobacter,Spain,population,37,relative abundance (mean),1.7,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Enterobacter,Spain,population,37,SEM,0.4,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Enterobacter,Sweden,population,23,relative abundance (mean),1.6,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Enterobacter,Sweden,population,23,SEM,0.4,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Enterobacter,US California,population,12,relative abundance (mean),1.8,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Enterobacter,US California,population,12,SEM,0.5,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Enterobacter,US Washington,population,41,relative abundance (mean),1.8,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Enterobacter,US Washington,population,41,SEM,0.4,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Megasphaera,Ethiopia rural,population,40,relative abundance (mean),1.0,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Megasphaera,Ethiopia rural,population,40,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Megasphaera,Ethiopia urban,population,32,relative abundance (mean),1.0,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Megasphaera,Ethiopia urban,population,32,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Megasphaera,Gambia rural,population,38,relative abundance (mean),1.0,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Megasphaera,Gambia rural,population,38,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Megasphaera,Gambia urban,population,38,relative abundance (mean),1.3,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Megasphaera,Gambia urban,population,38,SEM,0.3,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Megasphaera,Ghana,population,32,relative abundance (mean),0.9,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Megasphaera,Ghana,population,32,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Megasphaera,Kenya,population,42,relative abundance (mean),1.5,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Megasphaera,Kenya,population,42,SEM,0.3,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Megasphaera,Peru,population,42,relative abundance (mean),1.1,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Megasphaera,Peru,population,42,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Megasphaera,Spain,population,37,relative abundance (mean),0.9,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Megasphaera,Spain,population,37,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Megasphaera,Sweden,population,23,relative abundance (mean),1.0,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Megasphaera,Sweden,population,23,SEM,0.3,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Megasphaera,US California,population,12,relative abundance (mean),0.9,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Megasphaera,US California,population,12,SEM,0.3,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Megasphaera,US Washington,population,41,relative abundance (mean),1.0,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Megasphaera,US Washington,population,41,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Staphylococcus,Ethiopia rural,population,40,relative abundance (mean),0.7,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Staphylococcus,Ethiopia rural,population,40,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Staphylococcus,Ethiopia urban,population,32,relative abundance (mean),0.7,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Staphylococcus,Ethiopia urban,population,32,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Staphylococcus,Gambia rural,population,38,relative abundance (mean),0.9,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Staphylococcus,Gambia rural,population,38,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Staphylococcus,Gambia urban,population,38,relative abundance (mean),1.1,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Staphylococcus,Gambia urban,population,38,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Staphylococcus,Ghana,population,32,relative abundance (mean),0.7,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Staphylococcus,Ghana,population,32,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Staphylococcus,Kenya,population,42,relative abundance (mean),0.6,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Staphylococcus,Kenya,population,42,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Staphylococcus,Peru,population,42,relative abundance (mean),0.8,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Staphylococcus,Peru,population,42,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Staphylococcus,Spain,population,37,relative abundance (mean),0.7,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Staphylococcus,Spain,population,37,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Staphylococcus,Sweden,population,23,relative abundance (mean),0.9,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Staphylococcus,Sweden,population,23,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Staphylococcus,US California,population,12,relative abundance (mean),0.8,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Staphylococcus,US California,population,12,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Staphylococcus,US Washington,population,41,relative abundance (mean),0.8,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Staphylococcus,US Washington,population,41,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Prevotella 9,Ethiopia rural,population,40,relative abundance (mean),0.8,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Prevotella 9,Ethiopia rural,population,40,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Prevotella 9,Ethiopia urban,population,32,relative abundance (mean),0.9,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Prevotella 9,Ethiopia urban,population,32,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Prevotella 9,Gambia rural,population,38,relative abundance (mean),0.9,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Prevotella 9,Gambia rural,population,38,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Prevotella 9,Gambia urban,population,38,relative abundance (mean),0.9,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Prevotella 9,Gambia urban,population,38,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Prevotella 9,Ghana,population,32,relative abundance (mean),0.8,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Prevotella 9,Ghana,population,32,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Prevotella 9,Kenya,population,42,relative abundance (mean),1.1,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Prevotella 9,Kenya,population,42,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Prevotella 9,Peru,population,42,relative abundance (mean),0.9,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Prevotella 9,Peru,population,42,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Prevotella 9,Spain,population,37,relative abundance (mean),0.8,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Prevotella 9,Spain,population,37,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Prevotella 9,Sweden,population,23,relative abundance (mean),0.8,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Prevotella 9,Sweden,population,23,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Prevotella 9,US California,population,12,relative abundance (mean),0.8,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Prevotella 9,US California,population,12,SEM,0.3,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Prevotella 9,US Washington,population,41,relative abundance (mean),0.8,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Prevotella 9,US Washington,population,41,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Erysipelatoclostridium,Ethiopia rural,population,40,relative abundance (mean),0.6,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Erysipelatoclostridium,Ethiopia rural,population,40,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Erysipelatoclostridium,Ethiopia urban,population,32,relative abundance (mean),0.7,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Erysipelatoclostridium,Ethiopia urban,population,32,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Erysipelatoclostridium,Gambia rural,population,38,relative abundance (mean),0.6,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Erysipelatoclostridium,Gambia rural,population,38,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Erysipelatoclostridium,Gambia urban,population,38,relative abundance (mean),0.6,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Erysipelatoclostridium,Gambia urban,population,38,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Erysipelatoclostridium,Ghana,population,32,relative abundance (mean),0.7,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Erysipelatoclostridium,Ghana,population,32,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Erysipelatoclostridium,Kenya,population,42,relative abundance (mean),0.6,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Erysipelatoclostridium,Kenya,population,42,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Erysipelatoclostridium,Peru,population,42,relative abundance (mean),0.8,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Erysipelatoclostridium,Peru,population,42,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Erysipelatoclostridium,Spain,population,37,relative abundance (mean),0.6,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Erysipelatoclostridium,Spain,population,37,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Erysipelatoclostridium,Sweden,population,23,relative abundance (mean),0.7,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Erysipelatoclostridium,Sweden,population,23,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Erysipelatoclostridium,US California,population,12,relative abundance (mean),0.6,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Erysipelatoclostridium,US California,population,12,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Erysipelatoclostridium,US Washington,population,41,relative abundance (mean),0.8,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Erysipelatoclostridium,US Washington,population,41,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Rothia,Ethiopia rural,population,40,relative abundance (mean),0.4,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Rothia,Ethiopia rural,population,40,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Rothia,Ethiopia urban,population,32,relative abundance (mean),0.5,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Rothia,Ethiopia urban,population,32,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Rothia,Gambia rural,population,38,relative abundance (mean),0.8,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Rothia,Gambia rural,population,38,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Rothia,Gambia urban,population,38,relative abundance (mean),0.8,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Rothia,Gambia urban,population,38,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Rothia,Ghana,population,32,relative abundance (mean),0.4,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Rothia,Ghana,population,32,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Rothia,Kenya,population,42,relative abundance (mean),0.6,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Rothia,Kenya,population,42,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Rothia,Peru,population,42,relative abundance (mean),0.5,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Rothia,Peru,population,42,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Rothia,Spain,population,37,relative abundance (mean),0.6,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Rothia,Spain,population,37,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Rothia,Sweden,population,23,relative abundance (mean),0.4,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Rothia,Sweden,population,23,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Rothia,US California,population,12,relative abundance (mean),0.4,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Rothia,US California,population,12,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Rothia,US Washington,population,41,relative abundance (mean),0.4,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Rothia,US Washington,population,41,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Citrobacter,Ethiopia rural,population,40,relative abundance (mean),0.5,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Citrobacter,Ethiopia rural,population,40,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Citrobacter,Ethiopia urban,population,32,relative abundance (mean),0.5,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Citrobacter,Ethiopia urban,population,32,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Citrobacter,Gambia rural,population,38,relative abundance (mean),0.5,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Citrobacter,Gambia rural,population,38,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Citrobacter,Gambia urban,population,38,relative abundance (mean),0.5,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Citrobacter,Gambia urban,population,38,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Citrobacter,Ghana,population,32,relative abundance (mean),0.5,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Citrobacter,Ghana,population,32,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Citrobacter,Kenya,population,42,relative abundance (mean),0.5,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Citrobacter,Kenya,population,42,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Citrobacter,Peru,population,42,relative abundance (mean),0.5,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Citrobacter,Peru,population,42,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Citrobacter,Spain,population,37,relative abundance (mean),0.5,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Citrobacter,Spain,population,37,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Citrobacter,Sweden,population,23,relative abundance (mean),0.5,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Citrobacter,Sweden,population,23,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Citrobacter,US California,population,12,relative abundance (mean),0.5,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Citrobacter,US California,population,12,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Citrobacter,US Washington,population,41,relative abundance (mean),0.6,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Citrobacter,US Washington,population,41,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Akkermansia,Ethiopia rural,population,40,relative abundance (mean),0.5,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Akkermansia,Ethiopia rural,population,40,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Akkermansia,Ethiopia urban,population,32,relative abundance (mean),0.6,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Akkermansia,Ethiopia urban,population,32,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Akkermansia,Gambia rural,population,38,relative abundance (mean),0.5,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Akkermansia,Gambia rural,population,38,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Akkermansia,Gambia urban,population,38,relative abundance (mean),0.5,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Akkermansia,Gambia urban,population,38,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Akkermansia,Ghana,population,32,relative abundance (mean),0.5,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Akkermansia,Ghana,population,32,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Akkermansia,Kenya,population,42,relative abundance (mean),0.5,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Akkermansia,Kenya,population,42,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Akkermansia,Peru,population,42,relative abundance (mean),0.5,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Akkermansia,Peru,population,42,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Akkermansia,Spain,population,37,relative abundance (mean),0.6,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Akkermansia,Spain,population,37,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Akkermansia,Sweden,population,23,relative abundance (mean),0.5,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Akkermansia,Sweden,population,23,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Akkermansia,US California,population,12,relative abundance (mean),0.5,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Akkermansia,US California,population,12,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Akkermansia,US Washington,population,41,relative abundance (mean),0.5,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Akkermansia,US Washington,population,41,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Campylobacter,Ethiopia rural,population,40,relative abundance (mean),0.8,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Campylobacter,Ethiopia rural,population,40,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Campylobacter,Ethiopia urban,population,32,relative abundance (mean),0.8,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Campylobacter,Ethiopia urban,population,32,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Campylobacter,Gambia rural,population,38,relative abundance (mean),0.8,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Campylobacter,Gambia rural,population,38,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Campylobacter,Gambia urban,population,38,relative abundance (mean),0.8,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Campylobacter,Gambia urban,population,38,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Campylobacter,Ghana,population,32,relative abundance (mean),0.8,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Campylobacter,Ghana,population,32,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Campylobacter,Kenya,population,42,relative abundance (mean),0.8,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Campylobacter,Kenya,population,42,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Campylobacter,Peru,population,42,relative abundance (mean),0.7,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Campylobacter,Peru,population,42,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Campylobacter,Spain,population,37,relative abundance (mean),0.7,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Campylobacter,Spain,population,37,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Campylobacter,Sweden,population,23,relative abundance (mean),0.7,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Campylobacter,Sweden,population,23,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Campylobacter,US California,population,12,relative abundance (mean),0.7,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Campylobacter,US California,population,12,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Campylobacter,US Washington,population,41,relative abundance (mean),0.9,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Campylobacter,US Washington,population,41,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Lactococcus,Ethiopia rural,population,40,relative abundance (mean),0.5,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Lactococcus,Ethiopia rural,population,40,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Lactococcus,Ethiopia urban,population,32,relative abundance (mean),0.4,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Lactococcus,Ethiopia urban,population,32,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Lactococcus,Gambia rural,population,38,relative abundance (mean),0.4,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Lactococcus,Gambia rural,population,38,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Lactococcus,Gambia urban,population,38,relative abundance (mean),0.4,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Lactococcus,Gambia urban,population,38,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Lactococcus,Ghana,population,32,relative abundance (mean),0.4,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Lactococcus,Ghana,population,32,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Lactococcus,Kenya,population,42,relative abundance (mean),0.4,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Lactococcus,Kenya,population,42,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Lactococcus,Peru,population,42,relative abundance (mean),0.4,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Lactococcus,Peru,population,42,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Lactococcus,Spain,population,37,relative abundance (mean),0.4,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Lactococcus,Spain,population,37,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Lactococcus,Sweden,population,23,relative abundance (mean),0.4,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Lactococcus,Sweden,population,23,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Lactococcus,US California,population,12,relative abundance (mean),0.4,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Lactococcus,US California,population,12,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Lactococcus,US Washington,population,41,relative abundance (mean),0.4,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Lactococcus,US Washington,population,41,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Gemella,Ethiopia rural,population,40,relative abundance (mean),0.3,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Gemella,Ethiopia rural,population,40,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Gemella,Ethiopia urban,population,32,relative abundance (mean),0.3,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Gemella,Ethiopia urban,population,32,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Gemella,Gambia rural,population,38,relative abundance (mean),0.5,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Gemella,Gambia rural,population,38,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Gemella,Gambia urban,population,38,relative abundance (mean),0.5,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Gemella,Gambia urban,population,38,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Gemella,Ghana,population,32,relative abundance (mean),0.2,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Gemella,Ghana,population,32,SEM,0.0,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Gemella,Kenya,population,42,relative abundance (mean),0.3,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Gemella,Kenya,population,42,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Gemella,Peru,population,42,relative abundance (mean),0.3,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Gemella,Peru,population,42,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Gemella,Spain,population,37,relative abundance (mean),0.3,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Gemella,Spain,population,37,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Gemella,Sweden,population,23,relative abundance (mean),0.3,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Gemella,Sweden,population,23,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Gemella,US California,population,12,relative abundance (mean),0.3,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Gemella,US California,population,12,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Gemella,US Washington,population,41,relative abundance (mean),0.3,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Gemella,US Washington,population,41,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Tyzzerella 4,Ethiopia rural,population,40,relative abundance (mean),0.4,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Tyzzerella 4,Ethiopia rural,population,40,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Tyzzerella 4,Ethiopia urban,population,32,relative abundance (mean),0.4,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Tyzzerella 4,Ethiopia urban,population,32,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Tyzzerella 4,Gambia rural,population,38,relative abundance (mean),0.4,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Tyzzerella 4,Gambia rural,population,38,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Tyzzerella 4,Gambia urban,population,38,relative abundance (mean),0.4,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Tyzzerella 4,Gambia urban,population,38,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Tyzzerella 4,Ghana,population,32,relative abundance (mean),0.4,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Tyzzerella 4,Ghana,population,32,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Tyzzerella 4,Kenya,population,42,relative abundance (mean),0.4,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Tyzzerella 4,Kenya,population,42,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Tyzzerella 4,Peru,population,42,relative abundance (mean),0.4,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Tyzzerella 4,Peru,population,42,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Tyzzerella 4,Spain,population,37,relative abundance (mean),0.4,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Tyzzerella 4,Spain,population,37,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Tyzzerella 4,Sweden,population,23,relative abundance (mean),0.4,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Tyzzerella 4,Sweden,population,23,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Tyzzerella 4,US California,population,12,relative abundance (mean),0.4,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Tyzzerella 4,US California,population,12,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Tyzzerella 4,US Washington,population,41,relative abundance (mean),0.4,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Tyzzerella 4,US Washington,population,41,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Blautia,Ethiopia rural,population,40,relative abundance (mean),0.3,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Blautia,Ethiopia rural,population,40,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Blautia,Ethiopia urban,population,32,relative abundance (mean),0.4,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Blautia,Ethiopia urban,population,32,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Blautia,Gambia rural,population,38,relative abundance (mean),0.3,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Blautia,Gambia rural,population,38,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Blautia,Gambia urban,population,38,relative abundance (mean),0.3,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Blautia,Gambia urban,population,38,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Blautia,Ghana,population,32,relative abundance (mean),0.3,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Blautia,Ghana,population,32,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Blautia,Kenya,population,42,relative abundance (mean),0.3,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Blautia,Kenya,population,42,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Blautia,Peru,population,42,relative abundance (mean),0.4,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Blautia,Peru,population,42,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Blautia,Spain,population,37,relative abundance (mean),0.3,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Blautia,Spain,population,37,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Blautia,Sweden,population,23,relative abundance (mean),0.4,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Blautia,Sweden,population,23,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Blautia,US California,population,12,relative abundance (mean),0.3,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Blautia,US California,population,12,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Blautia,US Washington,population,41,relative abundance (mean),0.4,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Blautia,US Washington,population,41,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Paucisalibacillus,Ethiopia rural,population,40,relative abundance (mean),0.5,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Paucisalibacillus,Ethiopia rural,population,40,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Paucisalibacillus,Ethiopia urban,population,32,relative abundance (mean),0.5,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Paucisalibacillus,Ethiopia urban,population,32,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Paucisalibacillus,Gambia rural,population,38,relative abundance (mean),0.5,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Paucisalibacillus,Gambia rural,population,38,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Paucisalibacillus,Gambia urban,population,38,relative abundance (mean),0.5,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Paucisalibacillus,Gambia urban,population,38,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Paucisalibacillus,Ghana,population,32,relative abundance (mean),0.5,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Paucisalibacillus,Ghana,population,32,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Paucisalibacillus,Kenya,population,42,relative abundance (mean),0.5,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Paucisalibacillus,Kenya,population,42,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Paucisalibacillus,Peru,population,42,relative abundance (mean),0.5,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Paucisalibacillus,Peru,population,42,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Paucisalibacillus,Spain,population,37,relative abundance (mean),0.5,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Paucisalibacillus,Spain,population,37,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Paucisalibacillus,Sweden,population,23,relative abundance (mean),0.5,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Paucisalibacillus,Sweden,population,23,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Paucisalibacillus,US California,population,12,relative abundance (mean),0.5,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Paucisalibacillus,US California,population,12,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Paucisalibacillus,US Washington,population,41,relative abundance (mean),0.5,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Paucisalibacillus,US Washington,population,41,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Leuconostoc,Ethiopia rural,population,40,relative abundance (mean),0.2,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Leuconostoc,Ethiopia rural,population,40,SEM,0.0,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Leuconostoc,Ethiopia urban,population,32,relative abundance (mean),0.2,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Leuconostoc,Ethiopia urban,population,32,SEM,0.0,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Leuconostoc,Gambia rural,population,38,relative abundance (mean),0.2,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Leuconostoc,Gambia rural,population,38,SEM,0.0,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Leuconostoc,Gambia urban,population,38,relative abundance (mean),0.2,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Leuconostoc,Gambia urban,population,38,SEM,0.0,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Leuconostoc,Ghana,population,32,relative abundance (mean),0.2,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Leuconostoc,Ghana,population,32,SEM,0.0,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Leuconostoc,Kenya,population,42,relative abundance (mean),0.2,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Leuconostoc,Kenya,population,42,SEM,0.0,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Leuconostoc,Peru,population,42,relative abundance (mean),0.2,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Leuconostoc,Peru,population,42,SEM,0.0,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Leuconostoc,Spain,population,37,relative abundance (mean),0.2,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Leuconostoc,Spain,population,37,SEM,0.0,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Leuconostoc,Sweden,population,23,relative abundance (mean),0.2,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Leuconostoc,Sweden,population,23,SEM,0.0,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Leuconostoc,US California,population,12,relative abundance (mean),0.2,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Leuconostoc,US California,population,12,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Leuconostoc,US Washington,population,41,relative abundance (mean),0.2,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Leuconostoc,US Washington,population,41,SEM,0.0,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Acinetobacter,Ethiopia rural,population,40,relative abundance (mean),0.2,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Acinetobacter,Ethiopia rural,population,40,SEM,0.0,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Acinetobacter,Ethiopia urban,population,32,relative abundance (mean),0.2,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Acinetobacter,Ethiopia urban,population,32,SEM,0.0,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Acinetobacter,Gambia rural,population,38,relative abundance (mean),0.2,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Acinetobacter,Gambia rural,population,38,SEM,0.0,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Acinetobacter,Gambia urban,population,38,relative abundance (mean),0.2,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Acinetobacter,Gambia urban,population,38,SEM,0.0,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Acinetobacter,Ghana,population,32,relative abundance (mean),0.2,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Acinetobacter,Ghana,population,32,SEM,0.0,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Acinetobacter,Kenya,population,42,relative abundance (mean),0.2,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Acinetobacter,Kenya,population,42,SEM,0.0,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Acinetobacter,Peru,population,42,relative abundance (mean),0.2,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Acinetobacter,Peru,population,42,SEM,0.0,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Acinetobacter,Spain,population,37,relative abundance (mean),0.2,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Acinetobacter,Spain,population,37,SEM,0.0,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Acinetobacter,Sweden,population,23,relative abundance (mean),0.2,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Acinetobacter,Sweden,population,23,SEM,0.0,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Acinetobacter,US California,population,12,relative abundance (mean),0.2,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Acinetobacter,US California,population,12,SEM,0.0,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Acinetobacter,US Washington,population,41,relative abundance (mean),0.2,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Acinetobacter,US Washington,population,41,SEM,0.0,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Acetobacter,Ethiopia rural,population,40,relative abundance (mean),0.1,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Acetobacter,Ethiopia rural,population,40,SEM,0.0,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Acetobacter,Ethiopia urban,population,32,relative abundance (mean),0.1,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Acetobacter,Ethiopia urban,population,32,SEM,0.0,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Acetobacter,Gambia rural,population,38,relative abundance (mean),0.1,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Acetobacter,Gambia rural,population,38,SEM,0.0,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Acetobacter,Gambia urban,population,38,relative abundance (mean),0.1,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Acetobacter,Gambia urban,population,38,SEM,0.0,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Acetobacter,Ghana,population,32,relative abundance (mean),0.1,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Acetobacter,Ghana,population,32,SEM,0.0,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Acetobacter,Kenya,population,42,relative abundance (mean),0.1,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Acetobacter,Kenya,population,42,SEM,0.0,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Acetobacter,Peru,population,42,relative abundance (mean),0.1,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Acetobacter,Peru,population,42,SEM,0.0,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Acetobacter,Spain,population,37,relative abundance (mean),0.1,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Acetobacter,Spain,population,37,SEM,0.0,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Acetobacter,Sweden,population,23,relative abundance (mean),0.1,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Acetobacter,Sweden,population,23,SEM,0.0,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Acetobacter,US California,population,12,relative abundance (mean),0.1,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Acetobacter,US California,population,12,SEM,0.0,%,relative abundance model estimate
+lackey2019,Table 2,10,infant fecal microbiome,Acetobacter,US Washington,population,41,relative abundance (mean),0.1,%,model estimate (beta distribution)
+lackey2019,Table 2,10,infant fecal microbiome,Acetobacter,US Washington,population,41,SEM,0.0,%,relative abundance model estimate

@@ -1,0 +1,58 @@
+paper,table,page,data_type,analyte,group,group_type,n,statistic,value,unit,notes
+mcguire2017,Table 7,12,HMO (NMF score),2#FL,parity 1,parity,159,NMF feature score,0.99,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 7,12,HMO (NMF score),2#FL,parity 2,parity,111,NMF feature score,0.97,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 7,12,HMO (NMF score),2#FL,parity >=3,parity,250,NMF feature score,0.65,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 7,12,HMO (NMF score),3FL,parity 1,parity,159,NMF feature score,0.47,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 7,12,HMO (NMF score),3FL,parity 2,parity,111,NMF feature score,0.35,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 7,12,HMO (NMF score),3FL,parity >=3,parity,250,NMF feature score,0.43,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 7,12,HMO (NMF score),LNnT,parity 1,parity,159,NMF feature score,0.29,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 7,12,HMO (NMF score),LNnT,parity 2,parity,111,NMF feature score,0.43,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 7,12,HMO (NMF score),LNnT,parity >=3,parity,250,NMF feature score,0.38,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 7,12,HMO (NMF score),3#SL,parity 1,parity,159,NMF feature score,0.18,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 7,12,HMO (NMF score),3#SL,parity 2,parity,111,NMF feature score,0.20,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 7,12,HMO (NMF score),3#SL,parity >=3,parity,250,NMF feature score,0.12,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 7,12,HMO (NMF score),DFLac,parity 1,parity,159,NMF feature score,0.51,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 7,12,HMO (NMF score),DFLac,parity 2,parity,111,NMF feature score,0.31,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 7,12,HMO (NMF score),DFLac,parity >=3,parity,250,NMF feature score,0.42,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 7,12,HMO (NMF score),6#SL,parity 1,parity,159,NMF feature score,0.65,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 7,12,HMO (NMF score),6#SL,parity 2,parity,111,NMF feature score,0.64,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 7,12,HMO (NMF score),6#SL,parity >=3,parity,250,NMF feature score,0.54,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 7,12,HMO (NMF score),LNT,parity 1,parity,159,NMF feature score,0.46,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 7,12,HMO (NMF score),LNT,parity 2,parity,111,NMF feature score,0.51,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 7,12,HMO (NMF score),LNT,parity >=3,parity,250,NMF feature score,0.45,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 7,12,HMO (NMF score),LNFP I,parity 1,parity,159,NMF feature score,0.78,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 7,12,HMO (NMF score),LNFP I,parity 2,parity,111,NMF feature score,0.76,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 7,12,HMO (NMF score),LNFP I,parity >=3,parity,250,NMF feature score,0.70,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 7,12,HMO (NMF score),LNFP II,parity 1,parity,159,NMF feature score,0.68,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 7,12,HMO (NMF score),LNFP II,parity 2,parity,111,NMF feature score,0.45,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 7,12,HMO (NMF score),LNFP II,parity >=3,parity,250,NMF feature score,0.56,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 7,12,HMO (NMF score),LNFP III,parity 1,parity,159,NMF feature score,0.55,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 7,12,HMO (NMF score),LNFP III,parity 2,parity,111,NMF feature score,0.38,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 7,12,HMO (NMF score),LNFP III,parity >=3,parity,250,NMF feature score,0.21,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 7,12,HMO (NMF score),LSTb,parity 1,parity,159,NMF feature score,0.29,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 7,12,HMO (NMF score),LSTb,parity 2,parity,111,NMF feature score,0.29,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 7,12,HMO (NMF score),LSTb,parity >=3,parity,250,NMF feature score,0.26,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 7,12,HMO (NMF score),LSTc,parity 1,parity,159,NMF feature score,0.42,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 7,12,HMO (NMF score),LSTc,parity 2,parity,111,NMF feature score,0.54,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 7,12,HMO (NMF score),LSTc,parity >=3,parity,250,NMF feature score,0.41,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 7,12,HMO (NMF score),DFLNT,parity 1,parity,159,NMF feature score,0.75,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 7,12,HMO (NMF score),DFLNT,parity 2,parity,111,NMF feature score,0.66,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 7,12,HMO (NMF score),DFLNT,parity >=3,parity,250,NMF feature score,0.69,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 7,12,HMO (NMF score),LNH,parity 1,parity,159,NMF feature score,0.22,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 7,12,HMO (NMF score),LNH,parity 2,parity,111,NMF feature score,0.27,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 7,12,HMO (NMF score),LNH,parity >=3,parity,250,NMF feature score,0.17,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 7,12,HMO (NMF score),DSLNT,parity 1,parity,159,NMF feature score,0.16,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 7,12,HMO (NMF score),DSLNT,parity 2,parity,111,NMF feature score,0.25,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 7,12,HMO (NMF score),DSLNT,parity >=3,parity,250,NMF feature score,0.27,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 7,12,HMO (NMF score),FLNH,parity 1,parity,159,NMF feature score,0.37,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 7,12,HMO (NMF score),FLNH,parity 2,parity,111,NMF feature score,0.27,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 7,12,HMO (NMF score),FLNH,parity >=3,parity,250,NMF feature score,0.28,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 7,12,HMO (NMF score),DFLNH,parity 1,parity,159,NMF feature score,0.30,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 7,12,HMO (NMF score),DFLNH,parity 2,parity,111,NMF feature score,0.30,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 7,12,HMO (NMF score),DFLNH,parity >=3,parity,250,NMF feature score,0.35,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 7,12,HMO (NMF score),FDSLNH,parity 1,parity,159,NMF feature score,0.63,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 7,12,HMO (NMF score),FDSLNH,parity 2,parity,111,NMF feature score,0.55,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 7,12,HMO (NMF score),FDSLNH,parity >=3,parity,250,NMF feature score,0.55,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 7,12,HMO (NMF score),DSLNH,parity 1,parity,159,NMF feature score,0.51,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 7,12,HMO (NMF score),DSLNH,parity 2,parity,111,NMF feature score,0.41,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 7,12,HMO (NMF score),DSLNH,parity >=3,parity,250,NMF feature score,0.55,unitless,probability of contribution to HMO-profile structure

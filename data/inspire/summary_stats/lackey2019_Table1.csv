@@ -1,0 +1,188 @@
+paper,table,page,data_type,analyte,group,group_type,n,statistic,value,unit,notes
+lackey2019,Table 1,5,maternal characteristic,Age,Ethiopia rural,population,40,mean,24.0,y,SEM=1;group_letters=cd;model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Age,Ethiopia rural,population,40,SEM,1,y,model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Age,Ethiopia urban,population,34,mean,22.0,y,SEM=1;group_letters=d;model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Age,Ethiopia urban,population,34,SEM,1,y,model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Age,Gambia rural,population,39,mean,26.0,y,SEM=1;group_letters=bc;model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Age,Gambia rural,population,39,SEM,1,y,model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Age,Gambia urban,population,38,mean,26.0,y,SEM=1;group_letters=bc;model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Age,Gambia urban,population,38,SEM,1,y,model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Age,Ghana,population,37,mean,28.0,y,SEM=1;group_letters=bc;model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Age,Ghana,population,37,SEM,1,y,model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Age,Kenya,population,42,mean,25.0,y,SEM=1;group_letters=cd;model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Age,Kenya,population,42,SEM,1,y,model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Age,Peru,population,43,mean,26.0,y,SEM=1;group_letters=bc;model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Age,Peru,population,43,SEM,1,y,model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Age,Spain,population,40,mean,34.0,y,SEM=1;group_letters=a;model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Age,Spain,population,40,SEM,1,y,model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Age,Sweden,population,23,mean,30.0,y,SEM=1;group_letters=ab;model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Age,Sweden,population,23,SEM,1,y,model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Age,US California,population,19,mean,29.0,y,SEM=1;group_letters=abc;model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Age,US California,population,19,SEM,1,y,model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Age,US Washington,population,39,mean,28.0,y,SEM=1;group_letters=bc;model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Age,US Washington,population,39,SEM,1,y,model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Time postpartum,Ethiopia rural,population,40,mean,71.0,d,SEM=3;group_letters=a;model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Time postpartum,Ethiopia rural,population,40,SEM,3,d,model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Time postpartum,Ethiopia urban,population,34,mean,59.0,d,SEM=4;group_letters=ab;model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Time postpartum,Ethiopia urban,population,34,SEM,4,d,model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Time postpartum,Gambia rural,population,39,mean,65.0,d,SEM=3;group_letters=ab;model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Time postpartum,Gambia rural,population,39,SEM,3,d,model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Time postpartum,Gambia urban,population,38,mean,61.0,d,SEM=3;group_letters=ab;model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Time postpartum,Gambia urban,population,38,SEM,3,d,model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Time postpartum,Ghana,population,37,mean,58.0,d,SEM=3;group_letters=ab;model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Time postpartum,Ghana,population,37,SEM,3,d,model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Time postpartum,Kenya,population,42,mean,73.0,d,SEM=3;group_letters=a;model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Time postpartum,Kenya,population,42,SEM,3,d,model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Time postpartum,Peru,population,43,mean,60.0,d,SEM=3;group_letters=ab;model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Time postpartum,Peru,population,43,SEM,3,d,model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Time postpartum,Spain,population,40,mean,71.0,d,SEM=3;group_letters=a;model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Time postpartum,Spain,population,40,SEM,3,d,model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Time postpartum,Sweden,population,23,mean,49.0,d,SEM=4;group_letters=b;model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Time postpartum,Sweden,population,23,SEM,4,d,model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Time postpartum,US California,population,19,mean,62.0,d,SEM=5;group_letters=ab;model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Time postpartum,US California,population,19,SEM,5,d,model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Time postpartum,US Washington,population,39,mean,68.0,d,SEM=3;group_letters=a;model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Time postpartum,US Washington,population,39,SEM,3,d,model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Parity,Ethiopia rural,population,40,mean,2.9,n,SEM=1.1;group_letters=ab;model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Parity,Ethiopia rural,population,40,SEM,1.1,n,model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Parity,Ethiopia urban,population,34,mean,1.4,n,SEM=1.1;group_letters=de;model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Parity,Ethiopia urban,population,34,SEM,1.1,n,model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Parity,Gambia rural,population,39,mean,3.1,n,SEM=1.1;group_letters=a;model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Parity,Gambia rural,population,39,SEM,1.1,n,model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Parity,Gambia urban,population,38,mean,2.7,n,SEM=1.1;group_letters=abc;model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Parity,Gambia urban,population,38,SEM,1.1,n,model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Parity,Ghana,population,37,mean,1.9,n,SEM=1.1;group_letters=bcd;model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Parity,Ghana,population,37,SEM,1.1,n,model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Parity,Kenya,population,42,mean,1.8,n,SEM=1.1;group_letters=cd;model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Parity,Kenya,population,42,SEM,1.1,n,model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Parity,Peru,population,43,mean,1.2,n,SEM=1.1;group_letters=e;model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Parity,Peru,population,43,SEM,1.1,n,model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Parity,Spain,population,40,mean,1.4,n,SEM=1.1;group_letters=de;model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Parity,Spain,population,40,SEM,1.1,n,model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Parity,Sweden,population,23,mean,1.6,n,SEM=1.1;group_letters=cde;model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Parity,Sweden,population,23,SEM,1.1,n,model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Parity,US California,population,19,mean,1.6,n,SEM=1.1;group_letters=de;model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Parity,US California,population,19,SEM,1.1,n,model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Parity,US Washington,population,39,mean,21.1,n,SEM=1.0;group_letters=e;model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Parity,US Washington,population,39,SEM,1.0,n,model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Delivery mode,Ethiopia rural,population,40,%,100,%,group letters omitted where printed
+lackey2019,Table 1,5,maternal characteristic,Delivery mode,Ethiopia urban,population,34,%,100,%,group letters omitted where printed
+lackey2019,Table 1,5,maternal characteristic,Delivery mode,Gambia rural,population,39,%,100,%,group letters omitted where printed
+lackey2019,Table 1,5,maternal characteristic,Delivery mode,Gambia urban,population,38,%,97,%,group letters omitted where printed
+lackey2019,Table 1,5,maternal characteristic,Delivery mode,Ghana,population,37,%,92,%,group letters omitted where printed
+lackey2019,Table 1,5,maternal characteristic,Delivery mode,Kenya,population,42,%,78,%,group letters omitted where printed
+lackey2019,Table 1,5,maternal characteristic,Delivery mode,Peru,population,43,%,51,%,group letters omitted where printed
+lackey2019,Table 1,5,maternal characteristic,Delivery mode,Spain,population,40,%,90,%,group letters omitted where printed
+lackey2019,Table 1,5,maternal characteristic,Delivery mode,Sweden,population,23,%,79,%,group letters omitted where printed
+lackey2019,Table 1,5,maternal characteristic,Delivery mode,US California,population,19,%,63,%,group letters omitted where printed
+lackey2019,Table 1,5,maternal characteristic,Delivery mode,US Washington,population,39,%,79,%,group letters omitted where printed
+lackey2019,Table 1,5,maternal characteristic,BMI,Ethiopia rural,population,40,mean,21.1,kg/m2,SEM=1.0;group_letters=e;model-based estimate
+lackey2019,Table 1,5,maternal characteristic,BMI,Ethiopia rural,population,40,SEM,1.0,kg/m2,model-based estimate
+lackey2019,Table 1,5,maternal characteristic,BMI,Ethiopia urban,population,34,mean,21.8,kg/m2,SEM=1.0;group_letters=de;model-based estimate
+lackey2019,Table 1,5,maternal characteristic,BMI,Ethiopia urban,population,34,SEM,1.0,kg/m2,model-based estimate
+lackey2019,Table 1,5,maternal characteristic,BMI,Gambia rural,population,39,mean,21.2,kg/m2,SEM=1.0;group_letters=e;model-based estimate
+lackey2019,Table 1,5,maternal characteristic,BMI,Gambia rural,population,39,SEM,1.0,kg/m2,model-based estimate
+lackey2019,Table 1,5,maternal characteristic,BMI,Gambia urban,population,38,mean,22.8,kg/m2,SEM=1.0;group_letters=cde;model-based estimate
+lackey2019,Table 1,5,maternal characteristic,BMI,Gambia urban,population,38,SEM,1.0,kg/m2,model-based estimate
+lackey2019,Table 1,5,maternal characteristic,BMI,Ghana,population,37,mean,24.4,kg/m2,SEM=1.0;group_letters=bcd;model-based estimate
+lackey2019,Table 1,5,maternal characteristic,BMI,Ghana,population,37,SEM,1.0,kg/m2,model-based estimate
+lackey2019,Table 1,5,maternal characteristic,BMI,Kenya,population,42,mean,23.4,kg/m2,SEM=1.0;group_letters=bcde;model-based estimate
+lackey2019,Table 1,5,maternal characteristic,BMI,Kenya,population,42,SEM,1.0,kg/m2,model-based estimate
+lackey2019,Table 1,5,maternal characteristic,BMI,Peru,population,43,mean,27.6,kg/m2,SEM=1.0;group_letters=a;model-based estimate
+lackey2019,Table 1,5,maternal characteristic,BMI,Peru,population,43,SEM,1.0,kg/m2,model-based estimate
+lackey2019,Table 1,5,maternal characteristic,BMI,Spain,population,40,mean,23.2,kg/m2,SEM=1.0;group_letters=cde;model-based estimate
+lackey2019,Table 1,5,maternal characteristic,BMI,Spain,population,40,SEM,1.0,kg/m2,model-based estimate
+lackey2019,Table 1,5,maternal characteristic,BMI,Sweden,population,23,mean,25.5,kg/m2,SEM=1.0;group_letters=abc;model-based estimate
+lackey2019,Table 1,5,maternal characteristic,BMI,Sweden,population,23,SEM,1.0,kg/m2,model-based estimate
+lackey2019,Table 1,5,maternal characteristic,BMI,US California,population,19,mean,28.8,kg/m2,SEM=1.0;group_letters=a;model-based estimate
+lackey2019,Table 1,5,maternal characteristic,BMI,US California,population,19,SEM,1.0,kg/m2,model-based estimate
+lackey2019,Table 1,5,maternal characteristic,BMI,US Washington,population,39,mean,26.3,kg/m2,SEM=1.0;group_letters=ab;model-based estimate
+lackey2019,Table 1,5,maternal characteristic,BMI,US Washington,population,39,SEM,1.0,kg/m2,model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Height,Ethiopia rural,population,40,mean,155.0,cm,SEM=1;group_letters=ef;model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Height,Ethiopia rural,population,40,SEM,1,cm,model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Height,Ethiopia urban,population,34,mean,159.0,cm,SEM=1;group_letters=de;model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Height,Ethiopia urban,population,34,SEM,1,cm,model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Height,Gambia rural,population,39,mean,162.0,cm,SEM=1;group_letters=cd;model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Height,Gambia rural,population,39,SEM,1,cm,model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Height,Gambia urban,population,38,mean,167.0,cm,SEM=1;group_letters=abc;model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Height,Gambia urban,population,38,SEM,1,cm,model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Height,Ghana,population,37,mean,159.0,cm,SEM=1;group_letters=de;model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Height,Ghana,population,37,SEM,1,cm,model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Height,Kenya,population,42,mean,159.0,cm,SEM=1;group_letters=d;model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Height,Kenya,population,42,SEM,1,cm,model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Height,Peru,population,43,mean,153.0,cm,SEM=1;group_letters=f;model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Height,Peru,population,43,SEM,1,cm,model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Height,Spain,population,40,mean,165.0,cm,SEM=1;group_letters=abc;model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Height,Spain,population,40,SEM,1,cm,model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Height,Sweden,population,23,mean,169.0,cm,SEM=1;group_letters=a;model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Height,Sweden,population,23,SEM,1,cm,model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Height,US California,population,19,mean,162.0,cm,SEM=1;group_letters=bcd;model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Height,US California,population,19,SEM,1,cm,model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Height,US Washington,population,39,mean,167.0,cm,SEM=1;group_letters=ab;model-based estimate
+lackey2019,Table 1,5,maternal characteristic,Height,US Washington,population,39,SEM,1,cm,model-based estimate
+lackey2019,Table 1,5,infant characteristic,Sex,Ethiopia rural,population,40,%,56,%,group letters omitted where printed
+lackey2019,Table 1,5,infant characteristic,Sex,Ethiopia urban,population,32,%,50,%,group letters omitted where printed
+lackey2019,Table 1,5,infant characteristic,Sex,Gambia rural,population,38,%,53,%,group letters omitted where printed
+lackey2019,Table 1,5,infant characteristic,Sex,Gambia urban,population,38,%,42,%,group letters omitted where printed
+lackey2019,Table 1,5,infant characteristic,Sex,Ghana,population,32,%,55,%,group letters omitted where printed
+lackey2019,Table 1,5,infant characteristic,Sex,Kenya,population,42,%,45,%,group letters omitted where printed
+lackey2019,Table 1,5,infant characteristic,Sex,Peru,population,42,%,47,%,group letters omitted where printed
+lackey2019,Table 1,5,infant characteristic,Sex,Spain,population,37,%,48,%,group letters omitted where printed
+lackey2019,Table 1,5,infant characteristic,Sex,Sweden,population,23,%,54,%,group letters omitted where printed
+lackey2019,Table 1,5,infant characteristic,Sex,US California,population,12,%,61,%,group letters omitted where printed
+lackey2019,Table 1,5,infant characteristic,Sex,US Washington,population,41,%,44,%,group letters omitted where printed
+lackey2019,Table 1,5,infant characteristic,Exclusively breastfed,Ethiopia rural,population,40,%,95,%,group letters omitted where printed
+lackey2019,Table 1,5,infant characteristic,Exclusively breastfed,Ethiopia urban,population,32,%,87,%,group letters omitted where printed
+lackey2019,Table 1,5,infant characteristic,Exclusively breastfed,Gambia rural,population,38,%,97,%,group letters omitted where printed
+lackey2019,Table 1,5,infant characteristic,Exclusively breastfed,Gambia urban,population,38,%,53,%,group letters omitted where printed
+lackey2019,Table 1,5,infant characteristic,Exclusively breastfed,Ghana,population,32,%,34,%,group letters omitted where printed
+lackey2019,Table 1,5,infant characteristic,Exclusively breastfed,Kenya,population,42,%,36,%,group letters omitted where printed
+lackey2019,Table 1,5,infant characteristic,Exclusively breastfed,Peru,population,42,%,31,%,group letters omitted where printed
+lackey2019,Table 1,5,infant characteristic,Exclusively breastfed,Spain,population,37,%,62,%,group letters omitted where printed
+lackey2019,Table 1,5,infant characteristic,Exclusively breastfed,Sweden,population,23,%,48,%,group letters omitted where printed
+lackey2019,Table 1,5,infant characteristic,Exclusively breastfed,US California,population,12,%,50,%,group letters omitted where printed
+lackey2019,Table 1,5,infant characteristic,Exclusively breastfed,US Washington,population,41,%,57,%,group letters omitted where printed
+lackey2019,Table 1,5,infant characteristic,Weight,Ethiopia rural,population,40,mean,5.6,kg,SEM=1.0;group_letters=ab;model-based estimate
+lackey2019,Table 1,5,infant characteristic,Weight,Ethiopia rural,population,40,SEM,1.0,kg,model-based estimate
+lackey2019,Table 1,5,infant characteristic,Weight,Ethiopia urban,population,32,mean,5.4,kg,SEM=1.0;group_letters=ab;model-based estimate
+lackey2019,Table 1,5,infant characteristic,Weight,Ethiopia urban,population,32,SEM,1.0,kg,model-based estimate
+lackey2019,Table 1,5,infant characteristic,Weight,Gambia rural,population,38,mean,5.2,kg,SEM=1.0;group_letters=b;model-based estimate
+lackey2019,Table 1,5,infant characteristic,Weight,Gambia rural,population,38,SEM,1.0,kg,model-based estimate
+lackey2019,Table 1,5,infant characteristic,Weight,Gambia urban,population,38,mean,4.9,kg,SEM=1.0;group_letters=b;model-based estimate
+lackey2019,Table 1,5,infant characteristic,Weight,Gambia urban,population,38,SEM,1.0,kg,model-based estimate
+lackey2019,Table 1,5,infant characteristic,Weight,Ghana,population,32,mean,5.2,kg,SEM=1.0;group_letters=b;model-based estimate
+lackey2019,Table 1,5,infant characteristic,Weight,Ghana,population,32,SEM,1.0,kg,model-based estimate
+lackey2019,Table 1,5,infant characteristic,Weight,Kenya,population,42,mean,6.0,kg,SEM=1.0;group_letters=a;model-based estimate
+lackey2019,Table 1,5,infant characteristic,Weight,Kenya,population,42,SEM,1.0,kg,model-based estimate
+lackey2019,Table 1,5,infant characteristic,Weight,Peru,population,42,mean,5.5,kg,SEM=1.0;group_letters=ab;model-based estimate
+lackey2019,Table 1,5,infant characteristic,Weight,Peru,population,42,SEM,1.0,kg,model-based estimate
+lackey2019,Table 1,5,infant characteristic,Weight,Spain,population,37,mean,5.3,kg,SEM=1.0;group_letters=b;model-based estimate
+lackey2019,Table 1,5,infant characteristic,Weight,Spain,population,37,SEM,1.0,kg,model-based estimate
+lackey2019,Table 1,5,infant characteristic,Weight,Sweden,population,23,mean,5.0,kg,SEM=1.0;group_letters=b;model-based estimate
+lackey2019,Table 1,5,infant characteristic,Weight,Sweden,population,23,SEM,1.0,kg,model-based estimate
+lackey2019,Table 1,5,infant characteristic,Weight,US California,population,12,mean,5.1,kg,SEM=1.1;group_letters=ab;model-based estimate
+lackey2019,Table 1,5,infant characteristic,Weight,US California,population,12,SEM,1.1,kg,model-based estimate
+lackey2019,Table 1,5,infant characteristic,Weight,US Washington,population,41,mean,5.2,kg,SEM=1.0;group_letters=b;model-based estimate
+lackey2019,Table 1,5,infant characteristic,Weight,US Washington,population,41,SEM,1.0,kg,model-based estimate
+lackey2019,Table 1,5,infant characteristic,Weight-for-length,Ethiopia rural,population,40,mean,-0.27,z-score,SEM=0.20;group_letters=bd;model-based estimate
+lackey2019,Table 1,5,infant characteristic,Weight-for-length,Ethiopia rural,population,40,SEM,0.20,z-score,model-based estimate
+lackey2019,Table 1,5,infant characteristic,Weight-for-length,Ethiopia urban,population,32,mean,-0.52,z-score,SEM=0.22;group_letters=d;model-based estimate
+lackey2019,Table 1,5,infant characteristic,Weight-for-length,Ethiopia urban,population,32,SEM,0.22,z-score,model-based estimate
+lackey2019,Table 1,5,infant characteristic,Weight-for-length,Gambia rural,population,38,mean,0.51,z-score,SEM=0.21;group_letters=abc;model-based estimate
+lackey2019,Table 1,5,infant characteristic,Weight-for-length,Gambia rural,population,38,SEM,0.21,z-score,model-based estimate
+lackey2019,Table 1,5,infant characteristic,Weight-for-length,Gambia urban,population,38,mean,-0.01,z-score,SEM=0.21;group_letters=bd;model-based estimate
+lackey2019,Table 1,5,infant characteristic,Weight-for-length,Gambia urban,population,38,SEM,0.21,z-score,model-based estimate
+lackey2019,Table 1,5,infant characteristic,Weight-for-length,Ghana,population,32,mean,-0.13,z-score,SEM=0.22;group_letters=bd;model-based estimate
+lackey2019,Table 1,5,infant characteristic,Weight-for-length,Ghana,population,32,SEM,0.22,z-score,model-based estimate
+lackey2019,Table 1,5,infant characteristic,Weight-for-length,Kenya,population,42,mean,1.03,z-score,SEM=0.20;group_letters=a;model-based estimate
+lackey2019,Table 1,5,infant characteristic,Weight-for-length,Kenya,population,42,SEM,0.20,z-score,model-based estimate
+lackey2019,Table 1,5,infant characteristic,Weight-for-length,Peru,population,42,mean,0.6,z-score,SEM=0.19;group_letters=ab;model-based estimate
+lackey2019,Table 1,5,infant characteristic,Weight-for-length,Peru,population,42,SEM,0.19,z-score,model-based estimate
+lackey2019,Table 1,5,infant characteristic,Weight-for-length,Spain,population,37,mean,-0.29,z-score,SEM=0.20;group_letters=bd;model-based estimate
+lackey2019,Table 1,5,infant characteristic,Weight-for-length,Spain,population,37,SEM,0.20,z-score,model-based estimate
+lackey2019,Table 1,5,infant characteristic,Weight-for-length,Sweden,population,23,mean,-0.53,z-score,SEM=0.26;group_letters=cd;model-based estimate
+lackey2019,Table 1,5,infant characteristic,Weight-for-length,Sweden,population,23,SEM,0.26,z-score,model-based estimate
+lackey2019,Table 1,5,infant characteristic,Weight-for-length,US California,population,12,mean,1.37,z-score,SEM=0.47;group_letters=ab;model-based estimate
+lackey2019,Table 1,5,infant characteristic,Weight-for-length,US California,population,12,SEM,0.47,z-score,model-based estimate
+lackey2019,Table 1,5,infant characteristic,Weight-for-length,US Washington,population,41,mean,-0.91,z-score,SEM=0.20;group_letters=d;model-based estimate
+lackey2019,Table 1,5,infant characteristic,Weight-for-length,US Washington,population,41,SEM,0.20,z-score,model-based estimate

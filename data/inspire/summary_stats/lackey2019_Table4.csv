@@ -1,0 +1,177 @@
+paper,table,page,data_type,analyte,group,group_type,n,statistic,value,unit,notes
+lackey2019,Table 4,12,infant fecal microbiome,Richness,Ethiopia rural,population,40,mean,36,index units,SEM=1;group_letters=abc;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,infant fecal microbiome,Richness,Ethiopia rural,population,40,SEM,1,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,infant fecal microbiome,Richness,Ethiopia urban,population,32,mean,31,index units,SEM=1;group_letters=bc;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,infant fecal microbiome,Richness,Ethiopia urban,population,32,SEM,1,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,infant fecal microbiome,Richness,Gambia rural,population,38,mean,37,index units,SEM=1;group_letters=abc;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,infant fecal microbiome,Richness,Gambia rural,population,38,SEM,1,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,infant fecal microbiome,Richness,Gambia urban,population,38,mean,38,index units,SEM=1;group_letters=ab;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,infant fecal microbiome,Richness,Gambia urban,population,38,SEM,1,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,infant fecal microbiome,Richness,Ghana,population,32,mean,32,index units,SEM=1;group_letters=bc;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,infant fecal microbiome,Richness,Ghana,population,32,SEM,1,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,infant fecal microbiome,Richness,Kenya,population,42,mean,42,index units,SEM=1;group_letters=a;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,infant fecal microbiome,Richness,Kenya,population,42,SEM,1,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,infant fecal microbiome,Richness,Peru,population,42,mean,32,index units,SEM=1;group_letters=bc;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,infant fecal microbiome,Richness,Peru,population,42,SEM,1,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,infant fecal microbiome,Richness,Spain,population,37,mean,30,index units,SEM=1;group_letters=c;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,infant fecal microbiome,Richness,Spain,population,37,SEM,1,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,infant fecal microbiome,Richness,Sweden,population,23,mean,35,index units,SEM=1;group_letters=abc;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,infant fecal microbiome,Richness,Sweden,population,23,SEM,1,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,infant fecal microbiome,Richness,US California,population,12,mean,20,index units,SEM=1;group_letters=d;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,infant fecal microbiome,Richness,US California,population,12,SEM,1,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,infant fecal microbiome,Richness,US Washington,population,41,mean,34,index units,SEM=1;group_letters=abc;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,infant fecal microbiome,Richness,US Washington,population,41,SEM,1,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,infant fecal microbiome,Shannon diversity,Ethiopia rural,population,40,mean,2.51,index units,SEM=1.04;group_letters=abc;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,infant fecal microbiome,Shannon diversity,Ethiopia rural,population,40,SEM,1.04,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,infant fecal microbiome,Shannon diversity,Ethiopia urban,population,32,mean,2.55,index units,SEM=1.04;group_letters=ac;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,infant fecal microbiome,Shannon diversity,Ethiopia urban,population,32,SEM,1.04,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,infant fecal microbiome,Shannon diversity,Gambia rural,population,38,mean,2.62,index units,SEM=1.04;group_letters=ac;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,infant fecal microbiome,Shannon diversity,Gambia rural,population,38,SEM,1.04,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,infant fecal microbiome,Shannon diversity,Gambia urban,population,38,mean,2.60,index units,SEM=1.04;group_letters=ac;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,infant fecal microbiome,Shannon diversity,Gambia urban,population,38,SEM,1.04,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,infant fecal microbiome,Shannon diversity,Ghana,population,32,mean,2.08,index units,SEM=1.04;group_letters=b;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,infant fecal microbiome,Shannon diversity,Ghana,population,32,SEM,1.04,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,infant fecal microbiome,Shannon diversity,Kenya,population,42,mean,2.76,index units,SEM=1.04;group_letters=a;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,infant fecal microbiome,Shannon diversity,Kenya,population,42,SEM,1.04,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,infant fecal microbiome,Shannon diversity,Peru,population,42,mean,2.48,index units,SEM=1.04;group_letters=abc;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,infant fecal microbiome,Shannon diversity,Peru,population,42,SEM,1.04,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,infant fecal microbiome,Shannon diversity,Spain,population,37,mean,2.36,index units,SEM=1.04;group_letters=abc;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,infant fecal microbiome,Shannon diversity,Spain,population,37,SEM,1.04,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,infant fecal microbiome,Shannon diversity,Sweden,population,23,mean,2.51,index units,SEM=1.05;group_letters=abc;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,infant fecal microbiome,Shannon diversity,Sweden,population,23,SEM,1.05,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,infant fecal microbiome,Shannon diversity,US California,population,12,mean,1.95,index units,SEM=1.07;group_letters=bc;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,infant fecal microbiome,Shannon diversity,US California,population,12,SEM,1.07,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,infant fecal microbiome,Shannon diversity,US Washington,population,41,mean,2.37,index units,SEM=1.04;group_letters=abc;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,infant fecal microbiome,Shannon diversity,US Washington,population,41,SEM,1.04,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,infant fecal microbiome,Inverse Simpson diversity,Ethiopia rural,population,40,mean,7.94,index units,SEM=1.09;group_letters=a;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,infant fecal microbiome,Inverse Simpson diversity,Ethiopia rural,population,40,SEM,1.09,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,infant fecal microbiome,Inverse Simpson diversity,Ethiopia urban,population,32,mean,8.64,index units,SEM=1.10;group_letters=a;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,infant fecal microbiome,Inverse Simpson diversity,Ethiopia urban,population,32,SEM,1.10,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,infant fecal microbiome,Inverse Simpson diversity,Gambia rural,population,38,mean,8.88,index units,SEM=1.09;group_letters=a;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,infant fecal microbiome,Inverse Simpson diversity,Gambia rural,population,38,SEM,1.09,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,infant fecal microbiome,Inverse Simpson diversity,Gambia urban,population,38,mean,8.38,index units,SEM=1.09;group_letters=a;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,infant fecal microbiome,Inverse Simpson diversity,Gambia urban,population,38,SEM,1.09,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,infant fecal microbiome,Inverse Simpson diversity,Ghana,population,32,mean,5.04,index units,SEM=1.10;group_letters=b;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,infant fecal microbiome,Inverse Simpson diversity,Ghana,population,32,SEM,1.10,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,infant fecal microbiome,Inverse Simpson diversity,Kenya,population,42,mean,10.14,index units,SEM=1.09;group_letters=a;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,infant fecal microbiome,Inverse Simpson diversity,Kenya,population,42,SEM,1.09,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,infant fecal microbiome,Inverse Simpson diversity,Peru,population,42,mean,7.82,index units,SEM=1.09;group_letters=a;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,infant fecal microbiome,Inverse Simpson diversity,Peru,population,42,SEM,1.09,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,infant fecal microbiome,Inverse Simpson diversity,Spain,population,37,mean,7.18,index units,SEM=1.09;group_letters=ab;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,infant fecal microbiome,Inverse Simpson diversity,Spain,population,37,SEM,1.09,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,infant fecal microbiome,Inverse Simpson diversity,Sweden,population,23,mean,8.22,index units,SEM=1.12;group_letters=ab;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,infant fecal microbiome,Inverse Simpson diversity,Sweden,population,23,SEM,1.12,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,infant fecal microbiome,Inverse Simpson diversity,US California,population,12,mean,5.67,index units,SEM=1.17;group_letters=ab;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,infant fecal microbiome,Inverse Simpson diversity,US California,population,12,SEM,1.17,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,infant fecal microbiome,Inverse Simpson diversity,US Washington,population,41,mean,7.25,index units,SEM=1.09;group_letters=ab;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,infant fecal microbiome,Inverse Simpson diversity,US Washington,population,41,SEM,1.09,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,infant fecal microbiome,Fisher diversity,Ethiopia rural,population,40,mean,7.42,index units,SEM=1.06;group_letters=abc;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,infant fecal microbiome,Fisher diversity,Ethiopia rural,population,40,SEM,1.06,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,infant fecal microbiome,Fisher diversity,Ethiopia urban,population,32,mean,6.20,index units,SEM=1.07;group_letters=bc;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,infant fecal microbiome,Fisher diversity,Ethiopia urban,population,32,SEM,1.07,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,infant fecal microbiome,Fisher diversity,Gambia rural,population,38,mean,7.52,index units,SEM=1.06;group_letters=abc;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,infant fecal microbiome,Fisher diversity,Gambia rural,population,38,SEM,1.06,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,infant fecal microbiome,Fisher diversity,Gambia urban,population,38,mean,7.97,index units,SEM=1.06;group_letters=ab;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,infant fecal microbiome,Fisher diversity,Gambia urban,population,38,SEM,1.06,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,infant fecal microbiome,Fisher diversity,Ghana,population,32,mean,6.42,index units,SEM=1.07;group_letters=bc;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,infant fecal microbiome,Fisher diversity,Ghana,population,32,SEM,1.07,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,infant fecal microbiome,Fisher diversity,Kenya,population,42,mean,8.96,index units,SEM=1.06;group_letters=a;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,infant fecal microbiome,Fisher diversity,Kenya,population,42,SEM,1.06,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,infant fecal microbiome,Fisher diversity,Peru,population,42,mean,6.35,index units,SEM=1.06;group_letters=bc;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,infant fecal microbiome,Fisher diversity,Peru,population,42,SEM,1.06,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,infant fecal microbiome,Fisher diversity,Spain,population,37,mean,5.78,index units,SEM=1.06;group_letters=c;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,infant fecal microbiome,Fisher diversity,Spain,population,37,SEM,1.06,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,infant fecal microbiome,Fisher diversity,Sweden,population,23,mean,7.02,index units,SEM=1.08;group_letters=abc;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,infant fecal microbiome,Fisher diversity,Sweden,population,23,SEM,1.08,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,infant fecal microbiome,Fisher diversity,US California,population,12,mean,3.65,index units,SEM=1.12;group_letters=d;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,infant fecal microbiome,Fisher diversity,US California,population,12,SEM,1.12,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,infant fecal microbiome,Fisher diversity,US Washington,population,41,mean,6.83,index units,SEM=1.06;group_letters=abc;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,infant fecal microbiome,Fisher diversity,US Washington,population,41,SEM,1.06,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,milk microbiome,Richness,Ethiopia rural,population,40,mean,85,index units,SEM=1;group_letters=a;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,milk microbiome,Richness,Ethiopia rural,population,40,SEM,1,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,milk microbiome,Richness,Ethiopia urban,population,34,mean,52,index units,SEM=1;group_letters=b;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,milk microbiome,Richness,Ethiopia urban,population,34,SEM,1,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,milk microbiome,Richness,Gambia rural,population,39,mean,57,index units,SEM=1;group_letters=ab;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,milk microbiome,Richness,Gambia rural,population,39,SEM,1,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,milk microbiome,Richness,Gambia urban,population,38,mean,56,index units,SEM=1;group_letters=ab;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,milk microbiome,Richness,Gambia urban,population,38,SEM,1,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,milk microbiome,Richness,Ghana,population,37,mean,21,index units,SEM=1;group_letters=d;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,milk microbiome,Richness,Ghana,population,37,SEM,1,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,milk microbiome,Richness,Kenya,population,42,mean,59,index units,SEM=1;group_letters=ab;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,milk microbiome,Richness,Kenya,population,42,SEM,1,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,milk microbiome,Richness,Peru,population,43,mean,42,index units,SEM=1;group_letters=bc;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,milk microbiome,Richness,Peru,population,43,SEM,1,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,milk microbiome,Richness,Spain,population,40,mean,39,index units,SEM=1;group_letters=bc;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,milk microbiome,Richness,Spain,population,40,SEM,1,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,milk microbiome,Richness,Sweden,population,23,mean,36,index units,SEM=1;group_letters=bc;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,milk microbiome,Richness,Sweden,population,23,SEM,1,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,milk microbiome,Richness,US California,population,19,mean,28,index units,SEM=1;group_letters=cd;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,milk microbiome,Richness,US California,population,19,SEM,1,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,milk microbiome,Richness,US Washington,population,39,mean,44,index units,SEM=1;group_letters=bc;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,milk microbiome,Richness,US Washington,population,39,SEM,1,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,milk microbiome,Shannon diversity,Ethiopia rural,population,40,mean,3.16,index units,SEM=0.13;group_letters=a;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,milk microbiome,Shannon diversity,Ethiopia rural,population,40,SEM,0.13,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,milk microbiome,Shannon diversity,Ethiopia urban,population,34,mean,2.90,index units,SEM=0.14;group_letters=abc;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,milk microbiome,Shannon diversity,Ethiopia urban,population,34,SEM,0.14,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,milk microbiome,Shannon diversity,Gambia rural,population,39,mean,3.09,index units,SEM=0.13;group_letters=ab;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,milk microbiome,Shannon diversity,Gambia rural,population,39,SEM,0.13,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,milk microbiome,Shannon diversity,Gambia urban,population,38,mean,3.11,index units,SEM=0.13;group_letters=ab;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,milk microbiome,Shannon diversity,Gambia urban,population,38,SEM,0.13,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,milk microbiome,Shannon diversity,Ghana,population,37,mean,2.05,index units,SEM=0.13;group_letters=d;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,milk microbiome,Shannon diversity,Ghana,population,37,SEM,0.13,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,milk microbiome,Shannon diversity,Kenya,population,42,mean,2.96,index units,SEM=0.12;group_letters=abc;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,milk microbiome,Shannon diversity,Kenya,population,42,SEM,0.12,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,milk microbiome,Shannon diversity,Peru,population,43,mean,2.50,index units,SEM=0.12;group_letters=cd;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,milk microbiome,Shannon diversity,Peru,population,43,SEM,0.12,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,milk microbiome,Shannon diversity,Spain,population,40,mean,2.52,index units,SEM=0.13;group_letters=bcd;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,milk microbiome,Shannon diversity,Spain,population,40,SEM,0.13,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,milk microbiome,Shannon diversity,Sweden,population,23,mean,2.34,index units,SEM=0.16;group_letters=cd;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,milk microbiome,Shannon diversity,Sweden,population,23,SEM,0.16,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,milk microbiome,Shannon diversity,US California,population,19,mean,2.33,index units,SEM=0.18;group_letters=cd;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,milk microbiome,Shannon diversity,US California,population,19,SEM,0.18,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,milk microbiome,Shannon diversity,US Washington,population,39,mean,2.67,index units,SEM=0.13;group_letters=abc;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,milk microbiome,Shannon diversity,US Washington,population,39,SEM,0.13,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,milk microbiome,Inverse Simpson diversity,Ethiopia rural,population,40,mean,10.32,index units,SEM=1.13;group_letters=ab;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,milk microbiome,Inverse Simpson diversity,Ethiopia rural,population,40,SEM,1.13,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,milk microbiome,Inverse Simpson diversity,Ethiopia urban,population,34,mean,9.70,index units,SEM=1.14;group_letters=abc;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,milk microbiome,Inverse Simpson diversity,Ethiopia urban,population,34,SEM,1.14,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,milk microbiome,Inverse Simpson diversity,Gambia rural,population,39,mean,11.44,index units,SEM=1.13;group_letters=ad;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,milk microbiome,Inverse Simpson diversity,Gambia rural,population,39,SEM,1.13,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,milk microbiome,Inverse Simpson diversity,Gambia urban,population,38,mean,12.08,index units,SEM=1.13;group_letters=a;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,milk microbiome,Inverse Simpson diversity,Gambia urban,population,38,SEM,1.13,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,milk microbiome,Inverse Simpson diversity,Ghana,population,37,mean,5.44,index units,SEM=1.13;group_letters=c;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,milk microbiome,Inverse Simpson diversity,Ghana,population,37,SEM,1.13,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,milk microbiome,Inverse Simpson diversity,Kenya,population,42,mean,9.36,index units,SEM=1.12;group_letters=abc;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,milk microbiome,Inverse Simpson diversity,Kenya,population,42,SEM,1.12,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,milk microbiome,Inverse Simpson diversity,Peru,population,43,mean,6.49,index units,SEM=1.12;group_letters=bcd;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,milk microbiome,Inverse Simpson diversity,Peru,population,43,SEM,1.12,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,milk microbiome,Inverse Simpson diversity,Spain,population,40,mean,7.08,index units,SEM=1.13;group_letters=aabc;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,milk microbiome,Inverse Simpson diversity,Spain,population,40,SEM,1.13,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,milk microbiome,Inverse Simpson diversity,Sweden,population,23,mean,5.46,index units,SEM=1.17;group_letters=bc;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,milk microbiome,Inverse Simpson diversity,Sweden,population,23,SEM,1.17,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,milk microbiome,Inverse Simpson diversity,US California,population,19,mean,6.22,index units,SEM=1.19;group_letters=abc;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,milk microbiome,Inverse Simpson diversity,US California,population,19,SEM,1.19,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,milk microbiome,Inverse Simpson diversity,US Washington,population,39,mean,7.95,index units,SEM=1.13;group_letters=abc;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,milk microbiome,Inverse Simpson diversity,US Washington,population,39,SEM,1.13,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,milk microbiome,Fisher diversity,Ethiopia rural,population,40,mean,22.71,index units,SEM=1.12;group_letters=a;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,milk microbiome,Fisher diversity,Ethiopia rural,population,40,SEM,1.12,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,milk microbiome,Fisher diversity,Ethiopia urban,population,34,mean,11.84,index units,SEM=1.14;group_letters=bc;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,milk microbiome,Fisher diversity,Ethiopia urban,population,34,SEM,1.14,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,milk microbiome,Fisher diversity,Gambia rural,population,39,mean,13.47,index units,SEM=1.13;group_letters=abc;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,milk microbiome,Fisher diversity,Gambia rural,population,39,SEM,1.13,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,milk microbiome,Fisher diversity,Gambia urban,population,38,mean,12.98,index units,SEM=1.13;group_letters=abc;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,milk microbiome,Fisher diversity,Gambia urban,population,38,SEM,1.13,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,milk microbiome,Fisher diversity,Ghana,population,37,mean,3.93,index units,SEM=1.13;group_letters=;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,milk microbiome,Fisher diversity,Ghana,population,37,SEM,1.13,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,milk microbiome,Fisher diversity,Kenya,population,42,mean,14.00,index units,SEM=1.12;group_letters=ab;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,milk microbiome,Fisher diversity,Kenya,population,42,SEM,1.12,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,milk microbiome,Fisher diversity,Peru,population,43,mean,8.87,index units,SEM=1.12;group_letters=bcd;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,milk microbiome,Fisher diversity,Peru,population,43,SEM,1.12,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,milk microbiome,Fisher diversity,Spain,population,40,mean,8.07,index units,SEM=1.12;group_letters=cd;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,milk microbiome,Fisher diversity,Spain,population,40,SEM,1.12,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,milk microbiome,Fisher diversity,Sweden,population,23,mean,7.40,index units,SEM=1.16;group_letters=cd;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,milk microbiome,Fisher diversity,Sweden,population,23,SEM,1.16,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,milk microbiome,Fisher diversity,US California,population,19,mean,5.30,index units,SEM=1.19;group_letters=d;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,milk microbiome,Fisher diversity,US California,population,19,SEM,1.19,index units,rarefied to 1000 reads
+lackey2019,Table 4,12,milk microbiome,Fisher diversity,US Washington,population,39,mean,9.47,index units,SEM=1.13;group_letters=bcd;rarefied to 1000 reads; model estimate
+lackey2019,Table 4,12,milk microbiome,Fisher diversity,US Washington,population,39,SEM,1.13,index units,rarefied to 1000 reads

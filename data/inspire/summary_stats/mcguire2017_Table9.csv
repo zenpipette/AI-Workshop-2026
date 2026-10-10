@@ -1,0 +1,77 @@
+paper,table,page,data_type,analyte,group,group_type,n,statistic,value,unit,notes
+mcguire2017,Table 9,13,HMO (NMF score),2#FL,15-22 y,maternal age quartile,,NMF feature score,0.97,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),2#FL,23-27 y,maternal age quartile,,NMF feature score,0.71,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),2#FL,28-32 y,maternal age quartile,,NMF feature score,0.83,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),2#FL,33-46 y,maternal age quartile,,NMF feature score,0.69,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),3FL,15-22 y,maternal age quartile,,NMF feature score,0.43,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),3FL,23-27 y,maternal age quartile,,NMF feature score,0.43,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),3FL,28-32 y,maternal age quartile,,NMF feature score,0.46,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),3FL,33-46 y,maternal age quartile,,NMF feature score,0.43,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),LNnT,15-22 y,maternal age quartile,,NMF feature score,0.55,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),LNnT,23-27 y,maternal age quartile,,NMF feature score,0.23,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),LNnT,28-32 y,maternal age quartile,,NMF feature score,0.35,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),LNnT,33-46 y,maternal age quartile,,NMF feature score,0.36,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),3#SL,15-22 y,maternal age quartile,,NMF feature score,0.19,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),3#SL,23-27 y,maternal age quartile,,NMF feature score,0.26,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),3#SL,28-32 y,maternal age quartile,,NMF feature score,0.18,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),3#SL,33-46 y,maternal age quartile,,NMF feature score,0.15,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),DFLac,15-22 y,maternal age quartile,,NMF feature score,0.46,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),DFLac,23-27 y,maternal age quartile,,NMF feature score,0.36,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),DFLac,28-32 y,maternal age quartile,,NMF feature score,0.40,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),DFLac,33-46 y,maternal age quartile,,NMF feature score,0.56,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),6#SL,15-22 y,maternal age quartile,,NMF feature score,0.66,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),6#SL,23-27 y,maternal age quartile,,NMF feature score,0.58,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),6#SL,28-32 y,maternal age quartile,,NMF feature score,0.63,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),6#SL,33-46 y,maternal age quartile,,NMF feature score,0.71,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),LNT,15-22 y,maternal age quartile,,NMF feature score,0.54,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),LNT,23-27 y,maternal age quartile,,NMF feature score,0.30,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),LNT,28-32 y,maternal age quartile,,NMF feature score,0.53,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),LNT,33-46 y,maternal age quartile,,NMF feature score,0.44,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),LNFP I,15-22 y,maternal age quartile,,NMF feature score,0.75,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),LNFP I,23-27 y,maternal age quartile,,NMF feature score,0.62,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),LNFP I,28-32 y,maternal age quartile,,NMF feature score,0.82,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),LNFP I,33-46 y,maternal age quartile,,NMF feature score,0.67,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),LNFP II,15-22 y,maternal age quartile,,NMF feature score,0.60,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),LNFP II,23-27 y,maternal age quartile,,NMF feature score,0.48,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),LNFP II,28-32 y,maternal age quartile,,NMF feature score,0.63,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),LNFP II,33-46 y,maternal age quartile,,NMF feature score,0.49,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),LNFP III,15-22 y,maternal age quartile,,NMF feature score,0.24,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),LNFP III,23-27 y,maternal age quartile,,NMF feature score,0.54,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),LNFP III,28-32 y,maternal age quartile,,NMF feature score,0.36,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),LNFP III,33-46 y,maternal age quartile,,NMF feature score,0.43,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),LSTb,15-22 y,maternal age quartile,,NMF feature score,0.39,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),LSTb,23-27 y,maternal age quartile,,NMF feature score,0.24,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),LSTb,28-32 y,maternal age quartile,,NMF feature score,0.35,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),LSTb,33-46 y,maternal age quartile,,NMF feature score,0.28,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),LSTc,15-22 y,maternal age quartile,,NMF feature score,0.47,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),LSTc,23-27 y,maternal age quartile,,NMF feature score,0.39,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),LSTc,28-32 y,maternal age quartile,,NMF feature score,0.44,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),LSTc,33-46 y,maternal age quartile,,NMF feature score,0.46,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),DFLNT,15-22 y,maternal age quartile,,NMF feature score,0.71,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),DFLNT,23-27 y,maternal age quartile,,NMF feature score,0.78,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),DFLNT,28-32 y,maternal age quartile,,NMF feature score,0.68,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),DFLNT,33-46 y,maternal age quartile,,NMF feature score,0.65,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),LNH,15-22 y,maternal age quartile,,NMF feature score,0.27,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),LNH,23-27 y,maternal age quartile,,NMF feature score,0.27,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),LNH,28-32 y,maternal age quartile,,NMF feature score,0.22,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),LNH,33-46 y,maternal age quartile,,NMF feature score,0.21,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),DSLNT,15-22 y,maternal age quartile,,NMF feature score,0.36,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),DSLNT,23-27 y,maternal age quartile,,NMF feature score,0.15,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),DSLNT,28-32 y,maternal age quartile,,NMF feature score,0.32,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),DSLNT,33-46 y,maternal age quartile,,NMF feature score,0.29,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),FLNH,15-22 y,maternal age quartile,,NMF feature score,0.28,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),FLNH,23-27 y,maternal age quartile,,NMF feature score,0.33,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),FLNH,28-32 y,maternal age quartile,,NMF feature score,0.51,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),FLNH,33-46 y,maternal age quartile,,NMF feature score,0.43,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),DFLNH,15-22 y,maternal age quartile,,NMF feature score,0.29,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),DFLNH,23-27 y,maternal age quartile,,NMF feature score,0.34,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),DFLNH,28-32 y,maternal age quartile,,NMF feature score,0.51,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),DFLNH,33-46 y,maternal age quartile,,NMF feature score,0.49,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),FDSLNH,15-22 y,maternal age quartile,,NMF feature score,0.48,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),FDSLNH,23-27 y,maternal age quartile,,NMF feature score,0.63,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),FDSLNH,28-32 y,maternal age quartile,,NMF feature score,0.64,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),FDSLNH,33-46 y,maternal age quartile,,NMF feature score,0.64,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),DSLNH,15-22 y,maternal age quartile,,NMF feature score,0.48,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),DSLNH,23-27 y,maternal age quartile,,NMF feature score,0.44,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),DSLNH,28-32 y,maternal age quartile,,NMF feature score,0.62,unitless,probability of contribution to HMO-profile structure
+mcguire2017,Table 9,13,HMO (NMF score),DSLNH,33-46 y,maternal age quartile,,NMF feature score,0.59,unitless,probability of contribution to HMO-profile structure

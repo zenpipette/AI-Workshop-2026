@@ -1,0 +1,241 @@
+paper,table,page,data_type,analyte,group,group_type,n,statistic,value,unit,notes
+ruiz2017,Table 1,4,population characteristic,Animals in home,Ethiopia urban,household/health,40,% of subjects,15,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,population characteristic,Animals in home,Gambia rural,household/health,40,% of subjects,22,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,population characteristic,Animals in home,Gambia urban,household/health,40,% of subjects,3,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,population characteristic,Animals in home,Ghana,household/health,40,% of subjects,5,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,population characteristic,Animals in home,Kenya,household/health,42,% of subjects,5,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,population characteristic,Animals in home,Peru,household/health,43,% of subjects,58,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,population characteristic,Animals in home,Spain,household/health,41,% of subjects,39,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,population characteristic,Animals in home,Sweden,household/health,24,% of subjects,42,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,population characteristic,Animals in home,United States California,household/health,19,% of subjects,39,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,population characteristic,Animals in home,United States Washington,household/health,41,% of subjects,34,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,population characteristic,C-section,Ethiopia urban,delivery mode,40,% of subjects,0,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,population characteristic,C-section,Gambia rural,delivery mode,40,% of subjects,0,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,population characteristic,C-section,Gambia urban,delivery mode,40,% of subjects,3,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,population characteristic,C-section,Ghana,delivery mode,40,% of subjects,15,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,population characteristic,C-section,Kenya,delivery mode,42,% of subjects,22,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,population characteristic,C-section,Peru,delivery mode,43,% of subjects,49,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,population characteristic,C-section,Spain,delivery mode,41,% of subjects,10,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,population characteristic,C-section,Sweden,delivery mode,24,% of subjects,21,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,population characteristic,C-section,United States California,delivery mode,19,% of subjects,37,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,population characteristic,C-section,United States Washington,delivery mode,41,% of subjects,19,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,population characteristic,Infant health problems,Ethiopia urban,infant health,40,% of subjects,5,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,population characteristic,Infant health problems,Gambia rural,infant health,40,% of subjects,54,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,population characteristic,Infant health problems,Gambia urban,infant health,40,% of subjects,50,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,population characteristic,Infant health problems,Ghana,infant health,40,% of subjects,28,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,population characteristic,Infant health problems,Kenya,infant health,42,% of subjects,22,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,population characteristic,Infant health problems,Peru,infant health,43,% of subjects,7,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,population characteristic,Infant health problems,Spain,infant health,41,% of subjects,22,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,population characteristic,Infant health problems,Sweden,infant health,24,% of subjects,4,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,population characteristic,Infant health problems,United States California,infant health,19,% of subjects,44,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,population characteristic,Infant health problems,United States Washington,infant health,41,% of subjects,32,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,population characteristic,Infant medication,Ethiopia urban,infant health,40,% of subjects,5,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,population characteristic,Infant medication,Gambia rural,infant health,40,% of subjects,46,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,population characteristic,Infant medication,Gambia urban,infant health,40,% of subjects,57,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,population characteristic,Infant medication,Ghana,infant health,40,% of subjects,37,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,population characteristic,Infant medication,Kenya,infant health,42,% of subjects,88,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,population characteristic,Infant medication,Peru,infant health,43,% of subjects,21,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,population characteristic,Infant medication,Spain,infant health,41,% of subjects,17,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,population characteristic,Infant medication,Sweden,infant health,24,% of subjects,17,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,population characteristic,Infant medication,United States California,infant health,19,% of subjects,47,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,population characteristic,Infant medication,United States Washington,infant health,41,% of subjects,50,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,population characteristic,Maternal health problems,Ethiopia urban,maternal health,40,% of subjects,12,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,population characteristic,Maternal health problems,Gambia rural,maternal health,40,% of subjects,37,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,population characteristic,Maternal health problems,Gambia urban,maternal health,40,% of subjects,43,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,population characteristic,Maternal health problems,Ghana,maternal health,40,% of subjects,8,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,population characteristic,Maternal health problems,Kenya,maternal health,42,% of subjects,20,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,population characteristic,Maternal health problems,Peru,maternal health,43,% of subjects,5,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,population characteristic,Maternal health problems,Spain,maternal health,41,% of subjects,22,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,population characteristic,Maternal health problems,Sweden,maternal health,24,% of subjects,17,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,population characteristic,Maternal health problems,United States California,maternal health,19,% of subjects,17,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,population characteristic,Maternal health problems,United States Washington,maternal health,41,% of subjects,31,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,population characteristic,Maternal postpartum medication,Ethiopia urban,maternal health,40,% of subjects,2,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,population characteristic,Maternal postpartum medication,Gambia rural,maternal health,40,% of subjects,42,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,population characteristic,Maternal postpartum medication,Gambia urban,maternal health,40,% of subjects,35,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,population characteristic,Maternal postpartum medication,Ghana,maternal health,40,% of subjects,32,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,population characteristic,Maternal postpartum medication,Kenya,maternal health,42,% of subjects,44,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,population characteristic,Maternal postpartum medication,Peru,maternal health,43,% of subjects,14,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,population characteristic,Maternal postpartum medication,Spain,maternal health,41,% of subjects,68,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,population characteristic,Maternal postpartum medication,Sweden,maternal health,24,% of subjects,37,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,population characteristic,Maternal postpartum medication,United States California,maternal health,19,% of subjects,60,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,population characteristic,Maternal postpartum medication,United States Washington,maternal health,41,% of subjects,91,%,Fisher X2 test p<0.05 (caption)
+ruiz2017,Table 1,4,maternal characteristic,maternal BMI category: Underweight,Ethiopia urban,BMI category,40,% of subjects,3,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal BMI category: Underweight,Gambia rural,BMI category,40,% of subjects,13,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal BMI category: Underweight,Gambia urban,BMI category,40,% of subjects,5,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal BMI category: Underweight,Ghana,BMI category,40,% of subjects,2,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal BMI category: Underweight,Kenya,BMI category,42,% of subjects,2,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal BMI category: Underweight,Peru,BMI category,43,% of subjects,0,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal BMI category: Underweight,Spain,BMI category,41,% of subjects,0,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal BMI category: Underweight,Sweden,BMI category,24,% of subjects,0,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal BMI category: Underweight,United States California,BMI category,19,% of subjects,0,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal BMI category: Underweight,United States Washington,BMI category,41,% of subjects,0,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal BMI category: Normal weight,Ethiopia urban,BMI category,40,% of subjects,82,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal BMI category: Normal weight,Gambia rural,BMI category,40,% of subjects,74,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal BMI category: Normal weight,Gambia urban,BMI category,40,% of subjects,65,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal BMI category: Normal weight,Ghana,BMI category,40,% of subjects,50,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal BMI category: Normal weight,Kenya,BMI category,42,% of subjects,70,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal BMI category: Normal weight,Peru,BMI category,43,% of subjects,30,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal BMI category: Normal weight,Spain,BMI category,41,% of subjects,75,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal BMI category: Normal weight,Sweden,BMI category,24,% of subjects,54,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal BMI category: Normal weight,United States California,BMI category,19,% of subjects,16,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal BMI category: Normal weight,United States Washington,BMI category,41,% of subjects,46,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal BMI category: Overweight,Ethiopia urban,BMI category,40,% of subjects,15,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal BMI category: Overweight,Gambia rural,BMI category,40,% of subjects,13,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal BMI category: Overweight,Gambia urban,BMI category,40,% of subjects,25,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal BMI category: Overweight,Ghana,BMI category,40,% of subjects,35,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal BMI category: Overweight,Kenya,BMI category,42,% of subjects,20,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal BMI category: Overweight,Peru,BMI category,43,% of subjects,33,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal BMI category: Overweight,Spain,BMI category,41,% of subjects,15,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal BMI category: Overweight,Sweden,BMI category,24,% of subjects,25,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal BMI category: Overweight,United States California,BMI category,19,% of subjects,42,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal BMI category: Overweight,United States Washington,BMI category,41,% of subjects,30,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal BMI category: Obese,Ethiopia urban,BMI category,40,% of subjects,0,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal BMI category: Obese,Gambia rural,BMI category,40,% of subjects,0,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal BMI category: Obese,Gambia urban,BMI category,40,% of subjects,5,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal BMI category: Obese,Ghana,BMI category,40,% of subjects,13,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal BMI category: Obese,Kenya,BMI category,42,% of subjects,8,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal BMI category: Obese,Peru,BMI category,43,% of subjects,37,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal BMI category: Obese,Spain,BMI category,41,% of subjects,10,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal BMI category: Obese,Sweden,BMI category,24,% of subjects,21,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal BMI category: Obese,United States California,BMI category,19,% of subjects,42,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal BMI category: Obese,United States Washington,BMI category,41,% of subjects,24,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal age category: ≤24 years,Ethiopia urban,maternal age category,40,% of subjects,85,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal age category: ≤24 years,Gambia rural,maternal age category,40,% of subjects,45,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal age category: ≤24 years,Gambia urban,maternal age category,40,% of subjects,36,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal age category: ≤24 years,Ghana,maternal age category,40,% of subjects,25,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal age category: ≤24 years,Kenya,maternal age category,42,% of subjects,52,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal age category: ≤24 years,Peru,maternal age category,43,% of subjects,46,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal age category: ≤24 years,Spain,maternal age category,41,% of subjects,2,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal age category: ≤24 years,Sweden,maternal age category,24,% of subjects,12,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal age category: ≤24 years,United States California,maternal age category,19,% of subjects,16,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal age category: ≤24 years,United States Washington,maternal age category,41,% of subjects,24,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal age category: 24 < years ≤ 31,Ethiopia urban,maternal age category,40,% of subjects,12,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal age category: 24 < years ≤ 31,Gambia rural,maternal age category,40,% of subjects,29,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal age category: 24 < years ≤ 31,Gambia urban,maternal age category,40,% of subjects,46,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal age category: 24 < years ≤ 31,Ghana,maternal age category,40,% of subjects,45,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal age category: 24 < years ≤ 31,Kenya,maternal age category,42,% of subjects,33,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal age category: 24 < years ≤ 31,Peru,maternal age category,43,% of subjects,30,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal age category: 24 < years ≤ 31,Spain,maternal age category,41,% of subjects,12,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal age category: 24 < years ≤ 31,Sweden,maternal age category,24,% of subjects,46,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal age category: 24 < years ≤ 31,United States California,maternal age category,19,% of subjects,58,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal age category: 24 < years ≤ 31,United States Washington,maternal age category,41,% of subjects,39,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal age category: >31 years,Ethiopia urban,maternal age category,40,% of subjects,3,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal age category: >31 years,Gambia rural,maternal age category,40,% of subjects,26,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal age category: >31 years,Gambia urban,maternal age category,40,% of subjects,18,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal age category: >31 years,Ghana,maternal age category,40,% of subjects,30,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal age category: >31 years,Kenya,maternal age category,42,% of subjects,14,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal age category: >31 years,Peru,maternal age category,43,% of subjects,23,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal age category: >31 years,Spain,maternal age category,41,% of subjects,85,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal age category: >31 years,Sweden,maternal age category,24,% of subjects,42,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal age category: >31 years,United States California,maternal age category,19,% of subjects,26,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal age category: >31 years,United States Washington,maternal age category,41,% of subjects,37,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal medication before/during/post-delivery: IPAb,Ethiopia urban,medication category,40,% of subjects,5,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal medication before/during/post-delivery: IPAb,Gambia rural,medication category,40,% of subjects,5,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal medication before/during/post-delivery: IPAb,Gambia urban,medication category,40,% of subjects,15,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal medication before/during/post-delivery: IPAb,Ghana,medication category,40,% of subjects,22,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal medication before/during/post-delivery: IPAb,Kenya,medication category,42,% of subjects,33,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal medication before/during/post-delivery: IPAb,Peru,medication category,43,% of subjects,33,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal medication before/during/post-delivery: IPAb,Spain,medication category,41,% of subjects,34,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal medication before/during/post-delivery: IPAb,Sweden,medication category,24,% of subjects,21,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal medication before/during/post-delivery: IPAb,United States California,medication category,19,% of subjects,21,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal medication before/during/post-delivery: IPAb,United States Washington,medication category,41,% of subjects,32,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal medication before/during/post-delivery: No,Ethiopia urban,medication category,40,% of subjects,67,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal medication before/during/post-delivery: No,Gambia rural,medication category,40,% of subjects,50,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal medication before/during/post-delivery: No,Gambia urban,medication category,40,% of subjects,45,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal medication before/during/post-delivery: No,Ghana,medication category,40,% of subjects,50,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal medication before/during/post-delivery: No,Kenya,medication category,42,% of subjects,41,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal medication before/during/post-delivery: No,Peru,medication category,43,% of subjects,33,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal medication before/during/post-delivery: No,Spain,medication category,41,% of subjects,22,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal medication before/during/post-delivery: No,Sweden,medication category,24,% of subjects,37,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal medication before/during/post-delivery: No,United States California,medication category,19,% of subjects,5,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal medication before/during/post-delivery: No,United States Washington,medication category,41,% of subjects,12,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal medication before/during/post-delivery: Other,Ethiopia urban,medication category,40,% of subjects,28,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal medication before/during/post-delivery: Other,Gambia rural,medication category,40,% of subjects,45,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal medication before/during/post-delivery: Other,Gambia urban,medication category,40,% of subjects,40,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal medication before/during/post-delivery: Other,Ghana,medication category,40,% of subjects,28,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal medication before/during/post-delivery: Other,Kenya,medication category,42,% of subjects,26,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal medication before/during/post-delivery: Other,Peru,medication category,43,% of subjects,35,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal medication before/during/post-delivery: Other,Spain,medication category,41,% of subjects,44,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal medication before/during/post-delivery: Other,Sweden,medication category,24,% of subjects,42,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal medication before/during/post-delivery: Other,United States California,medication category,19,% of subjects,74,%,
+ruiz2017,Table 1,4,maternal characteristic,maternal medication before/during/post-delivery: Other,United States Washington,medication category,41,% of subjects,56,%,
+ruiz2017,Table 1,4,maternal characteristic,time postpartum category: ≤46 days,Ethiopia urban,time postpartum category,40,% of subjects,30,%,
+ruiz2017,Table 1,4,maternal characteristic,time postpartum category: ≤46 days,Gambia rural,time postpartum category,40,% of subjects,18,%,
+ruiz2017,Table 1,4,maternal characteristic,time postpartum category: ≤46 days,Gambia urban,time postpartum category,40,% of subjects,23,%,
+ruiz2017,Table 1,4,maternal characteristic,time postpartum category: ≤46 days,Ghana,time postpartum category,40,% of subjects,40,%,
+ruiz2017,Table 1,4,maternal characteristic,time postpartum category: ≤46 days,Kenya,time postpartum category,42,% of subjects,17,%,
+ruiz2017,Table 1,4,maternal characteristic,time postpartum category: ≤46 days,Peru,time postpartum category,43,% of subjects,23,%,
+ruiz2017,Table 1,4,maternal characteristic,time postpartum category: ≤46 days,Spain,time postpartum category,41,% of subjects,19,%,
+ruiz2017,Table 1,4,maternal characteristic,time postpartum category: ≤46 days,Sweden,time postpartum category,24,% of subjects,63,%,
+ruiz2017,Table 1,4,maternal characteristic,time postpartum category: ≤46 days,United States California,time postpartum category,19,% of subjects,37,%,
+ruiz2017,Table 1,4,maternal characteristic,time postpartum category: ≤46 days,United States Washington,time postpartum category,41,% of subjects,12,%,
+ruiz2017,Table 1,4,maternal characteristic,time postpartum category: 46 < days ≤ 63,Ethiopia urban,time postpartum category,40,% of subjects,28,%,
+ruiz2017,Table 1,4,maternal characteristic,time postpartum category: 46 < days ≤ 63,Gambia rural,time postpartum category,40,% of subjects,28,%,
+ruiz2017,Table 1,4,maternal characteristic,time postpartum category: 46 < days ≤ 63,Gambia urban,time postpartum category,40,% of subjects,27,%,
+ruiz2017,Table 1,4,maternal characteristic,time postpartum category: 46 < days ≤ 63,Ghana,time postpartum category,40,% of subjects,15,%,
+ruiz2017,Table 1,4,maternal characteristic,time postpartum category: 46 < days ≤ 63,Kenya,time postpartum category,42,% of subjects,21,%,
+ruiz2017,Table 1,4,maternal characteristic,time postpartum category: 46 < days ≤ 63,Peru,time postpartum category,43,% of subjects,30,%,
+ruiz2017,Table 1,4,maternal characteristic,time postpartum category: 46 < days ≤ 63,Spain,time postpartum category,41,% of subjects,24,%,
+ruiz2017,Table 1,4,maternal characteristic,time postpartum category: 46 < days ≤ 63,Sweden,time postpartum category,24,% of subjects,25,%,
+ruiz2017,Table 1,4,maternal characteristic,time postpartum category: 46 < days ≤ 63,United States California,time postpartum category,19,% of subjects,21,%,
+ruiz2017,Table 1,4,maternal characteristic,time postpartum category: 46 < days ≤ 63,United States Washington,time postpartum category,41,% of subjects,27,%,
+ruiz2017,Table 1,4,maternal characteristic,time postpartum category: 63 < days ≤ 77,Ethiopia urban,time postpartum category,40,% of subjects,42,%,
+ruiz2017,Table 1,4,maternal characteristic,time postpartum category: 63 < days ≤ 77,Gambia rural,time postpartum category,40,% of subjects,31,%,
+ruiz2017,Table 1,4,maternal characteristic,time postpartum category: 63 < days ≤ 77,Gambia urban,time postpartum category,40,% of subjects,25,%,
+ruiz2017,Table 1,4,maternal characteristic,time postpartum category: 63 < days ≤ 77,Ghana,time postpartum category,40,% of subjects,30,%,
+ruiz2017,Table 1,4,maternal characteristic,time postpartum category: 63 < days ≤ 77,Kenya,time postpartum category,42,% of subjects,17,%,
+ruiz2017,Table 1,4,maternal characteristic,time postpartum category: 63 < days ≤ 77,Peru,time postpartum category,43,% of subjects,26,%,
+ruiz2017,Table 1,4,maternal characteristic,time postpartum category: 63 < days ≤ 77,Spain,time postpartum category,41,% of subjects,15,%,
+ruiz2017,Table 1,4,maternal characteristic,time postpartum category: 63 < days ≤ 77,Sweden,time postpartum category,24,% of subjects,8,%,
+ruiz2017,Table 1,4,maternal characteristic,time postpartum category: 63 < days ≤ 77,United States California,time postpartum category,19,% of subjects,10,%,
+ruiz2017,Table 1,4,maternal characteristic,time postpartum category: 63 < days ≤ 77,United States Washington,time postpartum category,41,% of subjects,29,%,
+ruiz2017,Table 1,4,maternal characteristic,time postpartum category: >77 days,Ethiopia urban,time postpartum category,40,% of subjects,0,%,
+ruiz2017,Table 1,4,maternal characteristic,time postpartum category: >77 days,Gambia rural,time postpartum category,40,% of subjects,23,%,
+ruiz2017,Table 1,4,maternal characteristic,time postpartum category: >77 days,Gambia urban,time postpartum category,40,% of subjects,25,%,
+ruiz2017,Table 1,4,maternal characteristic,time postpartum category: >77 days,Ghana,time postpartum category,40,% of subjects,15,%,
+ruiz2017,Table 1,4,maternal characteristic,time postpartum category: >77 days,Kenya,time postpartum category,42,% of subjects,45,%,
+ruiz2017,Table 1,4,maternal characteristic,time postpartum category: >77 days,Peru,time postpartum category,43,% of subjects,21,%,
+ruiz2017,Table 1,4,maternal characteristic,time postpartum category: >77 days,Spain,time postpartum category,41,% of subjects,42,%,
+ruiz2017,Table 1,4,maternal characteristic,time postpartum category: >77 days,Sweden,time postpartum category,24,% of subjects,4,%,
+ruiz2017,Table 1,4,maternal characteristic,time postpartum category: >77 days,United States California,time postpartum category,19,% of subjects,32,%,
+ruiz2017,Table 1,4,maternal characteristic,time postpartum category: >77 days,United States Washington,time postpartum category,41,% of subjects,32,%,
+ruiz2017,Table 1,4,population characteristic,time since last feeding: <30 min,Ethiopia urban,feeding interval category,40,% of subjects,10,%,
+ruiz2017,Table 1,4,population characteristic,time since last feeding: <30 min,Gambia rural,feeding interval category,40,not available,na,,na = not available
+ruiz2017,Table 1,4,population characteristic,time since last feeding: <30 min,Gambia urban,feeding interval category,40,not available,na,,na = not available
+ruiz2017,Table 1,4,population characteristic,time since last feeding: <30 min,Ghana,feeding interval category,40,% of subjects,57,%,
+ruiz2017,Table 1,4,population characteristic,time since last feeding: <30 min,Kenya,feeding interval category,42,% of subjects,10,%,
+ruiz2017,Table 1,4,population characteristic,time since last feeding: <30 min,Peru,feeding interval category,43,% of subjects,2,%,
+ruiz2017,Table 1,4,population characteristic,time since last feeding: <30 min,Spain,feeding interval category,41,% of subjects,5,%,
+ruiz2017,Table 1,4,population characteristic,time since last feeding: <30 min,Sweden,feeding interval category,24,% of subjects,12,%,
+ruiz2017,Table 1,4,population characteristic,time since last feeding: <30 min,United States California,feeding interval category,19,% of subjects,11,%,
+ruiz2017,Table 1,4,population characteristic,time since last feeding: <30 min,United States Washington,feeding interval category,41,% of subjects,5,%,
+ruiz2017,Table 1,4,population characteristic,time since last feeding: 30 ≤ min < 60,Ethiopia urban,feeding interval category,40,% of subjects,20,%,
+ruiz2017,Table 1,4,population characteristic,time since last feeding: 30 ≤ min < 60,Gambia rural,feeding interval category,40,not available,na,,na = not available
+ruiz2017,Table 1,4,population characteristic,time since last feeding: 30 ≤ min < 60,Gambia urban,feeding interval category,40,not available,na,,na = not available
+ruiz2017,Table 1,4,population characteristic,time since last feeding: 30 ≤ min < 60,Ghana,feeding interval category,40,% of subjects,35,%,
+ruiz2017,Table 1,4,population characteristic,time since last feeding: 30 ≤ min < 60,Kenya,feeding interval category,42,% of subjects,90,%,
+ruiz2017,Table 1,4,population characteristic,time since last feeding: 30 ≤ min < 60,Peru,feeding interval category,43,% of subjects,19,%,
+ruiz2017,Table 1,4,population characteristic,time since last feeding: 30 ≤ min < 60,Spain,feeding interval category,41,% of subjects,35,%,
+ruiz2017,Table 1,4,population characteristic,time since last feeding: 30 ≤ min < 60,Sweden,feeding interval category,24,% of subjects,4,%,
+ruiz2017,Table 1,4,population characteristic,time since last feeding: 30 ≤ min < 60,United States California,feeding interval category,19,% of subjects,11,%,
+ruiz2017,Table 1,4,population characteristic,time since last feeding: 30 ≤ min < 60,United States Washington,feeding interval category,41,% of subjects,3,%,
+ruiz2017,Table 1,4,population characteristic,time since last feeding: 60 ≤ min ≤ 120,Ethiopia urban,feeding interval category,40,% of subjects,28,%,
+ruiz2017,Table 1,4,population characteristic,time since last feeding: 60 ≤ min ≤ 120,Gambia rural,feeding interval category,40,not available,na,,na = not available
+ruiz2017,Table 1,4,population characteristic,time since last feeding: 60 ≤ min ≤ 120,Gambia urban,feeding interval category,40,not available,na,,na = not available
+ruiz2017,Table 1,4,population characteristic,time since last feeding: 60 ≤ min ≤ 120,Ghana,feeding interval category,40,% of subjects,5,%,
+ruiz2017,Table 1,4,population characteristic,time since last feeding: 60 ≤ min ≤ 120,Kenya,feeding interval category,42,% of subjects,0,%,
+ruiz2017,Table 1,4,population characteristic,time since last feeding: 60 ≤ min ≤ 120,Peru,feeding interval category,43,% of subjects,63,%,
+ruiz2017,Table 1,4,population characteristic,time since last feeding: 60 ≤ min ≤ 120,Spain,feeding interval category,41,% of subjects,35,%,
+ruiz2017,Table 1,4,population characteristic,time since last feeding: 60 ≤ min ≤ 120,Sweden,feeding interval category,24,% of subjects,46,%,
+ruiz2017,Table 1,4,population characteristic,time since last feeding: 60 ≤ min ≤ 120,United States California,feeding interval category,19,% of subjects,50,%,
+ruiz2017,Table 1,4,population characteristic,time since last feeding: 60 ≤ min ≤ 120,United States Washington,feeding interval category,41,% of subjects,10,%,
+ruiz2017,Table 1,4,population characteristic,time since last feeding: >120 min,Ethiopia urban,feeding interval category,40,% of subjects,42,%,
+ruiz2017,Table 1,4,population characteristic,time since last feeding: >120 min,Gambia rural,feeding interval category,40,not available,na,,na = not available
+ruiz2017,Table 1,4,population characteristic,time since last feeding: >120 min,Gambia urban,feeding interval category,40,not available,na,,na = not available
+ruiz2017,Table 1,4,population characteristic,time since last feeding: >120 min,Ghana,feeding interval category,40,% of subjects,3,%,
+ruiz2017,Table 1,4,population characteristic,time since last feeding: >120 min,Kenya,feeding interval category,42,% of subjects,0,%,
+ruiz2017,Table 1,4,population characteristic,time since last feeding: >120 min,Peru,feeding interval category,43,% of subjects,16,%,
+ruiz2017,Table 1,4,population characteristic,time since last feeding: >120 min,Spain,feeding interval category,41,% of subjects,25,%,
+ruiz2017,Table 1,4,population characteristic,time since last feeding: >120 min,Sweden,feeding interval category,24,% of subjects,38,%,
+ruiz2017,Table 1,4,population characteristic,time since last feeding: >120 min,United States California,feeding interval category,19,% of subjects,28,%,
+ruiz2017,Table 1,4,population characteristic,time since last feeding: >120 min,United States Washington,feeding interval category,41,% of subjects,82,%,

@@ -1,0 +1,133 @@
+paper,table,page,data_type,analyte,group,group_type,n,statistic,value,unit,notes
+mcguire2017,Table 1,4,maternal characteristic,Age,Ethiopia Rural,population,40,mean,24.6,y,"SEM;group_letters=c,d"
+mcguire2017,Table 1,4,maternal characteristic,Age,Ethiopia Rural,population,40,SEM,0.8,y,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,Age,Ethiopia Urban,population,40,mean,21.7,y,SEM;group_letters=d
+mcguire2017,Table 1,4,maternal characteristic,Age,Ethiopia Urban,population,40,SEM,0.5,y,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,Age,Gambia Rural,population,40,mean,26.9,y,SEM;group_letters=b–d
+mcguire2017,Table 1,4,maternal characteristic,Age,Gambia Rural,population,40,SEM,1.2,y,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,Age,Gambia Urban,population,40,mean,27.0,y,"SEM;group_letters=b,c"
+mcguire2017,Table 1,4,maternal characteristic,Age,Gambia Urban,population,40,SEM,0.8,y,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,Age,Ghana,population,40,mean,28.9,y,SEM;group_letters=a–c
+mcguire2017,Table 1,4,maternal characteristic,Age,Ghana,population,40,SEM,0.9,y,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,Age,Kenya,population,42,mean,25.4,y,SEM;group_letters=b–d
+mcguire2017,Table 1,4,maternal characteristic,Age,Kenya,population,42,SEM,0.8,y,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,Age,Peru,population,43,mean,26.7,y,SEM;group_letters=b–d
+mcguire2017,Table 1,4,maternal characteristic,Age,Peru,population,43,SEM,1.0,y,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,Age,Spain,population,41,mean,34.3,y,SEM;group_letters=a
+mcguire2017,Table 1,4,maternal characteristic,Age,Spain,population,41,SEM,0.6,y,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,Age,Sweden,population,24,mean,30.9,y,"SEM;group_letters=a,b"
+mcguire2017,Table 1,4,maternal characteristic,Age,Sweden,population,24,SEM,1.1,y,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,Age,United States Washington,population,41,mean,29.0,y,SEM;group_letters=a–c
+mcguire2017,Table 1,4,maternal characteristic,Age,United States Washington,population,41,SEM,0.8,y,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,Age,United States California,population,19,mean,29.0,y,SEM;group_letters=a–c
+mcguire2017,Table 1,4,maternal characteristic,Age,United States California,population,19,SEM,1.1,y,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,Parity,Ethiopia Rural,population,40,mean,3.6,n,SEM;group_letters=a
+mcguire2017,Table 1,4,maternal characteristic,Parity,Ethiopia Rural,population,40,SEM,0.3,n,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,Parity,Ethiopia Urban,population,40,mean,1.7,n,"SEM;group_letters=c,d"
+mcguire2017,Table 1,4,maternal characteristic,Parity,Ethiopia Urban,population,40,SEM,0.2,n,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,Parity,Gambia Rural,population,40,mean,4.2,n,SEM;group_letters=a
+mcguire2017,Table 1,4,maternal characteristic,Parity,Gambia Rural,population,40,SEM,0.5,n,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,Parity,Gambia Urban,population,40,mean,3.3,n,"SEM;group_letters=a,b"
+mcguire2017,Table 1,4,maternal characteristic,Parity,Gambia Urban,population,40,SEM,0.3,n,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,Parity,Ghana,population,40,mean,2.3,n,SEM;group_letters=a–d
+mcguire2017,Table 1,4,maternal characteristic,Parity,Ghana,population,40,SEM,0.2,n,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,Parity,Kenya,population,42,mean,2.5,n,SEM;group_letters=a–c
+mcguire2017,Table 1,4,maternal characteristic,Parity,Kenya,population,42,SEM,0.2,n,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,Parity,Peru,population,43,mean,2.0,n,SEM;group_letters=a–d
+mcguire2017,Table 1,4,maternal characteristic,Parity,Peru,population,43,SEM,0.1,n,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,Parity,Spain,population,41,mean,1.3,n,SEM;group_letters=d
+mcguire2017,Table 1,4,maternal characteristic,Parity,Spain,population,41,SEM,0.1,n,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,Parity,Sweden,population,24,mean,1.6,n,SEM;group_letters=b–d
+mcguire2017,Table 1,4,maternal characteristic,Parity,Sweden,population,24,SEM,0.2,n,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,Parity,United States Washington,population,41,mean,1.8,n,SEM;group_letters=b–d
+mcguire2017,Table 1,4,maternal characteristic,Parity,United States Washington,population,41,SEM,0.2,n,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,Parity,United States California,population,19,mean,1.8,n,SEM;group_letters=a–d
+mcguire2017,Table 1,4,maternal characteristic,Parity,United States California,population,19,SEM,0.2,n,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,Time postpartum,Ethiopia Rural,population,40,mean,71.0,d,SEM
+mcguire2017,Table 1,4,maternal characteristic,Time postpartum,Ethiopia Rural,population,40,SEM,5.0,d,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,Time postpartum,Ethiopia Urban,population,40,mean,59.0,d,SEM
+mcguire2017,Table 1,4,maternal characteristic,Time postpartum,Ethiopia Urban,population,40,SEM,2.0,d,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,Time postpartum,Gambia Rural,population,40,mean,65.0,d,SEM
+mcguire2017,Table 1,4,maternal characteristic,Time postpartum,Gambia Rural,population,40,SEM,3.0,d,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,Time postpartum,Gambia Urban,population,40,mean,62.0,d,SEM
+mcguire2017,Table 1,4,maternal characteristic,Time postpartum,Gambia Urban,population,40,SEM,3.0,d,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,Time postpartum,Ghana,population,40,mean,58.0,d,SEM
+mcguire2017,Table 1,4,maternal characteristic,Time postpartum,Ghana,population,40,SEM,3.0,d,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,Time postpartum,Kenya,population,42,mean,73.0,d,SEM
+mcguire2017,Table 1,4,maternal characteristic,Time postpartum,Kenya,population,42,SEM,4.0,d,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,Time postpartum,Peru,population,43,mean,60.0,d,SEM
+mcguire2017,Table 1,4,maternal characteristic,Time postpartum,Peru,population,43,SEM,3.0,d,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,Time postpartum,Spain,population,41,mean,70.0,d,SEM
+mcguire2017,Table 1,4,maternal characteristic,Time postpartum,Spain,population,41,SEM,4.0,d,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,Time postpartum,Sweden,population,24,mean,49.0,d,SEM
+mcguire2017,Table 1,4,maternal characteristic,Time postpartum,Sweden,population,24,SEM,4.0,d,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,Time postpartum,United States Washington,population,41,mean,68.0,d,SEM
+mcguire2017,Table 1,4,maternal characteristic,Time postpartum,United States Washington,population,41,SEM,3.0,d,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,Time postpartum,United States California,population,19,mean,62.0,d,SEM
+mcguire2017,Table 1,4,maternal characteristic,Time postpartum,United States California,population,19,SEM,5.0,d,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,Weight,Ethiopia Rural,population,40,mean,51.0,kg,SEM;group_letters=c
+mcguire2017,Table 1,4,maternal characteristic,Weight,Ethiopia Rural,population,40,SEM,1.3,kg,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,Weight,Ethiopia Urban,population,40,mean,55.6,kg,"SEM;group_letters=b,c"
+mcguire2017,Table 1,4,maternal characteristic,Weight,Ethiopia Urban,population,40,SEM,1.2,kg,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,Weight,Gambia Rural,population,40,mean,56.3,kg,"SEM;group_letters=b,c"
+mcguire2017,Table 1,4,maternal characteristic,Weight,Gambia Rural,population,40,SEM,1.3,kg,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,Weight,Gambia Urban,population,40,mean,64.2,kg,"SEM;group_letters=a,b"
+mcguire2017,Table 1,4,maternal characteristic,Weight,Gambia Urban,population,40,SEM,1.7,kg,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,Weight,Ghana,population,40,mean,63.3,kg,"SEM;group_letters=a,b"
+mcguire2017,Table 1,4,maternal characteristic,Weight,Ghana,population,40,SEM,1.7,kg,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,Weight,Kenya,population,42,mean,60.1,kg,"SEM;group_letters=b,c"
+mcguire2017,Table 1,4,maternal characteristic,Weight,Kenya,population,42,SEM,1.5,kg,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,Weight,Peru,population,43,mean,65.5,kg,"SEM;group_letters=a,b"
+mcguire2017,Table 1,4,maternal characteristic,Weight,Peru,population,43,SEM,2.0,kg,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,Weight,Spain,population,41,mean,64.3,kg,"SEM;group_letters=a,b"
+mcguire2017,Table 1,4,maternal characteristic,Weight,Spain,population,41,SEM,1.5,kg,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,Weight,Sweden,population,24,mean,73.6,kg,SEM;group_letters=a
+mcguire2017,Table 1,4,maternal characteristic,Weight,Sweden,population,24,SEM,2.6,kg,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,Weight,United States Washington,population,41,mean,75.0,kg,SEM;group_letters=a
+mcguire2017,Table 1,4,maternal characteristic,Weight,United States Washington,population,41,SEM,2.4,kg,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,Weight,United States California,population,19,mean,76.3,kg,SEM;group_letters=a
+mcguire2017,Table 1,4,maternal characteristic,Weight,United States California,population,19,SEM,3.0,kg,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,Height,Ethiopia Rural,population,40,mean,155.0,cm,"SEM;group_letters=d,e"
+mcguire2017,Table 1,4,maternal characteristic,Height,Ethiopia Rural,population,40,SEM,1.0,cm,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,Height,Ethiopia Urban,population,40,mean,159.0,cm,"SEM;group_letters=c,d"
+mcguire2017,Table 1,4,maternal characteristic,Height,Ethiopia Urban,population,40,SEM,1.0,cm,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,Height,Gambia Rural,population,40,mean,162.0,cm,SEM;group_letters=a–c
+mcguire2017,Table 1,4,maternal characteristic,Height,Gambia Rural,population,40,SEM,1.0,cm,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,Height,Gambia Urban,population,40,mean,167.0,cm,SEM;group_letters=a
+mcguire2017,Table 1,4,maternal characteristic,Height,Gambia Urban,population,40,SEM,1.0,cm,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,Height,Ghana,population,40,mean,159.0,cm,"SEM;group_letters=c,d"
+mcguire2017,Table 1,4,maternal characteristic,Height,Ghana,population,40,SEM,1.0,cm,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,Height,Kenya,population,42,mean,159.0,cm,SEM;group_letters=b–d
+mcguire2017,Table 1,4,maternal characteristic,Height,Kenya,population,42,SEM,1.0,cm,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,Height,Peru,population,43,mean,153.0,cm,SEM;group_letters=e
+mcguire2017,Table 1,4,maternal characteristic,Height,Peru,population,43,SEM,1.0,cm,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,Height,Spain,population,41,mean,165.0,cm,"SEM;group_letters=a,b"
+mcguire2017,Table 1,4,maternal characteristic,Height,Spain,population,41,SEM,1.0,cm,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,Height,Sweden,population,24,mean,169.0,cm,SEM;group_letters=a
+mcguire2017,Table 1,4,maternal characteristic,Height,Sweden,population,24,SEM,1.0,cm,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,Height,United States Washington,population,41,mean,167.0,cm,SEM;group_letters=a
+mcguire2017,Table 1,4,maternal characteristic,Height,United States Washington,population,41,SEM,1.0,cm,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,Height,United States California,population,19,mean,162.0,cm,SEM;group_letters=a–d
+mcguire2017,Table 1,4,maternal characteristic,Height,United States California,population,19,SEM,1.0,cm,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,BMI,Ethiopia Rural,population,40,mean,21.3,kg/m2,SEM;group_letters=d
+mcguire2017,Table 1,4,maternal characteristic,BMI,Ethiopia Rural,population,40,SEM,0.4,kg/m2,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,BMI,Ethiopia Urban,population,40,mean,22.1,kg/m2,"SEM;group_letters=c,d"
+mcguire2017,Table 1,4,maternal characteristic,BMI,Ethiopia Urban,population,40,SEM,0.5,kg/m2,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,BMI,Gambia Rural,population,40,mean,21.4,kg/m2,"SEM;group_letters=c,d"
+mcguire2017,Table 1,4,maternal characteristic,BMI,Gambia Rural,population,40,SEM,0.5,kg/m2,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,BMI,Gambia Urban,population,40,mean,23.0,kg/m2,SEM;group_letters=b–d
+mcguire2017,Table 1,4,maternal characteristic,BMI,Gambia Urban,population,40,SEM,0.6,kg/m2,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,BMI,Ghana,population,40,mean,25.0,kg/m2,SEM;group_letters=a–d
+mcguire2017,Table 1,4,maternal characteristic,BMI,Ghana,population,40,SEM,0.6,kg/m2,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,BMI,Kenya,population,42,mean,23.6,kg/m2,SEM;group_letters=b–d
+mcguire2017,Table 1,4,maternal characteristic,BMI,Kenya,population,42,SEM,0.6,kg/m2,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,BMI,Peru,population,43,mean,28.1,kg/m2,SEM;group_letters=a
+mcguire2017,Table 1,4,maternal characteristic,BMI,Peru,population,43,SEM,0.8,kg/m2,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,BMI,Spain,population,41,mean,23.5,kg/m2,SEM;group_letters=b–d
+mcguire2017,Table 1,4,maternal characteristic,BMI,Spain,population,41,SEM,0.6,kg/m2,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,BMI,Sweden,population,24,mean,25.8,kg/m2,SEM;group_letters=a–c
+mcguire2017,Table 1,4,maternal characteristic,BMI,Sweden,population,24,SEM,1.0,kg/m2,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,BMI,United States Washington,population,41,mean,26.8,kg/m2,"SEM;group_letters=a,b"
+mcguire2017,Table 1,4,maternal characteristic,BMI,United States Washington,population,41,SEM,0.8,kg/m2,mean±SEM reported
+mcguire2017,Table 1,4,maternal characteristic,BMI,United States California,population,19,mean,29.1,kg/m2,SEM;group_letters=a
+mcguire2017,Table 1,4,maternal characteristic,BMI,United States California,population,19,SEM,1.1,kg/m2,mean±SEM reported

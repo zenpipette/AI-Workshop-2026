@@ -1,0 +1,639 @@
+paper,table,page,data_type,analyte,group,group_type,n,statistic,value,unit,notes
+lackey2019,Table 5,15,milk microbiome,Streptococcus,Ethiopia rural,population,40,relative abundance (mean),15.3,%,SEM=2.2;group_letters=cd;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Streptococcus,Ethiopia rural,population,40,SEM,2.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Streptococcus,Ethiopia urban,population,34,relative abundance (mean),25.9,%,SEM=3.5;group_letters=bc;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Streptococcus,Ethiopia urban,population,34,SEM,3.5,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Streptococcus,Gambia rural,population,39,relative abundance (mean),29.5,%,SEM=3.5;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Streptococcus,Gambia rural,population,39,SEM,3.5,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Streptococcus,Gambia urban,population,38,relative abundance (mean),26.0,%,SEM=3.3;group_letters=bc;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Streptococcus,Gambia urban,population,38,SEM,3.3,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Streptococcus,Ghana,population,37,relative abundance (mean),8.7,%,SEM=1.4;group_letters=d;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Streptococcus,Ghana,population,37,SEM,1.4,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Streptococcus,Kenya,population,42,relative abundance (mean),31.5,%,SEM=3.5;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Streptococcus,Kenya,population,42,SEM,3.5,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Streptococcus,Peru,population,43,relative abundance (mean),49.6,%,SEM=3.9;group_letters=a;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Streptococcus,Peru,population,43,SEM,3.9,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Streptococcus,Spain,population,40,relative abundance (mean),36.5,%,SEM=3.8;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Streptococcus,Spain,population,40,SEM,3.8,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Streptococcus,Sweden,population,23,relative abundance (mean),29.5,%,SEM=4.5;group_letters=bc;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Streptococcus,Sweden,population,23,SEM,4.5,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Streptococcus,US California,population,19,relative abundance (mean),25.7,%,SEM=4.6;group_letters=bc;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Streptococcus,US California,population,19,SEM,4.6,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Streptococcus,US Washington,population,39,relative abundance (mean),26.5,%,SEM=3.3;group_letters=bc;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Streptococcus,US Washington,population,39,SEM,3.3,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Staphylococcus,Ethiopia rural,population,40,relative abundance (mean),21.5,%,SEM=3.0;group_letters=abc;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Staphylococcus,Ethiopia rural,population,40,SEM,3.0,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Staphylococcus,Ethiopia urban,population,34,relative abundance (mean),34.2,%,SEM=4.3;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Staphylococcus,Ethiopia urban,population,34,SEM,4.3,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Staphylococcus,Gambia rural,population,39,relative abundance (mean),17.5,%,SEM=2.6;group_letters=c;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Staphylococcus,Gambia rural,population,39,SEM,2.6,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Staphylococcus,Gambia urban,population,38,relative abundance (mean),20.5,%,SEM=3.0;group_letters=bc;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Staphylococcus,Gambia urban,population,38,SEM,3.0,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Staphylococcus,Ghana,population,37,relative abundance (mean),20.6,%,SEM=3.0;group_letters=abc;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Staphylococcus,Ghana,population,37,SEM,3.0,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Staphylococcus,Kenya,population,42,relative abundance (mean),27.7,%,SEM=3.4;group_letters=abc;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Staphylococcus,Kenya,population,42,SEM,3.4,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Staphylococcus,Peru,population,43,relative abundance (mean),29.6,%,SEM=3.5;group_letters=abc;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Staphylococcus,Peru,population,43,SEM,3.5,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Staphylococcus,Spain,population,40,relative abundance (mean),27.3,%,SEM=3.5;group_letters=abc;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Staphylococcus,Spain,population,40,SEM,3.5,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Staphylococcus,Sweden,population,23,relative abundance (mean),40.7,%,SEM=5.6;group_letters=a;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Staphylococcus,Sweden,population,23,SEM,5.6,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Staphylococcus,US California,population,19,relative abundance (mean),26.0,%,SEM=4.9;group_letters=abc;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Staphylococcus,US California,population,19,SEM,4.9,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Staphylococcus,US Washington,population,39,relative abundance (mean),30.4,%,SEM=3.8;group_letters=abc;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Staphylococcus,US Washington,population,39,SEM,3.8,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Corynebacterium 1,Ethiopia rural,population,40,relative abundance (mean),11.0,%,SEM=1.5;group_letters=a;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Corynebacterium 1,Ethiopia rural,population,40,SEM,1.5,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Corynebacterium 1,Ethiopia urban,population,34,relative abundance (mean),8.8,%,SEM=1.4;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Corynebacterium 1,Ethiopia urban,population,34,SEM,1.4,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Corynebacterium 1,Gambia rural,population,39,relative abundance (mean),4.8,%,SEM=0.8;group_letters=bcd;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Corynebacterium 1,Gambia rural,population,39,SEM,0.8,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Corynebacterium 1,Gambia urban,population,38,relative abundance (mean),5.5,%,SEM=0.9;group_letters=bc;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Corynebacterium 1,Gambia urban,population,38,SEM,0.9,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Corynebacterium 1,Ghana,population,37,relative abundance (mean),1.8,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Corynebacterium 1,Ghana,population,37,SEM,0.3,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Corynebacterium 1,Kenya,population,42,relative abundance (mean),4.8,%,SEM=0.8;group_letters=bcd;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Corynebacterium 1,Kenya,population,42,SEM,0.8,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Corynebacterium 1,Peru,population,43,relative abundance (mean),4.2,%,SEM=0.7;group_letters=cd;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Corynebacterium 1,Peru,population,43,SEM,0.7,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Corynebacterium 1,Spain,population,40,relative abundance (mean),2.5,%,SEM=0.4;group_letters=d;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Corynebacterium 1,Spain,population,40,SEM,0.4,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Corynebacterium 1,Sweden,population,23,relative abundance (mean),3.9,%,SEM=0.8;group_letters=cd;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Corynebacterium 1,Sweden,population,23,SEM,0.8,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Corynebacterium 1,US California,population,19,relative abundance (mean),3.2,%,SEM=0.8;group_letters=cd;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Corynebacterium 1,US California,population,19,SEM,0.8,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Corynebacterium 1,US Washington,population,39,relative abundance (mean),4.1,%,SEM=0.7;group_letters=cd;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Corynebacterium 1,US Washington,population,39,SEM,0.7,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Propionibacterium,Ethiopia rural,population,40,relative abundance (mean),3.0,%,SEM=0.5;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Propionibacterium,Ethiopia rural,population,40,SEM,0.5,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Propionibacterium,Ethiopia urban,population,34,relative abundance (mean),4.4,%,SEM=0.8;group_letters=a;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Propionibacterium,Ethiopia urban,population,34,SEM,0.8,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Propionibacterium,Gambia rural,population,39,relative abundance (mean),3.8,%,SEM=0.7;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Propionibacterium,Gambia rural,population,39,SEM,0.7,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Propionibacterium,Gambia urban,population,38,relative abundance (mean),3.6,%,SEM=0.7;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Propionibacterium,Gambia urban,population,38,SEM,0.7,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Propionibacterium,Ghana,population,37,relative abundance (mean),2.0,%,SEM=0.4;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Propionibacterium,Ghana,population,37,SEM,0.4,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Propionibacterium,Kenya,population,42,relative abundance (mean),5.8,%,SEM=0.9;group_letters=a;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Propionibacterium,Kenya,population,42,SEM,0.9,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Propionibacterium,Peru,population,43,relative abundance (mean),4.1,%,SEM=0.7;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Propionibacterium,Peru,population,43,SEM,0.7,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Propionibacterium,Spain,population,40,relative abundance (mean),4.3,%,SEM=0.7;group_letters=a;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Propionibacterium,Spain,population,40,SEM,0.7,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Propionibacterium,Sweden,population,23,relative abundance (mean),6.6,%,SEM=1.3;group_letters=a;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Propionibacterium,Sweden,population,23,SEM,1.3,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Propionibacterium,US California,population,19,relative abundance (mean),3.7,%,SEM=2.3;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Propionibacterium,US California,population,19,SEM,2.3,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Propionibacterium,US Washington,population,39,relative abundance (mean),5.6,%,SEM=0.9;group_letters=a;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Propionibacterium,US Washington,population,39,SEM,0.9,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Rhizobium,Ethiopia rural,population,40,relative abundance (mean),22.5,%,SEM=2.2;group_letters=a;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Rhizobium,Ethiopia rural,population,40,SEM,2.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Rhizobium,Ethiopia urban,population,34,relative abundance (mean),1.3,%,SEM=0.3;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Rhizobium,Ethiopia urban,population,34,SEM,0.3,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Rhizobium,Gambia rural,population,39,relative abundance (mean),1.5,%,SEM=0.3;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Rhizobium,Gambia rural,population,39,SEM,0.3,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Rhizobium,Gambia urban,population,38,relative abundance (mean),1.5,%,SEM=0.3;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Rhizobium,Gambia urban,population,38,SEM,0.3,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Rhizobium,Ghana,population,37,relative abundance (mean),1.2,%,SEM=0.2;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Rhizobium,Ghana,population,37,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Rhizobium,Kenya,population,42,relative abundance (mean),1.2,%,SEM=0.2;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Rhizobium,Kenya,population,42,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Rhizobium,Peru,population,43,relative abundance (mean),1.3,%,SEM=0.2;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Rhizobium,Peru,population,43,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Rhizobium,Spain,population,40,relative abundance (mean),1.4,%,SEM=0.3;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Rhizobium,Spain,population,40,SEM,0.3,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Rhizobium,Sweden,population,23,relative abundance (mean),1.2,%,SEM=0.3;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Rhizobium,Sweden,population,23,SEM,0.3,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Rhizobium,US California,population,19,relative abundance (mean),1.4,%,SEM=0.4;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Rhizobium,US California,population,19,SEM,0.4,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Rhizobium,US Washington,population,39,relative abundance (mean),1.4,%,SEM=0.3;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Rhizobium,US Washington,population,39,SEM,0.3,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Lactobacillus,Ethiopia rural,population,40,relative abundance (mean),7.0,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Lactobacillus,Ethiopia rural,population,40,SEM,1.3,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Lactobacillus,Ethiopia urban,population,34,relative abundance (mean),4.7,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Lactobacillus,Ethiopia urban,population,34,SEM,0.9,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Lactobacillus,Gambia rural,population,39,relative abundance (mean),4.3,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Lactobacillus,Gambia rural,population,39,SEM,0.8,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Lactobacillus,Gambia urban,population,38,relative abundance (mean),4.3,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Lactobacillus,Gambia urban,population,38,SEM,0.8,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Lactobacillus,Ghana,population,37,relative abundance (mean),8.3,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Lactobacillus,Ghana,population,37,SEM,1.5,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Lactobacillus,Kenya,population,42,relative abundance (mean),6.7,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Lactobacillus,Kenya,population,42,SEM,1.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Lactobacillus,Peru,population,43,relative abundance (mean),4.1,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Lactobacillus,Peru,population,43,SEM,0.8,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Lactobacillus,Spain,population,40,relative abundance (mean),4.1,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Lactobacillus,Spain,population,40,SEM,0.8,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Lactobacillus,Sweden,population,23,relative abundance (mean),4.3,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Lactobacillus,Sweden,population,23,SEM,1.0,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Lactobacillus,US California,population,19,relative abundance (mean),3.7,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Lactobacillus,US California,population,19,SEM,0.9,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Lactobacillus,US Washington,population,39,relative abundance (mean),3.8,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Lactobacillus,US Washington,population,39,SEM,0.7,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Dyella,Ethiopia rural,population,40,relative abundance (mean),0.9,%,SEM=0.2;group_letters=d;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Dyella,Ethiopia rural,population,40,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Dyella,Ethiopia urban,population,34,relative abundance (mean),1.8,%,SEM=0.3;group_letters=bcd;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Dyella,Ethiopia urban,population,34,SEM,0.3,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Dyella,Gambia rural,population,39,relative abundance (mean),3.6,%,SEM=0.6;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Dyella,Gambia rural,population,39,SEM,0.6,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Dyella,Gambia urban,population,38,relative abundance (mean),3.6,%,SEM=0.6;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Dyella,Gambia urban,population,38,SEM,0.6,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Dyella,Ghana,population,37,relative abundance (mean),1.2,%,SEM=0.2;group_letters=d;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Dyella,Ghana,population,37,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Dyella,Kenya,population,42,relative abundance (mean),2.9,%,SEM=0.5;group_letters=bc;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Dyella,Kenya,population,42,SEM,0.5,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Dyella,Peru,population,43,relative abundance (mean),2.7,%,SEM=0.4;group_letters=bc;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Dyella,Peru,population,43,SEM,0.4,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Dyella,Spain,population,40,relative abundance (mean),2.6,%,SEM=0.4;group_letters=bc;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Dyella,Spain,population,40,SEM,0.4,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Dyella,Sweden,population,23,relative abundance (mean),2.0,%,SEM=0.4;group_letters=bcd;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Dyella,Sweden,population,23,SEM,0.4,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Dyella,US California,population,19,relative abundance (mean),1.3,%,SEM=0.3;group_letters=cd;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Dyella,US California,population,19,SEM,0.3,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Dyella,US Washington,population,39,relative abundance (mean),6.4,%,SEM=0.9;group_letters=a;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Dyella,US Washington,population,39,SEM,0.9,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Rothia,Ethiopia rural,population,40,relative abundance (mean),1.7,%,SEM=0.3;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Rothia,Ethiopia rural,population,40,SEM,0.3,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Rothia,Ethiopia urban,population,34,relative abundance (mean),3.0,%,SEM=0.6;group_letters=a;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Rothia,Ethiopia urban,population,34,SEM,0.6,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Rothia,Gambia rural,population,39,relative abundance (mean),3.5,%,SEM=0.6;group_letters=a;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Rothia,Gambia rural,population,39,SEM,0.6,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Rothia,Gambia urban,population,38,relative abundance (mean),3.1,%,SEM=0.6;group_letters=a;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Rothia,Gambia urban,population,38,SEM,0.6,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Rothia,Ghana,population,37,relative abundance (mean),1.3,%,SEM=0.3;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Rothia,Ghana,population,37,SEM,0.3,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Rothia,Kenya,population,42,relative abundance (mean),2.4,%,SEM=0.4;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Rothia,Kenya,population,42,SEM,0.4,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Rothia,Peru,population,43,relative abundance (mean),3.3,%,SEM=0.6;group_letters=a;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Rothia,Peru,population,43,SEM,0.6,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Rothia,Spain,population,40,relative abundance (mean),3.1,%,SEM=0.5;group_letters=a;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Rothia,Spain,population,40,SEM,0.5,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Rothia,Sweden,population,23,relative abundance (mean),2.0,%,SEM=0.5;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Rothia,Sweden,population,23,SEM,0.5,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Rothia,US California,population,19,relative abundance (mean),2.1,%,SEM=0.5;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Rothia,US California,population,19,SEM,0.5,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Rothia,US Washington,population,39,relative abundance (mean),2.9,%,SEM=0.5;group_letters=a;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Rothia,US Washington,population,39,SEM,0.5,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Kocuria,Ethiopia rural,population,40,relative abundance (mean),4.4,%,SEM=0.7;group_letters=a;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Kocuria,Ethiopia rural,population,40,SEM,0.7,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Kocuria,Ethiopia urban,population,34,relative abundance (mean),3.3,%,SEM=0.6;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Kocuria,Ethiopia urban,population,34,SEM,0.6,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Kocuria,Gambia rural,population,39,relative abundance (mean),1.6,%,SEM=0.3;group_letters=bc;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Kocuria,Gambia rural,population,39,SEM,0.3,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Kocuria,Gambia urban,population,38,relative abundance (mean),2.3,%,SEM=0.4;group_letters=abc;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Kocuria,Gambia urban,population,38,SEM,0.4,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Kocuria,Ghana,population,37,relative abundance (mean),1.1,%,SEM=0.2;group_letters=c;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Kocuria,Ghana,population,37,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Kocuria,Kenya,population,42,relative abundance (mean),2.2,%,SEM=0.4;group_letters=abc;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Kocuria,Kenya,population,42,SEM,0.4,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Kocuria,Peru,population,43,relative abundance (mean),1.2,%,SEM=0.2;group_letters=c;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Kocuria,Peru,population,43,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Kocuria,Spain,population,40,relative abundance (mean),1.2,%,SEM=0.2;group_letters=c;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Kocuria,Spain,population,40,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Kocuria,Sweden,population,23,relative abundance (mean),1.1,%,SEM=0.3;group_letters=c;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Kocuria,Sweden,population,23,SEM,0.3,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Kocuria,US California,population,19,relative abundance (mean),1.0,%,SEM=0.3;group_letters=c;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Kocuria,US California,population,19,SEM,0.3,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Kocuria,US Washington,population,39,relative abundance (mean),1.1,%,SEM=0.2;group_letters=c;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Kocuria,US Washington,population,39,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Veillonella,Ethiopia rural,population,40,relative abundance (mean),2.0,%,SEM=0.4;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Veillonella,Ethiopia rural,population,40,SEM,0.4,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Veillonella,Ethiopia urban,population,34,relative abundance (mean),1.2,%,SEM=0.2;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Veillonella,Ethiopia urban,population,34,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Veillonella,Gambia rural,population,39,relative abundance (mean),1.1,%,SEM=0.2;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Veillonella,Gambia rural,population,39,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Veillonella,Gambia urban,population,38,relative abundance (mean),1.1,%,SEM=0.2;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Veillonella,Gambia urban,population,38,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Veillonella,Ghana,population,37,relative abundance (mean),1.3,%,SEM=0.2;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Veillonella,Ghana,population,37,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Veillonella,Kenya,population,42,relative abundance (mean),1.6,%,SEM=0.3;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Veillonella,Kenya,population,42,SEM,0.3,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Veillonella,Peru,population,43,relative abundance (mean),2.8,%,SEM=0.5;group_letters=a;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Veillonella,Peru,population,43,SEM,0.5,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Veillonella,Spain,population,40,relative abundance (mean),1.4,%,SEM=0.3;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Veillonella,Spain,population,40,SEM,0.3,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Veillonella,Sweden,population,23,relative abundance (mean),1.7,%,SEM=0.4;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Veillonella,Sweden,population,23,SEM,0.4,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Veillonella,US California,population,19,relative abundance (mean),1.8,%,SEM=0.4;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Veillonella,US California,population,19,SEM,0.4,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Veillonella,US Washington,population,39,relative abundance (mean),1.3,%,SEM=0.2;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Veillonella,US Washington,population,39,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Bifidobacterium,Ethiopia rural,population,40,relative abundance (mean),2.5,%,SEM=0.4;group_letters=a;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Bifidobacterium,Ethiopia rural,population,40,SEM,0.4,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Bifidobacterium,Ethiopia urban,population,34,relative abundance (mean),2.4,%,SEM=0.4;group_letters=ac;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Bifidobacterium,Ethiopia urban,population,34,SEM,0.4,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Bifidobacterium,Gambia rural,population,39,relative abundance (mean),1.6,%,SEM=0.3;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Bifidobacterium,Gambia rural,population,39,SEM,0.3,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Bifidobacterium,Gambia urban,population,38,relative abundance (mean),1.3,%,SEM=0.2;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Bifidobacterium,Gambia urban,population,38,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Bifidobacterium,Ghana,population,37,relative abundance (mean),1.4,%,SEM=0.3;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Bifidobacterium,Ghana,population,37,SEM,0.3,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Bifidobacterium,Kenya,population,42,relative abundance (mean),1.3,%,SEM=0.2;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Bifidobacterium,Kenya,population,42,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Bifidobacterium,Peru,population,43,relative abundance (mean),1.0,%,SEM=0.2;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Bifidobacterium,Peru,population,43,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Bifidobacterium,Spain,population,40,relative abundance (mean),1.0,%,SEM=0.2;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Bifidobacterium,Spain,population,40,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Bifidobacterium,Sweden,population,23,relative abundance (mean),1.0,%,SEM=0.2;group_letters=bc;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Bifidobacterium,Sweden,population,23,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Bifidobacterium,US California,population,19,relative abundance (mean),0.8,%,SEM=0.2;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Bifidobacterium,US California,population,19,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Bifidobacterium,US Washington,population,39,relative abundance (mean),0.9,%,SEM=0.2;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Bifidobacterium,US Washington,population,39,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Acinetobacter,Ethiopia rural,population,40,relative abundance (mean),3.3,%,SEM=0.6;group_letters=ac;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Acinetobacter,Ethiopia rural,population,40,SEM,0.6,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Acinetobacter,Ethiopia urban,population,34,relative abundance (mean),1.7,%,SEM=0.3;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Acinetobacter,Ethiopia urban,population,34,SEM,0.3,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Acinetobacter,Gambia rural,population,39,relative abundance (mean),1.6,%,SEM=0.3;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Acinetobacter,Gambia rural,population,39,SEM,0.3,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Acinetobacter,Gambia urban,population,38,relative abundance (mean),1.5,%,SEM=0.3;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Acinetobacter,Gambia urban,population,38,SEM,0.3,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Acinetobacter,Ghana,population,37,relative abundance (mean),1.0,%,SEM=0.2;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Acinetobacter,Ghana,population,37,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Acinetobacter,Kenya,population,42,relative abundance (mean),2.0,%,SEM=0.4;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Acinetobacter,Kenya,population,42,SEM,0.4,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Acinetobacter,Peru,population,43,relative abundance (mean),1.4,%,SEM=0.3;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Acinetobacter,Peru,population,43,SEM,0.3,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Acinetobacter,Spain,population,40,relative abundance (mean),1.6,%,SEM=0.3;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Acinetobacter,Spain,population,40,SEM,0.3,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Acinetobacter,Sweden,population,23,relative abundance (mean),1.2,%,SEM=0.3;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Acinetobacter,Sweden,population,23,SEM,0.3,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Acinetobacter,US California,population,19,relative abundance (mean),1.3,%,SEM=0.3;group_letters=bc;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Acinetobacter,US California,population,19,SEM,0.3,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Acinetobacter,US Washington,population,39,relative abundance (mean),1.2,%,SEM=0.2;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Acinetobacter,US Washington,population,39,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Klebsiella,Ethiopia rural,population,40,relative abundance (mean),2.2,%,SEM=0.4;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Klebsiella,Ethiopia rural,population,40,SEM,0.4,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Klebsiella,Ethiopia urban,population,34,relative abundance (mean),2.1,%,SEM=0.5;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Klebsiella,Ethiopia urban,population,34,SEM,0.5,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Klebsiella,Gambia rural,population,39,relative abundance (mean),2.1,%,SEM=0.4;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Klebsiella,Gambia rural,population,39,SEM,0.4,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Klebsiella,Gambia urban,population,38,relative abundance (mean),2.2,%,SEM=0.4;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Klebsiella,Gambia urban,population,38,SEM,0.4,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Klebsiella,Ghana,population,37,relative abundance (mean),7.0,%,SEM=1.3;group_letters=a;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Klebsiella,Ghana,population,37,SEM,1.3,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Klebsiella,Kenya,population,42,relative abundance (mean),2.3,%,SEM=0.5;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Klebsiella,Kenya,population,42,SEM,0.5,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Klebsiella,Peru,population,43,relative abundance (mean),2.1,%,SEM=0.4;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Klebsiella,Peru,population,43,SEM,0.4,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Klebsiella,Spain,population,40,relative abundance (mean),2.1,%,SEM=0.4;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Klebsiella,Spain,population,40,SEM,0.4,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Klebsiella,Sweden,population,23,relative abundance (mean),2.2,%,SEM=0.5;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Klebsiella,Sweden,population,23,SEM,0.5,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Klebsiella,US California,population,19,relative abundance (mean),2.3,%,SEM=0.6;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Klebsiella,US California,population,19,SEM,0.6,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Klebsiella,US Washington,population,39,relative abundance (mean),2.2,%,SEM=0.5;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Klebsiella,US Washington,population,39,SEM,0.5,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Gemella,Ethiopia rural,population,40,relative abundance (mean),1.5,%,SEM=0.3;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Gemella,Ethiopia rural,population,40,SEM,0.3,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Gemella,Ethiopia urban,population,34,relative abundance (mean),1.4,%,SEM=0.3;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Gemella,Ethiopia urban,population,34,SEM,0.3,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Gemella,Gambia rural,population,39,relative abundance (mean),1.4,%,SEM=0.3;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Gemella,Gambia rural,population,39,SEM,0.3,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Gemella,Gambia urban,population,38,relative abundance (mean),1.4,%,SEM=0.3;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Gemella,Gambia urban,population,38,SEM,0.3,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Gemella,Ghana,population,37,relative abundance (mean),1.1,%,SEM=0.2;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Gemella,Ghana,population,37,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Gemella,Kenya,population,42,relative abundance (mean),1.6,%,SEM=0.3;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Gemella,Kenya,population,42,SEM,0.3,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Gemella,Peru,population,43,relative abundance (mean),2.8,%,SEM=0.5;group_letters=a;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Gemella,Peru,population,43,SEM,0.5,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Gemella,Spain,population,40,relative abundance (mean),2.0,%,SEM=0.4;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Gemella,Spain,population,40,SEM,0.4,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Gemella,Sweden,population,23,relative abundance (mean),2.9,%,SEM=0.7;group_letters=a;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Gemella,Sweden,population,23,SEM,0.7,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Gemella,US California,population,19,relative abundance (mean),1.7,%,SEM=0.4;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Gemella,US California,population,19,SEM,0.4,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Gemella,US Washington,population,39,relative abundance (mean),1.6,%,SEM=0.3;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Gemella,US Washington,population,39,SEM,0.3,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Achromobacter,Ethiopia rural,population,40,relative abundance (mean),8.1,%,SEM=0.7;group_letters=a;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Achromobacter,Ethiopia rural,population,40,SEM,0.7,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Achromobacter,Ethiopia urban,population,34,relative abundance (mean),0.3,%,SEM=0.1;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Achromobacter,Ethiopia urban,population,34,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Achromobacter,Gambia rural,population,39,relative abundance (mean),0.3,%,SEM=0.1;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Achromobacter,Gambia rural,population,39,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Achromobacter,Gambia urban,population,38,relative abundance (mean),0.3,%,SEM=0.1;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Achromobacter,Gambia urban,population,38,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Achromobacter,Ghana,population,37,relative abundance (mean),0.3,%,SEM=0.1;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Achromobacter,Ghana,population,37,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Achromobacter,Kenya,population,42,relative abundance (mean),0.3,%,SEM=0.1;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Achromobacter,Kenya,population,42,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Achromobacter,Peru,population,43,relative abundance (mean),0.3,%,SEM=0.1;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Achromobacter,Peru,population,43,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Achromobacter,Spain,population,40,relative abundance (mean),0.3,%,SEM=0.1;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Achromobacter,Spain,population,40,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Achromobacter,Sweden,population,23,relative abundance (mean),0.3,%,SEM=0.1;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Achromobacter,Sweden,population,23,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Achromobacter,US California,population,19,relative abundance (mean),0.3,%,SEM=0.1;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Achromobacter,US California,population,19,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Achromobacter,US Washington,population,39,relative abundance (mean),0.3,%,SEM=0.1;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Achromobacter,US Washington,population,39,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Escherichia/Shigella,Ethiopia rural,population,40,relative abundance (mean),1.2,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Escherichia/Shigella,Ethiopia rural,population,40,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Escherichia/Shigella,Ethiopia urban,population,34,relative abundance (mean),0.9,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Escherichia/Shigella,Ethiopia urban,population,34,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Escherichia/Shigella,Gambia rural,population,39,relative abundance (mean),0.9,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Escherichia/Shigella,Gambia rural,population,39,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Escherichia/Shigella,Gambia urban,population,38,relative abundance (mean),0.9,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Escherichia/Shigella,Gambia urban,population,38,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Escherichia/Shigella,Ghana,population,37,relative abundance (mean),1.8,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Escherichia/Shigella,Ghana,population,37,SEM,0.4,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Escherichia/Shigella,Kenya,population,42,relative abundance (mean),1.0,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Escherichia/Shigella,Kenya,population,42,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Escherichia/Shigella,Peru,population,43,relative abundance (mean),0.9,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Escherichia/Shigella,Peru,population,43,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Escherichia/Shigella,Spain,population,40,relative abundance (mean),1.0,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Escherichia/Shigella,Spain,population,40,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Escherichia/Shigella,Sweden,population,23,relative abundance (mean),1.0,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Escherichia/Shigella,Sweden,population,23,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Escherichia/Shigella,US California,population,19,relative abundance (mean),1.3,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Escherichia/Shigella,US California,population,19,SEM,0.3,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Escherichia/Shigella,US Washington,population,39,relative abundance (mean),1.0,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Escherichia/Shigella,US Washington,population,39,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Bacillus,Ethiopia rural,population,40,relative abundance (mean),0.9,%,SEM=0.2;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Bacillus,Ethiopia rural,population,40,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Bacillus,Ethiopia urban,population,34,relative abundance (mean),1.2,%,SEM=0.2;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Bacillus,Ethiopia urban,population,34,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Bacillus,Gambia rural,population,39,relative abundance (mean),2.4,%,SEM=0.4;group_letters=a;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Bacillus,Gambia rural,population,39,SEM,0.4,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Bacillus,Gambia urban,population,38,relative abundance (mean),1.5,%,SEM=0.3;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Bacillus,Gambia urban,population,38,SEM,0.3,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Bacillus,Ghana,population,37,relative abundance (mean),0.8,%,SEM=0.2;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Bacillus,Ghana,population,37,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Bacillus,Kenya,population,42,relative abundance (mean),1.0,%,SEM=0.2;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Bacillus,Kenya,population,42,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Bacillus,Peru,population,43,relative abundance (mean),0.8,%,SEM=0.2;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Bacillus,Peru,population,43,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Bacillus,Spain,population,40,relative abundance (mean),0.8,%,SEM=0.2;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Bacillus,Spain,population,40,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Bacillus,Sweden,population,23,relative abundance (mean),0.9,%,SEM=0.2;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Bacillus,Sweden,population,23,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Bacillus,US California,population,19,relative abundance (mean),0.8,%,SEM=0.2;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Bacillus,US California,population,19,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Bacillus,US Washington,population,39,relative abundance (mean),0.8,%,SEM=0.2;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Bacillus,US Washington,population,39,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Stenotrophomonas,Ethiopia rural,population,40,relative abundance (mean),0.9,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Stenotrophomonas,Ethiopia rural,population,40,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Stenotrophomonas,Ethiopia urban,population,34,relative abundance (mean),0.6,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Stenotrophomonas,Ethiopia urban,population,34,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Stenotrophomonas,Gambia rural,population,39,relative abundance (mean),0.7,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Stenotrophomonas,Gambia rural,population,39,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Stenotrophomonas,Gambia urban,population,38,relative abundance (mean),0.8,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Stenotrophomonas,Gambia urban,population,38,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Stenotrophomonas,Ghana,population,37,relative abundance (mean),0.6,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Stenotrophomonas,Ghana,population,37,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Stenotrophomonas,Kenya,population,42,relative abundance (mean),0.6,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Stenotrophomonas,Kenya,population,42,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Stenotrophomonas,Peru,population,43,relative abundance (mean),0.7,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Stenotrophomonas,Peru,population,43,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Stenotrophomonas,Spain,population,40,relative abundance (mean),0.9,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Stenotrophomonas,Spain,population,40,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Stenotrophomonas,Sweden,population,23,relative abundance (mean),0.7,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Stenotrophomonas,Sweden,population,23,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Stenotrophomonas,US California,population,19,relative abundance (mean),0.8,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Stenotrophomonas,US California,population,19,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Stenotrophomonas,US Washington,population,39,relative abundance (mean),1.1,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Stenotrophomonas,US Washington,population,39,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Enterococcus,Ethiopia rural,population,40,relative abundance (mean),1.1,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Enterococcus,Ethiopia rural,population,40,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Enterococcus,Ethiopia urban,population,34,relative abundance (mean),0.8,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Enterococcus,Ethiopia urban,population,34,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Enterococcus,Gambia rural,population,39,relative abundance (mean),0.8,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Enterococcus,Gambia rural,population,39,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Enterococcus,Gambia urban,population,38,relative abundance (mean),0.9,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Enterococcus,Gambia urban,population,38,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Enterococcus,Ghana,population,37,relative abundance (mean),1.7,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Enterococcus,Ghana,population,37,SEM,0.3,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Enterococcus,Kenya,population,42,relative abundance (mean),0.8,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Enterococcus,Kenya,population,42,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Enterococcus,Peru,population,43,relative abundance (mean),0.8,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Enterococcus,Peru,population,43,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Enterococcus,Spain,population,40,relative abundance (mean),0.9,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Enterococcus,Spain,population,40,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Enterococcus,Sweden,population,23,relative abundance (mean),0.9,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Enterococcus,Sweden,population,23,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Enterococcus,US California,population,19,relative abundance (mean),0.8,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Enterococcus,US California,population,19,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Enterococcus,US Washington,population,39,relative abundance (mean),0.9,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Enterococcus,US Washington,population,39,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Janthinobacterium,Ethiopia rural,population,40,relative abundance (mean),0.3,%,SEM=0.1;group_letters=c;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Janthinobacterium,Ethiopia rural,population,40,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Janthinobacterium,Ethiopia urban,population,34,relative abundance (mean),0.5,%,SEM=0.1;group_letters=bc;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Janthinobacterium,Ethiopia urban,population,34,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Janthinobacterium,Gambia rural,population,39,relative abundance (mean),0.6,%,SEM=0.1;group_letters=abc;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Janthinobacterium,Gambia rural,population,39,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Janthinobacterium,Gambia urban,population,38,relative abundance (mean),0.8,%,SEM=0.1;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Janthinobacterium,Gambia urban,population,38,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Janthinobacterium,Ghana,population,37,relative abundance (mean),0.4,%,SEM=0.1;group_letters=bc;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Janthinobacterium,Ghana,population,37,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Janthinobacterium,Kenya,population,42,relative abundance (mean),0.6,%,SEM=0.1;group_letters=abc;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Janthinobacterium,Kenya,population,42,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Janthinobacterium,Peru,population,43,relative abundance (mean),0.5,%,SEM=0.1;group_letters=bc;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Janthinobacterium,Peru,population,43,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Janthinobacterium,Spain,population,40,relative abundance (mean),0.6,%,SEM=0.1;group_letters=abc;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Janthinobacterium,Spain,population,40,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Janthinobacterium,Sweden,population,23,relative abundance (mean),0.7,%,SEM=0.1;group_letters=abc;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Janthinobacterium,Sweden,population,23,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Janthinobacterium,US California,population,19,relative abundance (mean),0.5,%,SEM=0.1;group_letters=abcd;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Janthinobacterium,US California,population,19,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Janthinobacterium,US Washington,population,39,relative abundance (mean),1.1,%,SEM=0.2;group_letters=ad;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Janthinobacterium,US Washington,population,39,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Anaerococcus,Ethiopia rural,population,40,relative abundance (mean),1.1,%,SEM=0.2;group_letters=a;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Anaerococcus,Ethiopia rural,population,40,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Anaerococcus,Ethiopia urban,population,34,relative abundance (mean),0.7,%,SEM=0.1;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Anaerococcus,Ethiopia urban,population,34,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Anaerococcus,Gambia rural,population,39,relative abundance (mean),0.5,%,SEM=0.1;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Anaerococcus,Gambia rural,population,39,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Anaerococcus,Gambia urban,population,38,relative abundance (mean),0.5,%,SEM=0.1;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Anaerococcus,Gambia urban,population,38,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Anaerococcus,Ghana,population,37,relative abundance (mean),0.4,%,SEM=0.1;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Anaerococcus,Ghana,population,37,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Anaerococcus,Kenya,population,42,relative abundance (mean),0.6,%,SEM=0.1;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Anaerococcus,Kenya,population,42,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Anaerococcus,Peru,population,43,relative abundance (mean),0.6,%,SEM=0.1;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Anaerococcus,Peru,population,43,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Anaerococcus,Spain,population,40,relative abundance (mean),0.4,%,SEM=0.1;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Anaerococcus,Spain,population,40,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Anaerococcus,Sweden,population,23,relative abundance (mean),0.5,%,SEM=0.1;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Anaerococcus,Sweden,population,23,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Anaerococcus,US California,population,19,relative abundance (mean),0.4,%,SEM=0.1;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Anaerococcus,US California,population,19,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Anaerococcus,US Washington,population,39,relative abundance (mean),0.4,%,SEM=0.1;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Anaerococcus,US Washington,population,39,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Acidocella,Ethiopia rural,population,40,relative abundance (mean),0.2,%,SEM=0;group_letters=d;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Acidocella,Ethiopia rural,population,40,SEM,0,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Acidocella,Ethiopia urban,population,34,relative abundance (mean),0.3,%,SEM=0.1;group_letters=bcd;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Acidocella,Ethiopia urban,population,34,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Acidocella,Gambia rural,population,39,relative abundance (mean),0.6,%,SEM=0.1;group_letters=abc;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Acidocella,Gambia rural,population,39,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Acidocella,Gambia urban,population,38,relative abundance (mean),0.4,%,SEM=0.1;group_letters=bcd;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Acidocella,Gambia urban,population,38,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Acidocella,Ghana,population,37,relative abundance (mean),0.3,%,SEM=0.1;group_letters=cd;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Acidocella,Ghana,population,37,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Acidocella,Kenya,population,42,relative abundance (mean),0.5,%,SEM=0.1;group_letters=abcd;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Acidocella,Kenya,population,42,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Acidocella,Peru,population,43,relative abundance (mean),0.4,%,SEM=0.1;group_letters=bcd;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Acidocella,Peru,population,43,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Acidocella,Spain,population,40,relative abundance (mean),0.5,%,SEM=0.1;group_letters=abcd;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Acidocella,Spain,population,40,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Acidocella,Sweden,population,23,relative abundance (mean),0.7,%,SEM=0.2;group_letters=ab;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Acidocella,Sweden,population,23,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Acidocella,US California,population,19,relative abundance (mean),0.3,%,SEM=0.1;group_letters=cd;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Acidocella,US California,population,19,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Acidocella,US Washington,population,39,relative abundance (mean),1.0,%,SEM=0.2;group_letters=a;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Acidocella,US Washington,population,39,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Enterobacter,Ethiopia rural,population,40,relative abundance (mean),0.4,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Enterobacter,Ethiopia rural,population,40,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Enterobacter,Ethiopia urban,population,34,relative abundance (mean),0.4,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Enterobacter,Ethiopia urban,population,34,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Enterobacter,Gambia rural,population,39,relative abundance (mean),0.4,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Enterobacter,Gambia rural,population,39,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Enterobacter,Gambia urban,population,38,relative abundance (mean),0.4,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Enterobacter,Gambia urban,population,38,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Enterobacter,Ghana,population,37,relative abundance (mean),0.4,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Enterobacter,Ghana,population,37,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Enterobacter,Kenya,population,42,relative abundance (mean),0.5,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Enterobacter,Kenya,population,42,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Enterobacter,Peru,population,43,relative abundance (mean),0.4,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Enterobacter,Peru,population,43,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Enterobacter,Spain,population,40,relative abundance (mean),0.5,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Enterobacter,Spain,population,40,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Enterobacter,Sweden,population,23,relative abundance (mean),0.4,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Enterobacter,Sweden,population,23,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Enterobacter,US California,population,19,relative abundance (mean),0.5,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Enterobacter,US California,population,19,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Enterobacter,US Washington,population,39,relative abundance (mean),0.6,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Enterobacter,US Washington,population,39,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Bacteroides,Ethiopia rural,population,40,relative abundance (mean),0.3,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Bacteroides,Ethiopia rural,population,40,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Bacteroides,Ethiopia urban,population,34,relative abundance (mean),0.3,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Bacteroides,Ethiopia urban,population,34,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Bacteroides,Gambia rural,population,39,relative abundance (mean),0.3,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Bacteroides,Gambia rural,population,39,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Bacteroides,Gambia urban,population,38,relative abundance (mean),0.3,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Bacteroides,Gambia urban,population,38,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Bacteroides,Ghana,population,37,relative abundance (mean),0.6,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Bacteroides,Ghana,population,37,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Bacteroides,Kenya,population,42,relative abundance (mean),0.4,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Bacteroides,Kenya,population,42,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Bacteroides,Peru,population,43,relative abundance (mean),0.3,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Bacteroides,Peru,population,43,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Bacteroides,Spain,population,40,relative abundance (mean),0.3,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Bacteroides,Spain,population,40,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Bacteroides,Sweden,population,23,relative abundance (mean),0.4,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Bacteroides,Sweden,population,23,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Bacteroides,US California,population,19,relative abundance (mean),0.3,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Bacteroides,US California,population,19,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Bacteroides,US Washington,population,39,relative abundance (mean),0.3,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Bacteroides,US Washington,population,39,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Pseudomonas,Ethiopia rural,population,40,relative abundance (mean),0.3,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Pseudomonas,Ethiopia rural,population,40,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Pseudomonas,Ethiopia urban,population,34,relative abundance (mean),0.3,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Pseudomonas,Ethiopia urban,population,34,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Pseudomonas,Gambia rural,population,39,relative abundance (mean),0.3,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Pseudomonas,Gambia rural,population,39,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Pseudomonas,Gambia urban,population,38,relative abundance (mean),0.3,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Pseudomonas,Gambia urban,population,38,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Pseudomonas,Ghana,population,37,relative abundance (mean),0.2,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Pseudomonas,Ghana,population,37,SEM,0,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Pseudomonas,Kenya,population,42,relative abundance (mean),0.3,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Pseudomonas,Kenya,population,42,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Pseudomonas,Peru,population,43,relative abundance (mean),0.4,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Pseudomonas,Peru,population,43,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Pseudomonas,Spain,population,40,relative abundance (mean),0.3,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Pseudomonas,Spain,population,40,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Pseudomonas,Sweden,population,23,relative abundance (mean),0.3,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Pseudomonas,Sweden,population,23,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Pseudomonas,US California,population,19,relative abundance (mean),0.4,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Pseudomonas,US California,population,19,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Pseudomonas,US Washington,population,39,relative abundance (mean),0.4,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Pseudomonas,US Washington,population,39,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Chryseobacterium,Ethiopia rural,population,40,relative abundance (mean),0.5,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Chryseobacterium,Ethiopia rural,population,40,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Chryseobacterium,Ethiopia urban,population,34,relative abundance (mean),0.3,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Chryseobacterium,Ethiopia urban,population,34,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Chryseobacterium,Gambia rural,population,39,relative abundance (mean),0.3,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Chryseobacterium,Gambia rural,population,39,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Chryseobacterium,Gambia urban,population,38,relative abundance (mean),0.3,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Chryseobacterium,Gambia urban,population,38,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Chryseobacterium,Ghana,population,37,relative abundance (mean),0.3,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Chryseobacterium,Ghana,population,37,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Chryseobacterium,Kenya,population,42,relative abundance (mean),0.4,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Chryseobacterium,Kenya,population,42,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Chryseobacterium,Peru,population,43,relative abundance (mean),0.3,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Chryseobacterium,Peru,population,43,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Chryseobacterium,Spain,population,40,relative abundance (mean),0.3,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Chryseobacterium,Spain,population,40,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Chryseobacterium,Sweden,population,23,relative abundance (mean),0.3,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Chryseobacterium,Sweden,population,23,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Chryseobacterium,US California,population,19,relative abundance (mean),0.3,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Chryseobacterium,US California,population,19,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Chryseobacterium,US Washington,population,39,relative abundance (mean),0.3,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Chryseobacterium,US Washington,population,39,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Tatumella,Ethiopia rural,population,40,relative abundance (mean),0.7,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Tatumella,Ethiopia rural,population,40,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Tatumella,Ethiopia urban,population,34,relative abundance (mean),0.7,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Tatumella,Ethiopia urban,population,34,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Tatumella,Gambia rural,population,39,relative abundance (mean),0.7,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Tatumella,Gambia rural,population,39,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Tatumella,Gambia urban,population,38,relative abundance (mean),0.7,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Tatumella,Gambia urban,population,38,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Tatumella,Ghana,population,37,relative abundance (mean),0.8,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Tatumella,Ghana,population,37,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Tatumella,Kenya,population,42,relative abundance (mean),0.7,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Tatumella,Kenya,population,42,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Tatumella,Peru,population,43,relative abundance (mean),0.8,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Tatumella,Peru,population,43,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Tatumella,Spain,population,40,relative abundance (mean),0.7,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Tatumella,Spain,population,40,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Tatumella,Sweden,population,23,relative abundance (mean),0.7,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Tatumella,Sweden,population,23,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Tatumella,US California,population,19,relative abundance (mean),0.7,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Tatumella,US California,population,19,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Tatumella,US Washington,population,39,relative abundance (mean),0.7,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Tatumella,US Washington,population,39,SEM,0.2,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Psychrobacter,Ethiopia rural,population,40,relative abundance (mean),0.8,%,SEM=0.1;group_letters=a;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Psychrobacter,Ethiopia rural,population,40,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Psychrobacter,Ethiopia urban,population,34,relative abundance (mean),0.2,%,SEM=0.0;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Psychrobacter,Ethiopia urban,population,34,SEM,0.0,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Psychrobacter,Gambia rural,population,39,relative abundance (mean),0.2,%,SEM=0.0;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Psychrobacter,Gambia rural,population,39,SEM,0.0,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Psychrobacter,Gambia urban,population,38,relative abundance (mean),0.2,%,SEM=0.0;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Psychrobacter,Gambia urban,population,38,SEM,0.0,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Psychrobacter,Ghana,population,37,relative abundance (mean),0.2,%,SEM=0.0;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Psychrobacter,Ghana,population,37,SEM,0.0,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Psychrobacter,Kenya,population,42,relative abundance (mean),0.2,%,SEM=0.0;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Psychrobacter,Kenya,population,42,SEM,0.0,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Psychrobacter,Peru,population,43,relative abundance (mean),0.2,%,SEM=0.0;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Psychrobacter,Peru,population,43,SEM,0.0,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Psychrobacter,Spain,population,40,relative abundance (mean),0.2,%,SEM=0.0;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Psychrobacter,Spain,population,40,SEM,0.0,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Psychrobacter,Sweden,population,23,relative abundance (mean),0.2,%,SEM=0.0;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Psychrobacter,Sweden,population,23,SEM,0.0,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Psychrobacter,US California,population,19,relative abundance (mean),0.2,%,SEM=0.1;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Psychrobacter,US California,population,19,SEM,0.1,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Psychrobacter,US Washington,population,39,relative abundance (mean),0.2,%,SEM=0.0;group_letters=b;model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Psychrobacter,US Washington,population,39,SEM,0.0,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Clostridium sensu stricto 18,Ethiopia rural,population,40,relative abundance (mean),0.1,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Clostridium sensu stricto 18,Ethiopia rural,population,40,SEM,0.0,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Clostridium sensu stricto 18,Ethiopia urban,population,34,relative abundance (mean),0.1,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Clostridium sensu stricto 18,Ethiopia urban,population,34,SEM,0.0,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Clostridium sensu stricto 18,Gambia rural,population,39,relative abundance (mean),0.1,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Clostridium sensu stricto 18,Gambia rural,population,39,SEM,0.0,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Clostridium sensu stricto 18,Gambia urban,population,38,relative abundance (mean),0.2,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Clostridium sensu stricto 18,Gambia urban,population,38,SEM,0.0,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Clostridium sensu stricto 18,Ghana,population,37,relative abundance (mean),0.2,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Clostridium sensu stricto 18,Ghana,population,37,SEM,0.0,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Clostridium sensu stricto 18,Kenya,population,42,relative abundance (mean),0.1,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Clostridium sensu stricto 18,Kenya,population,42,SEM,0.0,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Clostridium sensu stricto 18,Peru,population,43,relative abundance (mean),0.1,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Clostridium sensu stricto 18,Peru,population,43,SEM,0.0,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Clostridium sensu stricto 18,Spain,population,40,relative abundance (mean),0.1,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Clostridium sensu stricto 18,Spain,population,40,SEM,0.0,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Clostridium sensu stricto 18,Sweden,population,23,relative abundance (mean),0.1,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Clostridium sensu stricto 18,Sweden,population,23,SEM,0.0,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Clostridium sensu stricto 18,US California,population,19,relative abundance (mean),0.1,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Clostridium sensu stricto 18,US California,population,19,SEM,0.0,%,relative abundance model estimate
+lackey2019,Table 5,15,milk microbiome,Clostridium sensu stricto 18,US Washington,population,39,relative abundance (mean),0.2,%,model estimate (beta distribution)
+lackey2019,Table 5,15,milk microbiome,Clostridium sensu stricto 18,US Washington,population,39,SEM,0.0,%,relative abundance model estimate
